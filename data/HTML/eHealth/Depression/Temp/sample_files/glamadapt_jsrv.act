@@ -1,0 +1,160 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+
+
+ 
+   
+   
+   
+ 
+      
+   
+   
+      
+   
+   
+      
+   
+
+
+      
+   
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+   
+    
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+/* Generated on : Thu Aug 6 2015 10:23:21 PDT */
+
+
+/* ga_adb=ade;ga_srv=normal;;ga_plf=---- */
+
+
+function GlamAdaptSetInfo(gvar, gval) {
+ if ( ! window.glam_adapt_info ) {
+  window.glam_adapt_info = new Object();
+ }
+ window.glam_adapt_info[gvar]=gval;
+}
+function GlamAdaptGetInfo(gvar) {
+ if ( window.glam_adapt_info && window.glam_adapt_info[gvar]) {
+  return window.glam_adapt_info[gvar];
+ }
+ return null;
+}
+if ( ! window.GlamGetAffiliateInfo ) {
+ window.GlamGetAffiliateInfo = function(pName) {
+  var glam_info = new Object();
+  
+  var glam_affiliate_vars = 'js_mode=show;_ge_=8^2^37b50e4607971df9832a90560500eed9;ga_adb=ade;sid=221991111651547643722;browser=None;co=US;dma=584;;;afid=1635539362;zone=/;ga_adsrv=auto;afid=1635539362;sz=888x10;ord=3109236724653666.5;_g_cv=2;';
+  var vars = glam_affiliate_vars.split(";");
+  for (var i=0;i<vars.length;i++) {
+   var pair = vars[i].split("=");
+   if ( pair[1] ) { glam_info[pair[0]] = pair[1]; }
+  }
+  return ( glam_info[pName] ? glam_info[pName] : null);
+ }
+}
+GlamAdaptSetInfo('srv_ad_id', 0);
+
+GlamAdaptSetInfo('country_code', 'US');
+
+GlamAdaptSetInfo('dma', '584');
+
+GlamAdaptSetInfo('region_code', 'VA');
+
+GlamAdaptSetInfo('areacode', '804');
+
+GlamAdaptSetInfo('city', 'CHARLOTTESVILLE');
+
+GlamAdaptSetInfo('bw', '5000');
+
+
+/* srv_ad_id=0 / ase= */
+ 
+  
+  
+   
+
+/* Default ads for afid=1635539362 */
+
+function GlamShowCustomDefaultAd(pZone, pAdSize) {
+ var adSize_array = pAdSize.split(',');
+ var adSize = ( adSize_array[0] ? adSize_array[0] : '' );
+ var zone = ( pZone.indexOf('Marketplace') > -1 ? 'Marketplace' : 'Premium');
+ var adKey = zone + '_ownad' + adSize;
+
+ var defaultAds={"Premium_awga_320x50":["no"],"Premium_noad_320x50":["no"],"Premium_ownad_320x50":["<script type=\"text\/javascript\">\nif(typeof(cachebuster) == \"undefined\"){var cachebuster = Math.floor(Math.random()*10000000000)}\nif(typeof(dcopt) == \"undefined\"){var dcopt = \"dcopt=ist;\"} else {var dcopt = \"\"}\nif(typeof(tile) == \"undefined\"){var tile = 1} else {tile++}\ndocument.write('<scr'+'ipt src=\"http:\/\/ad.doubleclick.net\/N2922\/adj\/ehealthforum\/mobile;category=glambackfill;template=C;kw=bottom;dc_ref=ehealthforum.com;' + dcopt + ';tile=' + tile + ';sz=320x50;ord=' + cachebuster + '?\"><\/scr'+'ipt>');\n<\/script>\n<noscript><a href=\"http:\/\/ad.doubleclick.net\/N2922\/jump\/ehealthforum\/mobile;category=glambackfill;kw=bottom;dc_ref=ehealthforum.com;template=C;sz=320x50;ord=123456789?\" target=\"_blank\" ><img src=\"http:\/\/ad.doubleclick.net\/N2922\/ad\/ehealthforum\/mobile;category=glambackfill;kw=bottom;dc_ref=ehealthforum.com;template=C;sz=320x50;ord=123456789?\" border=\"0\" alt=\"\" \/><\/a><\/noscript>\n<!-- End ad tag -->"],"Premium_noad":["no"],"Premium_ownad300x250":["<script type=\"text\/javascript\">\nif(typeof(cachebuster) == \"undefined\"){var cachebuster = Math.floor(Math.random()*10000000000)}\nif(typeof(dcopt) == \"undefined\"){var dcopt = \"dcopt=ist;\"} else {var dcopt = \"\"}\nif(typeof(tile) == \"undefined\"){var tile = 1} else {tile++}\ndocument.write('<scr'+'ipt src=\"http:\/\/ad.doubleclick.net\/N2922\/adj\/eHealthForum\/glam;kw=top;category=glambackfill;dc_ref=ehealthforum.com;' + dcopt + ';tile=' + tile + ';sz=300x250;ord=' + cachebuster + '?\"><\/scr'+'ipt>');\n<\/script>\n<noscript><a href=\"http:\/\/ad.doubleclick.net\/N2922\/jump\/eHealthForum\/glam;kw=top;category=glambackfill;dc_ref=ehealthforum.com;sz=300x250;ord=123456789?\" target=\"_blank\" ><img src=\"http:\/\/ad.doubleclick.net\/N2922\/ad\/eHealthForum\/glam;kw=top;category=glambackfill;dc_ref=ehealthforum.com;sz=300x250;ord=123456789?\" border=\"0\" alt=\"\" \/><\/a><\/noscript>"],"Premium_ownad728x90":["<script type=\"text\/javascript\">\nif(typeof(cachebuster) == \"undefined\"){var cachebuster = Math.floor(Math.random()*10000000000)}\nif(typeof(dcopt) == \"undefined\"){var dcopt = \"dcopt=ist;\"} else {var dcopt = \"\"}\nif(typeof(tile) == \"undefined\"){var tile = 1} else {tile++}\ndocument.write('<scr'+'ipt src=\"http:\/\/ad.doubleclick.net\/N2922\/adj\/eHealthForum\/glam;category=glambackfill;dc_ref=ehealthforum.com;' + dcopt + ';tile=' + tile + ';sz=728x90;ord=' + cachebuster + '?\"><\/scr'+'ipt>');\n<\/script>\n<noscript><a href=\"http:\/\/ad.doubleclick.net\/N2922\/jump\/eHealthForum\/glam;category=glambackfill;dc_ref=ehealthforum.com;sz=728x90;ord=123456789?\" target=\"_blank\" ><img src=\"http:\/\/ad.doubleclick.net\/N2922\/ad\/eHealthForum\/glam;category=glambackfill;dc_ref=ehealthforum.com;sz=728x90;ord=123456789?\" border=\"0\" alt=\"\" \/><\/a><\/noscript>"],"Premium_ownad160x600":["<script type=\"text\/javascript\">\nif(typeof(cachebuster) == \"undefined\"){var cachebuster = Math.floor(Math.random()*10000000000)}\nif(typeof(dcopt) == \"undefined\"){var dcopt = \"dcopt=ist;\"} else {var dcopt = \"\"}\nif(typeof(tile) == \"undefined\"){var tile = 1} else {tile++}\ndocument.write('<scr'+'ipt src=\"http:\/\/ad.doubleclick.net\/N2922\/adj\/eHealthForum\/glam;category=glambackfill;dc_ref=ehealthforum.com;' + dcopt + ';tile=' + tile + ';sz=160x600;ord=' + cachebuster + '?\"><\/scr'+'ipt>');\n<\/script>\n<noscript><a href=\"http:\/\/ad.doubleclick.net\/N2922\/jump\/eHealthForum\/glam;category=glambackfill;dc_ref=ehealthforum.com;sz=160x600;ord=123456789?\" target=\"_blank\" ><img src=\"http:\/\/ad.doubleclick.net\/N2922\/ad\/eHealthForum\/glam;category=glambackfill;dc_ref=ehealthforum.com;sz=160x600;ord=123456789?\" border=\"0\" alt=\"\" \/><\/a><\/noscript>"],"Premium_awga":["no"],"Premium_psa":["no"]};
+
+ if ( defaultAds[zone + '_ownad_' + adSize] )
+  {
+    var adItem=Math.floor(Math.random()*defaultAds[zone + '_ownad_' + adSize].length);
+    document.write(defaultAds[zone + '_ownad_' + adSize][adItem]);
+  }
+
+
+ else if ( defaultAds[zone + '_ownad' + adSize] )
+  {
+    var adItem=Math.floor(Math.random()*defaultAds[zone + '_ownad' + adSize].length);
+    document.write(defaultAds[zone + '_ownad' + adSize][adItem]);
+  }
+}
+
+window.glam_affiliate_info={"ga_adb":null,"ga_api_tt":"i","ga_api_dt":"nopda","nopdasplit":null,"rs":null,"enable_int":null,"vpec":"bli","pec":"ms","home_url":"http:\/\/ehealthforum.com\/","country":"US","currency":"USD","network":"Glam","dart_tags":"nt=g;cc=us;ec=ron;p=0;p=1;!c=a;!c=nptr;!c=r;!c=sf;cl=adcom;cl=audioon;cl=pubpre;cl=tbslf;cnt=q;conv=zappos;cx=a;cx=r;cx=sf;ec=ms;ec=th;ec=tw;go_nagap=1;go_nags=1;go_napap=1;go_naps=1;go_nasl=1;hein=yes;ia=s;lng=en;mlogo=glamblisswht;mlogo=mmblisswht;mo=flo;mo=fp;mo=fpc;mo=ps;mo=pu;mo=puc;mo=sl;nat=y;natcb=y;natci=y;natcr=y;natvb=y;natvr=y;nt=w;pec=ms;pubmatic=live;rmt=inter;rtbp=1;st=aty;ukdeal_g03=g03070;vce=grp2;vec=bli;vec=hw;vpec=bli;vqs=4;","dart_tags_orig":"nt=g;cc=us;aft=p;ec=ron;p=0;p=1;!c=a;!c=nptr;!c=r;!c=sf;c=sf;ca=bb;ca=vb;cl=0964091;cl=096506;cl=0988761;cl=104431;cl=145895;cl=151935;cl=156228;cl=157124;cl=161128;cl=162535666;cl=165333w;cl=177113;cl=adapttv;cl=adcom;cl=audioon;cl=avoctest;cl=block;cl=cvrles60;cl=ex167845;cl=pgdw35;cl=pubpre;cl=tbslf;cnt=q;conv=zappos;cx=a;cx=r;cx=sf;ec=ms;ec=mss;ec=mssr;ec=th;ec=tw;ga_inv=iv98854;go_nagap=1;go_nags=1;go_napap=1;go_naps=1;go_nasl=1;hein=yes;ia=s;iatc=y;iv=high;lng=en;mlogo=glamblisswht;mlogo=mmblisswht;mo=adh;mo=flo;mo=fp;mo=fpc;mo=pmp;mo=ps;mo=pu;mo=puc;mo=sl;nat=y;natcb=y;natci=y;natcr=y;natvb=y;natvr=y;npt=1;nt=w;pec=ms;pm_60001=zoneid;pm_60003=zoneid;pmp_risq=risqno;pubmatic=live;rmt=inter;rtbp=1;st=aty;st=for;st=ugc;ukdeal_g03=g03070;ukdeal_g23=g23070;ukdeal_pmg=pmg;vce=grp2;vce_plc=9929248;vec=bli;vec=hw;vpec=bli;vqs=4;","list_tags":"!c=a;!c=nptr;!c=r;!c=sf;aft=p;c=sf;ca=bb;ca=vb;cl=0964091;cl=096506;cl=0988761;cl=104431;cl=145895;cl=151935;cl=156228;cl=157124;cl=161128;cl=162535666;cl=165333w;cl=177113;cl=adapttv;cl=adcom;cl=audioon;cl=avoctest;cl=block;cl=cvrles60;cl=ex167845;cl=pgdw35;cl=pubpre;cl=tbslf;cnt=q;conv=zappos;cx=a;cx=r;cx=sf;ec=ms;ec=mss;ec=mssr;ec=th;ec=tw;ga_inv=iv98854;go_nagap=1;go_nags=1;go_napap=1;go_naps=1;go_nasl=1;hein=yes;ia=s;iatc=y;iv=high;lng=en;mlogo=glamblisswht;mlogo=mmblisswht;mo=adh;mo=flo;mo=fp;mo=fpc;mo=pmp;mo=ps;mo=pu;mo=puc;mo=sl;nat=y;natcb=y;natci=y;natcr=y;natvb=y;natvr=y;npt=1;nt=w;p=1;pec=ms;pm_60001=zoneid;pm_60003=zoneid;pmp_risq=risqno;pubmatic=live;rmt=inter;rtbp=1;st=aty;st=for;st=ugc;ukdeal_g03=g03070;ukdeal_g23=g23070;ukdeal_pmg=pmg;vce=grp2;vce_plc=9929248;vec=bli;vec=hw;vpec=bli;vqs=4;","affiliate_type":"Publisher","list_info_tags":"ad_888x18=dormant;ad_888x23=native;afpreset_3317=1;afpreset_8964=1;atp_US=10;atp_de=50;atp_default=50;atp_fr=50;atp_jp=50;atp_uk=50;atp_us=50;default_floor_120x600=.10;default_floor_160x600=.10;default_floor_300x250=.10;default_floor_300x600=.50;default_floor_320x50=.10;default_floor_555x2=.10;default_floor_728x90=.10;default_floor_970x250=.10;default_floor_970x66=.10;default_floor_970x90=.10;dt=yes;floor_120x600=2.75;floor_160x600=2.75;floor_300x250=2.75;floor_300x600=2.75;floor_320x50=2.25;floor_555x2=3.00;floor_728x90=2.75;floor_970x66=2.75;ga_api_dt=nopda;ga_api_tt=i;ga_hawk_pids=oFuqdh:160x600,hGUGTN:300x250,EM5GAx:728x90,VAMC1l:320x50,ihXeV4:970x250;ga_pubmatic_pids=s72890:5000176621,s300250:5000176620,s160600:5000176619;iash_audit=s;iashsum=t;iatc=y;log_inventory_pid=12633;native_async=1;nptr=all;pm_60001=zoneid;pm_60003=zoneid;pm_ca=93973,s300250:286824,s160600:286823,s300600:286825,s72890:286826,s97066:286827,s970250:314671;pm_de=93974,s160600:286828,s300250:286829,s300600:286830,s72890:286831,s97066:286832,s970250:314673;pm_fr=98796,s970250:314676;pm_gb=93972,s160600:286838,s300250:286839,s300600:286840,s72890:286841,s97066:286842,s970250:314672;pm_jp=93975,s160600:286833,s300250:286834,s300x600:286835,s72890:286836,s97066:286837,s970250:314674;pm_row=29944;pm_uk=93972,s160600:286838,s300250:286839,s300600:286840,s72890:286841,s97066:286842,s970250:314672;pm_us=29944,s160600:134568,s300250:134567,s300600:144252,s72890:134566,s97066:144253,s970250:314670;st=aty;tac=rea;type=forums;","list_bt_tags":"h=1;hm=1;ho=1;hs=1;wd=1;","parent_affiliate_id":"1664048719","atp_rank":50,"dart_site_id":"1635539362","ctr_opt_tags":null,"ctr_opt_tags_orig":null,"is_site_targeted":0,"bt_tags_used":"","all_targeted_countries":"","all_dart_targeted_countries":"","all_glam_targeted_countries":"","all_glamadapt_ad_sizes":"","ap_info":"dt=yes","ga_hawk_call_pids":"oFuqdh,hGUGTN,EM5GAx,VAMC1l,ihXeV4","ga_pubmatic_call_pids":"s72890,s300250,s160600","dormant_sizes":"888x18","native_sizes":"888x23","disable_sizes":null,"status":"l","is_takeover_targeted":0,"site_targeted_ad_sizes":"","Premium_awga_320x50":"no","Premium_noad_320x50":"no","Premium_ownad_320x50":"yes","Premium_noad":"no","Premium_ownad300x250":"yes","Premium_ownad728x90":"yes","Premium_ownad160x600":"yes","Premium_awga":"no","Premium_psa":"no","timestamp":"20150918pm"};
+window.glam_homepage_urls=["http:\/\/www.ehealthforum.com","http:\/\/ehealthforum.com\/"];
+window.glam_dart_ge_tags = window.glam_dart_pepe_tags + 'nt=g;cc=us;ec=ron;p=0;p=1;!c=a;!c=nptr;!c=r;!c=sf;cl=adcom;cl=audioon;cl=pubpre;cl=tbslf;cnt=q;conv=zappos;cx=a;cx=r;cx=sf;ec=ms;ec=th;ec=tw;go_nagap=1;go_nags=1;go_napap=1;go_naps=1;go_nasl=1;hein=yes;ia=s;lng=en;mlogo=glamblisswht;mlogo=mmblisswht;mo=flo;mo=fp;mo=fpc;mo=ps;mo=pu;mo=puc;mo=sl;nat=y;natcb=y;natci=y;natcr=y;natvb=y;natvr=y;nt=w;pec=ms;pubmatic=live;rmt=inter;rtbp=1;st=aty;ukdeal_g03=g03070;vce=grp2;vec=bli;vec=hw;vpec=bli;vqs=4;';
+
+
+/* PDA data for afid=1635539362 */
+
+function GlamGetPdaData() {
+ return {"Marketplace":{"Default":"dt=b;!c=hagl;!c=hagn;"},"ap_info":"dt=yes","Premium":{"Default":"dt=b;!c=hagl;!c=hagn;","160x600":"dt=s;!c=hagl;!c=hagn;","728x90":"dt=s;!c=hagl;!c=hagn;","300x250":"dt=s;!c=hagl;!c=hagn;","320x50":"dt=s;!c=hagl;!c=hagn;"}};
+}
+   
+ 
+window.glamadapt_js_kvs = 'js_mode=show;_ge_=8^2^37b50e4607971df9832a90560500eed9;ga_adb=ade;sid=221991111651547643722;browser=None;co=US;dma=584;;;afid=1635539362;zone=/;ga_adsrv=auto;afid=1635539362;sz=888x10;ord=3109236724653666.5;_g_cv=2;';
+
+document.write('<scr' + 'ipt type="text/javascript" language="JavaScript" src="' +
+                 'http://www35f.glam.com/ade/default/GlamSelectDefaultAds.js' +
+                 '"><' + '/sc' + 'ript>');
+
+
+ 
+
+ 
+  
+ 

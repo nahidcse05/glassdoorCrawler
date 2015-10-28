@@ -1,0 +1,20 @@
+Sep 22, 2015
+inorder traverse of a tree without.recursive   Answer Question
+Sep 29, 2015
+1) Implement atoi 2) correct bug in the code that deletes head from linked list 3) Given string of digits like "72388" and int n, delete n characters from the sting such the resulting string contains minimal number representation, you must preserve relative position of digits. Example: if st="72388" and n=2, the answer is 238.   2 Answers
+Oct 16, 2015
+First question is: What is the biggest technical challenge you have met in your internship/projects? Second question is: Given a node of a binary tree, find the next node of the in order traversal of the tree.   1 Answer
+Oct 22, 2015
+String question of removing duplicates from string, and couple of tree questions   Answer Question
+Oct 18, 2015
+You have a traffic detector that logs a timestamp whenever a car passes by. Write a function to process this array in various ways (don't remember the specifics).   Answer Question
+Sep 28, 2015
+How do you teamwork with other people   Answer Question
+Oct 15, 2015
+Why are interfaces important?   Answer Question
+Oct 15, 2015
+How do you reverse a linked list?   Answer Question
+Sep 25, 2015
+What would keep you from coming to Microsoft?   Answer Question
+Oct 7, 2015
+Sorting   Answer Question
