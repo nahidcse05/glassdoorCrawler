@@ -1,0 +1,360 @@
+May 6, 2015
+---------------
+How would you improve Uber?   3 Answers
+
+Jul 7, 2015
+---------------
+OOD, Data Structure (Hashtable, String manipulation)   Answer Question
+
+Oct 20, 2015
+---------------
+Code secret santa   Answer Question
+
+Oct 18, 2015
+---------------
+what would you bring to uber. why do you want to join uber. simple string search algorithm   Answer Question
+
+Oct 14, 2015
+---------------
+object oriented design, binary tree   Answer Question
+
+Oct 14, 2015
+---------------
+Implementing the substring method   Answer Question
+
+Aug 18, 2015
+---------------
+Given a text message and max number of characters, implement how the phone company can represent a given message.   Answer Question
+
+Oct 19, 2015
+---------------
+Cannot disclose details.   1 Answer
+
+Sep 13, 2015
+---------------
+Standard coding challenge on string manipulation.   Answer Question
+
+Oct 10, 2015
+---------------
+What's the difference between BST and heap, what's big endian, little endian, how do you know which process takes up the most resources in Linux, etc.   Answer Question
+
+Sep 28, 2015
+---------------
+Finding kth smallest element in a BST   1 Answer
+
+Aug 31, 2015
+---------------
+Know the datastructures and basic CS concepts very well. Questions are not so simple that I can type it in here. Know the algorithms, dont just learn them, they are not going to ask you to reverse a linked list or implement longest common subsequence.   Answer Question
+
+Aug 4, 2015
+---------------
+Search and delete nodes in BST. Delete operation is pretty tricky and you should review that.   1 Answer
+
+Sep 3, 2015
+---------------
+1. Say there are a bunch of records (either photos/news feed/videos) to be displayed as feed on a mobile app, how would you improve the performance of such an interface 2. Implement bus event design pattern   Answer Question
+
+Sep 20, 2015
+---------------
+What do you think needs to be fixed within Uber?   Answer Question
+
+Aug 4, 2015
+---------------
+What is your current employer's technical / product road map?   1 Answer You didn't agree with product management on [a minor feature]. Do you think that's because they're stupid or not technical enough?   1 Answer How did you implement [trade secret system]?   1 Answer
+
+Jul 30, 2015
+---------------
+Implement a map data structure using a binary search tree. It should have the functions Get, Set, and Size.   Answer Question
+
+Jul 3, 2015
+---------------
+Given a restaurant menu and a budget, output all the possible ways to use up the budget.   2 Answers
+
+Sep 20, 2015
+---------------
+Reverse a string.   Answer Question
+
+Sep 26, 2015
+---------------
+One question for coding on coderpad. I answered the brute force solution, which is apparently not what he expected. So we talked about the solution, I did not code in the end. That&amp;#039;s the reason that I failed.   Answer Question
+
+Oct 18, 2015
+---------------
+Lowest common ancestor in BST   Answer Question
+
+Jul 16, 2015
+---------------
+dynamic programming question   1 Answer
+
+Jul 12, 2015
+---------------
+Algorithm / data structures + building things   1 Answer
+
+Jul 15, 2015
+---------------
+trees, lists, etc.   Answer Question
+
+Jul 22, 2015
+---------------
+LinkedList, trees   Answer Question
+
+Aug 20, 2015
+---------------
+Pig Latin encoding..maybe he intended to ask decoding as well but I never got there   Answer Question
+
+Jun 10, 2015
+---------------
+print out a multiplication table ie. 1 x1 to 12 x12   Answer Question Using OOP design a elevator.   Answer Question
+
+Jul 10, 2015
+---------------
+Algorithms, Data structure design, database design, load balancing, modeling, server-side design. Very comprehensive interview with an emphasis on end to end knowledge. Your designs and CS fundamentals should be strong, but with good and smart preparation you should be fine. Its really your job to lose. I would say it is a more design-heavy interview, but it all depends on interview panel.   Answer Question
+
+Jun 15, 2015
+---------------
+networking basics TCP UDP sockets Networking stack layers one big string seperated by spaces find how many occurrances of another small sting test cases when you give abc.com how will it work?   1 Answer
+
+May 29, 2015
+---------------
+something something javascript - nda   2 Answers
+
+Jul 8, 2015
+---------------
+Large portion of the technical screen was spent detailed drilled down of past work experience (know your resume and be prepared to talk about specifics), followed by a coding task in coderpad.io.   Answer Question
+
+Sep 10, 2015
+---------------
+Write code to do a specific task   Answer Question
+
+Aug 27, 2015
+---------------
+Cannot disclose. They make you sign an NDA before you perform the interview. Plus, it would undermine the interview process to disclose the specific questions. Some general programming problems as well as problems focused on your expertise.   Answer Question
+
+Aug 13, 2015
+---------------
+How would you design a spreadsheet application?   Answer Question
+
+May 26, 2015
+---------------
+write code to print the matrix from outside to inside.   2 Answers
+
+Jun 12, 2015
+---------------
+4 different interviews with each one focusing on a different topic   Answer Question
+
+Apr 24, 2015
+---------------
+I can't disclose the specific questions asked   Answer Question
+
+Jun 1, 2015
+---------------
+Why do you want to work here?   Answer Question
+
+Apr 7, 2015
+---------------
+Some data structure and algorithm questions.   Answer Question
+
+Jul 7, 2015
+---------------
+What have you been doing in your current job?   Answer Question Why do you want to work at Uber?   Answer Question What’s to stop you from just packing up and leaving in 4 years’ time?   Answer Question
+
+Mar 20, 2015
+---------------
+Algorithms questions   Answer Question
+
+Aug 5, 2015
+---------------
+Create a Json like object to representation and implement a flatten method to return string-&gt; string mapping. (implement from scratch / test / compiling + working code) {x:1, y:1, z:{a:1,b:2}} flattens to {x:1, y:1, z.a:1, z.b: 2}   Answer Question Q2. Implement a rate limiter attribute/decoration/annotation on top of an API endpoint. caps to N requests per minute with a rolling window (implement from scratch / test / compiling + working code)   1 Answer
+
+Apr 23, 2015
+---------------
+Given a list of words, find whether a new word is anagram of word in list.   2 Answers
+
+Apr 16, 2015
+---------------
+Implement an LRU cache.   1 Answer
+
+Apr 22, 2015
+---------------
+Using Object Oriented Design principles, design a method to check if a Sudoku board is valid (skeleton code was provided which was initially passed in through a 2-d array).   2 Answers
+
+Feb 15, 2015
+---------------
+Input a string and output the number of words (need to run on coderpad)   2 Answers
+
+Jul 29, 2015
+---------------
+Reversing a linked list, Implementing a rate limiter for a web service.   Answer Question
+
+Feb 22, 2015
+---------------
+resume, coding.   1 Answer
+
+Feb 14, 2015
+---------------
+code challenge are on uber's github page   Answer Question
+
+Jan 28, 2015
+---------------
+What do you think Uber should do that they are not doing now?   Answer Question
+
+Aug 7, 2015
+---------------
+A classic permutation questions. Followed by the question if duplicates exist.   Answer Question
+
+Jul 22, 2015
+---------------
+Write a spreadsheet engine in the language of my choice.   Answer Question
+
+Jan 22, 2015
+---------------
+OOP related. Cannot share.   Answer Question
+
+Jan 23, 2015
+---------------
+He asked me a question that seemed very applicable to a javascript engineer, but just didn't make sense to ask if I wanted to code in java. It seemed like very quickly the engineer realized that he didn't think his question through, but it was too late at that point. Therefore for the next 30 minutes I proceeded to attempt to answer a question that was poorly constructed and just wasn't applicable. On top of this, the interviewer was in a very loud room with a lot of background noise so it was very difficult to hear from. Also he was constantly talking to another engineer that was also on the call with me, with who I imagine he was trying to get advice on how to improve the question. Additionally the call quality became very poor halfway through the interview and I pretty much could not understand anything he was saying. All in all, this was a very poor experience and I hope HR improves their interview process in the future.   Answer Question
+
+Jan 22, 2015
+---------------
+the project that they asks you to complete   Answer Question
+
+Jan 21, 2015
+---------------
+Lots of question related to hash table.   Answer Question
+
+Apr 15, 2015
+---------------
+Design from scratch and talk about scaling, product, and performance concerns.   Answer Question
+
+Feb 17, 2015
+---------------
+Implement boggle   Answer Question
+
+Sep 25, 2015
+---------------
+Describe a problem you solved.   Answer Question
+
+Dec 20, 2014
+---------------
+Design a casino game   Answer Question
+
+Apr 14, 2015
+---------------
+Algorithm questions are not hard, but these 2 questions asked I have never seen it before. Not the common one you could find on leetcode, etc Live coding needs you to code on machine and let it run at the end   Answer Question
+
+Apr 7, 2015
+---------------
+Q:Why Uber?   Answer Question
+
+Apr 14, 2015
+---------------
+whiteboard coding, live coding, design, culture questions that kind of stuff   Answer Question
+
+May 14, 2015
+---------------
+SQL   Answer Question
+
+Apr 16, 2015
+---------------
+Live coding questions.   1 Answer
+
+Dec 6, 2014
+---------------
+Design a price surge system, both at a high level and the architecture   Answer Question
+
+Oct 28, 2014
+---------------
+Mainly system design problem. Two problems and no coding at all. The interview difficulty varies from person to person and I can feel that they don't have a standard bar so just try your luck.   Answer Question
+
+Oct 7, 2014
+---------------
+Parsing incoming data in Cpp   Answer Question
+
+Oct 26, 2014
+---------------
+Design an API for a service, then layout how much data your service will hold and how many machines it needs. I was purposefully rushed by the interviewer to design this, so there wasn't time to design something great.   1 Answer
+
+Oct 31, 2014
+---------------
+It's just basic algorithms stuff, can you sort through this, memory management techniques, etc. Nothing particularly difficult.   Answer Question
+
+Oct 30, 2014
+---------------
+An architecture question   Answer Question A problem solving question   1 Answer A coding/data structures challenge   Answer Question A one on one with the manager for a culture fit.   Answer Question
+
+Nov 1, 2014
+---------------
+No difficult question.All the questions were open ended like how would you design netflix,online spreadsheet, tell me about a challenging situation/issue in your current/past project etc   Answer Question
+
+Oct 20, 2014
+---------------
+Implement LRU cache with get and set operations in constant time O(1).   1 Answer Given a regular expression pattern and a string, check to see if pattern matches the string.   1 Answer
+
+Aug 5, 2014
+---------------
+Design a distributed system for sorting of large files.   1 Answer
+
+Jun 1, 2015
+---------------
+1. Segment Tree; 2. How to diagnose latency in data center;   Answer Question
+
+Apr 16, 2015
+---------------
+Why do you want to work for Uber?   Answer Question
+
+Apr 2, 2015
+---------------
+Print all permutations of 3 pair of parens. ()()(), (()()), (())(),,,. etc   Answer Question Live-coding on a page that searches for images on flickr/google API via ajax and populates it using js.   Answer Question
+
+Apr 14, 2015
+---------------
+Build a simplified YELP-like service.   Answer Question
+
+Feb 27, 2014
+---------------
+My coding challenge had to calculate the nearest transit stop given your current location. They asked for an efficient way to do this. The answer ended up being something I was not familiar with, Mongo DB and such database geo location built in functions.   Answer Question
+
+Nov 19, 2013
+---------------
+Find the longest word in a grid of random letter, each consecutive letters has to be next to the previous one.   Answer Question
+
+Apr 7, 2015
+---------------
+Describe a recent technical challenge.   Answer Question
+
+May 10, 2015
+---------------
+Be prepared for very general design oriented questions that require a great deal of discussion.   Answer Question
+
+Sep 30, 2013
+---------------
+A lot of javascript related   Answer Question
+
+Dec 22, 2013
+---------------
+How do you handle stress?   Answer Question
+
+Jul 25, 2013
+---------------
+Pretend I am a 5 year old and explain what an NP-complete problem is.   1 Answer
+
+Sep 21, 2013
+---------------
+Please find our standard web test below! Code Test! Bam! Uber clients are able to store favorite locations for easy pickup requests. Create a backend and a frontend for managing favorite locations. This is a simple exercise, but organize, design and test your code as if it were going into production. When you’re done, host it somewhere and provide us with a URL and a tarball or Git repo with the code. Backend Using the language (Python preferred), libraries and data store of your choosing, create a JSON in/out RESTful API for managing favorite locations. Stay away from Django or Rails, but microframeworks like Flask (preferred), Sinatra or Express are fine. Attributes of a favorite location object include: id, lat, lng, address (e.g. 800 Market Street, San Francisco, CA 94114), name (e.g. Work) Frontend Using JavaScript, Backbone.js and any other libraries of your choosing, create an interface to access the API. User should be able to: Create a new location Read/view a location, and a collection of all locations Update an existing location Delete a location The UX is up to you, with a couple of constraints: Incorporate a map Geocode the address so the user is not required to enter lat/lng Extras If you like, get creative and do whatever else you like on the backend and/or frontend to show off.   1 Answer
+
+Apr 24, 2013
+---------------
+The take-home challenge was good - emphasis here is on owning a full stack for a service, and this was the first time I had written an API using Flask.   Answer Question
+
+Oct 31, 2014
+---------------
+Tell me about a big problem you solved in the past.   1 Answer
+
+Apr 2, 2015
+---------------
+some question about array   Answer Question
+
+Sep 13, 2015
+---------------
+The first engineer asked me for a slower answer than the one I gave, which really threw me for a loop.   1 Answer
+

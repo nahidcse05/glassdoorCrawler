@@ -1,0 +1,580 @@
+May 6, 2015
+---------------
+The interview is ok in general. But I am really DISAPPOINTED by their onsite interview policy. Uber doesn't take care of your trip, you have to book the flight, hotel and car by yourself, and pay them yourself. The recruiter promised to reimburse the trip expense, and I submitted my reimburse report to their AP department. I DID NOT get my reimbursement back and they stopped answering my emails. Uber should have a standard travel reimbursement policy.
+
+How would you improve Uber?   3 Answers
+
+Jul 7, 2015
+---------------
+Time to explore new opportunities, so I submitted my resume to a few top Valley companies and startups including Uber. Got contacted by the recruiter a few days later after my online submisson. 1) Recruiter initial phone call. (30 mins) 2) TPS (1 hour) You need to solve the coding exercise via online code sharing editor. Some follow-up discussions. 3) Take home code challenge. I spent a weekend on building the solution and making sure I like what I submitted. I got feedback next day. Amazing efficiency. 4) 4 onsite interviews (4 - 5 hours) at Uber HQ. Jam with a group of Uber engineers, plus a nice onsite lunch break. Each interview is designed with 2 engineers except the Culture fit one which is a product discussion with one of the engineering managers. I did some coding questions on my laptop. 5) Wrap up with my recruiter. All questions are reasonable. Marked the interview as difficult in the sense that you definitely want to be well prepared. There were quite a few problems I never saw before. Know your stuffs well -- you should be OK. The interview process is very smooth. I have no issue with my onsite travel reimbursement, although it took ~3 weeks to get it completed. I got a call in the next one or two days after my onsite with an offer! The package is excellent. I chose Uber over other offers/opportunities because I really believe in Uber's mission that is happening in an incredible scale. And all the engineers I met are super cool, sharp and resourceful.
+
+OOD, Data Structure (Hashtable, String manipulation)   Answer Question
+
+Oct 20, 2015
+---------------
+Submitted my resume and Uber contacted me pretty quickly. Process is just 2 phone screens with technical questions. After the first interview, HR immediately got back to me with another interview. After the second interview, it took them a while to get back to me. Overall, process is pretty fast.
+
+Code secret santa   Answer Question
+
+Oct 18, 2015
+---------------
+Telephonic interview, Interviewer seemed to be very hostile, disrespectful, rude and very bad attitude. His only motive seemed to be prove you wrong and worthless. He seemed to be obsessed with nosql and already passed judgement that world has moved from sql to nosql. Almost all essential services are still running in transactional world so passing this kind of judgement is too pre mature.
+
+what would you bring to uber. why do you want to join uber. simple string search algorithm   Answer Question
+
+Oct 14, 2015
+---------------
+It is a phone interview 1. Firstly, I was asked to briefly introduce my background, mainly from a technical perspective. It took about 10 minutes. 2. Then, I was asked to solve some technical coding questions, i.e., one is related to object oriented design, and another is about binary tree. It took about 30 minutes.
+
+object oriented design, binary tree   Answer Question
+
+Oct 14, 2015
+---------------
+Resume review, then one technical interview from a current employee. He first introduced himself, what he does at Uber, and then my experience, and then we went on to the technical coding question
+
+Implementing the substring method   Answer Question
+
+Aug 18, 2015
+---------------
+The initial process was incredibly great. I submitted my application for the internship online and received a reply within 3 hours. The next steps took a ridiculous amount of time. First, they said that once I told them a time that I was available for interview, that I must be able to make it or the interview would be canceled. However, what made things worse was that the interviewer canceled the phone interview by sending an email, within an hour of the interview, twice. This entire process took 6 weeks. No interview. I'm done with this company. You should save your time and apply somewhere else. (P.s. I applied to the New York office)
+
+Given a text message and max number of characters, implement how the phone company can represent a given message.   Answer Question
+
+Oct 19, 2015
+---------------
+First, talked with the HR person so that she could get to know me, and understand what I'm looking for. Next step was a phone screen with a team member on that team. The interview was mainly what I did at my current job, and a tech question afterwards where we did some pair programming.
+
+Cannot disclose details.   1 Answer
+
+Sep 13, 2015
+---------------
+First step: Phone screen. Second step: Exercise. Third step: Technical phone interview. Forth step: Onsite. Everyone was friendly and helpful. Questions were challenging yet well designed. Recruiters were professional and efficient. I very much liked the process. The more you know about Uber the better you can answer non-technical questions.
+
+Standard coding challenge on string manipulation.   Answer Question
+
+Sep 12, 2015
+---------------
+I was referred by a friend and set up with a phone screen with the technical recruiter within a few days of the referral. It was a brief fifteen-minute conversation, and the recruiter scheduled a tech screen with an engineer afterwards. During this tech screen, the interviewer asked me to solve one coding challenge through a pair programming module. I completed it, then made sure to solve for edge cases, and then asked some questions at the end. My interviewer seemed rushed for time, since he ended the conversation right on time and left with an abrupt "goodbye!". I received a rejection within 48 hours, but knew exactly what I messed up on and definitely can't blame the interviewer -- he was very helpful in delivering feedback at the end of the interview.
+
+No Question
+Oct 10, 2015
+---------------
+There is no much to say about this phone interview. It seems the interviewer just followed a list and asked me questions on it. I am not an English native speaker, and I said pardon too many times in the interview, I guess that made him lose patience and want to end earlier.
+
+What's the difference between BST and heap, what's big endian, little endian, how do you know which process takes up the most resources in Linux, etc.   Answer Question
+
+Sep 28, 2015
+---------------
+Initial phone screen with questions from various domains of CS like Operating Systems, Networking, Object oriented programming, Computer Graphics, Software Engineering, Data Structures etc. They were pretty basic questions testing the fundamentals. This is followed by a coding challengr
+
+Finding kth smallest element in a BST   1 Answer
+
+Aug 31, 2015
+---------------
+Processes started with recruiter emailing me and we went over details about the team and other opportunities they have and I went through different roles and fixed on one and reached out to start the process. I had a phone screen interview with a senior engineer on team, basic datastructure and algorithm coding problem, as that went well, I got email in next 30 min asking for onsite interview dates and scheduled this a week after. I went onsite and met with the whole team. Interview was above average, had tough questions on design and architecture, but nothing that I didn't do in my past roles, so I felt comfortable. You should really know all your basics and running times and space complexities to come up with feasible solution for the design questions. Most questions include lot of aspects, not just simple datastructure and algorithms. I was very happy with the team and they were too (because I got offer). I got a call next day that I got offer, I got offer details a day later. I have to compromise on some stuff, but overall I was happy with offer, so I took it.
+
+Know the datastructures and basic CS concepts very well. Questions are not so simple that I can type it in here. Know the algorithms, dont just learn them, they are not going to ask you to reverse a linked list or implement longest common subsequence.   Answer Question
+
+Aug 4, 2015
+---------------
+I was contacted by HR on phone and was setup a phone screen. It was supposed to be a Skype interview, however, the interviewer ended up calling on phone. He was 15 minutes late. It was pretty hard to understand the accent as well.
+
+Search and delete nodes in BST. Delete operation is pretty tricky and you should review that.   1 Answer
+
+Sep 3, 2015
+---------------
+Got called by the recruiter. Scheduled the technical phone interview soon after. The process was quick and smooth. The interview was focused mainly on mobile architecture. I've done mobile development in the past but wasn't too familiar with architecture details, so faltered a bit while answering. This was followed by a question on a design pattern. I had never heard of this pattern before. I took my time to understand the question with some help from the interviewer. He was quickly frustrated within 3-4 minutes and told me he was looking for developers with better coding skills. I disagree that I have bad coding skills just because I couldn't answer the question without frustrating the guy. Also, he should have understood that it's really hard for someone to implement a design pattern if they have never heard of it before. I would have expected him to move on to another question. Instead, he just gave up and ended the interview. I found it unfair to gauge someone's knowledge by asking one question when there is an entire ocean of other equally relevant CS topics to touch upon. All in all, an opportunity lost because of the interviewer's mood/impatience!
+
+1. Say there are a bunch of records (either photos/news feed/videos) to be displayed as feed on a mobile app, how would you improve the performance of such an interface 2. Implement bus event design pattern   Answer Question
+
+Sep 20, 2015
+---------------
+Applied online and was contacted by a recruiter the next day. I went through two technical phone interviews, each with a pair of engineers. The questions were fairly straight-forward. Some implementation questions, software architecture, and algorithm design. After going through the first two interviews, I was informed by the recruiter that they wanted me to speak with a manager (it was not explicitly a technical). I then had a third phone interview scheduled with the recruiter. Over the course of the next week, the recruiter changed the time and manager on me five times before settling down on a date and person. By the time the third interview rolled around, I got called by a manager who wasn't the one I was scheduled to talk to. This manager seemed unprepared and was unaware of the position I wanted to take at the company (mobile development, more geared towards UI). This manager completely dismissed my design work and delved straight into a machine learning question (i never stated i had experience in this field). I was asked a few questions about how to improve an aspect of the Uber service. I responded with some naive answers about device-device communications, to which he shot down immediately and went deep into a machine learning topic. The next day I was informed they would pick a different candidate.
+
+What do you think needs to be fixed within Uber?   Answer Question
+
+Aug 4, 2015
+---------------
+Step one: Submit resume to Uber. Step one: Phone interview with "CoderPad". Wrote code to solve a programming problem. Step two: Invited by recruiter to come on-site and interview with the team. Step three: Four one-hour 1:1 interviews covering design, culture fit, and data structures / algorithms. Step four: Next-morning results of the interview.
+
+What is your current employer's technical / product road map?   1 Answer You didn't agree with product management on [a minor feature]. Do you think that's because they're stupid or not technical enough?   1 Answer How did you implement [trade secret system]?   1 Answer
+
+Jul 30, 2015
+---------------
+The process started when I received an email from a recruiter. It was followed with a quick phone call to discuss my background and the position at Uber. We set up a phone screen shortly after. Admittedly, I did not do very well on what should have been a simple problem, so I was not expecting to move forward. However, I never heard from Uber again after the phone screen. I think giving a candidate a formal rejection is the least they could do.
+
+Implement a map data structure using a binary search tree. It should have the functions Get, Set, and Size.   Answer Question
+
+Jul 3, 2015
+---------------
+Uber has a very simple hiring process: Step 1) Technical Phone Interview Step 2) Interview in our SF office Step 3) Offer! I didn't understand the problem well during phone interview and spent 30 minutes coming up with a solution that wasn't doing the right thing. After communicating with interviewer, he was nice enough to go over time with me and I finally got it done. (The phone call lasted for 75 minutes) Recruiter got back to me quickly telling me that feedback was great. Then on-site interview was scheduled. There was a three-week gap between phone and onsite but I finally interviewed at SF. Everyone I met was nice and approachable. They patiently listened to me explaining my thinking process and provide feedback along the way. Two days after the interview I received phone call from HR telling me that they decide to extend an offer. Enjoyed the process.
+
+Given a restaurant menu and a budget, output all the possible ways to use up the budget.   2 Answers
+
+Oct 1, 2015
+---------------
+Referred by a relative of an Uber employee. Spoke to the guy to whom I was referred for an informational phone screen. Then, I had a call with an engineer, which was set up by HR. I'm really bad at technical interviews, so they chose not to move ahead with my application at the time, although the recruiter who set up the coding interview said they would reach out again in a few months. Had I done well on the test, I would've flown out to California for a day of interviews and stuff at Uber HQ. It's a quick and streamlined hiring system.
+
+No Question
+Sep 20, 2015
+---------------
+It was ok. My interviewer didn't sound too into wanting to talk to me at all. He asked me couple of behavioral questions and then asked me a really easy tech question but I wasn't interested in beinga software dev anymore so I decided not to move on.
+
+Reverse a string.   Answer Question
+
+Sep 26, 2015
+---------------
+Refer by a friend and contacted by recruiter for phone interview. Arranged the interview in one week. Did not prepare much and then interview and then failed. Uber has difficult interview questions, compared to other company and they want more senior engineers. Suggest to prepare really well before apply .
+
+One question for coding on coderpad. I answered the brute force solution, which is apparently not what he expected. So we talked about the solution, I did not code in the end. That&amp;#039;s the reason that I failed.   Answer Question
+
+Oct 18, 2015
+---------------
+Typical phone screen interview last around 45 min, spend the first 15 min chatting on the background, then a very simple coding question. Find the lowest common ancestor in a binary search tree. Then the last 15 min talking about the company culture. After that I receive an email that I was rejected.
+
+Lowest common ancestor in BST   Answer Question
+
+Jul 16, 2015
+---------------
+Initial phone screen was pretty straight forward.Got a call for onsite the very next day.Onsite interviews were nothing special .Typical dezign and coding questions.I felt a couple of my interviewers looked overworked and were not concentrating on the interview at hand which was Very demotivating.I have a similar problem as mentioned by another user where Uber has still not reimbursed any of my expenses which i think casts a very negative shadow on the company in general.
+
+dynamic programming question   1 Answer
+
+Jul 12, 2015
+---------------
+Very quick process. They are a fast-moving startup and their recruiting is equally fast. Phone screen -> onsite -> decision. Some algorithm questions, but mostly making sure that you know how to code.
+
+Algorithm / data structures + building things   1 Answer
+
+Jul 15, 2015
+---------------
+They are highly technical people and pretty awesome work culture. I had around 5 interviews in total. 3 technical, 1 architecture design, 1 manager round. I did quite well in all of them except one. Everyone was very kind except that guy who was very rude and unprofessional.
+
+trees, lists, etc.   Answer Question
+
+Jul 22, 2015
+---------------
+Submitted my resume online and got a call for a 45 minute techincal interview. A codepad link was given where the interviewer asked to write code. On the interview day, the engineer asked me about my resume, projects and then proceeded with code writing.
+
+LinkedList, trees   Answer Question
+
+Aug 20, 2015
+---------------
+Found the email id of recruiter on LinkedIn and sent email. Got a response about 3 weeks after and interview was setup. interviewer was very impressive and polite. Asked A LOT of questions from one of my projects so def prepare that.. specifically what you did.. i didnt do so well on the coding question and never heard back :)
+
+Pig Latin encoding..maybe he intended to ask decoding as well but I never got there   Answer Question
+
+Jun 10, 2015
+---------------
+Single phone interview using codeshare. quick couple questions about other work you have done. A quick question about yourself, and then they dive right into some live coding. The interview seemed very dry and if you arent' good at or haven't practiced interview questions you will be glossed over pretty quickly.
+
+print out a multiplication table ie. 1 x1 to 12 x12   Answer Question Using OOP design a elevator.   Answer Question
+
+Jul 10, 2015
+---------------
+The interview process was short and sweet, one of the best interview processes I have ever had. The questions were challenging and fun but straight to the point (no hidden agenda). However I believe some questions were intentionally broad to see if you could bring in some design/architecture as well. Prepare and be confident
+
+Algorithms, Data structure design, database design, load balancing, modeling, server-side design. Very comprehensive interview with an emphasis on end to end knowledge. Your designs and CS fundamentals should be strong, but with good and smart preparation you should be fine. Its really your job to lose. I would say it is a more design-heavy interview, but it all depends on interview panel.   Answer Question
+
+Jun 15, 2015
+---------------
+Phone screen; Basic stuff networking basics TCP UDP sockets Networking stack layers one big string seperated by spaces find how many occurrances of another small sting test cases when you give abc.com how will it work?
+
+networking basics TCP UDP sockets Networking stack layers one big string seperated by spaces find how many occurrances of another small sting test cases when you give abc.com how will it work?   1 Answer
+
+May 29, 2015
+---------------
+I had a phone screen which was a live coding exercise on something aligned with my specialty. I was surprised by the exercise because it was somehow theoretical, but there was no trick question and it wasn't overly difficult. the interviewer would have been ok with me looking up documentation but my internet connection being really bad, I just went ahead and explained my process. I had very rapid feedback on that interview. In fact, the next time I checked my phone after doing the screen I was already invited to an onsite. On site i had 5 interviews. Overall, the interviews were much more about high level process and thinking than coding proper. Other reviews I read, and the recruiters email, prepared me to code on my computer (and again having access to documentation if needs be). In total, I had 2 functional brainstorming sessions ie how would you solve this problem - with problems squarely in my specialty. I had other exercises where I was asked the same but with a technical problem that was pretty different from what I usually do, and for which I had to write pseudocode (on white board). In my first interview, I had some trivial coding questions. I also had a more discussion type interview about values, past experience, etc. I must say it's not easy to get a sense of what are uber values/culture from the website. So I just tried to be true to myself and show what I do care about. My last interview had more classic interview problems on white board. I did 3 exercises which were mostly on the fine points of javascript syntax and structure. Those were not easy especially towards the end of the day. All in all I was surprised that questions stayed mostly high level, that made me more comfortable as I feel strongest there.
+
+something something javascript - nda   2 Answers
+
+Jul 8, 2015
+---------------
+I replied to a linked-in email from the recruiter about a newly opened Seattle office and expressed my interest. After the phone call with the recruiter, I got scheduled for a technical 45-minute phone screen. I was extremely nervous and managed to bomb both behavior part of the screen and the coding portion too, so no surprises I was promptly rejected. What can be improved: a recruiter could have set clearer expectations for the interview (e.g. that there will be significant non-technical portion). As is I failed to showcase any of my abilities and as the result, had a terrible experience as a candidate.
+
+Large portion of the technical screen was spent detailed drilled down of past work experience (know your resume and be prepared to talk about specifics), followed by a coding task in coderpad.io.   Answer Question
+
+Sep 10, 2015
+---------------
+Meet with software engineers. They asked me coding and design questions. I felt they mostly cared about design and not that much about code. At the end I met with a manager who asked me about my previous work. I had lunch in their offices about halfway during the interview. Lunch was good.
+
+Write code to do a specific task   Answer Question
+
+Aug 27, 2015
+---------------
+Full day of technical questions & problems. Similar to interviews at other medium sized software companies. Some general programming problems as well as problems focused on your expertise. Expect to write code on your laptop.
+
+Cannot disclose. They make you sign an NDA before you perform the interview. Plus, it would undermine the interview process to disclose the specific questions. Some general programming problems as well as problems focused on your expertise.   Answer Question
+
+Aug 13, 2015
+---------------
+Two technical phone screens leading to an onsite interview that lasted for 5 hours and spanned 5 separate interviewers. Emphasis on algorithms and data structures, as well as overall system design. Interviewers seemed like they wanted to get out of there as quickly as possible, or that they had a lot of stuff to get back to - which, being Uber, I can understand. Overall, pretty neutral on the whole thing.
+
+How would you design a spreadsheet application?   Answer Question
+
+May 26, 2015
+---------------
+The phone screening was coding 1-2 algorithm problems using an online document sharing system, while the code needs to be compilable (it has a online compiler). You need to write test cases yourself and run. The onsite interview mainly included whiteboard coding problems (2 rounds), system design (1 round) and behavior questions (1 round from the engineering manager). The interviewers were very nice and friendly. Sometimes an interview has two interviewers, one of whom is a shadow. The whole process went very fast. I enjoyed interviewing with them.
+
+write code to print the matrix from outside to inside.   2 Answers
+
+Jun 12, 2015
+---------------
+the interview process paces fast, after recruiter arranged phone interview, I finished the phone interview by writing code on computer with shared board, and code can be compiled and ran. I didn't write a bug free code, I think that why I failel and I got result next day. recruiter is very professional though.
+
+4 different interviews with each one focusing on a different topic   Answer Question
+
+Apr 24, 2015
+---------------
+Interviewing with Uber was definitely the most pleasant experience I've ever had. To describe it in one word, it was concise. It was shorter than most interviews I've been to, but at the same time the questions were right to the point and there was virtually no overlap from interviewer to interviewer. I thought the questions were very reasonable. It was not a stressful experience at all. The questions weren't necessarily hard, but they were very intentionally broad/vague such that you had the opportunity to go as deep as you wanted in the interview. There were no riddle-like questions (ones that were trivially easy once you knew the solution but would otherwise be difficult). This was a good thing and much appreciated. Everyone I met was really nice and they all seemed like really cool people to me. I left the interview very much hoping that an offer would be extended, so all in all I'd say they did an excellent job. Furthermore, I think the recruiter was on point. This person was extremely prompt, and I generally moved from one part of the hiring process to the next with just one day of turnover. It left me feeling like the company actually cared about me and wanted to hire me. After the interview when we talked compensation, I told them my current salary and what I was hoping for with a job transition. The offer they made I felt was very generous and met my expectations, and I believed the recruiter when I was told that Uber was trying its best to accommodate my requests. I made no counter-offer; from what I'd read on Glassdoor already I didn't think they'd budge on salary, and RSU's were generous, especially given Uber's current state and growth. I also found out they give bonuses, so I was less concerned about what their initial offer was composed of.
+
+I can't disclose the specific questions asked   Answer Question
+
+Apr 2, 2015
+---------------
+I met an engineering manager through AngelList and was quickly scheduled for a technical phone screen. The interviewer's coding question wasn't too difficult, but he was very good at pushing you and assessing your ability to communicate. The onsite interview was pretty standard: two whiteboard interviews, one live coding interview, and an architecture design interview. Each interview is with two engineers, which could have been intimidating, but everybody was pleasant and accommodating. The Uber ride to and from the office is a nice touch, as well.
+
+No Question
+Jun 1, 2015
+---------------
+Overview: * Referred by a friend. * Contacted by a recruiter. Phone call for 30 minutes. * Phone interview. * Onsite. * Offer. * A bit of negotiation. * Accepted. Phone interview: I took the phone interview at home before going to work. My interviewer was nice and friendly. I used coder-pad to solve the problem. He was very helpful. I had a bug in my code, and he stirred me in the right direction to debug without giving it away. I figured it out eventually. Afterwards I emailed him with some questions regarding Uber's culture, and I asked how it is different from a tech tech company since it's more of a business tech company. He answered my questions in details and I was very impressed by how much effort he put into it. Onsite: 4 technical interviews (2 white-board coding questions, 1 system design, 1 live coding). Each interview was conducted by 2 engineers. One engineer was the main facilitator the other one just watched and jumped in whenever. It is a bit intimidating to be honest. But I made sure to make eye contact to both interviewers. They were all helpful. A couple of them had a serious look on their faces. In general they were pleasantto talk to. Questions were moderate to difficult, so manage your time wisely! The last interview with the hiring manager was more of a culture fit interview. Offer: I received a verbal offer the next morning, and I was very excited because I really liked Uber to begin with. Plus I have some friends there and they all enjoy being there. After a bit of negotiation I happily accepted the offer, and started working mid May. Other notes: * The whole process (from referral to offer) was very streamlined, efficient. * People that work here are very passionate about Uber. That's something I was looking for in a new job.
+
+Why do you want to work here?   Answer Question
+
+Apr 7, 2015
+---------------
+I had good experience interviewing at Uber. The interviewers were very personable and the interview was well structured. I really liked the live coding part of the interview, where you had to code up something from scratch on your laptop and you are free to use the documentation, google etc
+
+Some data structure and algorithm questions.   Answer Question
+
+Jul 7, 2015
+---------------
+I was contacted by a recruiter asking me to interview. In the initial phone screen we spoke for 30 minutes about my resume and they emailed that day to ask for a follow up with a technical person over the phone. The phone interview was an hour long collaborative coding session with a programmer who asked me to solve a sorting problem. It wasn’t difficult and we talked about the solution while I was coding. The focus was on me having something that compiled and ran. He was enthusiastic and polite. It was a positive experience. I was asked to come in for a longer interview of 4 technical parts and a meeting with one of the managers. I was asked to bring a laptop, but I don’t have one so we organised that they would provide one preloaded with an IDE for coding. For each technical part there were two interviewers. Each started the same – they introduced themselves and asked a generic “tell us what you’ve been doing?” I was surprised none of them asked specifics about my resume, knew what I’d been working on, or drilled down into anything I said. I got the impression none of them had seen my resume and didn’t care about previous experience. Given that, I wish I had paid more attention to the time and prepared an elevator pitch about myself so that I could have spent more time focused on the technical part. It was immediately obvious that in many cases the interviewers had no idea how to conduct an interview either solo or with a colleague. I was frequently given conflicting instructions from the two interviewers, or told to ignore something the other had said and answer a different question instead. At times they talked insistently and loudly over the top of each other. For the coding session despite organizing to have a laptop waiting for me it wasn’t provided and the interviewer strongly rebuked me for not having brought my own. When I mentioned organizing one with the recruiter they knew nothing about it. I ended up coding on the interviewer’s laptop in a basic text editor on an unfamiliar keyboard. There was no focus on actual output at all and I couldn’t spend much time sitting down writing code because I kept being asked to answer questions on the whiteboard. In a later session I was asked the question and started brainstorming a solution with some pseudo-code on the whiteboard. I was instantly rebuked “what do you think you’re doing? You’re not going to be able to solve this using a function.” Later while I was working through the code I mentioned an edge case to check and the interviewers were lost why you should check at all, then got annoyed when I explained that checking edge cases was something you should do. There was a consistent theme of elitism and “we know better than you” with the interviewer’s attitudes. One person introduced himself with just “Hi. I’ve been on this team for 6 months. Before this I was at Google.” Another made sure to mention the Ivy League college they’d attended. My last session was 1:1 . After "tell me what you’ve been doing?” he asked “why do you want to work at Uber?” I started to talk about things I’d been doing at my current job and how I was no longer challenged. He interrupted me with a disgusted look. “I asked *why you want to work at Uber*, not *why you don’t want to work at your current workplace*”. I explained I was doing that and continued with how from my experiences I had learned I was interested in things like cutting edge tech, big data, etc. and I felt I could get that at Uber. I talked about how I like what they do and how great it is. He then deadpanned “so I’m getting you like technology, and you like Uber.” I was a little stunned at his attitude, but I honestly believe they have a great product so I elaborated more on why I thought Uber was doing good things. He tried to justify his question, “I’m an engineering manager and my success is based on the success of my team members, so I want to know what’s going to keep you here in 4 years’ time?” I was confused so I asked “4 years?” He said “yes, what’s to stop you from just packing up and leaving in 4 years’ time?” I wondered if he was being deliberately difficult in order to see how I would react. After explaining I didn’t know what he was implying he asked if I had any questions for him. I asked several in-depth questions about the work they were doing, technical aspects, etc. but he was done and just wanted to leave. He turned side on to me and faced the door, kept looking at his watch and out the window and giving short, dismissive answers. The recruiter turned up slightly after that and he left. During the day, no one said to me “here’s why we want you to come work here and where we see you contributing”. No one said “here’s why you should be here instead of Amazon, or Google, or Facebook”, and no one said “we have a great team here, it’s an amazing environment and we love working here every day”. Overall a horrible experience.
+
+What have you been doing in your current job?   Answer Question Why do you want to work at Uber?   Answer Question What’s to stop you from just packing up and leaving in 4 years’ time?   Answer Question
+
+Mar 20, 2015
+---------------
+After applying online and talking to the recruiter on the phone I was asked to do a coding challenge. I had as much time as I wanted. The coding challenge was very open. They gave me 5 different public APIs I could use and asked me to build a web app using one of them. I choose one that gave me real time data on transit times and schedules. After the coding challenge I got flown into their head offices in San Francisco. I had 4 interviews in total, 3 of them technical and the last one was more of a fit interview. Everyone was very nice and sounded very excited about Uber and it's future. The technical interviews where mostly about algorithms, data structures, etc. They also asked me why I was interested in Uber, they want people that really believe in the product and on what Uber is doing.
+
+Algorithms questions   Answer Question
+
+Aug 5, 2015
+---------------
+Applied online. 2 Phone screens where you are supposed to write working code in coderpad.io. It is a little biased towards scripting languages since there is no autocomplete/cosmetic compiler in languages like Java/C#/C++ - and you have to have working solutions and code. Got both questions correct but was slow to get things to going - recruiters responded very fast.
+
+Create a Json like object to representation and implement a flatten method to return string-&gt; string mapping. (implement from scratch / test / compiling + working code) {x:1, y:1, z:{a:1,b:2}} flattens to {x:1, y:1, z.a:1, z.b: 2}   Answer Question Q2. Implement a rate limiter attribute/decoration/annotation on top of an API endpoint. caps to N requests per minute with a rolling window (implement from scratch / test / compiling + working code)   1 Answer
+
+Apr 23, 2015
+---------------
+The process included a phone screen by a recruiter, a google hangout with 2 engineers and an in person interview with 4 pairs of engineers. The questions were different than other interviews I've been in with this structure. In the other interviews the questions were more towards algorithm and problem solving, these ones were open ended architecture questions. I definitely prefer the more open ended architecture questions. All of the interviewers were pleasant with the exception of one. I was struggling to communicate my answer, and the interviewer was openly frustrated (first time I've seen this happen, I've interviewed with this structure at 3 other companies). Even to a point of sighing out loud in frustration. Uber expressed that the interview was to simulate a regular work day, and in my opinion this would have been unprofessional in a meeting, but maybe at Uber this is normal? My opinion may also stem from the fact that I have never worked at start ups with a very young engineering culture. I was excited to be given the chance to interview at Uber but after the interview it was clear I didn't fit in with the culture.
+
+Given a list of words, find whether a new word is anagram of word in list.   2 Answers
+
+Apr 16, 2015
+---------------
+First, he asked resume projects in detail and what's my interested area. The ask the tech questions. After that is a easy follow up, and how to test the code. After that, I asked how many engineers there in Uber and some other questions.
+
+Implement an LRU cache.   1 Answer
+
+Apr 22, 2015
+---------------
+I was contacted by an Uber recruiter on LinkedIn with a personalized email. I then did a recruiter phone screen, and then a technical phone screen. The next week I came in for a full day of interviews. I had to code an Android app in the interview, which was pretty cool and I think a good test of my engineering skills. Everyone was super friendly and I got to eat lunch with one of the Android teams. I had a great experience. After the interview the recruiter stayed in contact and worked with me to accept my offer. I went back to Uber several teams to meet with engineers to answer my questions about culture and just hangout.
+
+Using Object Oriented Design principles, design a method to check if a Sudoku board is valid (skeleton code was provided which was initially passed in through a 2-d array).   2 Answers
+
+Feb 15, 2015
+---------------
+Initially, I was supposed to have two interview, but I ended up having three (all phone interviews). First interview, was asked about my background and to explain a project. Then, was asked a technical question. I was contacted within 10 minutes of the interview completing for a second round interview. Had a second interview a week later in which I talked to a Development Manager. Again, was asked about my background and then to explain how I think the Uber product works and how it could be improved. Then, asked an open-ended OOD question. E-mailed my recruiter 3 days after to ask about feedback and she responded within a couple hours asking to set up one more interview. In my final interview, went straight into my coding question (OOD and implementation) and went over in time a little. Was contacted within 10 minutes to set up a time to talk the next day and received my offer.
+
+Input a string and output the number of words (need to run on coderpad)   2 Answers
+
+Mar 31, 2015
+---------------
+The process is ok, that guy looks busy, and i made a small mistake in the coding process, and i asked him if he had any hint. He went like oh i dont know anything about java, bla bla.
+
+No Question
+Jul 29, 2015
+---------------
+I was contacted by a Technical Recruiter over email. After I talked to the recruiter we had to hurry the process as I had offer from Amazon which was pending for acceptance. I was given a take home coding challenge and also had a technical phone screen. I did Ok in the phone screen and but well in the coding challenge. I doubt they even evaluated my coding challenge after my average performance in the phone screen. The interviewer was pretty friendly easy going.
+
+Reversing a linked list, Implementing a rate limiter for a web service.   Answer Question
+
+Feb 22, 2015
+---------------
+I was referred by a friend. phone screen, It took about 30 minutes. It was not hard but not easy.Prepare a project that you think is perfect and present it to them. Don't be too nervous. You will be fine...............................................................
+
+resume, coding.   1 Answer
+
+Feb 14, 2015
+---------------
+I ask a friend help me refer software engineer position. HR setup a phone screen and give me a code challenge. At that week, I am really busy interviewing and gave them one of my existing project(they allow me to do that). After that, they think it's good and move forward to a technical phone screen. And this week, recruiter send me email that after they review my codes again, they want to cancel my phone screen. This is my first time meet situation. that's totally doesn't make sense, just a phone screen, come on! My project is not bad at all. They waste me few days to prepare for them. And In their email, they said they didn't provide any feedback and ask me to reapply after one year. Almost the worst interview experience I had before. I am a uber user and after this, I don' like it anymore.
+
+code challenge are on uber's github page   Answer Question
+
+Jan 28, 2015
+---------------
+It was one hour long interview, where I was asked the following questions: First 10-15 mins were related to my previous work experience What do you think Uber should do that they are not doing now? Design a system which suggests the orientations of all drivers when the user launches the app. Find the longest palindromic subsequence in a given string
+
+What do you think Uber should do that they are not doing now?   Answer Question
+
+Aug 7, 2015
+---------------
+I applied online, and got contacted by HR a couple of days later. Phone screen with a software engineer, he was very nice and not picky, I had one bug in my codes, but he still gave me strong recommendation. Got email to onsited next day.
+
+A classic permutation questions. Followed by the question if duplicates exist.   Answer Question
+
+Jul 22, 2015
+---------------
+HR contacted me with interview details, which had to be shuffled around a bit. After I passed the first interview they planned to hold but did not end up holding a Skype interview. After some time I mentioned that I would be near the office and available to come to HQ for the interview instead. After that, the interview happened quickly. They paid for my Uber to/from the office.
+
+Write a spreadsheet engine in the language of my choice.   Answer Question
+
+Jan 22, 2015
+---------------
+I was contacted by a recruiter via email to schedule a technical phone interview. The recruiter also sent me a list of Software Engineering positions that were available and a description of the languages/technologies I would need to know. This was helpful in preparing for the interview. The interviewer contacted me on time. It started with an introduction and a couple questions about my resume. Then the coding portion of the interview began. I had about 20 minutes to complete it. It was a fairly challenging question that tested your knowledge of OOP principles. I struggled a bit, but the interviewer kindly walked me through the parts where I was making mistakes. Overall, it was a great experience. Although my interview process with Uber ended at this point, I learned a lot and I'll be able to use this experience to improve.
+
+OOP related. Cannot share.   Answer Question
+
+Jan 23, 2015
+---------------
+I got an internal referral through an employee. I got contacted by HR very quickly and set up a phone screen. During my phone screen, I was contacted by an engineer who was different from the person initially scheduled to call me. I point this out because he was a javascript engineer while I was interviewing for a backend position. The engineer called 10 minutes late to a 45 minute interview. Then he proceeded to ask me about my background and dived into a coding question.
+
+He asked me a question that seemed very applicable to a javascript engineer, but just didn't make sense to ask if I wanted to code in java. It seemed like very quickly the engineer realized that he didn't think his question through, but it was too late at that point. Therefore for the next 30 minutes I proceeded to attempt to answer a question that was poorly constructed and just wasn't applicable. On top of this, the interviewer was in a very loud room with a lot of background noise so it was very difficult to hear from. Also he was constantly talking to another engineer that was also on the call with me, with who I imagine he was trying to get advice on how to improve the question. Additionally the call quality became very poor halfway through the interview and I pretty much could not understand anything he was saying. All in all, this was a very poor experience and I hope HR improves their interview process in the future.   Answer Question
+
+Jan 22, 2015
+---------------
+Contacted by a recruiter through linkedin for a software engineer position. Asked to build a web application with their requirements of 1 of 4 system choices or submit my own projects for review. Heard back a week later from recruiter with a rejection.
+
+the project that they asks you to complete   Answer Question
+
+Jan 21, 2015
+---------------
+Applied through an employee referral, passed the initial phone screen but failed at the onsite interview. I was unhappy about the fact that the recruiter matched me to a very specific team without consulting my preference. And the worst part is even though the interview is very specific, the recruiter lied to me before the interview saying that it was going to be general. No response is given when I asked why she didn't tell me the truth. Terrible experience.
+
+Lots of question related to hash table.   Answer Question
+
+Apr 15, 2015
+---------------
+The process was in 2 steps: a live coding phone screen, and an onsite. I was initially concerned about the live coding process due to bad experiences with other companies in the past, but the interview blew my expectations. It was clear that the interviewer was concerned with getting a good assessment of my abilities rather than nit pick on silly syntax. The onsite was a bit unique and included 2 problem solving sessions, 1 live coding, and 1 design section. I really enjoyed the problem solving sessions and we worked out a few very interesting problems together with the interviewers. For design section, I was asked to design a system from scratch and talk about scaling, product, and performance concerns.
+
+Design from scratch and talk about scaling, product, and performance concerns.   Answer Question
+
+Feb 17, 2015
+---------------
+Applied online and they responded about a month later. It was a smooth process -- the recruiter was very responsive and welcoming. She was very accommodating to the restricted times I could interview with them at.
+
+Implement boggle   Answer Question
+
+Sep 25, 2015
+---------------
+Started off with a few calls with the recruiter, then got set up with a technical phone interview with one of the engineers. The question was pretty easy, any fool that knows how to code should get it. Then I was called for an on-site interview. There were a couple of easy technical questions, and a lot of them wanted to discuss a problem I solved or what I do at my current job. So in the end, I had to explain my work like 3 freaking times to 3 different people, which is probably my fault for talking about the same thing, I probably should've prepared different problems to talk about.
+
+Describe a problem you solved.   Answer Question
+
+Dec 20, 2014
+---------------
+While I'd love to tell the exact questions I was asked, I am sure I've signed an NDA, and also every interview is different. I'll try to be as informative as possible though. Was referred by a buddy to his team, and the initial process took a little longer (about two weeks) partly due to the recruiter not reaching out immediately and that I put things off since I was busy during that period of time. The phone interview was on filling in code for an existing interface in the mobile framework, which is a not the easiest thing to do since we rely heavily on the editor to auto complete most of the time. The interviewwe was very nice and didn't dwell too much on syntax. The interviewer went into a deeper discussion about the code I just wrote, including why I think the framework was implemented the way it was, and various follow up questions about this particularly feature. The interviewer was quite helpful and offered more detailed explanations of the answers he was looking for throughout the interview. A day later the recruiter called with positive feedback and wanted to to move to onsite. I was given options of completing a coding challenge at home or onsite (an easier version of the take home I assume). I chose the take home for obvious reasons, but told him that I was going be very busy over the next few days. I eventually around to it and spent about 4-5 hours on it before submitting, after which I was knocking my head on the wall after realizing I had bugs and what not. Also I was unsure of how polished it was suppose to be, and tried to adhere to the 4 hour guideline, which we all know is not a lot of time to do anything. Two days later the recruiter called back to move onto the onsite. The feedback was that overall I did well on the coding challenge, with some problems (e.g. not demonstrating understanding of MVC, bugs, etc), but those problems will be addressed once I go in person. Interviewees are given $200 in Uber credits to get to and from the interview, which I didn't use as it wasn't enough giving the limitations. Once there, I was put into a room (which every interview complained to be very cold) for 5 one-hour interviews. Compared to other interviews I've done in the past, I felt that the Uber interview was the most effective at gauging the domain knowledge as well as programming skills of a candidate , as opposed to most other places where the questions asked are not relevant to the domain, and in the case of places like Google, completely not related to one's expertise. During the interviews, I was asked to: 1) fix bugs and add to the project I submitted for the coding challenge, and defend my implementation with a bunch of follow up questions related to optimization 2) answer a ton of questions on the mobile framework that tested for both breadth and depth of knowledge (not sure how I came up with some of those answers) 3) code algorithm involving implementation and use of two data structures (was unfamiliar with the second one and had to figure it out on the spot) 4) OOP design question (hardest one for me by far as the interviewer wanted a completely modularized design) 5) design discussion (very interesting as the interview was a debate and I wasn't sure what the interviewer was looking for) One day later, the recruiter called to make an offer. I want to mention that the Uber recruiter was very professional and moved very fast (This is not true in many case elsewhere). Useful feedback was also given that allowed me to better prepare for the next stage. I was very satisfied working with him and at no point in time felt I like I was left hanging.
+
+Design a casino game   Answer Question
+
+Apr 14, 2015
+---------------
+Phone session Onsite has 5 rounds 2 problem solving 1 design 1 live coding And manager talk Engineers are all young and vivid, I guess that's one of the reason it's attractive to me. People are nice and responsive, the recruiter is very busy with schedule but responses to email pretty fast. Entire process takes less than a week, much more efficient than the other company I'm interviewing with: Google takes a week to get back the offer to me, LinkedIn takes more than a week to inform me passed the phone screen, etc.
+
+Algorithm questions are not hard, but these 2 questions asked I have never seen it before. Not the common one you could find on leetcode, etc Live coding needs you to code on machine and let it run at the end   Answer Question
+
+Apr 7, 2015
+---------------
+- The phone interview was a live coding session. It is a pretty difficult front-end problem. - The onsite was 4 panels with 2 engineers each. Mostly white boarding with culture questions with the manager. - My interview was 9am in the morning and glad that interviewers didn't hate me for that. - Interviewers are smart and professional.
+
+Q:Why Uber?   Answer Question
+
+Apr 14, 2015
+---------------
+I interviewed a few months ago for a full time software engineer position at Uber. I got the interview opportunity through friend referral. I was first scheduled for one round of phone screening that was given by an engineering manager of Uber. Was asked about my technical background, my work, as well as two coding problems. It went very well and I was invited for onsite interview one hour after the phone call. The onsite interview occurred 2 weeks later and last about 4.5 hours. 4 people challenged me with many technical questions such as whiteboard coding and system design questions. Every one was pretty friendly and walked in quite on time so there was not much break time in between. Last technical interview was a practical one - I was asked to solve a real world problem and implemented it subsequently. Before the actual coding work, interviewer had a thorough discussion with me on details of all levels to make sure it was a reasonable solution that could be done in a matter of minutes. The problem wasn't super hard and the solution could be suboptimal but you need to make it work. Therefore you better be a hands-on engineer at work and write real code in an efficient way (editor choice, API lookup, debugging skills, etc). For myself I use Vim everyday and that helped me a lot. Following the 4th round of technical interview I also got the chance to talk to recruiter and hiring manager for various questions and concerns, which they addressed very well. I got an offer next day after the onsite interview which after some negotiation I happily accepted. One thing I'd like to point out is that I was blown away by the company's efficiency during the whole hiring process. The hiring manager and a few recruiters I worked with always responded very promptly within a few minutes. BTW I live in South bay and the commuting to/from San Francisco was of course covered using Uber, making the interview experience even more pleasant:)
+
+whiteboard coding, live coding, design, culture questions that kind of stuff   Answer Question
+
+May 14, 2015
+---------------
+Hiring process was fairly standard - phone interviews, then on-site. The main problem I had with the interview was that my recruiter was the most unresponsive and uncommunicative person I had ever worked with. I go to school on the east coast, so they had to fly me into California. After the interviews were said and done, however, I declined their offer and then emailed my recruiter for travel reimbursements. Lo and behold, the recruiter who was extremely responsive to my emails did a complete 180 and starting ignoring completely. Weeks pass (I've written about 5 emails now), and there's still no word of reimbursement. I contact her through other means as well (LinkedIn), but again get no response. At this point, I'm scared that they won't reimburse me at all for the $400+ in travel fees. Finally, I emailed a random other recruiter through LinkedIn and was able to get a very speedy response. Watch out candidates, Uber is not the best when it comes to recruiting.
+
+SQL   Answer Question
+
+Apr 16, 2015
+---------------
+The most responsive interview process I've had. I applied for the position online and the technical recruiter reached back to me the next day. She asked about my background and I was given the choice of either submitting a code project I was proud of or completing a coding challenge within a week. I opted for the coding challenge and spent an entire weekend implementing it. I was then arranged a phone-screen with a senior software engineer. The phone interview was a live coding session and we had to implement a feature on the browser together. Later that day, I heard back from the recruiter and she invited me to fly to San Francisco from Toronto for an onsite interview. The onsite interview consisted of four separate rounds of 45-minute interviews. The first three rounds each had two engineers and I was asked to write working code and design on the whiteboard. Each round tested knowledge on a specific domain: in-depth coding, architecture design, breadth of knowledge. The last round was a design discussion with an engineering manager. I heard back from the recruiter the next morning and was presented with an offer.
+
+Live coding questions.   1 Answer
+
+Dec 6, 2014
+---------------
+Uber was incredibly kind to me throughout the whole process. I had a phone interview, where we went through a matrix navigation problem to search for an element. In the final round interviews, I got to talk about economics, statistics, and computer science in each of three interviews, allowing me to see a really nice wholescale view of the company.
+
+Design a price surge system, both at a high level and the architecture   Answer Question
+
+Oct 28, 2014
+---------------
+Contacted the recruiter and soon got a phone call from the company. After 3 phone screens in the less than 10 days, I was scheduled for an onsite. They agreed to reimburse for the costs but since the interview they have been mute. The onsite interview was supposed to be with 5 people, but it was cut short to only 4. The excuse was that the final interviewer had something emergent came up. In hindsight it seems they already decided not to hire, even though I thought I did relatively well. Most of the interviewer seems very professional, except one, whose body language and facial expression was saying that I was wasting her time. The recruiter was silent after the interview until I pinged her for an update. She told me that I was not a fit because the team was looking for a very specific candidate. In hindsight, the statement from the recruiter and from some other reviewers cannot be more true: the company is looking for VERY SPECIFIC skill set and is not looking for anything remotely like a generalist. The position I applied for was in mapping and logistics and they seem to expect me to know all the algorithms in computational geometry. My friends who were hired by a different team in the company was hired because he knew exactly what the team was looking for. It looks like people were hired to solve problems that already have and not the ones that will come up in the future. In other words, the company's hiring demeanor is very short sighted.
+
+Mainly system design problem. Two problems and no coding at all. The interview difficulty varies from person to person and I can feel that they don't have a standard bar so just try your luck.   Answer Question
+
+Oct 7, 2014
+---------------
+Post resume both at school and at website. Got contacted a week later. Schedule a phone interview and the interview was not confirmed until only a day or two before the interview. I had to reschedule my interview with other companies and i went for four different companies that day. Interviewed with a software manager.
+
+Parsing incoming data in Cpp   Answer Question
+
+Oct 26, 2014
+---------------
+The interview process has two parts: a phone interview an 3 to 4 onsite interviews. I have passed the phone one (one big coding question) and I am waiting for the second round. You absolutely need to know your data structures and basic algorithms, but other than that its all about practice and a bit of luck.
+
+Design an API for a service, then layout how much data your service will hold and how many machines it needs. I was purposefully rushed by the interviewer to design this, so there wasn't time to design something great.   1 Answer
+
+Oct 31, 2014
+---------------
+Submitted resume, contacted by recruiter 2 months later (this is because I stupidly didn't tell a friend I was applying so I didn't get referred. If you know someone there, get a referral!). Had a phone interview with recruiter about what I'm looking for and experienced in. Skipped the technical phone interview because I knew people there, so I went straight to the on-site interview the next week. Technical interview was fair, not as difficult as I expected. I never claimed to be a pythonista as my experience is in C, but I can write python, so maybe they took it easy on me when I wrote some non-pythonic code. Coding questions included string manipulation and graph traversals, pretty simple code but enough to gauge your algorithmic knowledge. Had one design question. Technical questions included trivia about working in a terminal and core computer science or programming language fundamentals. Afterwards had an open ended discussion with the hiring manager (now my manager) about Uber's system architecture. Contacted by the recruiter a day or two later with an offer, and started 2.5 weeks later
+
+It's just basic algorithms stuff, can you sort through this, memory management techniques, etc. Nothing particularly difficult.   Answer Question
+
+Oct 30, 2014
+---------------
+I had a recruiter reach out to me expressing interest in having me meet with the team. I did a phone screen with the hiring manager, a coding exercise, and then had a full day of on-site interviews. The hiring manager was very nice and enjoyable to speak with, however, the rest of the team was pretty awful. Folks would smirk when they didn't like your answer or thought they had "gotten your goat" so to speak. Another time I had an interviewer completely disinterested and checking his phone for minutes at a time while I was answering his questions. A lot of the folks hadn't looked at my resume before speaking with me and didn't have a copy when speaking with me. I've interviewed at quite a few companies over the course of my career and Uber is far and away the most unprofessional and worst experience I've had. You can sense they are growing quickly and potentially hiring bodies more than quality candidates. To add insult to injury, the Uber driver that brought me to the interview talked about how terrible Uber had gotten over the course of the few years he'd been a driver for them and somewhat eerily we passed under a sign on the freeway announcing an upcoming protest at the Uber office. Yikes!
+
+An architecture question   Answer Question A problem solving question   1 Answer A coding/data structures challenge   Answer Question A one on one with the manager for a culture fit.   Answer Question
+
+Nov 1, 2014
+---------------
+The most responsive and open interview process I have ever been involved with. From the very beginning I was given all star help and guidance. Began with a quick talk about the company and my background, aka the initial screening. This was followed by a coding challenge, unless I already had public code I preferred they look at. I enjoy a good challenge so I chose one of theirs: a full stack single page web application. After a week, I submitted and they had a single day turn around to review the entire project! The following day was a technical overview of my experiences. Later the SAME day, I was informed I was invited to an onsite at HQ. I was to front the bill for travel, but their expense reimbursements process is painless. They ultimately pay for everything. The onsite I will describe only as a pleasure and a challenge to respect their process.
+
+No difficult question.All the questions were open ended like how would you design netflix,online spreadsheet, tell me about a challenging situation/issue in your current/past project etc   Answer Question
+
+Oct 20, 2014
+---------------
+The only reason I am writing this review is because I am still fighting with Uber account payables to get back the money I spent for my travel,hotel and meals.Yes,Uber do not make these arrangement, you have to make your own arrangement and then hope that you will get your money back.I was interviewed before by Amazon and it was a nice experience when it comes to Interview arrangements,but with Uber, I never expected such a bad experience. On interview front, it was a easy, unorganized interview.They don't ask you very tough technical questions but rather its more like a discussion to see if the candidate is a cultural fit in the team they are interviewing for.
+
+Implement LRU cache with get and set operations in constant time O(1).   1 Answer Given a regular expression pattern and a string, check to see if pattern matches the string.   1 Answer
+
+Aug 5, 2014
+---------------
+Applied online through their career section. Immediately got call from HR (in an hour; They are pretty efficient). They asked if I have any open source projects that they can take a look at. I sent some of my open source code but they wanted to see some concrete. So they sent me coding exercise which I finished in a week (It was simple exercise developing web app). Again got call from HR the next day saying they liked it and wants to talk further. Had another phone interview with the engineer. It was very basic interview with questions like what are you working on, why are you looking to move etc. (nothing much technical). Then interviewer asked me if I am open to come for onsite interview. They scheduled onsite interview immediately. Onsite was tough with 3 technical interviews testing my coding skills. I know i didnt do well in 1 interview (some rude guy with european accent -- as someone said earlier about him in another review) but other 2 went all right. Next week got rejection email saying didnt meet the requirements. As far as company is concerned, it looks on the right path with lots of talented people around. But its not the best I have seen. If you are interviewing for the engineering position, read and practice system algorithms (especially caching related)
+
+Design a distributed system for sorting of large files.   1 Answer
+
+Apr 8, 2015
+---------------
+The process for Uber interview is pretty interesting. Unlike with Google or other big companies, besides white board coding and design questions, Uber has an extra round of living coding section. There you are given a real world problem and you need to solve it using your own computer, write the code, debug and then demo it in 45 minutes. You can use your preferred language, tools and even Google things you don't know during the interview. In this one, they actually test your ability to solving real problem and communication skills, not just about algorithm.
+
+No Question
+Nov 2, 2014
+---------------
+Pretty standard process. 1. Recruiter contacted me via LinkedIn, followed by short call covering the usual recruiter fluff. 2. One hour phone call/shared code window with team lead. 3. Full day onsite split into 1 hour segments 1-1 with team members to do a coding exercise on a whiteboard, and ask questions. Also, lunch with team. Questions focused mainly around computer science and system architecture (i.e. describing the algorithm rather than writing code, knowing the big-O complexity, etc.) 4. Canned rejection email from recruiter There were some common traits amongst the team. One of these was that they all graduated recently from the same two top engineering schools. They were friendly during lunch, but during the interview session there was a more serious tone - almost spite - as if to see how I handled having my competence questioned. Overall it was a well organized, thorough process. I would have taken an offer given the reputation of the company.
+
+No Question
+Jun 1, 2015
+---------------
+Overall the interview process is smoothing. Met around 10 engineers there. They are smart, and have solid background. During the interview they showed respect to their candidate. You can book the hotel and flight by yourself, and reimburse later.
+
+1. Segment Tree; 2. How to diagnose latency in data center;   Answer Question
+
+Apr 16, 2015
+---------------
+I was referred by an internal employee. We started from a recruiter phone screen, following by a code challenge. After the code challenge, I am scheduled to talk with Hiring Managers from two different Engineering Team and I decide to go with the Growth team. After the hiring manager screen, I am scheduled an onsite interview. The onsite interview consists of four technical session and one manager wrap up. Everyone is nice, and the questions are interesting as well.
+
+Why do you want to work for Uber?   Answer Question
+
+Apr 2, 2015
+---------------
+The hiring process was fairly quick. I applied online, got a phone call from a recruiter the following day, was asked to work on a deliverable coding exercise at-home ( took 2 days ) then they flew me in for an onsite. The onsite was as expected for an engineering position, a couple of the questions seemed a little straightforward, one live coding, then one discussion with a hiring manager I brushed up a lot on my CS fundamentals, and it definitely helped. But you need to be able to think on your feet and write working code.
+
+Print all permutations of 3 pair of parens. ()()(), (()()), (())(),,,. etc   Answer Question Live-coding on a page that searches for images on flickr/google API via ajax and populates it using js.   Answer Question
+
+Apr 14, 2015
+---------------
+1. Code Challenge (took me 4 days) The code challenge is so fun. I haven't done web development for a while. During the challenge, I learned a lot and I am proud of what I submitted. 2. Phone Screen The interviewer is nice and very clear on all the question he asked. 3. Onsite Interview Everyone I met on that day are pumped about their jobs. The company culture is very different from the image I received from press and media. These people are excited about the problem they are facing and they are all-in to make it done.
+
+Build a simplified YELP-like service.   Answer Question
+
+Feb 27, 2014
+---------------
+I applied online and got contacted by a recruiter very soon after. He was very nice and told me about the company in some detail. He then proceeded to tell me that there was a coding challenge that I had to complete before applying. I agreed to do the challenge and got the details. For the challenge you get to pick one of a few applications that they want you to build. They say that it should only take you 4 hours, but I actually worked on it for the better of 2 days and still felt like I was missing details when I went through the code during the phone screen. The phone screen is a 40 minute interview about the code you wrote. I got the feeling they were expecting a much more thorough job than the challenge suggests. In retrospect, I would have taken care of a lot more of my TODOs.
+
+My coding challenge had to calculate the nearest transit stop given your current location. They asked for an efficient way to do this. The answer ended up being something I was not familiar with, Mongo DB and such database geo location built in functions.   Answer Question
+
+Nov 19, 2013
+---------------
+the hiring process is kinda messy, but the people there including recruiters seem very nice, so they are making efforts to make things work. The team hire structure can be hit or miss, interviewers are less prepared, nothing ensures a consistent high bar. less of getting talents more of filling the positions. the offer making process really shows the philosophy of the company. people are hired for working on tasks, not to help building a great company. Very much a top down structure than eng driven like google. Seems that engs are just expected to follow orders, not to think or improve. the stock option is offered without mentioning the current fair market value, only throwing big potential growth, red flag 1, getting arrogant and cold when trying to negotiate, red flag 2. If future employees are not treated with respect, hard to imagine how things would be when actually working there.
+
+Find the longest word in a grid of random letter, each consecutive letters has to be next to the previous one.   Answer Question
+
+Apr 7, 2015
+---------------
+I sent a direct email to a recruiter there saying I was looking for a new job and was interested in Uber. He almost instantly answered to my email offering to hop on the phone the following morning to chat about what I was looking for. We spend ~20min on the phone trying to figure out what my strengths were and what I was looking for, and we concluded that growth would be a good fit. I was quitting my job 2 weeks later, and am on a working visa, so I stressed them about being in a rush and to please make the process as fast as possible. Which they did. Sent me a coding challenge right after the phone call - Multiple choices of different APIs to use and do something about it; I did it in the shape of a backbone app with a ruby backend. Worked on this over the weekend (I found it really fun to do actually) and sent it over on monday. Tuesday I had a interview scheduled - they knew I was taking a plane Friday, so they happily scheduled the itw on Thursday. Spend about 4 hours there, split in 4 interviews of different types. Algorithms, problem solving, live code and front-end. All interviews were done by 2 interviewers, all from the growth team, all seems super excited about the team and the company. The interviews, despite being quite stressful, were actually a lot of fun. The fourth interview was a wrap up with the team's manager, who told me not to worry, everybody really liked me so they'll send an offer my way. I would negotiate offer details with the recruiter. We then chatted casually about his background, mine, some other random stuff and had a quick tour of the office and was introduce to random people we walked by. That was really cool and I felt really valued. I originally contacted Uber because I happened to have a hold of a recruiter's email, but was not especially into Uber. I was generally aiming a bigger startups (airbnb, sqaure and facebook were my other main choices), but this interview really just made me wanna work for the company. The next morning I chatted with the recruiter on the phone while waiting for my place. Again a nice casual chat were he asked me what kind of offer I was expecting and it all seemed really just to be about how to get somewhere that would make me happy. He clearly explain the stock options plan, etc. We got to an agreement and told me the offer would be taken care of and sent to me by email the following week. I instantly called all other pending offers and interviews and cancelled. The rest of the week was spent taking care of my visa and all went flawless. I've been at Uber for more than a year now, and I'm still convinced I made the best choice in my career!
+
+Describe a recent technical challenge.   Answer Question
+
+May 10, 2015
+---------------
+I met an engineer and he referred me. Really friendly interview process. Phone screen, technical screen, on-site. Lots of data structure and algorithm questions. Ask questions and collaborate with your interviewer. It's not about what you can do, it's about HOW you do it. They are all about team work.
+
+Be prepared for very general design oriented questions that require a great deal of discussion.   Answer Question
+
+Sep 30, 2013
+---------------
+I interviewed at Uber because they are an impressive company and probably a great place to work. I didn't receive and offer. I cannot say that I was surprised. I do believe there were a few things they could have done better to increase my chances as well as to treat their candidates better. As others have mentioned, they encourage their candidates to handle a coding challenge. While this is not unreasonable, they did not set clear expectations. Specifically, if you are invited on-site, they will carefully review your submission in person. I might have performed better at the interview if I didn't have to admit so many areas for improvement in my submission. Had I been aware that my code would be part of the interview, I probably would have done a better job. This is something to be aware of because they failed to mention it prior to my submission. Otherwise, the interviews were tough and tiring. The questions were somewhat less structured than many other companies. The office seemed quite disorganized. I doubt it's always like that, but it did appear that I was invited at an especially hectic time, both at the office and in the neighborhood outside. I might have benefited from them inviting me at a more reasonable time. The recruiter had rushed me through the whole process. Maybe I would have been more prepared if I hadn't allowed this to happen. Finally, they repeatedly volunteered to pay to reimburse my transportation costs and then failed to do so. It wasn't a significant amount, but it was more than I have spent anywhere else. The only reason I splurged was that, with no suggestion of my own, the recruiter volunteered to cover the costs multiple times. Of course, after I was rejected I was not reimbursed. It's an easy empty promise to make.
+
+A lot of javascript related   Answer Question
+
+Oct 31, 2013
+---------------
+I apply on the career fair. Got two phone interview a week later. Not difficult algorithm problem. But I have difficult to hear on the phone. It seems it is very noisy at office. Then got an on-site invitation. Recruiter said the interview will be 3 hours but actually it is 2 hours with 3 people. It seems the interview is poorly organized. They ask me a lot of javascript question which i am familiar with.
+
+No Question
+Dec 22, 2013
+---------------
+Had an initial call with a recruiter who wanted to gauge my understanding of Uber's business model and interest in the company. Then had a phone call with the hiring manager before coming in for four onsite interviews. The interviewers all spent a good amount of time getting to know me before moving on to the technical portion, which was mostly coding on a whiteboard. Things were a bit hectic when I interviewed - Uber had outgrown the office and interviews were done in a quiet corner. Also, the list of interviewers changed quite a bit. Another notable thing was Uber was the only company that asked how I handle stress. All signs of rapid growth, but not necessarily a bad thing.
+
+How do you handle stress?   Answer Question
+
+Jul 25, 2013
+---------------
+I applied on their website and had a call with a recruiter within a week. The next day he asked me to do a coding challenge. I spent the weekend doing it and within a day of sending it to them, they said I had impressed them with my work and asked me to fly to SF for a final round. Note that I had to book my own flight and hotel and I didn't get reimbursed until two weeks later. Not a big deal but be prepared to front about $1,000 if you're coming from the east coast on such short notice. The onsite wasn't very organized, people stepped in and out. I met with all engineers (besides a brief chat with the recruiter), in total about 8 - 10 people. I know for a fact I didn't do well on one interview. The interviewer had a very strong European accent and I also answered one of his questions wrong. He even laughed at me, which I thought was extremely rude. I did well on all the other interviews throughout the day. A week later I got a rejection email saying that they liked my passion but didn't think I had enough Python experience. Very much a canned rejection email.
+
+Pretend I am a 5 year old and explain what an NP-complete problem is.   1 Answer
+
+Sep 21, 2013
+---------------
+I was contacted by a recruiter via LinkedIn who was looking for a backend developer, I informed her that wasn't my speciality but if they were looking for <insert speciality here> I'd be happy to talk to them. She passed me off to another recruiter who set me up with a call with the hiring manager. Call with hiring manager mostly covered non-technical topics, largely about how my speciality might fit in at Uber. After that I had an onsite interview scheduled. The onsite was a technically rigorous interview with three sessions, it reminded me of the Google style interview process. Some whiteboard coding, lots of discussions about how my speciality could fit in at Uber and a lot of sysadmin style technology questions. Everyone I met was really pleasant and very smart. I got a call just under a week later saying that they I had done well but weren't convinced that I had demonstrated sufficient software engineering skills (outside my speciality) and asked if I could do a take home coding test. I finished the test in a handful of hours over two evenings and got it back to them. From the sounds of things the code test normally happens before the onsite interview. A few days after that I heard that they wanted to make an offer. At this point I was also waiting for an offer from another company and told them so and asked for some time. The recruiter was happy to give me time to consider other offers and went through the offer in some detail. The offer was a good (but not amazing) salary plus stock options, the stock options were worth almost as much as the salary at the present valuation of the company (according to the recruiter). The story takes an unexpected detour here as my other offer is delayed due to problems at the other company. The recruiter was very understanding but grew a little frustrated as the delay turned into a multiple week saga. Eventually the other company made an offer that had a similar salary component but a much larger equity component. It was a hard choice but I was more interested in the market segment of the other company so I declined Uber's offer. Everyone I met at Uber was great and I would have been delighted to work there.
+
+Please find our standard web test below! Code Test! Bam! Uber clients are able to store favorite locations for easy pickup requests. Create a backend and a frontend for managing favorite locations. This is a simple exercise, but organize, design and test your code as if it were going into production. When you’re done, host it somewhere and provide us with a URL and a tarball or Git repo with the code. Backend Using the language (Python preferred), libraries and data store of your choosing, create a JSON in/out RESTful API for managing favorite locations. Stay away from Django or Rails, but microframeworks like Flask (preferred), Sinatra or Express are fine. Attributes of a favorite location object include: id, lat, lng, address (e.g. 800 Market Street, San Francisco, CA 94114), name (e.g. Work) Frontend Using JavaScript, Backbone.js and any other libraries of your choosing, create an interface to access the API. User should be able to: Create a new location Read/view a location, and a collection of all locations Update an existing location Delete a location The UX is up to you, with a couple of constraints: Incorporate a map Geocode the address so the user is not required to enter lat/lng Extras If you like, get creative and do whatever else you like on the backend and/or frontend to show off.   1 Answer
+
+Apr 24, 2013
+---------------
+I was referred to Uber by an acquaintance. After a standard phone screen, I was asked to complete a coding exercise that would take 6–8 hours. While I approve of coding exercises as an interviewing technique, a working day is a rather large time commitment so early in an interviewing process. I politely responded that I would like to see how my other interviews (which were much further along) conclude before completing the exercise. I received a rather rude and terse response from the in-house recruiter: "Doesn't sound like we are the right fit for what you are looking for." I'm happy that I did not interview further.
+
+The take-home challenge was good - emphasis here is on owning a full stack for a service, and this was the first time I had written an API using Flask.   Answer Question
+
+Oct 31, 2014
+---------------
+When I was hired the company was small so this is less relevant, but I did a take-home challenge and then one day of in-person interviews, followed by a quick half-day cultural fit interview (at that point I'm pretty sure they were going to make an offer).
+
+Tell me about a big problem you solved in the past.   1 Answer
+
+Apr 2, 2015
+---------------
+Talked to a number of engineers and had an opportunity to ask a number of questions. The interviewers were courteous and answered my questions candidly. I wasn't asked any silly brainteaser questions, and the interviews all seemed focused on my ability to help them. After the interview I had a chance to meet more of the team and see the office.
+
+some question about array   Answer Question
+
+Sep 13, 2015
+---------------
+Phone call interview, the interviewer doesn't' sound like he's interviewed much, and it was very awkward through out the interview, he didn't talk much and I wasn't sure what to make out of it. The test was pretty standard that I have to code through an online editor however he seemed to let me use whatever resources i can get which was pretty rare. But one negative effect was that the editor can compile and I kept on getting segfault which i couldn't debug in time.
+
+The first engineer asked me for a slower answer than the one I gave, which really threw me for a loop.   1 Answer
+
+Jan 27, 2015
+---------------
+Applied online, had a phone interview with a software engineer. I was then asked to come down to San Francisco for an onsite interview, but then they responded the day after saying that they were confident that all they needed was a last phone interview. Had the phone interview with a Head of Engineering. This was probably the most enjoyable interview I've ever had, no specific technical coding questions, but we talked about general coding at length.
+
+No Question

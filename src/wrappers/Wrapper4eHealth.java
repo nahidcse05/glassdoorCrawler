@@ -247,7 +247,7 @@ public class Wrapper4eHealth extends WrapperBase {
 
     public static void main(String[] args) {
         
-    	String company = "intel";
+    	String company = "uber";
     	
     	Wrapper4eHealth wrapper = new Wrapper4eHealth(company);
         int range = 0;
@@ -305,6 +305,12 @@ public class Wrapper4eHealth extends WrapperBase {
     	
     	 	fileURL = "http://www.glassdoor.com/Interview/Intel-Corporation-Software-Engineer-Interview-Questions-EI_IE1519.0,17_KO18,35_IP";
         	range = 18;
+    	}
+    	else if(company.equalsIgnoreCase("uber"))
+    	{
+    	
+    	 	fileURL = "http://www.glassdoor.com/Interview/Uber-Software-Engineer-Interview-Questions-EI_IE575263.0,4_KO5,22_IP";
+        	range = 10;
     	}
         
         for(i=1;i<=range;i=i+1)
