@@ -1,0 +1,1726 @@
+Oct 27, 2015
+---------------
+Terrible experience!!!! After the interview, the hiring manger calls and extends an offer verbally, and then for a week no response from them at all. Tried reaching them via email, phone, absolutely no response. Finally the recruiter is available on his mobile and he says they cannot give a certain Grade , and a certain salary, I still say its ok please give me an offer letter. He says he will get back to me by the EOD and no response. Next week I call the recruiter again and now he says the req is closed and in turn blames me for not responding on time. Clearly, looks like the hiring manger extended an offer but later they changed their mind and they have no idea how to communicate this to me, so did all sorts of things to make me drop the ball and when I did not they say the req is closed. Did not expect this from a reputable organization like Cisco. Terrible , terrible hiring process!! I feel interviewees should be give some respect when they take time to come onsite and spend a day. No point taking names, but I just wish this would be addressable and not be repeated for future candidates.
+
+Data structure/algo questions and some low level questions   Answer Question
+
+Oct 23, 2015
+---------------
+The interviewer was a very friendly person. He began by asking me about the projects that I had done in undergraduate school. Then he shifted on to a couple of design questions related to client server model and networking protocols. These were just basic questions and did not require in depth knowledge of networks. Then he asked one programming question. He asked me to suggest approaches to solving it. And later on, implement one of the approaches on a white board. Then he asked me if I had any questions for him. I asked a couple of questions and then it was done.
+
+Implement an algorithm to shuffle songs in a playlist   Answer Question
+
+Sep 4, 2015
+---------------
+Had 5-6 rounds of interviews. The aptitude and problem solving was looked upon. The interview was arranged in 2 rounds. The interviewers were very friendly. Each interview lasted for about 45 mins to an hour. Different rounds covered different topics like OS, Networking, Data Structures etc. A lot of algorithms questions were asked to test the aptitude.
+
+Multi threading and synchronization related questions   Answer Question
+
+Jun 21, 2015
+---------------
+Contacted by recruiter and had a 30 minute talk. Went on to have a phone interview which was a technical programming interview. Some basic computational problem. Went onsite and had 4 hours of interviews including architectural design and programming.
+
+Asked me to describe how computers work at a high and low level, as well as design a REST API for a complete system   Answer Question
+
+Jul 23, 2015
+---------------
+It was a long interview - almost take a whole day. First, the recruiter let me in the building, order lunch for me. Then group leader had a overall talk, then 2 tech guys come with tech interview - in very detail. Talking with HM is the last step.
+
+Working experiences, working habits, programming, project experiences, family status, ....   Answer Question
+
+Sep 11, 2015
+---------------
+It was medium to difficult. Asked about bit level manipulations, writing codes for algorithms like sorting, searching, graph and tree traversals and few more. Asked about the projects done as part of coursework. Asked some theory questions related to OOPS, operating systems and network basics.
+
+multithreading, TCP/IP   Answer Question
+
+Apr 20, 2015
+---------------
+WORST interview experience ever. It started with a referral for application level position. Got an email requesting time for phone interview. After, deciding that got call from the same engineer that they have to fill the requistion so you will have to come onsite this week. So I rescheduled other interviews and went for the interview. When I reached the building my point of contact was not reachable. I waited in the lobby for 15 minutes and a gentleman from completely different team came and said I will interview you for my team. So from application team to a low level embedded team, what a jump. One of the interview asked me what is the balanced tree. I started explaining about the height and how difference in the height gets to the balanced tree. I was shocked to learn that interviewer's definition of balanced tree was a binary search tree. After explaining the interviewer and interviewer searching on the web for 5 minutes said there are these two definitions of the balanced tree and let's move on. One interviewer was very rigid about the hash chaining implementation. They wanted specific answers to specific questions rather than the thought process. The whole process was wierd.
+
+Question whether the binary tree is balanced?   1 Answer
+
+Apr 16, 2015
+---------------
+Hard interview, asked in depth questions about operating system internals and obscure data structures. Disconnect between what was posted on the listing and what the actual interview questions covered. Other than the questions the interviewers were nice and courteous. If I had expected questions on object oriented programming I would have done better.
+
+What is an autonomous system?   Answer Question
+
+Apr 13, 2015
+---------------
+First one with hiring manager, second with technical manager. They were both phone interviews. The first went well, but the second was terrible. I was told that it would take about half an hour and it ended up being over two. I felt like I was just being read a list of words to see if I could define. Kept being asked oop questions even though I kept mentioning my strength was in functional programming. I felt sort of mocked at the end, like no matter what I said it would be incorrect
+
+Awful, 1hour+ of questions ranging from ood principles to Linux to c++/c to networks to Python. Also got asked what books I read to "keep current"   Answer Question
+
+Aug 10, 2015
+---------------
+Interview was three part, with one engineer for the first and third sessions, and an interview with a product manager and another engineer for the second. Interviewer #1 frequently left the interview and was busy on his own work throughout. Interview #2 was culture fit, interview #3 was pleasant with a friendly engineer.
+
+Build a deck of cards, represented by strings and each card&#039;s suit and value separated by a string.   Answer Question
+
+Mar 2, 2015
+---------------
+Started with phone interview from hiring manager, and 4 webex technical interviews. All interviews were technical, involving data structures, algorithms, object oriented programming and web services, and some problem solving questions
+
+Coding questions   Answer Question
+
+May 11, 2015
+---------------
+I initially got an interview through an employee referral and interviewed with a senior engineering manager of an ASIC design team. The manager asked me about various things about the C++ programming language as well as my knowledge about scripting and VLSI. He also tested me on my problem solving and communication skills in an engineering setting in general.
+
+What is a namespace in C++.   Answer Question
+
+Aug 17, 2015
+---------------
+I had applied online. I received an email to schedule a phone interview approximately after a month. The interview lasted for 1 hour, on phone. I was also asked to write code in an online editor. I was asked to write 2-3 small programs on string operations. I got the offer and interned at Cisco.
+
+Basic string programs   1 Answer
+
+Sep 30, 2015
+---------------
+Telephonic Screen at first with a Skype interview. Asked questions on red & black trees, data structures, linked lists & cloud based project. Easy interviewers with sufficient help and support provided.
+
+Explain Red &amp; Black Trees   Answer Question
+
+Sep 22, 2015
+---------------
+Give my resume in the career fair and get the interview directly which is on the second day. It was face to face interview and he asked me non-tech questions almost. Most are based on my resume.
+
+A lot about my personal experience and several questions about python. explain the difference between map and something.   Answer Question
+
+Apr 22, 2015
+---------------
+I applied to the interview through university recruiting. Cisco invited me to an interview. The entire interview was behavioural and at the end was told that this would be the final interview. I was quite shocked there was no technical side, came as both a shock and concern. After two weeks i get a email requesting to touch back. They asked whether I would be fine doing a test validation position instead. I declined, saying that I only was looking for software development.
+
+Please explain your resume?   1 Answer
+
+Feb 7, 2015
+---------------
+hand in resume on career fair and get the interview invitation in a week then campus interview. Alternate behavior question and basic bit munipulate question for 30 mins. Paper coding and some concept explain
+
+Behavior Question + Basic Bit Minupulate   Answer Question
+
+Feb 6, 2015
+---------------
+Applied at Campus Career Fair, got an email next day to schedule an interview on campus. The process was fairly simple. They mostly focus on behavioral questions and your resume which are pretty easy to tackle. Since I had no prior work experience they asked me some basic networking questions. Interview lasted about 40 minutes after which in about 2 weeks they sent me an offer.
+
+Basic questions about routers, bridges, hubs.   Answer Question
+
+Feb 3, 2015
+---------------
+Applied online and received an email requesting to setup a phone interview. Phone interview was about 30 minutes and was conversational about resume and projects worked. Onsite interview was two hours broken into short one on ones with team members and director. Most were conversational again besides one that tested your software skills.
+
+Code a simple linked list.   Answer Question
+
+Feb 11, 2015
+---------------
+Skype-like. Asked some concepts about data structures including hashtable and Binary Search Tree. Asked to solve some basic coding problems using stack and Binary Search Tree. Lasted for 40 min. High demand for C programming than other language.
+
+Data structure things.   Answer Question
+
+Feb 23, 2015
+---------------
+Just asking some behavior questions and basic technique questions. For example, how to deal with the disagreement with your teammate?what is version control? They also asked some questions related to Python.
+
+what is version control   Answer Question
+
+Apr 25, 2015
+---------------
+I applied online for a entry level software engineer position at Cisco systems. I got an email from the university recruiter for a phone interview. Phone interview went well. It was just about my resume and the projects I have completed. During the interview she told me that she is satisfied with my profile and she is going to send my profile to their hiring manager and I will be hearing from them within three weeks for the next round. But I didn't get any email from them. I waited for a month and them sent a mail to the university recruited who interviewed me, but she didn't reply me back.
+
+Briefly describe about your project ?   Answer Question
+
+Oct 20, 2015
+---------------
+Routine questions about background, motivations, team works, etc. Nothing out of the ordinary. One of the question was what would I do if I had a million dollar. Technical questions are all simple, Python-specific. The interviewer was nice and courteous.
+
+What is a dictionary in Python. What is list in Python. What is a tuple in Python. Some other simple ones I can't remember.   Answer Question
+
+Jan 15, 2015
+---------------
+A friend who worked at Cisco suggested I apply for the position. I applied through the website. A phone pre-screen with the internal recruiter was first, followed by a programming exercise that was done at home, followed by an in-person interview. I was told by the recruiter that there was a hard time limit for the exercise, but later the hiring manager told me that there was not, and I should finish the exercise which I had left incomplete due to time constraints. The recruiter was very slow getting back to me. I was able to reach out to the hiring manager to prompt more action from the recruiter. The interview went well, and the group and I got along well. Eventually an offer was made. I asked if I could get more, and eventually got a cash signing bonus.
+
+The programming exercise was about parsing pseudo-XML tags.   1 Answer Whiteboard coding: Reverse a linked list.   2 Answers
+
+Jan 20, 2015
+---------------
+I was contacted by a staffing agency about the position in CISCO, RTP. The initial round with CISCO was a webex call, but due to some issues with my internet connection, I couldn't take up the Webex and the Manager has called me on my mobile and it was 1:1 phone interview asking me to rate myself on Java and if I had any Linux experience. Asked If I have any usage of SQL and GIT. And asked about my expertise. Got the result in 4 days, and the next round was with a panel of 7 members. 1 team member escorted to the meeting room and excused himself saying there is a priority. So it was a 6 member panel interview which went real smooth. There was no White Board coding. Asked so many questions from my resume like what was my contribution, Did I code any functionality from scratch... It was basically projecting yourself exactly the way your resume talks. This round was like a behavioral kinda as well - What challenges I faced. Finally 1 technical question was asked in Java - Difference b/w Interface and Abstract Class.
+
+I was an ex employee of Oracle. So asked me what disadvantages I had working with Oracle DB. This was an unexpected question.   Answer Question
+
+Apr 26, 2015
+---------------
+I had an on-campus interview with 2 managers from Cisco. They asked two easy technical questions, but since it was my first interview at the time, I struggled a little bit. That lasted about 70 minutes. I didn't hear anything back about that position, but two months later I received a letter of intent for a different position at Cisco down in Austin, TX. After passing a background check, I received an insultingly low offer, and they didn't respond to my negotiation request. Turned it down for a much more appropriate offer.
+
+Write pseudo code for your favorite sorting algorithm. Write a method that determines whether a number is prime.   Answer Question
+
+Apr 12, 2015
+---------------
+Applied online. I had a short phone interview and they invited me to on-site interview. I talked to 6 people there for 6 hours. The questions are mostly about my background and experience. So you may need to prepare for that. Some technical questions, but they were not very hard. They didn't push me to answer quickly. You ship a product to your customer and he/she complained it does not work. How would you handle? continued the question by interacting with the interviewer.
+
+Typical questions. Reverse linked list. Reverse bit in an integer. 0th bit &lt;-&gt; 31th bit, etc... What do you see yourself in the next 5 years. Summarize you experience in 5 minutes.   Answer Question
+
+Dec 18, 2014
+---------------
+applied via college recruiting process. overall process took 2 - 3 weeks interview screening via phone. face to face interview with 6 lead engineers (45 mins each) face to face with the VP Met the team. HR manager and negotiations started.
+
+Network topology and STP implementation   Answer Question
+
+Nov 17, 2014
+---------------
+Submitted my resume and was called back for an interview. Was only a sophomore and he asked questions that were beyond my coding experience. These included stuff about speeding up a program and how to refer to its stackframe. Could have killed it if i came more prepared.
+
+asked me some detailed knowledge about the networks.   1 Answer
+
+Oct 16, 2014
+---------------
+I went to the career fair and got an phone interview in couple of weeks. The interview is half behavior and half technical. The interviewer asked me some questions based on my resume including detailed knowledge in networks.
+
+No Question
+Oct 15, 2014
+---------------
+Got an on-campus interview scheduled through the school. Since it was a full time entry position, had two senior software engineering interviewing me in a room. Asked some basic questions on the resume. Asked what my favorite language was and OO concepts. What is good about it and how it is powerful compared to others. What 'static' variables meant. Programming questions like: code in java for binary search. reverse a double linked nodes.
+
+Data structure and algorithms   Answer Question
+
+Oct 9, 2014
+---------------
+Simple standard steps for programming language of C. Unix internal IPC communication mechanics Bit operation and general networking protocols basic. 45 min each of 4 people interview in one afternoon long. Link list and pointers and structures in C
+
+what will happen when use strtoken in multithreading environment   Answer Question
+
+Oct 27, 2014
+---------------
+It's SourceFire in Baltimore. There is a phone interview and code assignment before onsite. All about C question like tell output, find bug. This company is doing network security so must prepare C coding and network question
+
+Reverse a Linked List   Answer Question
+
+Sep 11, 2014
+---------------
+I was directly called for an onsite interview. Couple of guys asked programming questions on the board. They were usually hard questions. The interviewers were friendly guys from different nations. The whole process took about 2 hours.
+
+The question regarding the Data Structures was difficult because at best I could get a run-time of O(kn), or O(nlog(n)), but that wasn't close enough to O(n), which is what they wanted.   Answer Question
+
+Sep 24, 2014
+---------------
+I was asked a technical question on Machine Learning during the recruiting at a Career Fair straight away while reviewing my Resume. The question was on the possibility of separating houses for a Realtor into various clusters. I answered the question by proposing a Decision Tree (ID3 Algorithm) or a Linear Separator, depending on the number of features that the test data had. I then was offered a phone interview, where I was a standard question regarding Data Structures and Algorithms. (Can't spit out the details, sorry).
+
+String concatination, how canyou write a better concatination with out using existing menthods like .concat etc... can a dead lock happen with three threads, the job description has nothing to do with these questions. The concentration was on basics of programming, was asked to write doule linked list program...if you are comfortable with sting programs and linked list concepts it is very easy to crack   Answer Question
+
+Aug 29, 2014
+---------------
+got a call from manager went over CV arranged for a interview through webex. Talked asked about my current experience and threads, dead locks, datastructures, css, javascript basic questions, asked to write double linked list program, string reversal, they would accept any language you are comfortable in.
+
+C++ inheritance   Answer Question
+
+Jul 23, 2014
+---------------
+I was hired more than 10 years ago so I don't remember what exactly it was anymore. It was something like being interviewed by at least 5 engineers and then managers. Questions mostly on C and C++.
+
+Describe a difficult situation where you found a solution   Answer Question
+
+Jul 23, 2014
+---------------
+Easiest Interview I ever did. No technical questions were asked. The interviewer seemed bored and completely unprepared. Did not put in any energy prior to the interview preparing for it,
+
+No Question
+Apr 25, 2014
+---------------
+Process took a few weeks. Simple behavioral interview through University Program
+
+No Question
+Apr 24, 2014
+---------------
+The previous company was purchased by Cisco Systems. So, we do not need to go through the interview process.
+
+No Question
+Jul 17, 2014
+---------------
+got a call from manager went over CV arranged for a interview through webex. Talked asked about my current experience and threads, dead locks, datastructures, css, javascript basic questions, asked to write double linked list program, string reversal, they would accept any language you are comfortable in.
+
+String concatination, how canyou write a better concatination with out using existing menthods like .concat etc... can a dead lock happen with three threads, the job description has nothing to do with these questions. The concentration was on basics of programming, was asked to write doule linked list program...if you are comfortable with sting programs and linked list concepts it is very easy to crack...   Answer Question
+
+Oct 15, 2015
+---------------
+Attended a job fair at my university and dropped off my resume. Got an email a couple weeks later asking for an interview.I had one on campus interview which constituted of basic questions regarding multiple process handling,multi threaded programming. Also, there were questions related to networking basics and my past projects and experience.
+
+How did you become interested in engineering, knowledge of networks, favorite coding language was, some basic behavioral/fit questions   Answer Question
+
+Jan 31, 2014
+---------------
+I applied through my university career fair and got a interview one week later through the WebEx. The interview begins with the questions regarding my projects experience. Then several network foundation questions like what's trace route, how does it work and two problem regarding subnet and subnet mask. And two very easy algorithm problem.
+
+what's trace route, how does it work   Answer Question
+
+Jan 29, 2014
+---------------
+Go through recruiters or someone works in the company. Resumes received directly from outside almost never got chance of interviews.
+
+Discuss the internal release policy.   Answer Question
+
+Jan 22, 2014
+---------------
+In the university career fair, the recruiter asked some projects on my resume and asked what language do I use mostly, and asked some questions related to operating systems. The recruiter also introduced what they do in daily life, and tell me about their recruiting plan, cisco's hardware team has been moved to Shanghai.
+
+What do you know about memory system in the linux system? How does it manager the memory?   Answer Question
+
+Jan 13, 2014
+---------------
+Applied from school website and had a phone interview. The questions are quite easy and the interviewer was helpful.
+
+The improvement of the question   Answer Question
+
+Oct 8, 2013
+---------------
+This is specific to the Knoxville office of Cisco which has a separate interview process. There is a phone interview, a webex interview and then an in person interview with actual coding and problem solving. The phone interview question include what is deadlock, what are race conditions, what is thrashing? In C how do you divide by two without using the /. The webex interview has a lot of C code where you have to say what is wrong with it. Understanding pointers is a large part of these questions. There is also some coding in the webex interview such as in C how to reverse a linked list O(n) time. The in person interview has actual coding and security problems. Certain levels in the exploit-exercises.com VMs were used for some of this as well as other coding questions.
+
+There was an imaginary computer programming language that you were supposed to decode the output of.   1 Answer
+
+Dec 24, 2013
+---------------
+I applied in October through a university careers website, and was contacted 2 weeks later about an on-campus interview. The interview consisted of talking about my resume and some coding questions. My interviewer asked about all of the technical skills listed on my resume, and since I know Java, he asked me some Java language-specific questions (describe polymorphism in Java...). He also asked a brain teaser at the end. During the interview he told me I should expect to move on in the process because my GPA was high enough. About a week to 2 weeks after the interview, I received a letter of intent to hire from Cisco. I was asked to pick between San Jose, Atlanta, or Research Triangle Park. Also, I was asked to rank my preference for the following positions: Application Development, Embedded Systems, and Test Engineer. I sent in my preferences (I asked for Application Development, Research Triangle Park) but I was told that there were no positions other than Test Engineer available at RTP, so I was placed on a waitlist, with no guarantee of getting an offer unless something opened up. However, I heard back again with an actual offer within another 2 weeks. This was for Embedded Systems in RTP. The salary was not competitive with my other offers, so I declined. Also, there was no human contact throughout the entire process, other than the on-campus interview, and they didn't offer to even bring me in for an on-site visit, so I would not have felt comfortable accepting the position even with a competitive salary.
+
+Brain Teaser: Involved thinking outside the box to come up with a solution. The interviewer gave me a hint and then I got the answer. I don't really see the point of this kind of question, because I had heard something similar to the brain teaser he gave me, and I was able to get the answer quicker because of it.   1 Answer
+
+Oct 20, 2014
+---------------
+Applied through through my university just a 30 minute interview with one of the software engineers there. Super simple process. FOLLOW UP WITH THE APPLICATION DON'T JUST APPLY AND WAIT the HR loved how I keep following up with her.
+
+How do you delete a node in a linked list. Code it on the white board   Answer Question
+
+Oct 1, 2013
+---------------
+Very reasonable interview process. Phone interview with hiring manager, followed by group technical interview and closing interview with senior management.
+
+No Question
+Aug 8, 2015
+---------------
+I had a on-campus interview. Fairly easy. Mostly networking related questions. I had taken a network security course and the interview asked questions related to that. Describe IP spoofing attack and how to prevent/detect it.
+
+Describe IP spoofing attack and how to prevent/detect it.   Answer Question
+
+Nov 26, 2014
+---------------
+On Campus interview through school. One on One interview with focus on projects I had completed. Went into the technical details of the projects as well as questions that arose from them.
+
+If you could do [insert project] over, what would you do differently and why?   Answer Question
+
+Sep 15, 2013
+---------------
+attend school career fair and got the first round interview in campus. Then one tech phone interview following another round phone interview. No on-site for me.
+
+a lot of behavior questions   Answer Question
+
+Sep 12, 2013
+---------------
+I went through a 45 minute phone interview, and then a 2.5 hour on-site interview. The phone interview consisted mostly of resume and background related questions, and a few very basic Object Oriented Programming questions. The on-site interview was conducted by 5 people in 3 different sessions. They started asking more technical questions here like reviewing snippets of code for improvements or errors, asking about more detail about my knowledge of the languages on my resume, and some brain teasers. Overall they were friendly and encouraging.
+
+Design a vending machine.   Answer Question
+
+Sep 10, 2013
+---------------
+Asked basic networking questions from course I took in college. Nothing too difficult. Also had some programming questions and asked about each of the 7 layers in networking.
+
+7 layers in networking   1 Answer
+
+Feb 3, 2014
+---------------
+call from recruiter. had 2technical interviews one for java and other for sql skills. and then on site interview with team members and manager
+
+none   1 Answer
+
+Sep 26, 2015
+---------------
+Cisco was one of the companies at my college career fair. I met them there and dropped a resume. Within a few days, they contacted me to schedule an on campus interview. The interview was limited to an hour and involved standard questions about a project or team experience and then a few technical questions.
+
+You have nine identical balls, one weighs more than the rest. You have a balancing scale and can only use it two times. How do you find out which one is the heavier ball?   1 Answer
+
+Sep 13, 2013
+---------------
+First got connected by the manager. Then one tech phone interview following another 5 rounds phone interview. No on-site for me.
+
+Nothing really difficult.   Answer Question
+
+Jul 22, 2013
+---------------
+Went to career fair, afterwards called me for an interview. was asked some basic questions about programming, and some brain teasers, pretty simple.
+
+how would you arrange an array backwards?   1 Answer
+
+Jun 9, 2013
+---------------
+Applied through Linkedin. HR contacted and scheduled interview. Fist telephonic interview went well and I was asked for face to face.
+
+Asked me to write 8 bytes aligned malloc and corresponding free function   1 Answer
+
+Mar 17, 2015
+---------------
+Technical interview by 5 different members of the team. Mostly technical - Algos, data structures, C programming, OS, networks. Many questions were asked related to what I have worked on so far.
+
+Q: Deadlocks, mutex & semaphores Q: Implement a stack using Queues Q: Difference between threads & processes   Answer Question
+
+May 9, 2013
+---------------
+2 Phone Interview. 1 - HR, 1 - Hiring Manager
+
+Given 3 systems: system 1 reaches 0xFF, then system 2 increment by 1. Everytime system 2 increments, system 3 would fetch the package. When can there be a problem? What is the problem with this system? How can we fix this?   1 Answer They will give you the most random questions regarding DSP.   Answer Question Write and derive any C programming Object on the board?   Answer Question
+
+Apr 30, 2013
+---------------
+Initial phone interview lasted for an hour. Interview was based on webex. Questions involved basic networking and programming related like convert hton to ntoh Was called onsite. Had 5 rounds total. First round was about simple C programming - find the mistake in the code type questions. Second and third rounds went into trees, graphs, and core OS and networking. Fourth round was all about networking. Was made to write a socket program and then to implement a load balancer using pthreads. I didnt remember the exact apis but wrote the pseudocode
+
+Design and implement a load balancer in C.   1 Answer
+
+Apr 26, 2013
+---------------
+while cisco is overall a great company, some of their interviewers can be very unknowledgeable and unprofessional/disrespectful. The interviewer/engineer called in 10 minutes late on a scheduled 30 minutes call, then asked questions totally unrelated to what the group is doing, drilling down on unnecessary details about tools the team is NOT using, not to mention lacking of knowledge on even the basic data structure/algorithms, and jeering and laughing throughout, and this is someone with a 'principle software engineer' title. Definitely a cut or two below top tier company. I sent in my request to withdraw my application right after the interview.
+
+He provided a puzzzle to solve.   1 Answer
+
+Apr 12, 2013
+---------------
+Very technical. Will go thru what is written in resume.
+
+Went over resume and discussed past experiences.   Answer Question
+
+Mar 14, 2013
+---------------
+Phone Interview consisting of questions regarding past experiences.
+
+Given a set of strings, determine the greatest common prefix of all strings in the set.   Answer Question
+
+Feb 19, 2013
+---------------
+On campus interview through a university career program. Interviewed by two Cisco representatives. The interview was fairly straightforward and they were more interested in my resume than anything else.
+
+They require operating system knowledge which is hard for a EE student   Answer Question
+
+Mar 6, 2013
+---------------
+Passed the phone interview and went to the onsite.
+
+How to return a structure member with just an offset.   Answer Question
+
+Jan 23, 2013
+---------------
+Went to a 45 minute interview with both behavioral and technical questions. The first half was the behavioral asking about my knowledge of the company and motivations as a programmer. The second half consisted of more technical questions derived from what I put on my resume. I had put C on there which lead to specific language questions. Then there were more general problem solving on the whiteboard.
+
+Nothing surprising, but the guy did ask about everything related to networking fundamentals and C++   Answer Question
+
+May 7, 2013
+---------------
+I had an on-campus interview, went pretty good and was mostly analytical questions and algorithms questions. Then I had a phone interview, very technical and detailed, but the guy was helpful. At the end, the HR said you've got positive feedback on your interviews and we'll let you know when we've openings, which they didn't
+
+No Question
+Oct 6, 2015
+---------------
+I submitted my resume through my college's career services and was contacted for an interview. The interview was held on campus, and I met with one technical person from Cisco. Following the interview, I was contacted the following day for an internship opportunity.
+
+I was only a Sophomore, so I was a novice and couldn't really perform the typical interview questions. They ended up taking a project listed on my resume and asked for more details. One of the questions related to this project was "How was my robot able to detect an analog light signal?" Nothing that I didn't know the answer to.   1 Answer
+
+Jan 31, 2014
+---------------
+That is a one to one interview, just ask some questions about my experience. That's not very difficult to answer. They focus on my machine learning background. I cannot remember all the details about the interview. I'm a first master student at that time, and have no former work experience.
+
+ask me about the router field question, which I never touched before.   Answer Question
+
+Aug 4, 2012
+---------------
+Cisco held an information session on campus at UT and reviewed CV/resumes to choose who they would interview the next day. Back to back interviews were held with two different engineers. A few weeks later one of the recruiters called to tell me an offer would be extended to me. Then things were turned over to HR.
+
+If you disagreed with your manager and felt they were doing something wrong, how would you handle it?   Answer Question
+
+Jun 9, 2015
+---------------
+Applied through employee referral. Contacted by the HR. Scheduled phone screen with a technical leader. Basic C fundamentals, networking questions in the phone screen. Called for onsite. Scheduled for 4 1-1 inteview with lunch interview with manager. More c programming questions, operating systems and networking questions.
+
+Data structures and bit manipulation questions   Answer Question
+
+Apr 11, 2013
+---------------
+I was contacted by the Hiring team and then contacted over the phone by a Cisco Employee who asked me general Java Question. On Site interivew was a 5 hour interview split over 1 hour each wherein the Engineers came ans asked me questions about Java.
+
+The manager asked me to model some problems.   Answer Question
+
+Jun 4, 2012
+---------------
+First sent me blank google doc. asking me to write code on it so that they can check the status of my answering. Questions asked were basic but I didn't prepare at all, my major is more like EE... Q1, how to do binary tree search. Q2, How do two different Threads share information. Q3, how to insert thread
+
+Binary tree search   Answer Question How do two different Threads share information.   1 Answer
+
+Jun 19, 2013
+---------------
+Got a phone call from recruiter and then attended on-site interview.
+
+Only C programming questions.   Answer Question
+
+Sep 28, 2015
+---------------
+Had a phone screen. After phone screen, had an half a day face to face interview with the team members and manager. They extended the offer in 2 days. I had a few rounds of negotiations with the HR for salary.
+
+Swap two integers without using additional variable.   1 Answer
+
+Oct 14, 2015
+---------------
+It was really cool how they did some things and other things. However, it doesn't seem like they like how they like. Sometimes I feel like they don't see me. The overall experience was insane.
+
+Implement a hash table.   1 Answer
+
+Mar 16, 2015
+---------------
+Onsite + 2 telephonic. Basics of data structure. Lots MCQs on C programming. Bit maniplation. Clean and bug free code in C during interviews. You are expected to write clean C code in those interviews. Basics of linked List and Binary search trees. Searching and sorting.
+
+Not to be disclosed ! C operating systems basic. Paging, virtual memory questions. Bit manipulation questions. 1: Generalized linked list traversal 2: Find the number is power of 2 or not 3: Linked list deletion 4: Networking basic questions. 5: Sorting methods and complexities.   Answer Question
+
+Jun 12, 2012
+---------------
+One of my former lab-mates ( from the University) referred me for a position at Cisco; I didn't even know what the position was (he thought it was a perfect fit for me). I got a call out of the blue (on a Saturday) from a person from Cisco, and asked whether I have time for an interview at that time. Unfortunately, I was travelling, and asked him whether we could prearrange a time, so that I could make myself available. He was willing to do that, but, he wanted to have the interview within the next couple of days. So, we scheduled it for the next day. During the interview he first asked me about my PhD research work. That went on for about 15min. He seemed mildly impressed (I think). Then he moved on to few behavioral, and technical questions. The technical questions were from Algorithms and DS, C/C++, OOP and Networking. Apart from couple of questions, I did well in the rest. The most difficulty I had was understanding the thick accent (South East asian, I think) my interviewer had. But, he was really friendly. Finally he went through my resume and asked me several questions about my experience and background. I thought he got more interested in my after that round, since according to him "I have an impressive resume". The whole interview went on for about 1hr, and he concluded by asking to contact him in about couple of weeks, if I didn't hear from him or Cisco. I followed up the interview by sending a thank you email to my interviewer; he once again asked me to contact him if I didn't hear from him soon. But, even after repeated emails (after waiting for 3 weeks), I am yet to hear back from him or Cisco. Overall, I had a positive impression about the interview (even though they called out of the blue, and asked me to interview in a hurry ~ I haven't had that experience with any other company). However, not getting back to me with their decision (don't care what it is), is really unprofessional for a company like Cisco. I don't think I would consider Cisco in the future, even though I am in the Networking field.
+
+What is your greatest weakness? Follow up: What other weaknesses do you have?   2 Answers What's your ideal job/work environment?   1 Answer
+
+Aug 18, 2012
+---------------
+The Interview process was standard, there were no big surprises in terms of interview questions. Overall interesting experience.
+
+There were some algorithm and data structures oriented questions. Probably messed up a lot but they care about your thinking process more than the solution.   Answer Question
+
+Feb 2, 2012
+---------------
+Very friendly, opportunity to share experience and ask questions, non-technical as first interview is fine.
+
+What contributions had systemic affect on group effectiveness   1 Answer
+
+Dec 15, 2011
+---------------
+The first round consisted of a technical screen which didnt have any programming. There were a few behavioural questions, one reasoning based question(given a long sentence and was asked what was wrong with that sentence) and some technical questions about virtualization,cloud computing,threads etc. Then i was selected for a continous 5hr webex session with 5 interviewers.The first interviewers didnot turn up for 1hr 20 min.Second and Third went well.Fourth wasnt available too.So they sadi they would reschedule the other interviews. But they had sent a reject in just like an hour and a half.
+
+How would you implement a router for as big a company as Cisco that would accomodate lots of ip addresses.   Answer Question
+
+Nov 18, 2011
+---------------
+I had a phone interview with 3 members of the team. The interview was pretty standard. Some technical questions. Then after a week I got a call for 2nd round, which was telepresence. I was interviewed by 3 groups each for 45 mins. The interview consisted of technical & personality questions. Technical questions: Java, DS basics, SDLC etc. Was not difficult if basics are clear.
+
+Java basics: interface, inheritance, polymorphism   Answer Question about previous projects I did   Answer Question
+
+Aug 6, 2015
+---------------
+a whole day interview. 3 managers interviewed me. It was a new grad hire. It started with a campus tour and then 3 managers asked different technical questions. The interview was for choice program and so they are not necessarily hiring managers. Be honest at the interview. If you do not have some background in certain tech or programming, just let them know. They do not expect you know everything.
+
+Basic C and Java questions   Answer Question
+
+Apr 2, 2012
+---------------
+got the interview through a referral. the interview process consisted of a technical onsite interview with five people. First interviewer was very thorough and went through everything on my resume and asked me many questions on extra activities and not on coursework. Second interview was a skills test and comprised of questions like diffrence between a mutex and semaphore. which data structure to use in what situation etc.
+
+Describe oakley key exchange protocol   Answer Question
+
+Oct 2, 2011
+---------------
+There are no self-introduction part or CV questions. It went straight forward to a program analysis question, asking me to figure out all the possible errors in that program. Some are obvious syntax error. But there are some errors that are not obvious and require a sound programming foundation. There might be some other questions after this but when I failed to solve this question. The interviewer showed no further interest and stopped the interview. The 1 on 1 interview is stressful and the interviewer hope to find someone who are really experienced with programming, regardless of what programming language he / she is using.
+
+Find all errors in a program   1 Answer
+
+Dec 28, 2011
+---------------
+They take your GPA seriously into considerations. Then they look for systems related project experience.
+
+Question about GPA.   Answer Question A quick c++ question   Answer Question
+
+Sep 6, 2015
+---------------
+Seven rounds of interview. Was asked to code algorithms. Fluency in programming languages was assessed well. Knowledge of software engineering principles is a must. Overall, the difficulty level is moderate. I wouldnt rate this as difficult in any way.
+
+Java coding questions. Design pattern questions.   Answer Question
+
+Aug 18, 2015
+---------------
+Phone screen a couple of times with manager and sr engineer. On-site with engineering director, hiring manager and senior staff engineers. HR offered a day later after back-and-forth negotiation about salary.
+
+Read this Tcl script and describe what it does.   Answer Question
+
+Jun 19, 2014
+---------------
+2 rounds phone interview. On site has 2 rounds. Each interview is half an hour. Questions from big kettle endian to driving programming and troubleshooting. Not very tricky and no brain tricks. Director will interview engineers as last round. Usually take 2-3 days to have response.
+
+Do you want to be a manager   Answer Question
+
+Jul 18, 2011
+---------------
+Applied online. Initial phone screening for 2.5 hrs. Discussions involving OS concepts, DS, algorithms, resume based projects, some amount of behavioral. Scheduled second round involving a series of 4 webex interviews on the same day.
+
+OS CONCEPTS, DATA STRUCTURES   Answer Question MEMORY MANAGEMENT   Answer Question
+
+Feb 24, 2011
+---------------
+The HR keeps asking about what courses I have taken in my graduate study. I list some courses about computer engineering. It seems she is not satisfied with that. And she asked me again about what other courses except the CS course .... And she also asked why cisco, why chose cisco and why should cisco need me
+
+why cisco   Answer Question what courses did you take in your study   Answer Question
+
+Jul 21, 2013
+---------------
+it's on campus for summer intern, no technical interview, it is one to one, the other side might be human resource, not like an engineer. she asked me very general non-technical questions, not challenger, maybe they focus on whether you are a good team player?
+
+Reverse Link list related question   Answer Question
+
+Jul 8, 2015
+---------------
+The interview process was fairly straightforward with multiple rounds, that i was informed of prior to the interview. Initiated the process with a phone interview, which was about 45 mins. After this there was an in person interview with the following rounds - Introduction/General, Programming, Operating System and Network Concepts.
+
+What was the toughest project you worked on recently and go you explain in detail..   Answer Question
+
+Aug 27, 2012
+---------------
+College recruitment. Interviewed by senior managers. Questions related to experience, side projects, interests, etc. Questions on OO programming (inheritance etc).
+
+career goals   Answer Question
+
+Mar 24, 2011
+---------------
+got an interview from employee referral, everything went smoothly, mostly nontechnical question (even though it was an engineering position). heard a word from manager that my offer was being processed, and then the whole financial fiasco started. they had a major hiring freeze for couple of quarters, and finally decided not to hire for that position due to budget cut.
+
+You have 8 balls. All are identical except one is slightly heavier. You have a balance. What is the minimum number of weighings required to find the heavier ball?   5 Answers
+
+Jan 29, 2011
+---------------
+The interview took place in a hotel conference room. We were then given a tour that they give to prospective corporate relations. We were never given an opportunity to see the offices themselves.
+
+When did you ever go above and beyond what was originally asked of you during a previous job?   Answer Question Can you think of a time where you overcame adversity, avoided conflict, and came out on top?   Answer Question
+
+Jan 29, 2011
+---------------
+The interviewer started off by describing aspects of the company. He asked me which of the following I would be most interested in. Then proceeded to ask me questions about various past work experiences in which I did something outstanding, or went above and beyond what was asked etc. I would advice thinking over your past experiences to have some good memories already in mind when you go in. Lastly, I took a skills test regarding my C coding experience.
+
+No Question
+Oct 26, 2010
+---------------
+very basic data structure and algorithm questions, How do you reverse a singly linked list? Write a C program to reverse a string. Write C code to check if an integer is a power of 2 or not in a single line? Things like that, I was ill prepared though
+
+Write C code to check if an integer is a power of 2 or not in a single line?   5 Answers
+
+Feb 4, 2014
+---------------
+interview process is lengthy and most of the time stick to basics , basics of networking is what most of the people check .
+
+i didn't get any unexpected questions   Answer Question
+
+May 13, 2014
+---------------
+technical interview. coding question on traversing a linked list. improving the speed of execution of an algorithm. i wrote an algorithm that was O(n). i then made it O(log n) and then I made it O(1). I was then asked to write an algorithm to delete something in a linked list only traversing it once
+
+walk a linked list   Answer Question
+
+Feb 25, 2014
+---------------
+The interview process was standard session of writing pseudo code to solve a generic problem.
+
+None of the questions were overly hard.   Answer Question
+
+Mar 4, 2014
+---------------
+Hiring process was very long. I had to attend several interviews. It took a while to get an offer.
+
+They ask what's in resume   Answer Question
+
+Oct 24, 2014
+---------------
+Cisco hiring is very intensive. It is a 5 round process. Usually they will ask whats on your resume. They will test your automation skills. It ends with talk with Project manager and Director.
+
+Why doesn't Utah have more rock concerts?   1 Answer
+
+Nov 9, 2014
+---------------
+Multiple one on one interviews with team members over multiple days. This was many years ago and the hiring process is much more structured now. Back then the company was small and growing rapidly.
+
+Have you ever disagreed with a collegue and/or professor and what did you do?   Answer Question What class did you think was least useful?   Answer Question
+
+Feb 11, 2011
+---------------
+They asked the usual interview questions. They try to see at what level you are in your skills. They are very quick to respond if they choose you.
+
+What are the difference between DES and RSA algorithm?   Answer Question
+
+May 14, 2014
+---------------
+1. Define Storage Classes and explain application domain. register - tell to the compiler for use a CPU register for fast aceess for that variable. auto - it's a variable created and initialized when it is defined. It is not visible outside of the block. static - defined inside of the function retain its value between calls. Always is initialized with 0. Defined as global in a file is visible on for the functions from that file. extern - the definition of the variable is in another file. 2. Define the Storage Qualifiers const - define a variable that can not change its value along the program execution. volatile - define a variable that can be changed indirectly. An example can be a counter register that is updated by hardware. mutuable - a member of a structure or object can be changed even if the structure, for example is declared const: Ex: struct complex {mutuable int x; int y;}; const complex Mycomplex = {1, 2}; Mycomplex.x = 3; /* correct */ 3. Give an example for a variable "const" and "volatile". Is it possible? Yes, a status register for a microcontroller. 4. Detect if a linked list is circular. Need to use 2 pointers, one incrementing by 1 and another by 2. If the list is circular, then pointer that is incremented by 2 elements will pass over the first pointer. 5. Have you any remarks? #define res(a) a*a Using in this form the result will not be like we expect. Thinking that "a" is replaced with (2+3), then we will obtain 2+3*2+3 = 11 instead (2+3)*(2+3) = 25. Use always #define res(a) (a)*(a) 6. Define a "dangling" pointer Dangling pointer is obtained by using the address of an object which was freed. 7. Any difference between "const int*ptr" and int *const ptr" ? Yes, it's a major difference. First define a constant data and second define a constant pointer. 8. What is the declaration and definition of a variable? The definition contains the implementation for a method or variable declaration. This is just an example. 9. Give a solution for a stack overflow situation. func_call() { funct_call(); } Every time the above function is called the return address is stored onto the stack. Calling in this infinite loop will cause a stack overflow. 10. Give 4 examples for an infinite loop. a. while (1) {} b. for (;;) {} c. do {}while{1}; d. label: goto label;
+
+Played string manipulation questions a lot   Answer Question
+
+Aug 31, 2014
+---------------
+The hiring process, from the job applicant perspective, includes several steps. From the time you apply for a job until the time you accept a job offer, you will go through a series of steps as you progress through the hiring process from completing a job application to coming on board as a new employee.
+
+No Question
+May 28, 2010
+---------------
+- 1 was asked a number of technical questions by the hiring manager and his staff. - I was asked a number of organizational questions by the staff. - I was invited back and I was asked general questions by the executives within the organization. - I was asked about the my education and specific classed that I attended.
+
+1- What do you like about .Net.   Answer Question - Why are you looking for a job.   Answer Question
+
+Jun 22, 2010
+---------------
+Got a phone interview in May, and was interviewed by the hiring manager on topics ranging from networking to Operating systems. He called me the next day to set up an onsite at . The onsite was an exhausting experience.4 hrs with 5 interviewers. Had to wait for a month before any sort of reply from them after that.
+
+Just the usual on data structures and Operating Systems   1 Answer
+
+Jul 9, 2010
+---------------
+Applied online and got a call from the HR to setup a pre-pre-screen! This was a 15-min. interview in which the HR went thru the motions talking abt my resume and experience. Few days later had a C-test. Not the easiest. If you are not a regular in C then you will take some time even though your C knowledge is complete. This was followed by two 45-min interviews with team member and engg. manager. I was very well prepared and the first interview went very well. He was thoroughly impressed. Then came the engg. manager. He seemed 'unprepared' about what to ask and started random questions on my experience. This also went well, later I thought some of my answers were incomplete but thought had done enough to get an onsite. Got a reject mail in a few days. Overall I thought the employees were very polite. It doesn't seem that Cisco needs brilliant people. People with good programming skills who know simple things like code optimization,data structures, few relevant projects go thru to the final stage. But,what I learned was that one position has about 10 people contesting and say 5 are upto the mark. After this I think the hiring decision becomes a subjective one . The engg. manager clearly seemed to have a bias towards CS guys. I was EE and his mood changed after hearing this.
+
+Explain TCP IP   Answer Question
+
+May 28, 2010
+---------------
+Had two one hour phone interviews, one with the hiring manager, one with a technical lead. Both went well and a two day in-person interview was being scheduled. However, the day before the interview the hiring manager got in touch with me to let me know that the job req. was no longer available, but more would be opening in the next quarter. Waited until the next quarter and got my in-person interview. There was a programming test with three developers asking me questions. I ran long on the first one, the second question was based on code one of the interviewers put on the board (which had an unintentional bug), and the third one I dealt with well. Next came a one-on-one interview with another developer, but no technical questions were asked. The hiring manager was also too busy to actually interview me. At the end of the first day the hiring manager informed me he would be contacting me later that day to let me know the results. He did not get back to me until the next day to say they would not be extending me an offer.
+
+Write a file copy function in the language of your choice   Answer Question What does the following function do: unsigned int doit(int x) { unsigned int z = 0; while (x &= (x-1)) z++; return z; }   3 Answers Write a string reversal function   Answer Question
+
+May 4, 2010
+---------------
+Had a phone interview where I was asked basic networking questions and some C questions. It was all very simple. Later had onsite. Had 5 rounds. 4 rounds of technical interview which tested my C skills, OS concepts, networking and my past work experience. And later a HR kinda interview with hiring manager.
+
+From your network concepts learnt academically, explain what happens when you try to connect from your laptop at home to a server in your college. Decribe whatever you feel is relevant in this scenario   Answer Question
+
+Jul 6, 2010
+---------------
+Had a background check and then went on for a 3 hr online interview with they watching me on a webcam. I thought I dint prepare well enough for interview it was basically about C programming skills, algorithms and datastructures.
+
+Was asked some algorithm , c programming questions   Answer Question
+
+Mar 14, 2010
+---------------
+Applied online and got a phone interview with Cisco Systems for a software engineering position. The interviewer was very friendly and first started asking questions on my resume and previous projects. Then slowly started asking more difficult questions geared towards programming and networking knowledge. The interview lasted for almost one hour with most questions of the type "what are threads?, what are local and global variables?, what is heap memory?, explain tcp sliding window mechanism and congestion avoidance", etc. Overall it was a fairly good interview experience and I'm waiting to hear back from them about the results.
+
+Explain TCP sliding window mechanism   Answer Question Explain congestion avoidance in TCP   Answer Question
+
+Apr 3, 2010
+---------------
+Basic C questions (Pointer,Structures,linked list, arrays,data types), Computer Networking concepts (TCP/IP,UDP). I was interviewed for 1 hour. It was pretty simple. Though I screwed up in some of them. I could not answer most efficient way in finding number of 1's in a given number.
+
+sizeof(data types)   1 Answer find number of 1's in a number   4 Answers
+
+Apr 15, 2010
+---------------
+Apllied through my friend's friend who is an employee of Cisco. The interview was with three people one-to-one, each averages 45 mins. They needed somebody with expertise in OS, device drivers and C. Most of the questions were from what we find on internet, the standard questions including C programs. Lack of preparation cost me.
+
+Details of memory storage for different type of variable definitions in C. int i; int j=0; int k=1; const int l; which goes to data, bss, rodata, etc.   Answer Question In virtual memory, can two different processes have the same address? When you answer "No" which is correct, how one process can access another process' memory, for example the debugger can access the variables and change them while debugging?   Answer Question
+
+Aug 5, 2011
+---------------
+I had two phone interviews (one including the manager). After a week and a half, I was invited to have an onsite interview. The onsite interview consisted of 6 one-on-one meetings with members from the team including members from other teams (which included a hardware perspective and architecture perspective). Once the on-site interview was complete, I was told they were interested and they asked what amount I was looking for.
+
+How would you approach updating a code-base to support 64-bit?   Answer Question
+
+Oct 4, 2014
+---------------
+Phone interview, in person interview, meet director; the interview is relative straightforward with some programming test. Two rounds of interviews with team members; questions are ok. Some are tough ones deeper into Cisco IOS and industry trend
+
+network technologies   1 Answer
+
+Jun 6, 2012
+---------------
+Initially I went to the career fair in my university and got my 10 minute in person interview with one of the recruiters. Next I got a phone call for another on campus screening interview which was pretty easy considering, my interviewer was not paying any attention to anything I was saying, he just asked me questions straight from my resume and was chatting away on the chat client on his laptop. After that I got invited for onsite interview which took whole day, Cisco flew me to the San Jose where for 1 straight day I had 5 behavioral interviews and 1 technical. Overall technical questions were stupid easy, like what is AJAX, etc.
+
+What is AJAX?   Answer Question
+
+Oct 11, 2011
+---------------
+I submitted my resume through Cisco.com for a Software Engineering internship position. It took about a month for them to contact me back. The recruiter called me for a phone interview, the questions were pretty easy. It's more of a review of my resume and background. I was called into an onsite interview about a week later with the hiring manager. The questions were pretty easy, I guess it was because I was applying for an internship position. He asked me basic PHP questions, how does web application works, some networking fundamentals and some design questions. Then, I was interviewed individually by the entire team and extended team. It was a pretty long 5 hours interview. The interviewer were really nice and took a lot of notes during the interviews. You should really study and prepare for the interviews in both technical and soft skills questions. They offered me the internship about two weeks later.
+
+How do you start optimize a database engine?   Answer Question
+
+Aug 13, 2010
+---------------
+School Job Fair: talked to the recruiter, discussed previous work experience and asked him to pass along my resume to be considered for interview 1st interview: On campus interview after the job fair. It was a 30 minute screening interview. 2nd round interviews: On Cisco campus in San Jose. All people interviewing for choice went through three back to back interviews with hiring managers. Each interview was approximately 30 minutes. Most questions were question-answer type questions rather than coding problems. More emphasis was put on discussing previous work experience.
+
+(forgot the exact question) but it was to write code that did bitwise operations. and then to optimize it   1 Answer
+
+Nov 18, 2013
+---------------
+Applied online, phone interview, then onsite. Offer negotiation.
+
+Give logic for implementing "diff" command in Linux. Consider various test cases and explain what will happen in each. The two files are source code and are huge.. For e.g. File 1: 1-2-3-4 File 2: 1-3-4-2   Answer Question
+
+Jan 21, 2010
+---------------
+Pretty decent experience. Just consisted of a phone interview followed by a 1-on-1 interview. This was for the Cisco Choice Program. Very friendly person. Interview wasn't too technical. More like a conversation really. Not too bad experience overall!
+
+What group experience have you had in projects?   Answer Question Give me some reasons for deadlocka and how you would prevent them   Answer Question
+
+Sep 6, 2013
+---------------
+Simple technical questions - mostly networking knowledge and coding/debugging skills
+
+write a code that finds a prime number   Answer Question
+
+Sep 3, 2011
+---------------
+Cisco Recruiter called me that she is trying to fill a position for past several months and she thinks my profile on LinkedIn is perfect fit. I ask her to send job description. When she did and I reviewed, I said it is not perfect fit. She said, it is match - she suggested me to speak to Tech Leader. I spoke to Tech Leader and he did a phone screen as well. Then, after a week or so, I went for an in-person interview with 4 engineers... for about 4 hrs. Then, after another week, there was another in-person interview with 2 more engineers, 2 directors. Then, they made me an offer - negotiation, reference checks etc took another 2 weeks.
+
+How would you design a thread pool in Java? Why do you need threads? How do you detect stale db connections? Can you do code review of this class from my code? (Interviewer shared code) Design for several readers reading from queue and several writers writing into it Details on how a web-app is developed What happens end to end when user types a URL to view books on Amazon.com Singleton - how to write for delayed instantiation but also thread safety   Answer Question
+
+Aug 28, 2010
+---------------
+Initial communications was via email. The HR representatives were quite friendly and prompt. The planning and organization of the interview was quick, simple, and professional. The people were the work quietly type, friendly enough, but not overly outgoing. Most worked at their own cubicles. Some advice for other interview candidates: be prepared to answer both behavioral and technical questions. I assumed that the first interview would consist only of behavioral questions...and I was wrong. Luckily, I managed to do ok on the technical questions. However, if you are rusty on coding principles...such as object-oriented design principles, I would freshen up on those. Expect to answer coding questions and write a few lines of simple code as well. In addition, you may be asked a few puzzles that force you to think critically. Overall, my interview experience was fairly short (less than an hour), and not too stressful.
+
+You have a silver block with 6 marks that divide it into 7 equal parts. How do you make exactly TWO cuts so that you can pay an employee exactly 1/7 of the block each day he works for a week?   1 Answer
+
+Jul 15, 2010
+---------------
+Data strcutures, C and OS is the thing that rules for a cisco interview...if you know them you can get through... first round : C second round : OS third round DS
+
+Diff bet heaps n stacks   Answer Question
+
+Jul 16, 2013
+---------------
+The interview requirements are different across different BUs, some BUs have high threshold on technical details, some BUs are more focused on communications and collaboration, and it depends on different managers, some rely on the reference and relations, some rely on your documentation achievement, such as how many patents, basically, that's better to get information before the interview about who will interview you, and who is the hiring manager , and do some homework.
+
+what's the swap chain in D3D rendering   Answer Question
+
+Jan 14, 2011
+---------------
+I got in through University recruitment program. I had 2 rounds one on campus at the school and the other one at the company's head quarters. Interview was very long and asked everything from A-Z There were 8 people in all who interviewed me other than a director and a VP.
+
+Binary tree algorithms   Answer Question Operating systems design   Answer Question
+
+Aug 4, 2011
+---------------
+The interview process was pretty normal compared to other companies. Nothing strange that would make candidate think they are just trying to trick me or showing off, I got the feeling that they really want to see if the candidate to delivery software, rather than to see if where the candidate's limit is. The manager was very friendly.
+
+describe a project you did.   Answer Question Insert an integer into a sorted linked list,   1 Answer
+
+Jun 4, 2009
+---------------
+No respect for any thing you did for the whole time in your career. They started off with C questions and ended with C questions. No one even cared to see what was on the resume. They just asked the questions that they were familiar with. All the C questions were from the web sites. No creativity there. None of them smiled. None of them looked happy either!
+
+No questions on the technology that I had worked on.   Answer Question
+
+Jun 7, 2011
+---------------
+I got a call asking me to come in and do an interview. The interview was scheduled for the next day. I did the interview and they said they would call me. The next day I got a call to do another interview thinking it was a continuation of the same group but it was from another manager. I did the interview and the next day I was called by HR asking what I wanted for pay and sign on bonus. I was offered a choice both jobs. I chose the position I wanted and received an offer letter the next day.
+
+On the board draw a diagram of a system they were interested in.   1 Answer
+
+Dec 5, 2012
+---------------
+On-campus interview was entirely behavioral, with hardly any technical questions. It was almost too easy to be true. The on-site interviews, there were three in total, were hardly different in that they were more interested in selling the company and the location to me instead of asking me any technical questions. There were a couple of brain teasers, but nothing beyond that.
+
+If you have a square room with no roof, and you had four flagpoles you had to plant on the walls so that each flagpole touched two walls, how would you do it?   3 Answers
+
+Aug 20, 2012
+---------------
+Initial two phone interviews
+
+Some complex data structure questions. (not unexpected, but was fairly complex)   Answer Question
+
+Nov 6, 2012
+---------------
+Friend refer->phone interview->4-5 people interviews on site->give offer
+
+Can you describe how BGP works?   Answer Question
+
+Dec 20, 2010
+---------------
+My opinion is limited obviously to the one experience I have had. My first contact was with the recruiter. The recruiter was very friendly and gave me a good overview of what the team did and what the job role was. He sent me the detailed job description which helped me prepare for the interview. It was followed by a 30 minute phone interview. Onsite interview soon followed - which was fully technical - "C" coding questions and OS and Networking questions and some design questions -- all of above average difficulty level.
+
+Delete a node in a linked list.   1 Answer
+
+Jul 10, 2010
+---------------
+On-site visit and interview with hiring manager, as well as, staff in the group. Explanation of product/technology developing. Group discussion answering questions about my previous work experiences and skill-sets.
+
+Software coding and algorithm questions.   Answer Question
+
+Sep 7, 2009
+---------------
+received a phone call after initial HR filtering. Had the first phone interview with HR. Was invited to the location for a complete interview. The manager had 1:1 with me and showed the working area and explained work requirements. Then there were 2 panel/group interviews with completely technical questions. I then met a few more people and answered some questions. Was offered the position before I reached home.
+
+OS questions, C programming, About Project worked on   Answer Question
+
+Aug 8, 2015
+---------------
+First Round - Online Test - included more of Electronics questions and very few CS and Aptitude questions Second Round - Technical Interview - included questions about my projects and c programming coding Third Round - Managerial Round - included c programming questions and stress interview questions
+
+Data Structures   1 Answer
+
+Jul 24, 2015
+---------------
+The recruitment process started with an online test comprising of aptitude, networking and c concepts. Then we had 2 rounds of technical interviews mostly on c , c++ and data structures. Apart from these concepts, questions on RTOS and computer networks were also asked. This was followed by an HR round where they were interested in our interests and knowlegde about the profile.
+
+They asked me Bruteforcing, big O time complexity, shaker sort vs bubble sort, c memory reprentation, how .exe loads into memory, static variable allocation, IP header. Reverse a linked list. And YES the main question .... Explain shaping and policying in CISCO.   Answer Question
+
+Jul 17, 2015
+---------------
+It started with Aptitude Test (Online) of 60 mins. Then 2 technical rounds. And 1 HR roound. They focus on logical thinking, problem solving capability. Give hints for some problem. It was great experience for me because i was interviewed by a panel which has experience of 20 years in technical vertical.
+
+Create a linked list and then write functions to add and delete nodes from it   Answer Question
+
+Sep 14, 2015
+---------------
+I received a call from a project manager and the phone interview took about an hour, I was asked a few questions about why I choose Cisco and then a few other questions about my fourth year project and previous experience, Once that is done I was asked to join a conference call and start coding some linked lists
+
+They asked question about algorithms and data structure but all very easy and basic ones. Then follows related with the software engineering, and design pattern, they also include some question about the networking. But the most importantly was the question focused on your CV and project experience, how do you solve those problems and why do you choose this.   Answer Question
+
+Aug 26, 2015
+---------------
+The first round was a usual interview telling about yourself the basic information and project experience and the second round is more formal and have two interviewees together and last for about 1 hour and a half. After that just the usual any question for them part and finished.
+
+Why Cisco   Answer Question Cisco is a company based on collaboration and communication between its employees - how would you fit into Cisco's culture?   Answer Question
+
+Apr 13, 2015
+---------------
+This was an initial screening interview for the summer internship program. The interview was done via Cisco's WebEx. The HR manager mainly asked questions from my CV/cover letter. I passed the interview and went on several more interviews.
+
+1/ Reverse a linked list 2/ Two threads synchronisation   Answer Question
+
+Mar 29, 2015
+---------------
+09Joined as a Fresher 1/ Written Test - C aptitude 2/ Technical Interview - I (c programming) 3/ Technical Interview - II (problem solvings, linux internals) 4/ Technical Interview - III ( Linux system knowledge) 5/ HR
+
+Explain one of your project ? how to deal with free rider in the team? process vs thread.   Answer Question
+
+Jul 7, 2015
+---------------
+I got a email from cisco after 2 weeks to prepare for a phone interview. And the other day, a recruiter ask me for about half hour through the phone
+
+Implement one IPC with very limited resources   Answer Question
+
+Jun 12, 2015
+---------------
+Interview process was good .HR executives were very friendly. First Round was written round . It consisted of 4 sections C programming mailnly linux /process/fork etc English Aptitude 1 C program 2nd round was F2F technicle lasted for 50 minutes asked basic bit operations , IPC mechanisms /Linked list programs ,Memory allocation etc 3rd Round was Again F2F asked to implement memcpy 4th round was HR enquired about previous hike, expected salary and Personal Details etc Asked to send Salary details ASAP. But i was never contacted . After sending gentle email also i didn't get any Reply.I didnt get Rejection Mail also. After somedays my friend working there contected and updated me that i was not selected
+
+No Question
+Mar 9, 2015
+---------------
+I have attended Off campus that held on 7 march 2015 on main office Bangalore. The process was very simple well defined it takes 4 rounds of interview. 1. Round was written test(appti+Data Strucure+ Algorithm+ Networking+Reasoning+c+C++) it takes 50 question in 60 min. 2. Round was technical interview in this interviewer wants to check whether you are comfortable with coding or not.I have given each and every question's answer clearly. And got cleared that round too. Some question were asked a. How to traverse tree code preorder traversal recursively and iterative both. b. Memory layout in c. c. How to compare two string effectively.(o(n)) d. How to sort an array which is the best techniques that you will select and why. e. How internet works. 3. Round based on network only. I have not cleared that round just because of some bloody question like IP header, TCP Header, Socket, IPV4, IPV6, and some devices related question. Some question were asked a.Write a program to convert decimal number in to binary. b. How to convert a tree into binary search tree. c. How the internet devices works. d. How wire shark works. e. Some question based on const pointer. f. Explain how NAT works. g. What is IP addressing explain each one in deep. I have answered coding question efficiently but a little bit weak in network. So did not grab this opportunity. 4. Simple HR round like weakness, strength, why cisco just like formality.
+
+How to compare two string effectively.(o(n))   Answer Question
+
+Feb 25, 2015
+---------------
+4 rounds of technical. round 1:online questions on C and logical reasoning round 2: programming and display the output. round 3: programming and technical technical:based on networking,protocols,previous project experience answers were not accepted if its common logic. interview took one whole day waiting for so much time between each rounds
+
+write a program of sorted list which should not contain duplicates for given i/p of numbers. check whether given list contains loop.palindromes ,   1 Answer
+
+Feb 10, 2015
+---------------
+I got a phone interview two days after submitted my CV online. 40 mins all on basic data structures. On-site interview lasts 2 hours with three different groups. Still on data structures, no logic and creative problems. The working place is not as good as i expected. people are coming late, and looks exhausted even in the morning
+
+inverse a number to binary   Answer Question double link list   Answer Question recursion   Answer Question
+
+Mar 19, 2015
+---------------
+1. Online test consisting of C, OS, Electronics, Networks etc. 2. F2F Interview 3. F2F interview The interviewers were arrogant. I was a chemical engineering graduate. Technically I wasn't allowed to sit for their process, but they allowed me to. During interview they didn't even ask me any technical questions, even after I cleared the test. They told me to wait outside even when I knew they were going to reject me. I waited 4 hours for the result I already knew and interviewer suggested.
+
+Resume based questions   Answer Question
+
+Jan 29, 2015
+---------------
+There is one Written test.It contains questions related to networks, and problem solving questions followed by 3 rounds of interview.2 technical and 1 hr round.In technicaal round they asked questions related to networks and coding.Hr round is easy b(basic question like why cisco,strngths and weakness)
+
+Coding question.   Answer Question
+
+Jan 5, 2015
+---------------
+2 Rounds only, First round was telephonic and basic c que. like storage classes, multitasking, mutex, semaphore, i cleared the first one, second round was on networks and algorithm like how to identify a number is 2 to the power N. in order 1.
+
+How to find duplicate number in an array in order 1   Answer Question
+
+Jul 16, 2015
+---------------
+The interview was provided through internet. I had the interview with team manager and team lead. After brief presentation of my previous experience I was asked some technical questions. The whole interview took about an hour. I was really surprised to get an offer in half-an-hour after the interview.
+
+Write a function that evaluates a sum of all integers from 1 to 100.   2 Answers
+
+Sep 16, 2015
+---------------
+Telephone interview for a position working remotely. Interview was one hour long with three interviewers. The interviewers were immediately confrontational and dismissive of my previous experience, as if they had already knew they were not going to hire me. This was not what i was expecting, because two years earlier i had interviewed with Cisco (for a different department, different people), and they had made me a nice offer after only talking with two people. (I did not accept because i took another job.)
+
+The asked a very specific question about JAX-RS, something about how a certain annotation is used.   1 Answer What is the default scope of a spring bean.   1 Answer
+
+Apr 11, 2015
+---------------
+They invited for in-site interview. There a person responsible for technical questions and the manager was also there and was listening to my answers while working with his laptop. Lots of technical questions about java and networking. How the Internet works. How you can write a linked list and so on.
+
+How to understand a linked list is planar or loop?   Answer Question
+
+Nov 18, 2014
+---------------
+onsite interview with 6 senior engineers, 2 at a time. Onsite for upto 6 hours. Questions ranged from networking technology to problem solving with algorithms. interviewers were very pleasant experienced bunch, asked difficult questions but not aggressive.
+
+No Question
+Nov 2, 2014
+---------------
+I applied through college process took one day, 1st round was written round consisting of apti and technical and 2nd round was based on your resume and bit coding. Difficulty level average.
+
+Questions based on Computer Architecture.   Answer Question
+
+Oct 21, 2014
+---------------
+HR immediately contacted me over the phone, after I send my CV via an internal contact in the company. They asked an on-site interview in a week with a technical interview. I met with the local branch managers first for an hour and they asked me general questions about my interests and background.
+
+Why Youtube uses HTTP for video streaming? (instead of UDP).   Answer Question
+
+Oct 2, 2014
+---------------
+They have two stages - phone and in-person. It is quite smooth. They want to verify all of basic features. They may ask you to write answers of technical questions. In-person interview lasts quite long.Keep aside 3-4 hours. Keep in mind they are trying to select you - not reject you. So as long as you know basic things you should be okay.
+
+Spring framework features   Answer Question
+
+Sep 10, 2014
+---------------
+1 phone interview, 6 hours of interview onsite Decent interview.. Focus on C, memory concepts, Distributed systems , O.S , algorithms. 1 interview with manager, rest with with tech lead.. took entire day.. Flow in from south Ca, to north CA, Decent experience
+
+questions on operating systems, c, c memory management,   Answer Question
+
+Aug 22, 2014
+---------------
+written apti+tech , personal interview and a hr interview. interview was a kinda easy one . you just needd to stay calm. your approach to the problem matters a lot , even if you dont give exact answer its k
+
+scheduling in linux   Answer Question
+
+Aug 23, 2014
+---------------
+Cisco Systems visited our campus. The interview process was fairly straightforward. There was a Written test of 1 hour. It had 20 questions from aptitude and 30 questions from Technical (C,DS,Basic Electronics Concepts). Then there was a Technical round and HR Round. The technical round were mainly based on C,DS and Networking Concepts. You need to be clear with basics. And have good communication skills
+
+Aptitude was difficult   Answer Question
+
+Aug 11, 2014
+---------------
+Firstly Written round was dere containg 50 questions.20 ques.of aptitude and 30 technical ques.covering core electronics as well software questions. After this students were shortlisted for the interview. The ques.asked in the interview belonged to data structure and networking mainly. Then the HR round was there in which normal puzzles were asked and ques like "why i want to join cisco,where i see myself after 10 years,etc" were asked and the interviewer told me about the company.
+
+I didn't find any part to be very difficult or unexpected.   Answer Question
+
+Jul 30, 2014
+---------------
+Interview for a summer internship with Cisco Systems, Reading. The interview was 4 hours long, first part was writing C code on the whiteboard, namely the point-in-a-polygon algorithm. Second question was related to networking - explain what happens on each OSI layer when you open up a website. Second part - written test, 1 hour - the typical tricky questions for software engineering position. Last part - general questions and discussion on future plans, etc. Interviewers were polite and friendly, good experience.
+
+The point-in-a-polygon algorithm mentioned above.   Answer Question
+
+Jul 29, 2014
+---------------
+Aptitude+technical test followed by 2 interview rounds. Technical round has standard questions on C, few questions from digital electronics, aptitude had a lot of time consuming questions. If you have attended the same company before for another profile, few questions repeat. Concepts tested are the same
+
+Aptitude questions were heavy on probability, most of them difficult and time consuming   Answer Question
+
+Jul 28, 2014
+---------------
+Took a day written test had aptitude , c programming,data structures , basic electronics and networking. 2 technical interviews. Majority of the questions in both the rounds were based on programming and networking. Basic electronics questions were also asked.
+
+Print all permutations of your name.   Answer Question
+
+May 1, 2014
+---------------
+This was for an internship. Submitted my resume at a campus career fair and was invited to speak to an engineer for a 1-1. Spoke with the engineer about my project and explained what Fourier Transform is.
+
+Explain what Fourier Transform is and what it does.   Answer Question
+
+Mar 9, 2014
+---------------
+First, there was a written aptitude + technical screening test. It had 50 questions- 20 aptitude + logical reasoning questions and 30 technical questions mainly from topics- Computer Networking, Analog and digital communication, Digital Electronics, Data Structures, OS. Then, there were 2 technical interview rounds followed by HR round. In technical round, they asked about project/internships and gave coding questions to solve.
+
+17 nodes from a node, how will you make a tree.   Answer Question
+
+Mar 6, 2014
+---------------
+3 Rounds 1st - Technical,MCQ Contained questions form Microprocessors, Aptitude, Operatng Systems, Networks, C/C++,Algorithms. 2nd - Technical Interview 3rd - HR Interview
+
+two years ago interview , do not remember now   Answer Question
+
+Feb 5, 2014
+---------------
+There was no technical question. The interview was very simple. There was only one interview. It was a phone interview. I was asked for reference, I provided 2 references and after 2 hours I got the offer. It took more time till get the paper work and sign the offer.
+
+Database generic questions   Answer Question Design patterns   Answer Question Background   1 Answer
+
+Feb 1, 2014
+---------------
+phone interview ---> online interview ----> onsite interview
+
+In my interview, it was all about data structures and they check for strength in data structures like linked lists, hash tables and search optimization.   Answer Question
+
+Oct 10, 2015
+---------------
+I was interviewed by the hiring manager. The interview was carried on online and lasted about 30 minutes. The manager was an experienced software engineer that checked mostly the kind of person I was since he was already working with a former university colleague of mine.
+
+Cannot disclose   Answer Question
+
+Jan 6, 2014
+---------------
+Hiring process is very organised. Will have medium numbers of rounds. Technical strength is what they check. HR is mere a formality. Should be technically strong in the areas they expect for that particular job. Type of questions and generosity depends on the interviewer. There can be 2-5 tech rounds and one HR round.
+
+none all questions were avg level   Answer Question
+
+Jan 6, 2014
+---------------
+the process is not a big deal when you have the right experience, cisco systems is a company that knows what is looking for and therefore if the candidate has the right experience the hiring process is simple
+
+No Question
+Dec 18, 2013
+---------------
+Overall, I went through a process of 4 interviews with HR and technical people
+
+No Question
+May 7, 2014
+---------------
+a written test followed by 4 rounds of interviews which included questions from my project, basic programing, puzzles and the last round was a HR round. In HR round they asked mostly about why i want to join cisco etc
+
+No Question
+Oct 20, 2013
+---------------
+Campus Recruitment
+
+How would you fix a D-Dos attack?   Answer Question
+
+Sep 23, 2013
+---------------
+Written round 20 questions-Apti 30 questions-Tech 1 tech interview 1 hr
+
+1 DC (multiplexing) 1 CCN(numerical) 1 number representation DS(binary trees only) microprocessor DMA memory mapped a lot of OS questions 1hr   Answer Question
+
+Sep 20, 2013
+---------------
+Oncampus recruitment. Written round followed by 2 technical and a HR round.
+
+Read or write a word in a memory where read/ write can be done only in sector-wise   Answer Question
+
+Sep 9, 2013
+---------------
+Phone Interview and then face to face interview
+
+Technical round of questions. Could be from anywhere from resume   Answer Question
+
+Sep 3, 2013
+---------------
+I was hired from university. The panel visited the campus. There was a presentation about the company followed by a written test having 30 technical and 20 aptitude questions. If shortlisted, 2 technical interviews followed by 1 HR interview
+
+The interview questions were around basic networking. Since it was an entry level positions, no touch questions were asked.   Answer Question
+
+Feb 11, 2014
+---------------
+It was part of campus recruitment. 1 written test plus 3 set of interviews were conducted. 2 technical plus 1 hr interview. The roles offered included SE, IT and NC.
+
+some questions relating to my projects and trying to relate with real world scenarios to analyze and code.   Answer Question
+
+Aug 27, 2013
+---------------
+1st round was written round with 30 technical questions from C,OS,algorithms,networking and 20 Aptitude questions. Next was the technical interviews in which they mainly concentrated on operating systems, networking and basic programming skills. There were 3 technical interviews in which they asked about my projects. and at last an HR interview
+
+they asked me about the system call implementations   Answer Question
+
+Aug 23, 2013
+---------------
+Campus recruitment First round was aptitude test-20 quant questions and 30 technical questions There were two technical interviews,and one HR interview
+
+Some questions on linked lists and some puzzles   Answer Question
+
+Aug 6, 2013
+---------------
+Campus interview. 1, Tech- apti 2. One to three tech interview. it goes easy to difficult. 3. If technical round is cleared, HR round will be there for one or two times. Mainly focused on the projects and area of interest. They drive more questions.
+
+How will you implement a floor of a mall where entry and exit are done.   Answer Question
+
+Mar 25, 2014
+---------------
+The interview process started with the ubiquitous written round. This round had two sections viz technical and aptitude. The aptitude questions were witty and a bit confusing but were solvable. The technical questions were more concentrated on logic design and basic electronics with a bit of networking. There were 50 questions (30 aptitude +20 technical). The selection for the next round was based on some relative cutoff.. Around 250-300 people wrote the first test and 60 of us got selected for the next round. The second round was panel interview which the recruiters started immediately after declaring the results of the first round. My interview was conducted by a 2 member panel. My first round score was good as were my academics scores which aided gain some comfort in the interview. We had to submit the resumes before the interview started. My main subject of interest is networks, so they routed me to a panel which had an interviewer well versed in networks. I told my subjects of interests as networks and OS( operating systems). The panel members grilled me tested my technical knowledge relating to these fields. They asked me some questions on the projects that I had mentioned in my resume.The technical questions ranged from basics to specifics. The interview went on for around 30-35 minutes. I answered most of the questions (about 80-85%) with detailed explanation wherever needed but could not answer some of the questions for which my answer was a plain "I don't know, Sir". After the first round of interviews , they called me again and asked about my final year project and my plans on future studies and career. This lasted for 10-15 minutes after which all of us had to wait for around 3-4 hours meanwhile they completed the interview rounds for all the first round selects. Then there was a casual HR interview. The questions were also casual testing my soft skills. All these interview processes were carried out on a single day. After all processes and procedures they declared the names of the final selects at 12 in the mid night! They selected 13 people from our college out of them 8 were recruited for software engineering profile ( I was one of them :) ) and others for IT profiles.
+
+1. How to delete the content of a file without opening the file in linux? 2. How does the transport layer provide secure and reliable communications ? ( I was familiar with those services in Data link layer, so had to extrapolate that knowledge to transport layer )   Answer Question
+
+Oct 3, 2013
+---------------
+1st round: technical test, which included questions regarding C,Electronics,Communication systems and aptitude 2nd,3rd rounds: interviews based on C language basics, OS basics, Data structures and a few puzzles were asked 4th round (optional) : HR round
+
+Dynamic programming   Answer Question
+
+Sep 10, 2013
+---------------
+Firstly there was a written round consisting of general and technical aptitude.50 questions in one hour. Then 36 students were shortlisted. The interviewers were looking for learnings in networking and data structures.being from a circuits backgroung I lacked the knowledge. Dint get rhrough
+
+Traverse a linked list from the end ten places   Answer Question
+
+Sep 10, 2013
+---------------
+First round was written test, which consisted question from signal processing, sql, aptitude, programming, computer architecture, data structure, operating system Second round was interview for selected people, I was among selected persons, The interviewer was a very friendly person, although I could not get selected because of not being efficient at coding, but he did not put me down, but tried to have pleasant interview
+
+Given a automated parking lot, try to think what will be the problem can arise   Answer Question
+
+Sep 14, 2013
+---------------
+1 written round + 2 tech interviews + 1 HR
+
+I was asked to write the most difficult code I had written ever.   1 Answer
+
+Jul 31, 2013
+---------------
+First round was apti which mostly consisted of quant and digital electronics questions and few OS and C questions too.. it was easy and i cleard it.. nxt round was technical interview in which he mostly asked me abt Computer organisation and Microprocessors
+
+what does 32 and 64 bit mean in specs of comp   Answer Question
+
+Jul 31, 2013
+---------------
+It was an on-campus hire. The questions were textbook questions on Operating Systems, Algorithms and Datastructures.
+
+What was the biggest challenge you faced and how did you overcome it?   Answer Question Tell me how you would improve this specific device   Answer Question
+
+Nov 12, 2014
+---------------
+3 Interview Rounds 1 Round completely on Security as i m from information security (M.Tech ) background it was simple only on basic algo n ques 2. Round : was mix up kind HR and technical simple data structure question print a link list without any syntax error on paper 3. Round : Formality just an HR round
+
+your field of study was not related to this job why you have applied for it   Answer Question
+
+Aug 26, 2015
+---------------
+After the online test, I got a call from an HR manager, who asked me about my life like hobbies and so on. After that, I went to Lisbon to have two video interviews (about tech stuff) with people from London and after that I was asked to go to London and spent a whole day in a room with different people from different areas coming in and interviewing me.
+
+data structure realated questions   Answer Question
+
+Jun 25, 2013
+---------------
+i saw the job posting HR guy contact me a week later although i have received an email that i have been rejected
+
+No Question
+Sep 20, 2014
+---------------
+First round had aptitude as well as technical questions.Technical questions were from computer organisation and microprocessors.2 technical round of interviews were there.Last round was hr round which was easy. Nearly 60 students cleared the first round and 8 students cleared the whole process
+
+No Question
+Apr 10, 2013
+---------------
+Campus Placement. Written test followed by one round of technical discussion and one round of HR discussion. Mostly project related questions in technical round.
+
+Design a sensor to predict if a person is hungry or not.   Answer Question
+
+Apr 11, 2015
+---------------
+Telephonic round followed by 3 face to face technical rounds , followed by a managerial and hr round. The process took place over a span of month and was a good experience. Interviews were of average difficulty level. The opening was for a Java developer. And the questions asked were based on Java, OS, Design Patterns and Data structures and algorithms. Managerial round was focussed on domain knowledge.
+
+Write a code to find shortest path between pairs of cities given a graph represnting connection between cities.   1 Answer
+
+Feb 20, 2013
+---------------
+I was referred by my supervisor in graduate school to the engineering manager of the Cisco team I was applying for. Then I went to the company and had a chat with the engineering manage to get to know each a little bit. A few days later, I got an onsite interview. I was asked something about my resume, a few design questions and two easy coding questions. Everything went smooth. I got an offer the next day.
+
+a design problem about the project they've been working on. I was asked to provide my solution based on my own research experience.   Answer Question
+
+Jan 21, 2013
+---------------
+HR -> 4 technical rounds - Manger round - HR interview
+
+How to check the precision of the values registered in the hi and low parts of the register !   Answer Question
+
+Jan 9, 2013
+---------------
+The first interview was through phone and it was mostly going through my resume, while trying to focus on the areas related to telecomunication and problem solving The second interview was a 3:30 hour long and was done by two people. It was a very technical interview, quesitons about C++, how to write functions ( recursion, deleting and adding to linked lists ) , microprocessor behaviour, registers, and they ask what I follow to stay up to date with the latest tech-related news
+
+Merge sort,Quick sort , SYN,ACK,3-way handshake etc.   Answer Question
+
+Jun 14, 2013
+---------------
+2 technical rounds. 1 HR round . . questions related to Data structures and algorithms were asked. Also some related to computer networks. Easy one, and an enjoyable experience . The interviewer made me feel comfortable. Overall a nice experience. 2nd round was a bit challenging one. the initial aptitude test is an easy one covering basic aptitude and coding.
+
+Questions on linked list were only asked. They are easy :)   Answer Question
+
+Feb 20, 2013
+---------------
+There was a written test which had questions from aptitude, C, Data Structures, Operating Systems(Deadlocks), analog electronics and basic electronics. 150 people attended and 38 were shortlisted. Then there was technical interview and questions on C and operating systems were asked. shortlisted people had another technical interview and and questions from linked lists were asked. Then there was a HR interview just for formality.
+
+computer network management   Answer Question
+
+Dec 13, 2012
+---------------
+number of intervies 1 written 2 technical and then technical and hr interview.interviewers were cool and supportive
+
+Questions were not difficult.   Answer Question
+
+Dec 12, 2012
+---------------
+Three interviews - one with the HR, one with three managers and one - with three employers from the team.
+
+how to find when 2 linked lists are merged.   Answer Question
+
+Dec 7, 2012
+---------------
+campus recruitment. 2 technical 1 HR.
+
+No Question
+Dec 26, 2012
+---------------
+Cisco came to our college.. - There was a written test of around 1-1.5 hrs. Questions were on Aptitude, Quant, Data Structures, C Programmng, Microprocessors, Communication Networks, Embedded Systems, Some semiconductor details were also asked. No negative marking . - 20-30 students were shortlisted for interview. Interview Questions were : He gave me a C Code and asked me to find errors in it Errors were due to passing by value and passing by reference types of args to functions.. - Difference between RISC and CISC type of architectures... - Nyquist Sampling theorem - Shannon's 2nd channel source coding theorem. - Principles of CDMA operation/ encoding formulas etc. - Questions related to Network layer in OSI Model. (IP DataGram etc.) - Questions Related to Ethernet address and Broadcast routing. - Questions related to domain name and DNS servers, NAT,DHCP etc..
+
+About DNS Servers.. The interviwerer kept asking me questions about this topic   Answer Question
+
+Oct 6, 2015
+---------------
+A written test, which covers a vast number of topics ranging from transistors to operating systems. it is a multiple choice exam and followed by technical round of interview and a HR. Technical round is important and they mainly concentrated on algorithms and Data structures
+
+give an algorithm/write a program to find out the intersection node in two linked lists, which are in a shape Y. given length of linked lists   Answer Question
+
+Nov 29, 2012
+---------------
+Good process and fair if followed correctly! Procedure driven and rather lengthy.
+
+how many lines are there in cisco logo... lol...   1 Answer
+
+Nov 30, 2012
+---------------
+Campus Recruiting
+
+-static functions applications.   1 Answer
+
+Nov 25, 2012
+---------------
+Wirtten test will be very easy and then two rounds of interview one technical and other HR,technical round will be major elimination round
+
+unexpected fundamentals of digital electronics like diode, transistors that are no where related to IT   Answer Question
+
+Nov 6, 2012
+---------------
+little tough and with several levels of interview you need to pass through...
+
+none of the questions were too difficult and I was well prepared.   Answer Question
+
+Nov 2, 2012
+---------------
+written has objective questions and was pretty easy. they had come for campus placements to our campus. - there were 2 technical rounds and 1 hr. - first technical lasted approximately for 40mins. but mine was 1hour. - it wasnt very difficult, basic stuff was asked. - more on c , c++ and networking were asked
+
+Few networking questions and Java questions   1 Answer
+
+Oct 31, 2012
+---------------
+Written test - 1, technical - 2, HR - 1
+
+No Question
+Oct 26, 2012
+---------------
+They have a good interview process but since hiring was going on at a very fast pace at the time I joined, I had troubles with interview setup, knowing about teams / job description etc. The interview consisted of a lot of questions on the projects done by me. There were very to the point questions based on C language and networking concepts.
+
+No Question
+Sep 5, 2015
+---------------
+2 Technical rounds and 1 HR. Technical round was mostly on networking on Java and Database questions. There were 4 to 5 people in the panel, Different department people have interviewed me.
+
+No Question
+Sep 21, 2012
+---------------
+Initial round was a written test consisting of 20 Aptitude and 30 Technical (Networks, Digital Logic mostly) questions. Next round was a Techhical Interview. Questions asked ranged from explaining about previous Projects undertaken to explaning some algorithms (search/sort etc). Some also involved about the programming language you were mostly familiar with (for ex: C). There were some questions on Networks, OSI layer, switches, routers etc. Math puzzles may be asked. Round following this would be HR.
+
+Asking puzzle was a bit unexpected. It was the water jars puzzle.   Answer Question
+
+Sep 8, 2012
+---------------
+Round 1 was an Aptitude test and technical test. The topics asked were Digital Electronics, Microprocessors, basic C and certain apti questions. Some questions asked: 1.Interrupts 2.nmos, pmos channel length 3.output display Round 2 Interview : Technical Main focus on your coding skills. Also asked about computer networks. various protocols etc. How does a server work? What happens when you sign in on multiple browsers with different usernames. how this is achieved?
+
+Fourier Transform, Fast Fourier Transform, Matlab   1 Answer
+
+Oct 6, 2012
+---------------
+The interview panel was very friendly . They made me comfortable and less tensed . The best thing about this company is that, if u have talent even though in some other field , not just software side ,they will hire you for sure. I have attended many interviews , but as far as i know this company interviewing method is the best
+
+Explain the working of ping command ?? I am an ECE student , so this seemed a but difficult .   Answer Question
+
+Aug 16, 2015
+---------------
+- Good, focus on the role based skills - Lasted for 2 hrs - - - - - - - - - - - - - - - - - - - - -
+
+Data Structures, Role Based Skills, C, C++, Linux, Puzzles   Answer Question
+
+Aug 31, 2012
+---------------
+Came on campus. Had a written round after the ppt. The written round consisted of around 15-20 aptitude, 15 electronics based questions, 15-20 C/DS/OS/Networking questions. In total there were 50 questions. Dint clear the written round. There were three rounds of interviews. The interviews are not very tough from what i heard.
+
+Electronics questions were not expected in the written round.   Answer Question
+
+Aug 25, 2012
+---------------
+aptitude 20 + 30 technical questions in written test... technical interview was on C, basic electronics, microcontrollers, networkin related subjects HR was simplw...
+
+none... be well prepared...   Answer Question
+
+Aug 23, 2012
+---------------
+You will have 5 to 6 technical rounds. Then you will have to meet the manager if you are through. Mostly they will announce the results on the same day. Then you will be called for a HR round.
+
+There were no difficult questions as such. They just test your basics in the interview and if you are well prepared you will get through.   Answer Question
+
+Aug 31, 2012
+---------------
+This was through the campus placements in my university. There was a written test first, from which around 40 people were selected for the next round.. then i had 2 technical interviews and one hr interview.. the details are as follows 1) Written Test : had 20 aptitude and 30 technical questions.. aptitude had a lot of questions from permutations, combinations and probability.. technical had a mixture of os, microprocessor, digital electronics, c, comp arch etc.. 2) First Tech Interview : was asked to speak about my projects.. then few basic questions from networks.. like different protocols and their functions, layers etc.. was asked to code for a logical puzzle.. 3) Second Tech Interview : this was with a different panel.. again spoke about my projects.. then questions based on computer architecture (pipelining, interrupts etc), microprocessor (8085, 8051 based qns) 4) HR interview : typical stuff.. tell me about urself.. talk about some non technical activity you have done in college.. strengths, weakness , family etc..
+
+Explain the architecture being used in today's latest processors...   Answer Question What happens when you ping a device? explain at the layering level..   Answer Question
+
+Apr 5, 2013
+---------------
+written and interview
+
+Design and write a code for a cyclic buffer used in routers.   Answer Question
+
+Jan 26, 2013
+---------------
+it was under campus placement. it consisted three rounds 1. written test 15 aptitude ,15 Electronics, DCS topics based,15 c/c++ based questions 2. technical round :- basic DS que like reversing a linked list, DLL to BST etc. OS and ACA will be pretty handy to crack it !! 3. managerial round:- why cisco? future plans and project details
+
+using pthread delete the linked list in optimized manner!!! buzz sigh...   Answer Question
+
+Oct 11, 2015
+---------------
+2-3 technical Interviews, 1 HR round. Interviewers were very friendly and comforting and dont let you feel nervous. First they gave presentations about working at Cisco and how can it be a career boost. Then we had our first interview round where some general questions about algorithm design were asked. Second interview was more about networking and its fundamentals, and some puzzles, which i was notable to solve. Usually people were having only two interviews, but i was the only one who had three interviews, where they asked me questons about graphs. Fourth was HR round, where he asked me general questions about working there at cisco.
+
+even-though graph theory was to be taught in a course which was supposed to be studied after the interview process, but still they asked me to design djikstra's algo.   Answer Question
+
+Jul 18, 2012
+---------------
+Got the call by employee referral, Steps included phone interview, 5 1-1 interviews
+
+Expected C programming questions, Operating Systems and Networking basics   Answer Question
+
+Aug 10, 2012
+---------------
+there were one written test of 1 hr comprising of 50 questions. 20 questions from quantitative aptitude and LR 30 question from tech which consisted of digital electronics operating system digital communication (PCM) and some c questions. interview was of three rounds 1st was technical round C,DS,networking ,OS and digital electronics were asked.
+
+XNOR to NOR gate   1 Answer
+
+Sep 3, 2012
+---------------
+there were four stages.first was aptitude and technical written exam which had 20 aptitude questions and 30 technical questions to be completed in 1 hour.then it was technical interview for 80-90 mins mostly on networking and i had HR interview for about 25 mins
+
+why cisco and where do you find yourself after 5 years   Answer Question
+
+Jul 17, 2013
+---------------
+1. Aptitude test with C program outputs 2. GD 3. Technical/HR Interview
+
+Hardest problem was to reverse a linked list.   1 Answer
+
+May 27, 2015
+---------------
+1. Telephonic round -- Brief discussion about my skillset and the requirement detail 2. In depth Telephonic round - In depth discussion on the subject 3. Face to Face round -- Formal managerial round 4. HR round - Salary and other disscussion
+
+About your last project in detail.   Answer Question
+
+Oct 27, 2014
+---------------
+We had a written round in college. There were around 50 questions which included questions from broad range of topics from C programming to networking. I was then called for an onsite interview which included 3 technical rounds, and a HR round. The questions mainly tested the knowledge in networking and algorithms. The questions were simple enough though.
+
+Well most of the questions were quite simple if you had prepared well enough.   Answer Question
+
+Jul 25, 2012
+---------------
+I did my summer internship at Cisco this year, for Internship there were two telephonic rounds. First one was technical round, all questions were from Data Structures and Object Oriented Programming Principles; second round was an HR Round where they asked me about my interests, family, etc. During the internship I applied for Full time job, where they took one written round, which had 50 questions (20 Math/MAT, 30 Technical) and was supposed to be done in one hour. Technical questions were from Digital Electronics, Computer Architecture, and Microprocessors/Microcontrollers. After written round there were technical, manager and HR rounds. In Technical round they asked me questions from my Projects, Data Structures and Sockets, Manager round had few technical questions and brain teasers, and HR round had questions like why I want to join Cisco, etc.
+
+Technical Round was ok, HR asked some tricky and direct questions like why I want to work for a company rather than joining my family business   Answer Question
+
+Jun 16, 2012
+---------------
+The interviewer (hiring manager) called me on time. At first he asked me to introduce my background, and then asked questions related with my background. Actually, there are about 12 qualifications in their job description in which 11 qualifications I am very strong on. However, finally he said the remaining 1 qualification (1 front end programming language) is critical for the job. So I knew there wouldn't be an offer.
+
+Describe the singleton design pattern, and the factory pattern.   1 Answer
+
+Jun 8, 2012
+---------------
+Ask about couples of C and OS questions. (function pointer, const, static...etc)
+
+What is different between static variable and global variable   1 Answer
+
+Oct 12, 2012
+---------------
+I had a phone interview with general questions about my backgraound, the next round was a phone+web interview; the guy type programming questions and you fill out the designated space
+
+Constructing, Sorting and reversing singly linked list, doubly linked list   Answer Question
+
+Apr 29, 2012
+---------------
+webex interview with mgr
+
+Questions about pointers. Make sure you're totally comfortable with pointers   Answer Question More qns about pointers! And assignments in if and while looks. if ( a = b) {} and while(a=b) {}   2 Answers
+
+Apr 4, 2012
+---------------
+I was initially interviewed with a quick phone screen. Just some C debugging questions. I flew through it. Was later invited for a telepresence (Cisco's proprietary video conferencing system) interview. I only had to go to my local cisco office while my interviewers were in California. There were 3, 1:1 interviews. One by the project manager, then by a senior manager and then by a software engineer. The first was resume based, plus some HR questions. The second was purely resume resume based plus some knowledge questions. The third was purely code based with some C questions. (Pointers and stuff) The manager called me the next day to let me know I was selected!
+
+How to reverse a linked list?   Answer Question How to create linked list without using pointers?   Answer Question
+
+Jul 8, 2012
+---------------
+The interview consisted of two technical and one HR round. First round was just a background check of the basic programming knowledge mainly all about c programming and datastructures. Second round included just one or two questions but were tricky. Finally the HR round which was just similar to other formal interviews
+
+If there are 1000 websites and 1000 users, write a program and Data-structure such that i can query for the followin at real time: 1. Given any user, I get the list of all sites he/she has visited 2. Given any website, I get the list of all users who have visited it.   1 Answer
+
+Jun 15, 2012
+---------------
+I first got a phone call and the my availability was asked after which a day for interview was fixed. interview lasted for around 50min. I was asked to code on a shared screen with webcam on. The interviewer was one of the member from the same team which had an open position. The interview started with a walk-through of my resume, and my interests. THe interviewer then narrated to me, what the team does. I was asked just one question and was allowed to code in the lang i preferred, though he told he would appreciate if it was C. I chose C itself as that was the language I was comfortable with. He put forward a problem which was more of a data-structure, design question and I tried solvin it slowly. He gave few tips me whenever and wherever i got stuck. It took 3 weeks, after which they responded with a reject.
+
+In the following code segment what will be the result of the function, value of x , value of y {unsigned int x=-1; int y; y = ~0; if(x == y) printf("same"); else printf("not same"); }   Answer Question
+
+Jun 6, 2012
+---------------
+written test was the 1st round.they allotted 9to12 time slot for me.it was crowded and simply they were unable to handle the situation.atlast by 12.30pm we entered into the company.the question paper included questions from 4 sections1.logical reasoning and english 2.general aptitude and c pgm 3.networking(unix and linux commands)4.software testing basics.it was tough and they alloe=wed only 80 mins.
+
+How would you implement the try/finally construct in C++?   1 Answer
+
+Feb 28, 2014
+---------------
+I asked a friend at Cisco to pass on my resume. I got a phone call from a recruiter who asked me some questions about my experience and scheduled a screening interview. I then came in for a 1 hour interview, all technical questions not too difficult. That same day I was told I passed and we scheduled a full day on interviews. The interview day was made up out of 5 one hour interviews each with a different interviewer, one had an additional engineer observing the interview as part of their interview training process.
+
+What Cisco should expect from you and what are you expecting from Cisco?   1 Answer
+
+Jan 21, 2014
+---------------
+Very well planned interview and hiring process. We can use internal facilities during interview process. Interview will be based on your previous experience and some questions related to programming and OS.
+
+None of it was so difficult.   Answer Question
+
+Mar 5, 2014
+---------------
+There was a telephonic screening round, after which there were 5 rounds of technial rounds. All of them are around C programming, data structure, networking , and problem solving. I would say its neither difficult nor easy. In all the rounds there was a puzzle asked. And datastructure questions involved linked lists and Trees.
+
+Factorial?   1 Answer Factorial iteratively, since i did it recursively first?   Answer Question
+
+Feb 8, 2012
+---------------
+Talked a little about myself and current projects. He then asked me to code up factorial. I did it recursively, he then asked me to do it iteratively. I coded it up perfect, and he said that was all the coding i needed to do. Not sure why they didnt ask me harder questions, especially since i did it perfectly and didnt get an offer. I was one of the first interviews of the day, so i think he may have under estimated the level or interviews he was giving or something.
+
+No Question
+May 6, 2012
+---------------
+They had 3 rounds of personal interviews once I cleared the written test. First interview was totally based on computer Networks. He asked me some basic concepts of Networking. Second interview was based on my CV. He asked me few questions on data structures, about my projects etc. and the third was the HR interview and the main questions were why cisco? and would you like to go for masters or not??
+
+HR question: your academic skills are excellent. Why don't you go for masters?? I would suggest you to go for masters!   1 Answer
+
+May 14, 2012
+---------------
+it was a campus recruitment. my interviewer was cool, gives you time to think, so don't be tensed.
+
+How do you rotate a 8-bit integer?   Answer Question What is kernel/user mode   Answer Question
+
+Jun 29, 2012
+---------------
+Got invitation of written test via employee referral. Out of around 2000 candidates, 100-150 managed to pass that barrier. Then after few days interview date got scheduled. There were 4 rounds as of total that day. From morning 9am to 8pm attended all the rounds. was asked almost all subjects of computer science. Also was asked questions about practical problems, coding. There was a lot of coding, algorithms, optimizing codes, reducing time complexity.
+
+Why Cisco   1 Answer
+
+Oct 19, 2013
+---------------
+I got hired on-campus. There was a written test first. Then, two-rounds of technical interview followed by a HR-interview. In the written, questions were from Computer Science, Mathematics, and Electronics. In the technical round, they asked me about the basics of C, OOP, data Structure, Operating Systems and Networking. In the HR round, general questions such as why do you want to join the company, etc.
+
+Almost all the questions were on expected lines   Answer Question
+
+Oct 27, 2011
+---------------
+The interview was mainly behavioral in nature. We spoke about what was on my resume and I had explain some of my past projects and was then thrown a couple of cases to analyze and comment about.
+
+Describe past incidents where you've had a conflict with co-workers and how you handled it.   Answer Question
+
+Sep 27, 2011
+---------------
+The recruiter was really nice and he just asked a puzzle. Given 8 balls, 7 of them is 10g and the 8th one is .9g, you can use a balance scale, how can you find the lighter ball if you can use the balance scale only two times. I think the puzzle is very common. But I have not solved it during the interview. Sorry about that.
+
+Find the only lighter ball from 8 balls using a balance scale only two times.   1 Answer
+
+Sep 21, 2013
+---------------
+Basics is expected from freshers
+
+Everything will be simple if you are strong in basics   Answer Question
+
+Jul 11, 2012
+---------------
+i was asked to come at 10 and interview took place for 3 days , first day was a general HR type of test and second day was the skill test and 3 was a day they were satisfied to map me to a project where i was asked my [reference to be in a software side and i declined and was later given business unit support team activities and was very happy with that .
+
+Why did you use MANETs in your security detection systems?   1 Answer Where to you see yourself in 5 yrs ?   1 Answer
+
+Nov 25, 2013
+---------------
+Apti/Technical Round Technical interview - 2 rounds HR interview (could be telephonic) Be prepared with Basic C questions. Dont try to over expressive. Interviewers will help you to get the solution. Just be patient. Written test pattern changes with time. Just Google for the latest pattern. As far as mine was concerned it was a combination of Electronics(Digital)+C lang+Basic Apti ones.
+
+Question on Dummy pointers and also volatile variables.   Answer Question
+
+Jun 26, 2012
+---------------
+I got the news about the vacancy in this company online then applied for it. After which candidates were shortlisted on the percentage basis for written exam. Then there was selection on the basis of written exam for technical interview. After which there was final selection. Interview was in three round and with each round difficulty level increased but overall it was nice.
+
+my background details.   1 Answer technical questions on networking   1 Answer
+
+Aug 7, 2013
+---------------
+phone interview, on-site one on one interview with lots of technical questions.
+
+how to prevent looping in layer-3   1 Answer
+
+Mar 20, 2011
+---------------
+scheduled a 45 minute interview through my campus career center. When I received the call, I realized that I could not understand the interviewer very well, so I grabbed some ear phones to make the process smoother. The most difficult part of the interviewer was just making sure that I understood the questions he was asking, so I just repeated them back to make sure that I got them. Started off with basic interview questions, then asked about code understanding and a couple thought process,questions.
+
+Describe a time when you had a problem with a group member and how you solved it.   Answer Question What are the differences between static and extern variables?   Answer Question You are given an array that contains n-1 unique elements in the set of 1 to n. This means 1 element is missing. How do you find that element?   Answer Question
+
+Apr 19, 2011
+---------------
+Pretty simple interview yet thorough. All sorts of questions ranging from DSA to Networking to OS. (all basics, nothing fancy) A good resume helped. HR interview was quick, I guess the technical interview went well so they just quickly brushed it up.
+
+Write code (on paper) to count number of words in a sentence.   Answer Question
+
+Feb 22, 2011
+---------------
+Flew candidates out to Cali. Went through three rounds of interviews 45 mins each. Went over what was on my resume, some basic programming questions like linked lists, and also some intelligence questions like how many weighs do you need to know what is the bad ball out of 8 balls.
+
+how many scale measurements does it take to know which ball out of 8 balls weighs more? Then how many does 28 balls take?   8 Answers
+
+Apr 4, 2011
+---------------
+The first round was a shortlisting multi choice objective type test consisting of 50 questions. Half of them were general aptitude questions while the rest were from various fields like computer programming, microprocessors, database and basic electronics. Around 50 candidates were shortlisted. After that I had 3 rounds of 1:1 interviews. The first round was technical consisting of various questions from linked lists, threads, semaphores and a few basic networking questions. The next round was mainly a resume walk through where I was evaluated on my various projects and responsibilities and my strengths and weaknesses judged. The last round was a HR round and was more like an informal chat.
+
+How would you code a stack using linked list?   1 Answer
+
+Sep 9, 2015
+---------------
+First phone interview with the hiring manager, then interview for like half a day with like 7 different people, mostly senior engineers and two managers. Lots of technical questions with the senior, so you better know your stuffs. The managers would ask you more about your past work experiences.
+
+What is an interrupt routine?   Answer Question
+
+Apr 6, 2011
+---------------
+1. introduce myself 2. review the resume 3. the interviewer picked one of the project she was interested and talked more about it. 4. some extra questions about personality.
+
+why you didn't do this way...?   Answer Question
+
+Jan 19, 2011
+---------------
+I contacted a person inside cisco, whom I don't know. He reviewed my resume and contacted me to have a short phone interview. It was roughly 30 minutes long interview, he mainly asked questions oriented to software development, which I don't know much about.
+
+How to efficiently implement log function using C?   Answer Question
+
+Aug 7, 2011
+---------------
+For screening they conduct a written test 50 Questions in total, 20 Aptitude types and 30 Engineering. In this 30 Questions 60% Electronics, and 40% in CS. After that 3 F2F Technical Interviews and 1 HR Interview. They will ask about your Projects. C,(In Depth) Data Structure(Mainly Trees and Linked List) Algorithm(Basic) OS(Baiscs More than Average.) Networking (Basics College Level)
+
+Where is string constants stored in Memory? Ex: char * a = "Hello" ;   3 Answers
+
+Oct 13, 2010
+---------------
+On campus preliminary interview, waiting for result. Typical resume, coursework walkthrough. Short question on data structure and algorithm. A couple basic networking questions. Interviewer was very nice and helpful. There is an on-site 2nd round after.
+
+What does a router do?   Answer Question
+
+Jun 19, 2011
+---------------
+Very detailed and competitive interview process
+
+Throwing egg from maximum floor such that it doesn't break   2 Answers
+
+Apr 14, 2011
+---------------
+The interview went well from different perspectives. It started from phone interview after HR person found the resume online. In the phone interview, several general technical questions were asked to determine if the employer wants to move further or not. After that, an onsite interview was given. Several guys showed up in the one-hour-each onsite interview, focusing on tech questions and puzzles. The offer was given after the onsite interview in a month or so.
+
+What do think about your future career path in this company?   Answer Question
+
+Jul 7, 2010
+---------------
+I submitted the resume online on their web site. Also it was referred by an alumni from our university. In a 1 and a half hour interview. ask some c questions: like what is the functionality for a static variable and a static function in c. and write some c programs like binary searche.
+
+what is the functionlity for a static variable and static function in c   Answer Question
+
+Mar 4, 2012
+---------------
+2 phone interviews and a full day of onsite interview. General programming questions, data structures, networking were asked.
+
+Write code to see if a string is a sub string of another?   3 Answers What do you know about memory leaks in C?   1 Answer
+
+May 19, 2010
+---------------
+The hiring manager called me up on phone and asked reasonable technical questions. Priority Invertion, Deadlock, Mutexes. Keep in mind that this was probably for a position which required very good OS concepts. I gave satisfactory answers and he arranged for a 1:1 the next week. The onsite interview had about 5 people. First one was hiring manager himnself. Gave a C test. Simple sorted array merging. I had rusty hands. Followed by another enginner who grilled me on OS concepts. How is executable format stored and loaded. Where are variables stored. How are interrupts handled etc. Majorly OS related stuff. Also recursion C questions. This was followed by another round of hard core questions on OS, threads and non amskable interrupts followed by a simple question on linked list. Need to know basics about datas tructures and algorithms. Which one is more efficient etc. After this a member from different team came by, asked some questions on my earlier work and another tree recursion program. This followed by the hiring manager of another team, asked basic question on my previous work and other problem solving scenarios when two processes are communicating with each other(IPCs). I was asked to come by for a second round after a week. The first 1:1 was difficult for me. Some questions on semaphores, mutexes. C programming question specifically targeting your knowledge of bitwise operators and memory management. Did not do so well. This followed by simple rounds by 2 other persons. Previous work. Multiple processor programming etc.. Overall, I probably needed more experience in the area that they wanted. Did not get the offer.
+
+depth of a tree program   Answer Question common elements in two linked lists   Answer Question
+
+Aug 17, 2010
+---------------
+They asked general questions. Very meaningful interview to test your knowledge and aptitude. Very few tech questiosn
+
+analytical   Answer Question
+
+Jul 31, 2010
+---------------
+was finished in a day, not at all tough.
+
+DS related questions   1 Answer
+
+Jun 24, 2014
+---------------
+one round of written test, 1:1 and hr interview written test contained questions on C , DS, OS and networking Technical interview started with basics and covered mostly on operating system concepts and networking concepts, ending with couple of questions on data structures
+
+questions were simple and basics on networking and operating systems   Answer Question
+
+Oct 12, 2012
+---------------
+Cisco mainly look for your knowledge on networking side, and should be good in C/C++ or whichever language you're being interviewed for. Also you should be good on operating system concepts.
+
+I didn't prepare much on networking when I went for the interview, so I found it difficult to answer some of the questions related to TCP/IP and networking. But I was able to question properly on C programming and all and was able to clear the interview.   Answer Question
+
+Nov 4, 2013
+---------------
+6 rounds of technical interview and 1 round of HR interview
+
+questions related to EMS domain   Answer Question
+
+Oct 3, 2012
+---------------
+Campus placements: 1. Aptitude + Technical Test 2. Tech Round 1 3. Tech Round 2 4. HR Round ( Written text- Aptitude was ok-ok. Technical part included very few computer related questions.Mostly they were digital/analog electronics. Interview-I had only 1 Tech+1 HR .If you perform very well in tech round 1, you will have direct HR round.)
+
+Design a system which should be able to create only one object instance at a time . No other object instances should be allowed to create.   Answer Question
+
+Feb 27, 2011
+---------------
+There are six peoples involved interview. It was take almost 1 hour for each of them. There was data structure coding (C). Unix command questions. Operating system question.
+
+Write linked list using c   Answer Question
+
+Oct 29, 2013
+---------------
+INterviewed by 3 people. ALL senior professionals. Pure technica... DS & Algo asked
+
+Desging CE and CB circuit   Answer Question
+
+Nov 18, 2011
+---------------
+was very exciting to interview with them for this position. Hr was very helpful and really enjoyed the experience.
+
+explain difference between tcp n udp?   1 Answer
+
+Sep 1, 2010
+---------------
+There was a written test which had topics from the standard computer science subjects + some electronics basics like gates etc. Also mathematical/logic puzzles type qs. Shortlisted candidates had to go through one technical interview (2 interviewers) and one HR interview (1:1) In the tech interview apart from usual puzzles and cs qs, the stress was on networking concepts as well. HR interview was also pretty thorough
+
+They asked to describe how a message from one computer system reaches another over the internet.   1 Answer
+
+Aug 11, 2011
+---------------
+Had phone interview first where basic questions related to background wer asked. After that I was called for 1:1 interviews. There were 6 interviews ~30 mins each. Some were technical & some were more personality tests. Got an offer within a week. Salary was negotiable.
+
+None of the questions asked were difficult or unexpcted.   1 Answer
+
+Jul 18, 2012
+---------------
+First a phone interview. Followed by 7 people interview 1:1 . There were questions about networking, previous company projects about design, programming questions.
+
+Explain sliding window.   Answer Question
+
+May 31, 2012
+---------------
+Employee referral, 1 telephonic interview and 3 personal interviews all technical. then one round of HR interview. Looked like a bunch of smart people who are proud to be with Cisco
+
+They asked a few puzzles and C programming and data structures questions   Answer Question
+
+Jul 10, 2010
+---------------
+Phone call from Human resources to chat. Phone call from Human resources to set up interview time.Phone call from Human resources to confirm. conference call with interviewer.Phone call from Human resources to set up on site interview. 7-8 interviews on site. Exhausting and boring questions. Interview ended later than was set to and had little time to catch the plane.
+
+Why do you want to work here as a software engineer?   Answer Question
+
+Jun 10, 2012
+---------------
+Collage interview process it is simple.
+
+more about C and data structure generic Q   1 Answer puzzle   1 Answer
+
+Jun 13, 2009
+---------------
+The interview process started with the on-campus screening interview. The questions were on data structure and on the projects I was working on. Then they invited me for the second round of on-site interview. The on-site interview took a whole day with three interviews and the lab tour. All interviews were technical questions and usual questions such as reverse the linked link, why do you want to work for Cisco.
+
+How the watchdog timer is implemented?   1 Answer
+

@@ -1,0 +1,1084 @@
+Oct 27, 2015
+---------------
+Data structure/algo questions and some low level questions   Answer Question
+
+Oct 23, 2015
+---------------
+Implement an algorithm to shuffle songs in a playlist   Answer Question
+
+Sep 4, 2015
+---------------
+Multi threading and synchronization related questions   Answer Question
+
+Jun 21, 2015
+---------------
+Asked me to describe how computers work at a high and low level, as well as design a REST API for a complete system   Answer Question
+
+Jul 23, 2015
+---------------
+Working experiences, working habits, programming, project experiences, family status, ....   Answer Question
+
+Sep 11, 2015
+---------------
+multithreading, TCP/IP   Answer Question
+
+Apr 20, 2015
+---------------
+Question whether the binary tree is balanced?   1 Answer
+
+Apr 16, 2015
+---------------
+What is an autonomous system?   Answer Question
+
+Apr 13, 2015
+---------------
+Awful, 1hour+ of questions ranging from ood principles to Linux to c++/c to networks to Python. Also got asked what books I read to "keep current"   Answer Question
+
+Aug 10, 2015
+---------------
+Build a deck of cards, represented by strings and each card&#039;s suit and value separated by a string.   Answer Question
+
+Mar 2, 2015
+---------------
+Coding questions   Answer Question
+
+May 11, 2015
+---------------
+What is a namespace in C++.   Answer Question
+
+Aug 17, 2015
+---------------
+Basic string programs   1 Answer
+
+Sep 30, 2015
+---------------
+Explain Red &amp; Black Trees   Answer Question
+
+Sep 22, 2015
+---------------
+A lot about my personal experience and several questions about python. explain the difference between map and something.   Answer Question
+
+Apr 22, 2015
+---------------
+Please explain your resume?   1 Answer
+
+Feb 7, 2015
+---------------
+Behavior Question + Basic Bit Minupulate   Answer Question
+
+Feb 6, 2015
+---------------
+Basic questions about routers, bridges, hubs.   Answer Question
+
+Feb 3, 2015
+---------------
+Code a simple linked list.   Answer Question
+
+Feb 11, 2015
+---------------
+Data structure things.   Answer Question
+
+Feb 23, 2015
+---------------
+what is version control   Answer Question
+
+Apr 25, 2015
+---------------
+Briefly describe about your project ?   Answer Question
+
+Oct 20, 2015
+---------------
+What is a dictionary in Python. What is list in Python. What is a tuple in Python. Some other simple ones I can't remember.   Answer Question
+
+Jan 15, 2015
+---------------
+The programming exercise was about parsing pseudo-XML tags.   1 Answer Whiteboard coding: Reverse a linked list.   2 Answers
+
+Jan 20, 2015
+---------------
+I was an ex employee of Oracle. So asked me what disadvantages I had working with Oracle DB. This was an unexpected question.   Answer Question
+
+Apr 26, 2015
+---------------
+Write pseudo code for your favorite sorting algorithm. Write a method that determines whether a number is prime.   Answer Question
+
+Apr 12, 2015
+---------------
+Typical questions. Reverse linked list. Reverse bit in an integer. 0th bit &lt;-&gt; 31th bit, etc... What do you see yourself in the next 5 years. Summarize you experience in 5 minutes.   Answer Question
+
+Dec 18, 2014
+---------------
+Network topology and STP implementation   Answer Question
+
+Nov 17, 2014
+---------------
+asked me some detailed knowledge about the networks.   1 Answer
+
+Oct 15, 2014
+---------------
+Data structure and algorithms   Answer Question
+
+Oct 9, 2014
+---------------
+what will happen when use strtoken in multithreading environment   Answer Question
+
+Oct 27, 2014
+---------------
+Reverse a Linked List   Answer Question
+
+Sep 11, 2014
+---------------
+The question regarding the Data Structures was difficult because at best I could get a run-time of O(kn), or O(nlog(n)), but that wasn't close enough to O(n), which is what they wanted.   Answer Question
+
+Sep 24, 2014
+---------------
+String concatination, how canyou write a better concatination with out using existing menthods like .concat etc... can a dead lock happen with three threads, the job description has nothing to do with these questions. The concentration was on basics of programming, was asked to write doule linked list program...if you are comfortable with sting programs and linked list concepts it is very easy to crack   Answer Question
+
+Aug 29, 2014
+---------------
+C++ inheritance   Answer Question
+
+Jul 23, 2014
+---------------
+Describe a difficult situation where you found a solution   Answer Question
+
+Jul 17, 2014
+---------------
+String concatination, how canyou write a better concatination with out using existing menthods like .concat etc... can a dead lock happen with three threads, the job description has nothing to do with these questions. The concentration was on basics of programming, was asked to write doule linked list program...if you are comfortable with sting programs and linked list concepts it is very easy to crack...   Answer Question
+
+Oct 15, 2015
+---------------
+How did you become interested in engineering, knowledge of networks, favorite coding language was, some basic behavioral/fit questions   Answer Question
+
+Jan 31, 2014
+---------------
+what's trace route, how does it work   Answer Question
+
+Jan 29, 2014
+---------------
+Discuss the internal release policy.   Answer Question
+
+Jan 22, 2014
+---------------
+What do you know about memory system in the linux system? How does it manager the memory?   Answer Question
+
+Jan 13, 2014
+---------------
+The improvement of the question   Answer Question
+
+Oct 8, 2013
+---------------
+There was an imaginary computer programming language that you were supposed to decode the output of.   1 Answer
+
+Dec 24, 2013
+---------------
+Brain Teaser: Involved thinking outside the box to come up with a solution. The interviewer gave me a hint and then I got the answer. I don't really see the point of this kind of question, because I had heard something similar to the brain teaser he gave me, and I was able to get the answer quicker because of it.   1 Answer
+
+Oct 20, 2014
+---------------
+How do you delete a node in a linked list. Code it on the white board   Answer Question
+
+Aug 8, 2015
+---------------
+Describe IP spoofing attack and how to prevent/detect it.   Answer Question
+
+Nov 26, 2014
+---------------
+If you could do [insert project] over, what would you do differently and why?   Answer Question
+
+Sep 15, 2013
+---------------
+a lot of behavior questions   Answer Question
+
+Sep 12, 2013
+---------------
+Design a vending machine.   Answer Question
+
+Sep 10, 2013
+---------------
+7 layers in networking   1 Answer
+
+Feb 3, 2014
+---------------
+none   1 Answer
+
+Sep 26, 2015
+---------------
+You have nine identical balls, one weighs more than the rest. You have a balancing scale and can only use it two times. How do you find out which one is the heavier ball?   1 Answer
+
+Sep 13, 2013
+---------------
+Nothing really difficult.   Answer Question
+
+Jul 22, 2013
+---------------
+how would you arrange an array backwards?   1 Answer
+
+Jun 9, 2013
+---------------
+Asked me to write 8 bytes aligned malloc and corresponding free function   1 Answer
+
+Mar 17, 2015
+---------------
+Q: Deadlocks, mutex & semaphores Q: Implement a stack using Queues Q: Difference between threads & processes   Answer Question
+
+May 9, 2013
+---------------
+Given 3 systems: system 1 reaches 0xFF, then system 2 increment by 1. Everytime system 2 increments, system 3 would fetch the package. When can there be a problem? What is the problem with this system? How can we fix this?   1 Answer They will give you the most random questions regarding DSP.   Answer Question Write and derive any C programming Object on the board?   Answer Question
+
+Apr 30, 2013
+---------------
+Design and implement a load balancer in C.   1 Answer
+
+Apr 26, 2013
+---------------
+He provided a puzzzle to solve.   1 Answer
+
+Apr 12, 2013
+---------------
+Went over resume and discussed past experiences.   Answer Question
+
+Mar 14, 2013
+---------------
+Given a set of strings, determine the greatest common prefix of all strings in the set.   Answer Question
+
+Feb 19, 2013
+---------------
+They require operating system knowledge which is hard for a EE student   Answer Question
+
+Mar 6, 2013
+---------------
+How to return a structure member with just an offset.   Answer Question
+
+Jan 23, 2013
+---------------
+Nothing surprising, but the guy did ask about everything related to networking fundamentals and C++   Answer Question
+
+Oct 6, 2015
+---------------
+I was only a Sophomore, so I was a novice and couldn't really perform the typical interview questions. They ended up taking a project listed on my resume and asked for more details. One of the questions related to this project was "How was my robot able to detect an analog light signal?" Nothing that I didn't know the answer to.   1 Answer
+
+Jan 31, 2014
+---------------
+ask me about the router field question, which I never touched before.   Answer Question
+
+Aug 4, 2012
+---------------
+If you disagreed with your manager and felt they were doing something wrong, how would you handle it?   Answer Question
+
+Jun 9, 2015
+---------------
+Data structures and bit manipulation questions   Answer Question
+
+Apr 11, 2013
+---------------
+The manager asked me to model some problems.   Answer Question
+
+Jun 4, 2012
+---------------
+Binary tree search   Answer Question How do two different Threads share information.   1 Answer
+
+Jun 19, 2013
+---------------
+Only C programming questions.   Answer Question
+
+Sep 28, 2015
+---------------
+Swap two integers without using additional variable.   1 Answer
+
+Oct 14, 2015
+---------------
+Implement a hash table.   1 Answer
+
+Mar 16, 2015
+---------------
+Not to be disclosed ! C operating systems basic. Paging, virtual memory questions. Bit manipulation questions. 1: Generalized linked list traversal 2: Find the number is power of 2 or not 3: Linked list deletion 4: Networking basic questions. 5: Sorting methods and complexities.   Answer Question
+
+Jun 12, 2012
+---------------
+What is your greatest weakness? Follow up: What other weaknesses do you have?   2 Answers What's your ideal job/work environment?   1 Answer
+
+Aug 18, 2012
+---------------
+There were some algorithm and data structures oriented questions. Probably messed up a lot but they care about your thinking process more than the solution.   Answer Question
+
+Feb 2, 2012
+---------------
+What contributions had systemic affect on group effectiveness   1 Answer
+
+Dec 15, 2011
+---------------
+How would you implement a router for as big a company as Cisco that would accomodate lots of ip addresses.   Answer Question
+
+Nov 18, 2011
+---------------
+Java basics: interface, inheritance, polymorphism   Answer Question about previous projects I did   Answer Question
+
+Aug 6, 2015
+---------------
+Basic C and Java questions   Answer Question
+
+Apr 2, 2012
+---------------
+Describe oakley key exchange protocol   Answer Question
+
+Oct 2, 2011
+---------------
+Find all errors in a program   1 Answer
+
+Dec 28, 2011
+---------------
+Question about GPA.   Answer Question A quick c++ question   Answer Question
+
+Sep 6, 2015
+---------------
+Java coding questions. Design pattern questions.   Answer Question
+
+Aug 18, 2015
+---------------
+Read this Tcl script and describe what it does.   Answer Question
+
+Jun 19, 2014
+---------------
+Do you want to be a manager   Answer Question
+
+Jul 18, 2011
+---------------
+OS CONCEPTS, DATA STRUCTURES   Answer Question MEMORY MANAGEMENT   Answer Question
+
+Feb 24, 2011
+---------------
+why cisco   Answer Question what courses did you take in your study   Answer Question
+
+Jul 21, 2013
+---------------
+Reverse Link list related question   Answer Question
+
+Jul 8, 2015
+---------------
+What was the toughest project you worked on recently and go you explain in detail..   Answer Question
+
+Aug 27, 2012
+---------------
+career goals   Answer Question
+
+Mar 24, 2011
+---------------
+You have 8 balls. All are identical except one is slightly heavier. You have a balance. What is the minimum number of weighings required to find the heavier ball?   5 Answers
+
+Jan 29, 2011
+---------------
+When did you ever go above and beyond what was originally asked of you during a previous job?   Answer Question Can you think of a time where you overcame adversity, avoided conflict, and came out on top?   Answer Question
+
+Oct 26, 2010
+---------------
+Write C code to check if an integer is a power of 2 or not in a single line?   5 Answers
+
+Feb 4, 2014
+---------------
+i didn't get any unexpected questions   Answer Question
+
+May 13, 2014
+---------------
+walk a linked list   Answer Question
+
+Feb 25, 2014
+---------------
+None of the questions were overly hard.   Answer Question
+
+Mar 4, 2014
+---------------
+They ask what's in resume   Answer Question
+
+Oct 24, 2014
+---------------
+Why doesn't Utah have more rock concerts?   1 Answer
+
+Nov 9, 2014
+---------------
+Have you ever disagreed with a collegue and/or professor and what did you do?   Answer Question What class did you think was least useful?   Answer Question
+
+Feb 11, 2011
+---------------
+What are the difference between DES and RSA algorithm?   Answer Question
+
+May 14, 2014
+---------------
+Played string manipulation questions a lot   Answer Question
+
+May 28, 2010
+---------------
+1- What do you like about .Net.   Answer Question - Why are you looking for a job.   Answer Question
+
+Jun 22, 2010
+---------------
+Just the usual on data structures and Operating Systems   1 Answer
+
+Jul 9, 2010
+---------------
+Explain TCP IP   Answer Question
+
+May 28, 2010
+---------------
+Write a file copy function in the language of your choice   Answer Question What does the following function do: unsigned int doit(int x) { unsigned int z = 0; while (x &= (x-1)) z++; return z; }   3 Answers Write a string reversal function   Answer Question
+
+May 4, 2010
+---------------
+From your network concepts learnt academically, explain what happens when you try to connect from your laptop at home to a server in your college. Decribe whatever you feel is relevant in this scenario   Answer Question
+
+Jul 6, 2010
+---------------
+Was asked some algorithm , c programming questions   Answer Question
+
+Mar 14, 2010
+---------------
+Explain TCP sliding window mechanism   Answer Question Explain congestion avoidance in TCP   Answer Question
+
+Apr 3, 2010
+---------------
+sizeof(data types)   1 Answer find number of 1's in a number   4 Answers
+
+Apr 15, 2010
+---------------
+Details of memory storage for different type of variable definitions in C. int i; int j=0; int k=1; const int l; which goes to data, bss, rodata, etc.   Answer Question In virtual memory, can two different processes have the same address? When you answer "No" which is correct, how one process can access another process' memory, for example the debugger can access the variables and change them while debugging?   Answer Question
+
+Aug 5, 2011
+---------------
+How would you approach updating a code-base to support 64-bit?   Answer Question
+
+Oct 4, 2014
+---------------
+network technologies   1 Answer
+
+Jun 6, 2012
+---------------
+What is AJAX?   Answer Question
+
+Oct 11, 2011
+---------------
+How do you start optimize a database engine?   Answer Question
+
+Aug 13, 2010
+---------------
+(forgot the exact question) but it was to write code that did bitwise operations. and then to optimize it   1 Answer
+
+Nov 18, 2013
+---------------
+Give logic for implementing "diff" command in Linux. Consider various test cases and explain what will happen in each. The two files are source code and are huge.. For e.g. File 1: 1-2-3-4 File 2: 1-3-4-2   Answer Question
+
+Jan 21, 2010
+---------------
+What group experience have you had in projects?   Answer Question Give me some reasons for deadlocka and how you would prevent them   Answer Question
+
+Sep 6, 2013
+---------------
+write a code that finds a prime number   Answer Question
+
+Sep 3, 2011
+---------------
+How would you design a thread pool in Java? Why do you need threads? How do you detect stale db connections? Can you do code review of this class from my code? (Interviewer shared code) Design for several readers reading from queue and several writers writing into it Details on how a web-app is developed What happens end to end when user types a URL to view books on Amazon.com Singleton - how to write for delayed instantiation but also thread safety   Answer Question
+
+Aug 28, 2010
+---------------
+You have a silver block with 6 marks that divide it into 7 equal parts. How do you make exactly TWO cuts so that you can pay an employee exactly 1/7 of the block each day he works for a week?   1 Answer
+
+Jul 15, 2010
+---------------
+Diff bet heaps n stacks   Answer Question
+
+Jul 16, 2013
+---------------
+what's the swap chain in D3D rendering   Answer Question
+
+Jan 14, 2011
+---------------
+Binary tree algorithms   Answer Question Operating systems design   Answer Question
+
+Aug 4, 2011
+---------------
+describe a project you did.   Answer Question Insert an integer into a sorted linked list,   1 Answer
+
+Jun 4, 2009
+---------------
+No questions on the technology that I had worked on.   Answer Question
+
+Jun 7, 2011
+---------------
+On the board draw a diagram of a system they were interested in.   1 Answer
+
+Dec 5, 2012
+---------------
+If you have a square room with no roof, and you had four flagpoles you had to plant on the walls so that each flagpole touched two walls, how would you do it?   3 Answers
+
+Aug 20, 2012
+---------------
+Some complex data structure questions. (not unexpected, but was fairly complex)   Answer Question
+
+Nov 6, 2012
+---------------
+Can you describe how BGP works?   Answer Question
+
+Dec 20, 2010
+---------------
+Delete a node in a linked list.   1 Answer
+
+Jul 10, 2010
+---------------
+Software coding and algorithm questions.   Answer Question
+
+Sep 7, 2009
+---------------
+OS questions, C programming, About Project worked on   Answer Question
+
+Aug 8, 2015
+---------------
+Data Structures   1 Answer
+
+Jul 24, 2015
+---------------
+They asked me Bruteforcing, big O time complexity, shaker sort vs bubble sort, c memory reprentation, how .exe loads into memory, static variable allocation, IP header. Reverse a linked list. And YES the main question .... Explain shaping and policying in CISCO.   Answer Question
+
+Jul 17, 2015
+---------------
+Create a linked list and then write functions to add and delete nodes from it   Answer Question
+
+Sep 14, 2015
+---------------
+They asked question about algorithms and data structure but all very easy and basic ones. Then follows related with the software engineering, and design pattern, they also include some question about the networking. But the most importantly was the question focused on your CV and project experience, how do you solve those problems and why do you choose this.   Answer Question
+
+Aug 26, 2015
+---------------
+Why Cisco   Answer Question Cisco is a company based on collaboration and communication between its employees - how would you fit into Cisco's culture?   Answer Question
+
+Apr 13, 2015
+---------------
+1/ Reverse a linked list 2/ Two threads synchronisation   Answer Question
+
+Mar 29, 2015
+---------------
+Explain one of your project ? how to deal with free rider in the team? process vs thread.   Answer Question
+
+Jul 7, 2015
+---------------
+Implement one IPC with very limited resources   Answer Question
+
+Mar 9, 2015
+---------------
+How to compare two string effectively.(o(n))   Answer Question
+
+Feb 25, 2015
+---------------
+write a program of sorted list which should not contain duplicates for given i/p of numbers. check whether given list contains loop.palindromes ,   1 Answer
+
+Feb 10, 2015
+---------------
+inverse a number to binary   Answer Question double link list   Answer Question recursion   Answer Question
+
+Mar 19, 2015
+---------------
+Resume based questions   Answer Question
+
+Jan 29, 2015
+---------------
+Coding question.   Answer Question
+
+Jan 5, 2015
+---------------
+How to find duplicate number in an array in order 1   Answer Question
+
+Jul 16, 2015
+---------------
+Write a function that evaluates a sum of all integers from 1 to 100.   2 Answers
+
+Sep 16, 2015
+---------------
+The asked a very specific question about JAX-RS, something about how a certain annotation is used.   1 Answer What is the default scope of a spring bean.   1 Answer
+
+Apr 11, 2015
+---------------
+How to understand a linked list is planar or loop?   Answer Question
+
+Nov 2, 2014
+---------------
+Questions based on Computer Architecture.   Answer Question
+
+Oct 21, 2014
+---------------
+Why Youtube uses HTTP for video streaming? (instead of UDP).   Answer Question
+
+Oct 2, 2014
+---------------
+Spring framework features   Answer Question
+
+Sep 10, 2014
+---------------
+questions on operating systems, c, c memory management,   Answer Question
+
+Aug 22, 2014
+---------------
+scheduling in linux   Answer Question
+
+Aug 23, 2014
+---------------
+Aptitude was difficult   Answer Question
+
+Aug 11, 2014
+---------------
+I didn't find any part to be very difficult or unexpected.   Answer Question
+
+Jul 30, 2014
+---------------
+The point-in-a-polygon algorithm mentioned above.   Answer Question
+
+Jul 29, 2014
+---------------
+Aptitude questions were heavy on probability, most of them difficult and time consuming   Answer Question
+
+Jul 28, 2014
+---------------
+Print all permutations of your name.   Answer Question
+
+May 1, 2014
+---------------
+Explain what Fourier Transform is and what it does.   Answer Question
+
+Mar 9, 2014
+---------------
+17 nodes from a node, how will you make a tree.   Answer Question
+
+Mar 6, 2014
+---------------
+two years ago interview , do not remember now   Answer Question
+
+Feb 5, 2014
+---------------
+Database generic questions   Answer Question Design patterns   Answer Question Background   1 Answer
+
+Feb 1, 2014
+---------------
+In my interview, it was all about data structures and they check for strength in data structures like linked lists, hash tables and search optimization.   Answer Question
+
+Oct 10, 2015
+---------------
+Cannot disclose   Answer Question
+
+Jan 6, 2014
+---------------
+none all questions were avg level   Answer Question
+
+Oct 20, 2013
+---------------
+How would you fix a D-Dos attack?   Answer Question
+
+Sep 23, 2013
+---------------
+1 DC (multiplexing) 1 CCN(numerical) 1 number representation DS(binary trees only) microprocessor DMA memory mapped a lot of OS questions 1hr   Answer Question
+
+Sep 20, 2013
+---------------
+Read or write a word in a memory where read/ write can be done only in sector-wise   Answer Question
+
+Sep 9, 2013
+---------------
+Technical round of questions. Could be from anywhere from resume   Answer Question
+
+Sep 3, 2013
+---------------
+The interview questions were around basic networking. Since it was an entry level positions, no touch questions were asked.   Answer Question
+
+Feb 11, 2014
+---------------
+some questions relating to my projects and trying to relate with real world scenarios to analyze and code.   Answer Question
+
+Aug 27, 2013
+---------------
+they asked me about the system call implementations   Answer Question
+
+Aug 23, 2013
+---------------
+Some questions on linked lists and some puzzles   Answer Question
+
+Aug 6, 2013
+---------------
+How will you implement a floor of a mall where entry and exit are done.   Answer Question
+
+Mar 25, 2014
+---------------
+1. How to delete the content of a file without opening the file in linux? 2. How does the transport layer provide secure and reliable communications ? ( I was familiar with those services in Data link layer, so had to extrapolate that knowledge to transport layer )   Answer Question
+
+Oct 3, 2013
+---------------
+Dynamic programming   Answer Question
+
+Sep 10, 2013
+---------------
+Traverse a linked list from the end ten places   Answer Question
+
+Sep 10, 2013
+---------------
+Given a automated parking lot, try to think what will be the problem can arise   Answer Question
+
+Sep 14, 2013
+---------------
+I was asked to write the most difficult code I had written ever.   1 Answer
+
+Jul 31, 2013
+---------------
+what does 32 and 64 bit mean in specs of comp   Answer Question
+
+Jul 31, 2013
+---------------
+What was the biggest challenge you faced and how did you overcome it?   Answer Question Tell me how you would improve this specific device   Answer Question
+
+Nov 12, 2014
+---------------
+your field of study was not related to this job why you have applied for it   Answer Question
+
+Aug 26, 2015
+---------------
+data structure realated questions   Answer Question
+
+Apr 10, 2013
+---------------
+Design a sensor to predict if a person is hungry or not.   Answer Question
+
+Apr 11, 2015
+---------------
+Write a code to find shortest path between pairs of cities given a graph represnting connection between cities.   1 Answer
+
+Feb 20, 2013
+---------------
+a design problem about the project they've been working on. I was asked to provide my solution based on my own research experience.   Answer Question
+
+Jan 21, 2013
+---------------
+How to check the precision of the values registered in the hi and low parts of the register !   Answer Question
+
+Jan 9, 2013
+---------------
+Merge sort,Quick sort , SYN,ACK,3-way handshake etc.   Answer Question
+
+Jun 14, 2013
+---------------
+Questions on linked list were only asked. They are easy :)   Answer Question
+
+Feb 20, 2013
+---------------
+computer network management   Answer Question
+
+Dec 13, 2012
+---------------
+Questions were not difficult.   Answer Question
+
+Dec 12, 2012
+---------------
+how to find when 2 linked lists are merged.   Answer Question
+
+Dec 26, 2012
+---------------
+About DNS Servers.. The interviwerer kept asking me questions about this topic   Answer Question
+
+Oct 6, 2015
+---------------
+give an algorithm/write a program to find out the intersection node in two linked lists, which are in a shape Y. given length of linked lists   Answer Question
+
+Nov 29, 2012
+---------------
+how many lines are there in cisco logo... lol...   1 Answer
+
+Nov 30, 2012
+---------------
+-static functions applications.   1 Answer
+
+Nov 25, 2012
+---------------
+unexpected fundamentals of digital electronics like diode, transistors that are no where related to IT   Answer Question
+
+Nov 6, 2012
+---------------
+none of the questions were too difficult and I was well prepared.   Answer Question
+
+Nov 2, 2012
+---------------
+Few networking questions and Java questions   1 Answer
+
+Sep 21, 2012
+---------------
+Asking puzzle was a bit unexpected. It was the water jars puzzle.   Answer Question
+
+Sep 8, 2012
+---------------
+Fourier Transform, Fast Fourier Transform, Matlab   1 Answer
+
+Oct 6, 2012
+---------------
+Explain the working of ping command ?? I am an ECE student , so this seemed a but difficult .   Answer Question
+
+Aug 16, 2015
+---------------
+Data Structures, Role Based Skills, C, C++, Linux, Puzzles   Answer Question
+
+Aug 31, 2012
+---------------
+Electronics questions were not expected in the written round.   Answer Question
+
+Aug 25, 2012
+---------------
+none... be well prepared...   Answer Question
+
+Aug 23, 2012
+---------------
+There were no difficult questions as such. They just test your basics in the interview and if you are well prepared you will get through.   Answer Question
+
+Aug 31, 2012
+---------------
+Explain the architecture being used in today's latest processors...   Answer Question What happens when you ping a device? explain at the layering level..   Answer Question
+
+Apr 5, 2013
+---------------
+Design and write a code for a cyclic buffer used in routers.   Answer Question
+
+Jan 26, 2013
+---------------
+using pthread delete the linked list in optimized manner!!! buzz sigh...   Answer Question
+
+Oct 11, 2015
+---------------
+even-though graph theory was to be taught in a course which was supposed to be studied after the interview process, but still they asked me to design djikstra's algo.   Answer Question
+
+Jul 18, 2012
+---------------
+Expected C programming questions, Operating Systems and Networking basics   Answer Question
+
+Aug 10, 2012
+---------------
+XNOR to NOR gate   1 Answer
+
+Sep 3, 2012
+---------------
+why cisco and where do you find yourself after 5 years   Answer Question
+
+Jul 17, 2013
+---------------
+Hardest problem was to reverse a linked list.   1 Answer
+
+May 27, 2015
+---------------
+About your last project in detail.   Answer Question
+
+Oct 27, 2014
+---------------
+Well most of the questions were quite simple if you had prepared well enough.   Answer Question
+
+Jul 25, 2012
+---------------
+Technical Round was ok, HR asked some tricky and direct questions like why I want to work for a company rather than joining my family business   Answer Question
+
+Jun 16, 2012
+---------------
+Describe the singleton design pattern, and the factory pattern.   1 Answer
+
+Jun 8, 2012
+---------------
+What is different between static variable and global variable   1 Answer
+
+Oct 12, 2012
+---------------
+Constructing, Sorting and reversing singly linked list, doubly linked list   Answer Question
+
+Apr 29, 2012
+---------------
+Questions about pointers. Make sure you're totally comfortable with pointers   Answer Question More qns about pointers! And assignments in if and while looks. if ( a = b) {} and while(a=b) {}   2 Answers
+
+Apr 4, 2012
+---------------
+How to reverse a linked list?   Answer Question How to create linked list without using pointers?   Answer Question
+
+Jul 8, 2012
+---------------
+If there are 1000 websites and 1000 users, write a program and Data-structure such that i can query for the followin at real time: 1. Given any user, I get the list of all sites he/she has visited 2. Given any website, I get the list of all users who have visited it.   1 Answer
+
+Jun 15, 2012
+---------------
+In the following code segment what will be the result of the function, value of x , value of y {unsigned int x=-1; int y; y = ~0; if(x == y) printf("same"); else printf("not same"); }   Answer Question
+
+Jun 6, 2012
+---------------
+How would you implement the try/finally construct in C++?   1 Answer
+
+Feb 28, 2014
+---------------
+What Cisco should expect from you and what are you expecting from Cisco?   1 Answer
+
+Jan 21, 2014
+---------------
+None of it was so difficult.   Answer Question
+
+Mar 5, 2014
+---------------
+Factorial?   1 Answer Factorial iteratively, since i did it recursively first?   Answer Question
+
+May 6, 2012
+---------------
+HR question: your academic skills are excellent. Why don't you go for masters?? I would suggest you to go for masters!   1 Answer
+
+May 14, 2012
+---------------
+How do you rotate a 8-bit integer?   Answer Question What is kernel/user mode   Answer Question
+
+Jun 29, 2012
+---------------
+Why Cisco   1 Answer
+
+Oct 19, 2013
+---------------
+Almost all the questions were on expected lines   Answer Question
+
+Oct 27, 2011
+---------------
+Describe past incidents where you've had a conflict with co-workers and how you handled it.   Answer Question
+
+Sep 27, 2011
+---------------
+Find the only lighter ball from 8 balls using a balance scale only two times.   1 Answer
+
+Sep 21, 2013
+---------------
+Everything will be simple if you are strong in basics   Answer Question
+
+Jul 11, 2012
+---------------
+Why did you use MANETs in your security detection systems?   1 Answer Where to you see yourself in 5 yrs ?   1 Answer
+
+Nov 25, 2013
+---------------
+Question on Dummy pointers and also volatile variables.   Answer Question
+
+Jun 26, 2012
+---------------
+my background details.   1 Answer technical questions on networking   1 Answer
+
+Aug 7, 2013
+---------------
+how to prevent looping in layer-3   1 Answer
+
+Mar 20, 2011
+---------------
+Describe a time when you had a problem with a group member and how you solved it.   Answer Question What are the differences between static and extern variables?   Answer Question You are given an array that contains n-1 unique elements in the set of 1 to n. This means 1 element is missing. How do you find that element?   Answer Question
+
+Apr 19, 2011
+---------------
+Write code (on paper) to count number of words in a sentence.   Answer Question
+
+Feb 22, 2011
+---------------
+how many scale measurements does it take to know which ball out of 8 balls weighs more? Then how many does 28 balls take?   8 Answers
+
+Apr 4, 2011
+---------------
+How would you code a stack using linked list?   1 Answer
+
+Sep 9, 2015
+---------------
+What is an interrupt routine?   Answer Question
+
+Apr 6, 2011
+---------------
+why you didn't do this way...?   Answer Question
+
+Jan 19, 2011
+---------------
+How to efficiently implement log function using C?   Answer Question
+
+Aug 7, 2011
+---------------
+Where is string constants stored in Memory? Ex: char * a = "Hello" ;   3 Answers
+
+Oct 13, 2010
+---------------
+What does a router do?   Answer Question
+
+Jun 19, 2011
+---------------
+Throwing egg from maximum floor such that it doesn't break   2 Answers
+
+Apr 14, 2011
+---------------
+What do think about your future career path in this company?   Answer Question
+
+Jul 7, 2010
+---------------
+what is the functionlity for a static variable and static function in c   Answer Question
+
+Mar 4, 2012
+---------------
+Write code to see if a string is a sub string of another?   3 Answers What do you know about memory leaks in C?   1 Answer
+
+May 19, 2010
+---------------
+depth of a tree program   Answer Question common elements in two linked lists   Answer Question
+
+Aug 17, 2010
+---------------
+analytical   Answer Question
+
+Jul 31, 2010
+---------------
+DS related questions   1 Answer
+
+Jun 24, 2014
+---------------
+questions were simple and basics on networking and operating systems   Answer Question
+
+Oct 12, 2012
+---------------
+I didn't prepare much on networking when I went for the interview, so I found it difficult to answer some of the questions related to TCP/IP and networking. But I was able to question properly on C programming and all and was able to clear the interview.   Answer Question
+
+Nov 4, 2013
+---------------
+questions related to EMS domain   Answer Question
+
+Oct 3, 2012
+---------------
+Design a system which should be able to create only one object instance at a time . No other object instances should be allowed to create.   Answer Question
+
+Feb 27, 2011
+---------------
+Write linked list using c   Answer Question
+
+Oct 29, 2013
+---------------
+Desging CE and CB circuit   Answer Question
+
+Nov 18, 2011
+---------------
+explain difference between tcp n udp?   1 Answer
+
+Sep 1, 2010
+---------------
+They asked to describe how a message from one computer system reaches another over the internet.   1 Answer
+
+Aug 11, 2011
+---------------
+None of the questions asked were difficult or unexpcted.   1 Answer
+
+Jul 18, 2012
+---------------
+Explain sliding window.   Answer Question
+
+May 31, 2012
+---------------
+They asked a few puzzles and C programming and data structures questions   Answer Question
+
+Jul 10, 2010
+---------------
+Why do you want to work here as a software engineer?   Answer Question
+
+Jun 10, 2012
+---------------
+more about C and data structure generic Q   1 Answer puzzle   1 Answer
+
+Jun 13, 2009
+---------------
+How the watchdog timer is implemented?   1 Answer
+
