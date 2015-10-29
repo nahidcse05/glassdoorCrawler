@@ -1,0 +1,140 @@
+Oct 7, 2015
+---------------
+Tell me about your projects   Answer Question How to write code that prints the following: * ** *** **** *****   Answer Question
+
+Sep 5, 2015
+---------------
+Object-oriented design/implementation   Answer Question
+
+Mar 19, 2015
+---------------
+If you have student names and test scores return the k students who scored the highest   Answer Question
+
+Apr 13, 2015
+---------------
+Describe Euclid's Algorithm and provide some of its real world applications.   Answer Question What is the difference between a hash function and a secure hash function, and how would you go about altering a hash function to make it secure?   Answer Question
+
+Apr 21, 2015
+---------------
+//A program to find the sum of contiguous subarray within a one-dimensional array of numbers which has the largest sum. //{-2, 3, 3, -1, -2, 1, 5, -3} //{2, 3, 4, 1, 2, 1, 5, 3}   2 Answers
+
+Oct 19, 2015
+---------------
+What were the size of the datasets I had worked on?   Answer Question
+
+Mar 26, 2015
+---------------
+How have you handled group members who were hard to work with?   1 Answer
+
+Mar 2, 2015
+---------------
+what do you see yourself in 5 years   Answer Question
+
+Apr 29, 2015
+---------------
+Phone interviews are based on your resume. hackerrank is simple if you keep practising on the hackerrank platform 2 onsite interviews are problem solving on Linked List, BST, System design , String One onsite interview with a person on various technologies you worked and what they expect   2 Answers
+
+Feb 6, 2015
+---------------
+Project that I did other than for academics that I am proud of.   Answer Question
+
+Mar 10, 2015
+---------------
+Where do you see in yourself in 5years?   Answer Question
+
+Feb 9, 2015
+---------------
+Object-Oriented System Design Questions   1 Answer
+
+Dec 1, 2014
+---------------
+Related to my resume and some concepts in network security   Answer Question
+
+Dec 3, 2014
+---------------
+Given hardware that can read the state of a spinning disk, which can take states red, green, or blue, design an API for users to be able to interface with the hardware.   Answer Question
+
+Jan 24, 2015
+---------------
+How can you show that a binary search tree is is the same if you reflect it across its root   Answer Question
+
+Apr 6, 2015
+---------------
+Basic Java and concurrency questions   Answer Question
+
+Oct 14, 2014
+---------------
+Most questions were behavioral. A few were basic C/C++ questions   Answer Question
+
+Dec 11, 2014
+---------------
+The phone interview contained a lot of questions about the mobile device I coded a lot of my side projects on, a lot of them would be difficult questions for an inexperienced mobile developer, so you must really know the architecture of that if that's where you interview revolves around.   Answer Question
+
+Nov 28, 2014
+---------------
+It was pretty straightforward. Just simple OOP concepts.   Answer Question
+
+Sep 18, 2014
+---------------
+None. Purely technical and based on what the requirements for the position are.   Answer Question
+
+Jul 30, 2013
+---------------
+Some puzzles as how many car go through San Mateo bridge everyday   Answer Question
+
+Oct 19, 2015
+---------------
+What is the main difference between Array and ArrayList?   1 Answer
+
+Aug 30, 2015
+---------------
+Write code for given question and do unit testing.   Answer Question Join Queries and nested queries   Answer Question HTTP request and response   Answer Question
+
+Oct 18, 2015
+---------------
+What was the single most frustrating thing in your life? What did you learn from it?   Answer Question
+
+Sep 16, 2015
+---------------
+Q: How is searching and indexing implemented in windows, etc?   1 Answer Q: Kth last term in a linked list   1 Answer Q: Find word in a paragraph with maximum occurance   1 Answer Q: Data concurrency in Databases.   1 Answer Q: Data concurrency in OS   1 Answer
+
+Aug 22, 2015
+---------------
+About OOPS conecpts,Some security related questions   Answer Question
+
+May 10, 2015
+---------------
+Java: core Java (static block, finalizer etc.), data structure (sorting, graphs, trees etc.), design pattern (singleton etc). Web programming: asked on how the client and server works etc.   Answer Question
+
+Jul 25, 2015
+---------------
+sorting   Answer Question
+
+Aug 2, 2015
+---------------
+About java, SQL, C, C++ and puzzles   Answer Question
+
+Feb 13, 2015
+---------------
+Project was the most crucial thing to get selected. Palindrome of a string. JOIN queries in MySql, normal forms in DBMS.   2 Answers
+
+Mar 10, 2015
+---------------
+Very varied questions. Equal importance given to a lot of subjects. Check candidate experiences on geeksforgeeks. Don't focus on just DSA.   Answer Question
+
+Sep 24, 2015
+---------------
+1st Round: Tell me about Yourself Software expertise in C,JAVA   Answer Question
+
+Sep 27, 2015
+---------------
+What if you are given huge amount of data   Answer Question
+
+Jun 30, 2015
+---------------
+Reverse a linked list   Answer Question
+
+Dec 13, 2014
+---------------
+First round was a Telephonic round (Basic java ,Threads). Followed by 2 technical rounds(Topics covered are Data Structures,Threads,Design Patterns, S/w Dev Life cycle) and one coding round. For coding round they will give you a laptop and an editor (Eclipse) Basically in coding round they will give 3 questions 1.Basic logic's like fibonacci series 2.Algorithms (Searching , Sorting etc) 3.Threads ( producer consumer Problem ,Dinning etc) Followed by two HR rounds. TO DO's : 1)Get well versed with Threads.(they concentrate more on this) 2)In coding round if you don't know logic to any of the question don't give a blank paper. (try to solve it ,write more comments ) 3)Have a good understanding of DS(linked list ,hash map etc) and their time complexities. 4)HR rounds are treated more important than technical rounds.Make sure you are well prepared with below questions why are you leaving your current company? (This is a killer question ,even if you have strong technical skills you may simply lose offer because of this questions.The best and safe answer would be to say 'Looking for new Challenges' but be ready for subsequent question followed by that question. ) 5) DONT TRY TO IMPRESS manager or delivery manager with larger than life answers :) Make sure your answers cross the bar rather than looking for 99 marks out of 100.   Answer Question
+

@@ -1,0 +1,225 @@
+Oct 7, 2015
+---------------
+I gave my resume at my college career fair and scheduled for an on campus interview there. The interviewer asked for a pen, as he did not bring one. The interview was more behavioral, as I discussed my (minimal) experience. Then he had me write a simple nested for loop.
+
+Tell me about your projects   Answer Question How to write code that prints the following: * ** *** **** *****   Answer Question
+
+Sep 5, 2015
+---------------
+Talked about previous experiences. I was asked a couple of design questions and also asked about what things I would be doing over summer. Very conversational in nature. Pretty positive experience overall, but make sure you ask what projects you are interested in/would like to do.
+
+Object-oriented design/implementation   Answer Question
+
+Mar 19, 2015
+---------------
+I dropped a resume at the career fair. Talked to a manager at the career fair and he kept my resume and told me he would contact me soon. I was contacted a few days later for an on site interview with an engineer. Standard process of exchanging introductions and a technical interview
+
+If you have student names and test scores return the k students who scored the highest   Answer Question
+
+Apr 13, 2015
+---------------
+My interview was conducted over the phone and consisted of purely technical questions. The interviewer spoke softly and had a rather thick accent, which I don't hold against him but ultimately made every one of his utterances extremely difficult to understand. After this interview I was explicitly told that I'd be contacted with my results within 3 weeks, but Visa neglected to ever contact me. On top of this, Visa seems to have no consistency in how they conduct their interviews. I say this because I personally know people that had Visa phone interviews around the same time that I did, but their experiences were drastically easier and favored behavioral questions over technical.
+
+Describe Euclid's Algorithm and provide some of its real world applications.   Answer Question What is the difference between a hash function and a secure hash function, and how would you go about altering a hash function to make it secure?   Answer Question
+
+Apr 21, 2015
+---------------
+This is a phone interview. I submit the resume through university career fair. The interviewer called me and introduced visa then go through me resume and ask me some questions about my project and in the end, give me a coding test.
+
+//A program to find the sum of contiguous subarray within a one-dimensional array of numbers which has the largest sum. //{-2, 3, 3, -1, -2, 1, 5, -3} //{2, 3, 4, 1, 2, 1, 5, 3}   2 Answers
+
+Oct 19, 2015
+---------------
+Asked me about my resume & projects I had worked on. The originally scheduled 45 minute interview along with the interviewer were changed at the last minute. The replacement interviewer/Visa employee had a callous, condescending attitude and was not at all interested in interviewing him. He showed the least interest when I was talking about my projects. He asked if I could code in map-reduce but never gave me a coding question. 30 minute interview without coding.
+
+What were the size of the datasets I had worked on?   Answer Question
+
+Mar 26, 2015
+---------------
+Very relaxed, laid back. Was asked about experience, past interactions with groups, and some brain teasers. Interview process was mainly behavioral however there were some technical questions. Emphasis was placed more heavily upon if you would be a good fit for the company. Overall I found the interview process enjoyable.
+
+How have you handled group members who were hard to work with?   1 Answer
+
+Mar 2, 2015
+---------------
+contacted by recruiter for an on campus interview. The interview was 30 minutes with all behavior questions. I have a good chat with them, the interviewers were friendly and nice. After I answered their questions, they gave me 5 minutes for asking about them. 1 month later, I got an email saying that I was not considered for the internship
+
+what do you see yourself in 5 years   Answer Question
+
+Apr 29, 2015
+---------------
+I had 1 phone screen interview from HR and 1 phone interview from a Director. Then there was 1 hacker rank challenge. If everything is successful, they invite you for a Onsite interview. There were 3 one-one interviews on Onsite They take a lot of time after you attend the onsite interview to deliver the result.
+
+Phone interviews are based on your resume. hackerrank is simple if you keep practising on the hackerrank platform 2 onsite interviews are problem solving on Linked List, BST, System design , String One onsite interview with a person on various technologies you worked and what they expect   2 Answers
+
+Feb 6, 2015
+---------------
+Approached through university career fair. Got call for an interview for two days later. Interview was overall resume based. Asked about most interesting thing I have done in computer science since I was introduced to computers. Mostly emphasized on getting to know my profile.
+
+Project that I did other than for academics that I am proud of.   Answer Question
+
+Mar 10, 2015
+---------------
+I applied through university. Cleared first round. Did not receive any call. The interview experience was good. The interviewers are friendly. It took 45 mins. They asked me some basic programming and data structures questions. If we know the concepts it will be easy to clear first round. They asked me some behavioral questions and some questions on resume.
+
+Where do you see in yourself in 5years?   Answer Question
+
+Feb 9, 2015
+---------------
+Contacted by recruiter to arrange a 30-minute phone interview with an engineer, then invited to complete an online coding exercise. Invited onsite within a few days of the coding exercise for interviews, three 45-minute rounds of technical interviews with engineering staff. Interviewers seemed generally unhappy, and they asked vague questions and didn't provide much clarification when I asked for it. One interviewer was playing with their phone while I was telling him about myself. They took really long to get back to me.
+
+Object-Oriented System Design Questions   1 Answer
+
+Dec 1, 2014
+---------------
+Called for a face to face interview by the hiring manager. The interview lasted for around 45 minutes. Asked questions both technical and behavioral. The interviewee was very friendly and explained in detail the teams that I would be a match for.
+
+Related to my resume and some concepts in network security   Answer Question
+
+Dec 3, 2014
+---------------
+Visa was at a career fair I attended, and they had a signup sheet for an on-campus interview the next day. I signed up, showed up to the interview, and talked to the engineer. The interview was a mix of very basic technical questions, very stereotypical behavioral questions, and a software design question. I didn't hear back from them after the interview.
+
+Given hardware that can read the state of a spinning disk, which can take states red, green, or blue, design an API for users to be able to interface with the hardware.   Answer Question
+
+Jan 24, 2015
+---------------
+Talked to the recruiter at a career fair and got the interview on the spot. When I went for the interview it was pretty informal and a one on one interview. It was pretty easy and I thought I answered the questions well.
+
+How can you show that a binary search tree is is the same if you reflect it across its root   Answer Question
+
+Apr 6, 2015
+---------------
+Incredible interview process. It tested your ability to cope with long delays while your potential colleagues performed simple tasks, such as responding to your emails asking about your application status. Visa wants to measure how much patience you have, so they push you to the absolute edge to get an accurate estimate. My first interview was in October of 2014. (Note that I had to include the year.) After waiting weeks for a response, I was invited to an onsite. Weeks later, I received an online coding challenge. Months after that and after many emails from me encouraging the recruiting team to do their job (thereby testing my ability to communicate and work on a team), I finally received a response in April of 2015. Not many companies have the resources for an interview process that is this long. I guess they just want the best.
+
+Basic Java and concurrency questions   Answer Question
+
+Oct 14, 2014
+---------------
+Got an interview through a school career fair. The woman I talked to was very nice and offered me an interview the same day. The recruiters were the ones that interviewed all students.
+
+Most questions were behavioral. A few were basic C/C++ questions   Answer Question
+
+Dec 11, 2014
+---------------
+I gave them my resume at a seminar hosted by them. They called me back about 2 weeks later to schedule a phone interview. It's a very technical phone interview that you really must prepare for, or at least with the engineer I was set up with.
+
+The phone interview contained a lot of questions about the mobile device I coded a lot of my side projects on, a lot of them would be difficult questions for an inexperienced mobile developer, so you must really know the architecture of that if that's where you interview revolves around.   Answer Question
+
+Nov 28, 2014
+---------------
+Mainly Behavioral. Nothing was unexpected and the interviewer was really nice and encouraging! It was more like an informal conversation and liked the whole process! I was given the interview on the day of my career fair and had my interview the next day. Overall, it went pretty smooth I believe.
+
+It was pretty straightforward. Just simple OOP concepts.   Answer Question
+
+Sep 18, 2014
+---------------
+First round was a phone screen that went on for around half an hour. Was called onsite the very next day for 5 one to one rounds that went on for around 2 and half hours.
+
+None. Purely technical and based on what the requirements for the position are.   Answer Question
+
+Jul 30, 2013
+---------------
+Very professional process. Phone interview from HR followed by another phone interview from hiring manager. I was contacted by HR in 2 weeks time for on site interview. If you know your stuff well, interview was not very difficukt
+
+Some puzzles as how many car go through San Mateo bridge everyday   Answer Question
+
+Oct 19, 2015
+---------------
+The interview was held on-campus by an alumna, so it was not that stressful. I was caught off-guard since I didn't expect them to call me the day after the fair for the interview, especially since my hands were already full with a senior design project. The interview was not hard, but the two questions that I received were very specific and I didn't prepare for it (see the "Interview Questions" section). As to be expected, I did not get an offer.
+
+What is the main difference between Array and ArrayList?   1 Answer
+
+Aug 30, 2015
+---------------
+The interviewers were very friendly. Your resume means a lot. They will dig your resume and ask some questions on your projects and internships. Key skills tested: data structures, networks, databases. The total process had 4 rounds. First round was a coding round conducted on hackerrank portal. Second and third rounds were technical interviews. Final round is a HR Interview. All the interviews are 1:1
+
+Write code for given question and do unit testing.   Answer Question Join Queries and nested queries   Answer Question HTTP request and response   Answer Question
+
+Oct 18, 2015
+---------------
+The process was all on the college campus. There were three rounds after a coding test. The test had 4 very basic questions. The first interview was one to test basic knowledge over multiple areas. The second was a discussion on my solutions to the coding test and the third was a HR
+
+What was the single most frustrating thing in your life? What did you learn from it?   Answer Question
+
+Sep 16, 2015
+---------------
+First was preliminary test: 4 Questions (level-easy) Q1; basically wanted to find average of large number of vales. Too easy Q2: Path traversal in a matrix Q3: Find the word that repeats itself first in a given text. Q4: PnC Question. Had to find large nCr using DP. Was followed by two tech interviews and one HR interview.
+
+Q: How is searching and indexing implemented in windows, etc?   1 Answer Q: Kth last term in a linked list   1 Answer Q: Find word in a paragraph with maximum occurance   1 Answer Q: Data concurrency in Databases.   1 Answer Q: Data concurrency in OS   1 Answer
+
+Aug 22, 2015
+---------------
+First round was Coding.It has 5 coding questions (moderate type). Around 15 were shortlisted.I was not there in the list.Later they gave second shortlist and i was selected. Second Round Techinical interview . Asked about OOPS concepts,Projects,Tree,pointers etc. Third round Technical. Told to implement simple game, Asked about hashing, different types. Fourth round HR.Why VISA,about projects. They want to see our communication skills
+
+About OOPS conecpts,Some security related questions   Answer Question
+
+May 10, 2015
+---------------
+Applied online. Got a phone interview about 2 weeks later. Questions on core Java, data structure (main focus), design patterns, and also on web development (this is mentioned in my resume). Then completed online coding test. 3 MCQs and 2 coding questions. Coding problem are not difficult to solved, but I guess they expect more than simply solving the problems. Interview process ended at the online test.
+
+Java: core Java (static block, finalizer etc.), data structure (sorting, graphs, trees etc.), design pattern (singleton etc). Web programming: asked on how the client and server works etc.   Answer Question
+
+Jul 25, 2015
+---------------
+one phone interview; one online test and half day interview about algorithm coding and personality test. suggestion is to be really familiar of what is on your resume. no extensive programming experience is required, altitude is important
+
+sorting   Answer Question
+
+Aug 2, 2015
+---------------
+They came to our college and the pre interview test was online and consisted of 2 coding questions and 6 mcq subjects. Then we were called at visa office in bangalore for interview. There were 3 rounds out of which 2 were technical and 1 was HR. The interviews were good and consisted mainly of puzzles.
+
+About java, SQL, C, C++ and puzzles   Answer Question
+
+Feb 13, 2015
+---------------
+I applied through campus. There was an online exam initially which consisted of 2 coding questions and 6 mc rounds. Then there were 3 rounds of f2f interviews done back to back.
+
+Project was the most crucial thing to get selected. Palindrome of a string. JOIN queries in MySql, normal forms in DBMS.   2 Answers
+
+Mar 10, 2015
+---------------
+It was on-campus. VISA is setting up a new tech office in Bangalore for which they are recruiting from IIT and NIT pretty aggressively. There were 3 interviewers, all pretty big shots at VISA's US and Singapore offices. They treated every candidate with respect and made a very good impression on the students in general.
+
+Very varied questions. Equal importance given to a lot of subjects. Check candidate experiences on geeksforgeeks. Don't focus on just DSA.   Answer Question
+
+Sep 24, 2015
+---------------
+In First Round he just asked tell me about yourself & software skills. Within 5 minutes interview is over & not selected. Interviewer is not that much good. There are totally 5 rounds. If you crack all these you will get offer. One of my friend selected. It was not that much tough. Mostly the panel matters where you have been interviewed. For us the interview was arranged by Infosys people.
+
+1st Round: Tell me about Yourself Software expertise in C,JAVA   Answer Question
+
+Sep 27, 2015
+---------------
+First round is HR phone interview: behavior questions & phone screen. Then follows one round of senior Manager interview and another round of manager interview. Both contains technical questions and some basic background questions
+
+What if you are given huge amount of data   Answer Question
+
+Jun 30, 2015
+---------------
+For a fresher, Process starts with test(ofcourse intial PPT will be there). Test consists of five sectons. All are multiple choice type except programming round. programming round comprises of two programs. You have choice of any language C,C++,Java or PHP etc. An integrated IDE will be provided for the programming round. Programming round is very crucial, on executing two programs chances of shortlisting are more. 1) Programming 2) OS and dbms 3) Hadoop and Machine learning 4) infrastructure 5) networking and application security
+
+Reverse a linked list   Answer Question
+
+Dec 13, 2014
+---------------
+A multiple choice test comprising of topics across all the domains of Computer science like Networking,infrastructure,Machine learning/Hadoop(these were a tough ask),Operating system and application security. Also there were two programming questions which were easy enough. The questions were as follows: 1. Given a word find the value of it according to a certain rule (The alphabets were given a value in a Fibonacci sequence) 2. Given resources and their worth and total time find the maximum value you can obtain from them.(Was a simple DP implementation) First Interview: The Interview started with basic "Tell me about yourself". Then the interviewer asked me a few questions on OOP's namely on Data encapsulation, Inheritance, Polymorphism. Then he asked me one question on a binary tree. I didn't get through to the next round. There were 3 rounds of interview in total.
+
+First round was a Telephonic round (Basic java ,Threads). Followed by 2 technical rounds(Topics covered are Data Structures,Threads,Design Patterns, S/w Dev Life cycle) and one coding round. For coding round they will give you a laptop and an editor (Eclipse) Basically in coding round they will give 3 questions 1.Basic logic's like fibonacci series 2.Algorithms (Searching , Sorting etc) 3.Threads ( producer consumer Problem ,Dinning etc) Followed by two HR rounds. TO DO's : 1)Get well versed with Threads.(they concentrate more on this) 2)In coding round if you don't know logic to any of the question don't give a blank paper. (try to solve it ,write more comments ) 3)Have a good understanding of DS(linked list ,hash map etc) and their time complexities. 4)HR rounds are treated more important than technical rounds.Make sure you are well prepared with below questions why are you leaving your current company? (This is a killer question ,even if you have strong technical skills you may simply lose offer because of this questions.The best and safe answer would be to say 'Looking for new Challenges' but be ready for subsequent question followed by that question. ) 5) DONT TRY TO IMPRESS manager or delivery manager with larger than life answers :) Make sure your answers cross the bar rather than looking for 99 marks out of 100.   Answer Question
+
+Aug 31, 2015
+---------------
+I was hired as part of on campus recruitments at one of the IITs. VISA was a Day-0 company but their questions were way too simple compared to the rest of the companies in that slot. They have weird hiring policies. Postgraduates with 0 industry experience are directly hired to Senior SW Engg posts. Huge difference in salaries for the same profile based on the candidate's college. Interview questions were simple. There were some puzzles and some knowledge based questions. The coding questions were too simple and cliche like - reverse a linked list, merge sort, quick sort etc. I don't know how they can identify a candidate's coding skills based on such questions.
+
+No Question
+Nov 20, 2014
+---------------
+in online test, six sections are there. first section consists of two coding questions,rest all sections are mcq's. they are asking from computer networks , java , securities mainly. coding questions are very simple.mcqs are very easy and they are asking from meching learning also
+
+No Question
+Oct 24, 2014
+---------------
+I have applied for software engineer role through their portal.Got a call from HR after a week. Total there are 6 rounds(one telephonic , Two technical , one coding and two with manager and delivery manager
+
+No Question
