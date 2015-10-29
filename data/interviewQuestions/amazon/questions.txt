@@ -1,0 +1,3528 @@
+Jun 9, 2013
+---------------
+You have a list of packages A, B, C such that A is dependent on B,C,D and B is dependent on D and C is dependent on E etc. Print the sequence of packages to run   2 Answers
+
+Aug 10, 2015
+---------------
+Debugging questions and a simple question..e.g. substring of a palindrome   Answer Question
+
+Sep 17, 2015
+---------------
+Lots of behavioral questions probing different Amazon leadership principles. The white board coding questions were similar to those from Cracking the Coding Interview or a similar book. Definitely study for this interview and practice programming without a computer.   1 Answer
+
+Sep 16, 2015
+---------------
+bit manipulation and regex and top k problem   Answer Question
+
+Oct 7, 2015
+---------------
+design a trie   Answer Question
+
+Oct 16, 2015
+---------------
+generating prime number   1 Answer
+
+Oct 14, 2015
+---------------
+Read in an n by n matrix and shift each element over by one position along the edges (like a concentric circle).   1 Answer
+
+Oct 5, 2015
+---------------
+The general information including name, offer deadline and so on.   Answer Question
+
+Oct 20, 2015
+---------------
+Code a project with a prompt   Answer Question
+
+Oct 2, 2015
+---------------
+There was a debugging section, followed by reasoning test and the final section was a coding test.   Answer Question
+
+Oct 21, 2015
+---------------
+What data structure will you use to solve the problem?   Answer Question
+
+Oct 16, 2015
+---------------
+data structure question   Answer Question
+
+Aug 17, 2015
+---------------
+Signed the NDA, so can not tell. But if you regularly practice programming then it should not be that difficult to design and code the solution.   1 Answer
+
+Sep 24, 2015
+---------------
+Mostly about common Hash map and BST   1 Answer
+
+Jun 13, 2015
+---------------
+merge two sorted list.   Answer Question
+
+Oct 10, 2015
+---------------
+Data Structures, Algorithms, Time Complexity   Answer Question
+
+Aug 24, 2015
+---------------
+Breadth First Search, etc. Linked list traversal.   Answer Question
+
+Aug 29, 2015
+---------------
+Given two sorted lists write and algorithm to combine them into a new sorted list.   Answer Question
+
+Aug 29, 2015
+---------------
+To write code for: Sorted Merge of 2 arrays.   1 Answer Given a log file of various exception messages, how would you calculate the number of times each occured   1 Answer Difference between Hashmap and LinkedHashMap   1 Answer How would you implement a native Hashmap   1 Answer
+
+Aug 18, 2015
+---------------
+data structure   Answer Question
+
+Aug 18, 2015
+---------------
+Question from one developer: Write code to traverse the binary in "level order" in any languages - C, C++ or Java. Describe Time and Space complexities   1 Answer
+
+Aug 23, 2015
+---------------
+Very basic technical questions regarding data structures, writing algorithms, determining time and space complexity, and even just a discussion about how it would be possible to solve some problems the team is currently facing.   Answer Question
+
+Jul 23, 2015
+---------------
+Simple screening questions about my background   2 Answers
+
+Jul 28, 2015
+---------------
+Online code test at hackerrank.com. Technical interviews were very low level comp sci sort of stuff and not specific to any technology.   1 Answer
+
+Jul 29, 2015
+---------------
+1. Questions regarding hash maps, trees etc..   Answer Question
+
+May 27, 2015
+---------------
+For mid-level software developer, all the questions are design question. One of them is to write codes for a traffic light system, include all classes and methods.   Answer Question
+
+Jun 9, 2015
+---------------
+merge array, and validate binary tree   Answer Question
+
+Jul 21, 2015
+---------------
+They asked me Software Engineering questions and about my past experience. They provide prep material to study prior to the technical interviews so there were no surprises until I had the interview that was not supposed to be technical.   Answer Question
+
+Jun 24, 2015
+---------------
+Something about binary search trees   Answer Question
+
+May 20, 2015
+---------------
+Was there an interview? I am not sure. The recruiter might have answered the interview questions herself   1 Answer
+
+May 26, 2015
+---------------
+Lots of behavioral questions to see if you're willing to be worked to death, then the standard technical coding challenges.   1 Answer
+
+Jan 20, 2015
+---------------
+Given a sorted array, write a program to decide if two elements sum up to a third.   1 Answer
+
+Mar 24, 2015
+---------------
+The general approach problem was: search for phone numbers in 50,000 files. This is a one time need. You have 2 days.   2 Answers
+
+Jun 5, 2015
+---------------
+Signed an NDA, pretty easy questions though. Some OOP, some basic knowledge of big O.   Answer Question
+
+May 4, 2015
+---------------
+Typical algorithm complexity questions. Not difficult.   Answer Question
+
+Sep 14, 2015
+---------------
+It was general software related questions with trees, arrays, linked lists   Answer Question
+
+Apr 14, 2015
+---------------
+"tell me about a time you failed, what did you learn?" "tell me about your most difficult success, what techniques did you use to succeed?" "tell me about a time you had an interpersonal problem, how did you resolve it?" All technical questions were problem solving based on basic algorithms and data structures (they prepare you with a list in the "what to expect" video.   Answer Question
+
+Apr 8, 2015
+---------------
+Questions about linked lists and auto complete   Answer Question
+
+May 7, 2015
+---------------
+Question 1 : Binary Tree -&gt; program -&gt; Traverse binary tree and display nodes data in specific format. [Asked multiple questions on this program code] Question 2: Algorithm for Queue using Linkedlist. Question 3 : Lost Phone -&gt; how to get coordinates -&gt; design question.   1 Answer
+
+Apr 5, 2015
+---------------
+NDA signed. Don't think I can disclose... Nothing was too unexpected anyway.   Answer Question
+
+Apr 5, 2015
+---------------
+What happens when there is a collision in hashmap   1 Answer Write a program to verify whether the given tree is a binary search tree or not without using recursions   Answer Question
+
+Mar 26, 2015
+---------------
+They asked about the project that you are proud about. Then some technical questions like difference between hashmap, hashtable. Finally asked to code - remove duplicate elements from a list.   1 Answer
+
+Apr 1, 2015
+---------------
+Find if a string is the substring of the other   Answer Question
+
+Sep 22, 2015
+---------------
+Traverse the tree line by line   1 Answer
+
+Aug 16, 2015
+---------------
+Resume walk through. Pairwise swap elements of a given linked list   Answer Question
+
+Mar 31, 2015
+---------------
+Modified binary search related coding question   Answer Question
+
+Mar 19, 2015
+---------------
+I did online assessment test. It has two coding question and some multiple choice aptitude questions. Coding is mostly based on string manipulation.   1 Answer
+
+Mar 23, 2015
+---------------
+Depth first search, linked list, sample code to reduce running time.   1 Answer
+
+Mar 18, 2015
+---------------
+Design a kitchen   Answer Question
+
+Mar 8, 2015
+---------------
+Quicksort and time/space complexity, Implementation of queues, circular queues and time complexity.   Answer Question
+
+Mar 13, 2015
+---------------
+All questions are super easy   1 Answer
+
+Jan 9, 2015
+---------------
+Onsite. 1. OOD. design a system for ATM . 2. word ladder I. 3. implement a trie tree. 4. heap   Answer Question Describe one of the most challenging projects you ve done   Answer Question
+
+Feb 26, 2015
+---------------
+1. Reverse a string. 2. Validate a BST. 3.Find all the subsets of an array.   Answer Question
+
+Feb 26, 2015
+---------------
+write a permutations and combinations C(n,r) functions   Answer Question
+
+May 12, 2015
+---------------
+1.Write a program for Fibonacci series 2.Write a program to find a string in a page of text.   Answer Question
+
+Apr 15, 2015
+---------------
+Implement the memoize function.   Answer Question
+
+Mar 5, 2015
+---------------
+The difference between final, finally and finalize.   1 Answer Compare hash map with binary search tree.   Answer Question Find the second largest number in the unsorted array.   Answer Question
+
+Mar 4, 2015
+---------------
+Signed NDA - Nothing out of the ordinary   Answer Question
+
+Mar 5, 2015
+---------------
+Give a similar one here: Find 4 numbers in an integer array and they sum zero   3 Answers
+
+May 29, 2015
+---------------
+Palindromic number, input string of a number , return true or false for whether it is a Palindromic number   Answer Question
+
+Mar 3, 2015
+---------------
+One was abstract dynamic programming question and another was about strings and sub-strings.   Answer Question
+
+Mar 17, 2015
+---------------
+I can't tell the specific Algorithm question.   Answer Question
+
+Mar 14, 2015
+---------------
+triangle   Answer Question
+
+Mar 13, 2015
+---------------
+ArraySum? sum = arr --&gt; sum += arr Grading: || --&gt; && Some other questions like that. It's simple.   1 Answer
+
+Mar 8, 2015
+---------------
+I was asked how to traverse a maze and arrive at a destination   1 Answer
+
+Aug 5, 2015
+---------------
+The questions asked were basic Data Structures and Algorithms questions. It wasn&#039;t anything difficult. But the questions were based on Stacks, Queues, HashMaps. Some questions were asked on testing too.   Answer Question
+
+Jul 2, 2015
+---------------
+Given n strings, how will form a big string with them with all the characters in alphabetical order?   1 Answer
+
+Sep 6, 2015
+---------------
+Basic programming   Answer Question
+
+Sep 11, 2015
+---------------
+how to tell if a binary tree is a binary search tree   Answer Question
+
+Sep 10, 2015
+---------------
+Just remember one. How to know a string of parenthesis is closed.   Answer Question
+
+Oct 1, 2015
+---------------
+Path Sum. GIven a tree, find the path that sums up to a given number   1 Answer Revere a String   Answer Question Remove duplicates from array in place, return new array length   Answer Question
+
+Oct 9, 2015
+---------------
+Bound by NDA. So cannot share the exact questions. But the questions are based on the data structures. Will recommend 'Cracking the Coding Interview' book. The questions can range from medium to difficult level.   1 Answer
+
+Mar 27, 2015
+---------------
+On common phones each digit can be mapped to three or four letters. For instance 2 can be mapped to a, b, or c. Given a phone number represented as an array of integers, return all the possible permutations of strings for that phone number. For example [2, 3] would result in {“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf”}.   Answer Question
+
+Mar 17, 2015
+---------------
+NDA   Answer Question
+
+Mar 18, 2015
+---------------
+Entirely related to the project that was given to the team, and basic data structures.   Answer Question
+
+Mar 19, 2015
+---------------
+Word search.   Answer Question
+
+May 19, 2015
+---------------
+Make a program that do specific things.   Answer Question
+
+Apr 15, 2015
+---------------
+Can you please sign this NDA, which is required for you to be interviewed?   1 Answer
+
+Apr 29, 2015
+---------------
+How would you reverse a string?   1 Answer Count all ones in a binary string   Answer Question
+
+Oct 28, 2015
+---------------
+Tell us about your projects? Few technical questions related to data structures, OOP concepts   Answer Question
+
+Oct 12, 2015
+---------------
+Reverse a linked list, Check if a Binary tree is a BST, find duplicates in a array.   Answer Question
+
+Feb 27, 2015
+---------------
+How to determine whether two linked lists intersect   Answer Question
+
+Feb 26, 2015
+---------------
+Signed NDA so cannot disclose.   Answer Question
+
+Feb 26, 2015
+---------------
+Your background.   Answer Question Sorting algorithms, their time complexity, and when to use them.   Answer Question Binary tree traversal.   Answer Question
+
+Feb 25, 2015
+---------------
+Valid Parentheses: Given a string having some brackets, determine if the input string is valid. Design how to recover a binary tree OOP questions and multi-thread problems Given a set of candidate numbers and a target number, determine whether there's a combination in C where the candidate numbers sums to the target number or not.   Answer Question
+
+Feb 12, 2015
+---------------
+What is the challenging project you worked on? Designing class object. A question on LinkedList.   Answer Question
+
+Feb 7, 2015
+---------------
+General CS and resume related questions.   Answer Question
+
+Feb 5, 2015
+---------------
+Very basic questions about tree, string and searching. Nothing specific since NDA signed.   1 Answer
+
+Feb 4, 2015
+---------------
+Sorting trees   Answer Question
+
+Mar 2, 2015
+---------------
+I did an all day on site programming interview process - a new program amazon is trying out. You work in small groups on a coding problem, and throughout the day, Amazon engineers pull you out of the room to interview you on what you are working on and the decisions you make.   1 Answer
+
+Feb 2, 2015
+---------------
+Bar raiser round was most difficult   Answer Question
+
+Feb 21, 2015
+---------------
+some debug and algorithms   Answer Question
+
+Feb 17, 2015
+---------------
+Solve a maze with a robot   1 Answer Design a function to reverse the order of words in a string - "This is a string" -&gt; "string a is This"   2 Answers Design an elevator   1 Answer Design an app and include n way to gather data (latency metrics, time, etc) in the app using a library   1 Answer Using a tree, find the first common ancestor of two nodes   2 Answers
+
+Feb 25, 2015
+---------------
+Design an oops scenario (given by them) and explain why you used certain features.   Answer Question
+
+Mar 16, 2015
+---------------
+How would you implement a class that takes a list of strings and allows you to lookup whether a certain string is in it or not.   1 Answer Implement a function that merges two sorted lists into one sorted list   1 Answer
+
+Mar 14, 2015
+---------------
+How to identify a tree is BST? Is there any algorithm can correctly judge a tree to be BST or not without touching all tree nodes?   Answer Question
+
+Mar 17, 2015
+---------------
+unique path   Answer Question
+
+Feb 27, 2015
+---------------
+Write a code to print out the parent and children given a particular depth.   Answer Question
+
+Sep 14, 2015
+---------------
+What&#039;s the difference between abstract class and interface, and some other fundamentals of cs.   Answer Question
+
+Sep 30, 2015
+---------------
+Merge two sorted array, Check if there is circle in linkedlist, find the begin point of the linkedlist   Answer Question
+
+Jul 5, 2015
+---------------
+What is the difference between a list and a hashtable?   Answer Question Implement integer division as it works in Java, without using the division operator.   Answer Question
+
+Aug 25, 2015
+---------------
+They don&amp;#039;t have specific questions. They do, however, have &amp;#034;leadership principles&amp;#034; for which they are assessing you, usually one per interviewer. By the time you get to the in-person interview, realize that it&amp;#039;s more psychoanalysis than technical prowess.   1 Answer
+
+Mar 19, 2015
+---------------
+Questions were easy. Asked for multiple ways to solve the same problem. Also asked some behavioral questions.   1 Answer
+
+Mar 19, 2015
+---------------
+The first one is easy, just basic of finding number in array, but with multiple ways. The following is wired. The first interview on the second day is about net masking. The interviewer gave me an ambiguous description on that and is not quite helpful to be honest. When I wanna clarify something with him, he just say you can do whatever you want, which made me more confused. The second one on the second day is about graphical traversal and permutation.   Answer Question
+
+Apr 9, 2015
+---------------
+Design pattern-Iterater Pattern. Ask me to implement a Tree Iterater   1 Answer
+
+Mar 20, 2015
+---------------
+Data structures and algorithms and questions on trees   1 Answer
+
+Mar 26, 2015
+---------------
+Nothing very difficult.   Answer Question
+
+Apr 6, 2015
+---------------
+General resume questions and basic algorithm(Leetcode can be helpful)   Answer Question
+
+Apr 7, 2015
+---------------
+Implement a Stack using a Queue   Answer Question
+
+Apr 5, 2015
+---------------
+Given an array of integers, return the most frequent integer.   1 Answer
+
+Apr 6, 2015
+---------------
+How to improve your code?   Answer Question
+
+Jun 1, 2015
+---------------
+Previous Internship experience   Answer Question
+
+Apr 3, 2015
+---------------
+reverse string   Answer Question
+
+Oct 4, 2015
+---------------
+two easy problems, like determine if the tree is balanced or if the tree is bst.   Answer Question
+
+Jan 21, 2015
+---------------
+easy   5 Answers
+
+Jan 28, 2015
+---------------
+The questions are not very difficult.   1 Answer
+
+Jan 20, 2015
+---------------
+The most difficult question was a design question. It was open ended and there was no one right answer. I would suggest practicing design questions such as "design a parking lot" or "design a card game" and figuring out all the details and possible problems.   1 Answer
+
+Jan 22, 2015
+---------------
+Most questions are basic. Just be careful on the corner cases.   Answer Question
+
+Jan 27, 2015
+---------------
+design structure to classify product info, by date, by sales.....   Answer Question
+
+Jan 11, 2015
+---------------
+The interview was pretty easy.   Answer Question
+
+Jan 7, 2015
+---------------
+Asked questions that required using a data structure to solve the problem. They asked what types of DS could be used here, which would be best, the time complexity of each solution. Talked about each problem for me couple min before I started to code anything.   Answer Question
+
+Jan 25, 2015
+---------------
+online assessment questions are time tough. be careful.   1 Answer
+
+Jan 6, 2015
+---------------
+Few coding questions and some logical questions. Nothing unexpected.   Answer Question
+
+Mar 28, 2015
+---------------
+Write a code that merge two descending ordered linked list into one, and tell the complexity of it.   1 Answer
+
+Mar 19, 2015
+---------------
+What data structure to use to solve the problem.   Answer Question
+
+Mar 19, 2015
+---------------
+lots of questions about whether you were a leader, follower, some puzzle questions. Some coding, but covered by NDA   Answer Question
+
+May 11, 2015
+---------------
+Write a function to check whether a binary tree was a binary search tree. My first function only handled trees with integer values and he asked me to run through the function with a tree of double/float values. I should have asked clarifying questions before I started coding. Design a library (write out all of the classes, etc...), this was an OO question. Missed a few abstractions, basic structure was alright though.   Answer Question
+
+Feb 17, 2015
+---------------
+You have a tree (of movies), and you have to iterate through it to get top rated.   Answer Question
+
+Mar 7, 2015
+---------------
+The online assessment test is pretty easy. It asks to solve 7 debug questions within 20 minutes. General programming knowledge is sufficient.   Answer Question
+
+Mar 4, 2015
+---------------
+NDA   Answer Question
+
+Sep 8, 2015
+---------------
+How to implement a function that took out letters in a word which were multiples   Answer Question
+
+Feb 22, 2015
+---------------
+6 debug questions for first round. String processing like 1. reverse a string 2. judge whether two strings are permulation 3 find all permutation of a string   Answer Question
+
+Dec 31, 2014
+---------------
+OOD question to design a zoo   Answer Question
+
+Dec 31, 2014
+---------------
+Given two unsorted Arrays of integers, merge and sort them.   Answer Question
+
+Dec 9, 2014
+---------------
+The most difficult problem for me was probably to optimize my solution. I was not able to do it.   Answer Question
+
+Dec 5, 2014
+---------------
+two algorithm s are about the string   Answer Question
+
+Dec 2, 2014
+---------------
+system design   Answer Question
+
+Dec 9, 2014
+---------------
+Nothing too difficult   Answer Question
+
+Mar 17, 2015
+---------------
+decimal to Roman character, find closest and shortest word out of given characters (ie, (a,b,c) -&gt; cab, (s,t) -&gt; sit), and two questions about OOP and algorithms   Answer Question
+
+Feb 7, 2015
+---------------
+Behavior questions like a challenging thing you met.   Answer Question
+
+Feb 24, 2015
+---------------
+Remove Duplicates from LinkedList,   Answer Question
+
+Feb 20, 2015
+---------------
+Most of the questions were from Cracking the coding interview book. Implement a queue using two stacks. Build a hashmap from scratch.   Answer Question
+
+Nov 27, 2014
+---------------
+How to check whether a binary tree is identical to another binary tree? Please also provide the time complexity of your algorithm. The basic idea is to use recursion. But I'm too nervous because this is my first interview. It took me a lot of time to figure out the termination condition. I think there were more questions following this question, but I didn't have enough time to do them.   Answer Question
+
+Nov 21, 2014
+---------------
+Easy questions   Answer Question
+
+Nov 21, 2014
+---------------
+Given 2 numbers. Find if they are consecutive grey code sequences   4 Answers
+
+Nov 11, 2014
+---------------
+Software Test question   Answer Question
+
+Nov 7, 2014
+---------------
+Question on binary trees. Nothing unexpected.   Answer Question
+
+Nov 3, 2014
+---------------
+Determine if two number are neighbors in grey code sequence.   3 Answers
+
+Nov 4, 2014
+---------------
+Array intersection   1 Answer
+
+Nov 14, 2014
+---------------
+NDA. Study algorithms and data structures. I used Cracking the Coding Interview   3 Answers
+
+Nov 25, 2014
+---------------
+In what situation has "an acquired skill" helped you in a way you didn't expect.   Answer Question
+
+Nov 28, 2014
+---------------
+Design an app similar to whatsApp.   Answer Question
+
+Nov 3, 2014
+---------------
+More behavior questions than I considered before.   1 Answer
+
+Nov 3, 2014
+---------------
+Rearrange a string such that duplicate characters are at least k positions away.   Answer Question One question that at first I thought it is an Android related question, then I guess he wants me to implement a LRU cache, finally I believe that is a design question.   Answer Question
+
+Nov 12, 2014
+---------------
+Some data structure question is really tough.   Answer Question
+
+Nov 18, 2014
+---------------
+Given a list of integers as input (ex. {1, 4, 5, 2, 6, 7, 1, 4, 2}), return the biggest sequence of ascending numbers (ex {2, 6, 7}).   Answer Question
+
+Dec 4, 2014
+---------------
+Java programming test including writing test cases.   Answer Question
+
+Nov 22, 2014
+---------------
+I cannot disclose the questions due to signed NDA   1 Answer
+
+Jun 9, 2015
+---------------
+Something about tree traversal.   Answer Question
+
+Feb 17, 2015
+---------------
+Choose any of the scheduling algorithms and code with the given API. Can modify it but have to finish the problem within 5 hours.   Answer Question
+
+Jul 17, 2015
+---------------
+My interview was basically project so I had no interview question   1 Answer
+
+Aug 24, 2015
+---------------
+Find the nth node in linked list from the end?   Answer Question Find the duplicates in an array?   Answer Question Tell me about your projects?   Answer Question Implement min,max ,push ,pop for Stack in O(1).   Answer Question
+
+Oct 15, 2014
+---------------
+Not exactly as the problems I prepared before the interview.   Answer Question
+
+Oct 21, 2014
+---------------
+design the auto-complete function in the search bar.   1 Answer
+
+Oct 18, 2014
+---------------
+Search an element in a shifted and sorted array   Answer Question
+
+Oct 17, 2014
+---------------
+interviewer would meet you twice in middle and ask question   Answer Question
+
+Oct 2, 2014
+---------------
+I respect the NDA that I signed. Fundamental coding questions is all I can say.   Answer Question
+
+Oct 14, 2014
+---------------
+Coming up with a basic solution is not too hard, writing all the code in time is difficult, since the given problem is quite broad, very little time left for optimization and improvements.   Answer Question
+
+Oct 19, 2014
+---------------
+How to recursively change the color of the pixels around a certain pixel?   Answer Question
+
+Oct 10, 2014
+---------------
+It was a test code of the team was interviewing me.   Answer Question
+
+Oct 10, 2014
+---------------
+Phone screen question on collabedit.   Answer Question
+
+Sep 19, 2014
+---------------
+OOP design a game of chess   Answer Question In a continuous stream of bits find the first occurrence of 1   Answer Question
+
+Oct 11, 2014
+---------------
+given a single linked list, where every node also has a pointer to any random node, apart from normal value and next node pointer. This random pointer can point to any node in the linked list and can also be null. Task is to make another copy of this linked list with all same structure.   1 Answer
+
+Apr 22, 2015
+---------------
+Big O - Best/Worst-Case Runtimes, Space, etc. for operations of basic data structures, like Maps, Lists, Trees.   Answer Question
+
+Nov 11, 2014
+---------------
+How would you design a media playlist?   Answer Question
+
+Nov 5, 2014
+---------------
+1. finding if two binary number are consecutive grey code. (i.e. only one bit difference) 2. finding if two string are rotation to each other. (i.e. return true if s1 = "abcde" s2 = "cdeab") And 24 easy logical questions.   Answer Question
+
+Sep 15, 2015
+---------------
+As far as I remember, I had following questions. Write a function to implement Huffman encoding. Several principle of OOP in Java such as abstract vs interface, what is static function, how built-in java sorting implemented, etc. Reverse a singly lined list. Nearest ancestor node of binary tree. Write a function to shift array and the follow up was to analysis the possibility of each element got shifted. The last one was like, give you a function which is written in O(n^2), you need to figure out what is it doing for and try to use dynamic programming to optimize it. It is one in LeetCode.   Answer Question
+
+Feb 18, 2015
+---------------
+1.two simple coding questions 2.30 logical & quant questions   Answer Question
+
+Oct 24, 2015
+---------------
+print the elements in a n by n 2d array in a spiral shape   Answer Question
+
+Sep 19, 2014
+---------------
+The logic part was not that easy for me   5 Answers
+
+Sep 24, 2014
+---------------
+The interview format was different than the usual problem, solution on whiteboard kind of interview. It was much more similar to day to day coding and related more to the job.   Answer Question
+
+Sep 8, 2014
+---------------
+What's your favorite programming language and why?   Answer Question
+
+Sep 26, 2014
+---------------
+Be sure you know all the nitty gritty details about how various data structures are implemented   Answer Question
+
+Sep 15, 2014
+---------------
+Designing a stack like data structure(push, pop) and a min() function which operates in constant time   1 Answer You have two large 1GB plain text files stored in two computers connected by a slow connection. Most of the files is the same or they could be the same, how would you quickly determine if the files are the same and if they are different where are they different?   1 Answer
+
+Oct 1, 2014
+---------------
+Those multiple choices seem to test IQ, these are not hard but trivial and only 35 minutes. You should at least answer 15 questions. I passes all test cases of two coding problems, but I still didn't get the chance of onsite interview.   Answer Question
+
+Oct 23, 2014
+---------------
+Questions are covered by a non-disclosure agreement   Answer Question
+
+Aug 28, 2014
+---------------
+many questions on data structures and sorts   Answer Question
+
+Aug 26, 2014
+---------------
+Design a furniture shop. I am not familar with OOD then.   Answer Question
+
+Aug 14, 2014
+---------------
+I was not very fimiliar with the OOD at that time.   Answer Question
+
+Sep 11, 2014
+---------------
+Given a bitmap, find the largest size of adjacent 1's.   2 Answers
+
+Oct 31, 2014
+---------------
+Algorithms   Answer Question
+
+Oct 2, 2014
+---------------
+Required to write compile-able code during phone interview; being interviewed over lunch   1 Answer
+
+Jul 24, 2014
+---------------
+Expect different coding questions. Get one of those "How to Crack the Technical Interview" if you're concerned. For an intern position the questions will be pretty light, but that will depend on your interviewer. Look up the 14 amazon leadership principals and be ready to explain how you applied each one in the past - they'll ask you about one or two but you won't know which one. You might get a design question - design an alarm clock. Don't try to just do it on the fly. They're testing you to see if you get more specifications before trying to design a product.   Answer Question
+
+Aug 3, 2014
+---------------
+Hardest question was the first one. It asks you to write a program that will allow the user to create lines, rectangles, circles, text, etc. And allow them to manipulate them independently (move them, resize them, etc.) Design an object model for this application. (How would you model the representation of the document in an object oriented language? What classes would you define? What methods would you have? What would your API look like?)   Answer Question The second question ask you to code the following about facebook: Direct friends of m are Level 1 friends. Friends of friends are level 2 friends.....and so on Print level 1 friends first. Then print level 2 friends....and so on   Answer Question The third and final question was the follow: Write an efficient function that returns the n’th Fibonacci number (There are many ways to solve this problem. Please write the most efficient method possible). Each Fibonacci number is the sum of the last two. The first 10 are: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55   1 Answer
+
+Jul 11, 2014
+---------------
+Not very hard, typical programming questions about data structures, like hash tables.   Answer Question
+
+Aug 8, 2014
+---------------
+I'll respect the NDA and not go into specifics. I will say that it involved graph traversal.   Answer Question
+
+Jul 10, 2014
+---------------
+Design a class for furniture.   Answer Question
+
+Jun 20, 2014
+---------------
+Make true that ur algorithm is not just correct, but also be efficient in time complexity and space complexity.   Answer Question
+
+Jun 13, 2014
+---------------
+Why have you decided to use this data structures. What would be the complexities?   Answer Question
+
+Jun 22, 2014
+---------------
+Very expected questions. For every question, you are expected to explain your approach, step through conceptually, and then write the code, step through the code, and clean up the code. Although questions are not the most difficult, you need to be very accurate and precise with your thought process and code.   Answer Question
+
+May 28, 2014
+---------------
+second question. No idea how to implement in O(1) time.   2 Answers
+
+May 12, 2014
+---------------
+What's one technology stack you really dislike using, and why?   Answer Question
+
+May 7, 2014
+---------------
+The coding tests were somewhat challenging. They required careful review of all test cases.   Answer Question
+
+Jul 9, 2014
+---------------
+A lot of behavioral questions, have some experiences memorized so you're not making it up as you go along.   Answer Question
+
+Sep 10, 2015
+---------------
+Your favourite data structure and why?   Answer Question
+
+May 28, 2014
+---------------
+design algorithm and code in real time with reviewer.   Answer Question
+
+Apr 24, 2014
+---------------
+It wasn't particularly difficult.   Answer Question
+
+Apr 21, 2014
+---------------
+Should prepare some ood questions.   Answer Question
+
+Apr 16, 2014
+---------------
+the programming questions are not very difficult. one is compute the maximum amplitude of a binary tree, the other is to choose the values of parameters to get the maximum value.   Answer Question
+
+Jun 29, 2014
+---------------
+The programming project was too big and time-consuming for completing in under 6 hours. It takes a lot of time to read and fully comprehend the long project writeup and the framework code we are supposed to build on, let alone code it, test it, and comment it.   Answer Question
+
+Apr 9, 2014
+---------------
+system design and some detailed concepts   Answer Question
+
+Apr 11, 2014
+---------------
+Didn't expect there will be reasoning and working style assessment.   3 Answers
+
+Apr 22, 2014
+---------------
+The problem was straightforward and one should be very familiar with collections and data structures in the STL.   Answer Question
+
+May 15, 2014
+---------------
+Some real world problems on which Amazon works like Shipping, Advertising, Replenishment .etc   Answer Question
+
+Mar 25, 2014
+---------------
+I didn't expected one engineer asking me to design a feature for the kindle mobile app. The question was to let me design how to implement search suggestion. The answer include how the app communicates with the server, the algorithm used in the back-end server, and algorithm on app.   Answer Question
+
+Feb 3, 2015
+---------------
+OA:3 Linked list questions Onsite: using BST find connections in social network, OO questions like method accessment, polymorphism, elevator design .   Answer Question
+
+Feb 25, 2015
+---------------
+Keeping track of users logging in and out. Find if events in a list overlap given the start and end times. Question about latency on a network.   Answer Question
+
+Sep 3, 2014
+---------------
+There was only one Project task assigned, no other questions were asked   Answer Question
+
+Oct 19, 2014
+---------------
+What is the project that you are most proud of, and how would you improve it to fit Amazon's leadership principles?   Answer Question
+
+May 3, 2014
+---------------
+The project given itself very difficult. It involves lots of algos and machine learning.   Answer Question
+
+Apr 1, 2014
+---------------
+Bar raiser   1 Answer
+
+Mar 16, 2014
+---------------
+How to control concurrency in web application   Answer Question
+
+Mar 18, 2014
+---------------
+2) Given a log file which consists of timestamp, customer ID, page id visited by that particular customer. Write a function to return all customers who have visited 5 unique pages in last 30 mins   Answer Question
+
+Mar 1, 2014
+---------------
+1.find intersections of two sets 2.given a number list, output the sum of numbers within a window 3. student test score   1 Answer
+
+Mar 11, 2014
+---------------
+could not remember a particular one. most of them are not easy.   Answer Question
+
+Aug 29, 2014
+---------------
+Design a system for a cinema theatre. This was the formulation and it wasn't clear what they want - class model design, or an architectural design. Ask questions, check your assumptions and everything will be fine.   Answer Question
+
+Jun 8, 2014
+---------------
+There was nothing really unexpected or any unfair questions. I believe the interview was designed to emulate a normal day at Amazon, with all the resources you would have available, being able to discuss your approach with a small team, distributing work and at the end taking on your own responsibility.   Answer Question
+
+Mar 12, 2014
+---------------
+I was referred by a friend, I was giving coding problem to solve online. The problem is not timed but they expect you to finish within two hours, and the session is recorded for review. You have to code online. One of the developers will review the code and also watch a video to see how you solved the problem. I did not finish it in two hours. The question: Implement a class with 3 public methods that operate on a common set of data. These functions record the weight of boxes and allow users to find the weight of a box at a given percentile. the functions have the following signature. void writes(string boxId, Double weight); Double getWeightByboxId(String BoxID); Double getWeightAtPercentile(Double Percentile); I have a solution but let see what others will do   1 Answer
+
+Mar 5, 2014
+---------------
+1) Input: An integer. O/P: reverse the byte order(not the bits, reverse each byte order, i.e. order of 1's and 0's should not change within each byte) and display the number. 2) Find and display all anagrams of a given string. This one is nothing but permutation of a string.   Answer Question
+
+Mar 4, 2014
+---------------
+What if there are some boundary cases?   Answer Question
+
+Apr 2, 2014
+---------------
+We werent really asked any questions...   Answer Question
+
+Jul 11, 2014
+---------------
+Questions were simple: 1) Implement atoi function with all exception handling and same behavior as C++ inbuilt atoi. 2) How would you identify phone numbers from a file containing employee data. 3) return Intersection of two lists (should handle duplicates)   Answer Question
+
+Oct 17, 2014
+---------------
+Serialize/ Deserialize a binary tree.   1 Answer
+
+Mar 3, 2014
+---------------
+Implement a T9 dictionary   Answer Question
+
+Mar 3, 2014
+---------------
+Coding question. Asked to code on a shared online document.   Answer Question
+
+Mar 3, 2014
+---------------
+Debug and Logic   Answer Question
+
+Apr 29, 2015
+---------------
+mostly algorithmic questions, and what do the different types of classes stand for (private, public, etc)   Answer Question
+
+Apr 27, 2015
+---------------
+Convert each level of Binary tree into a linkedin list.   Answer Question
+
+Nov 21, 2014
+---------------
+Due to NDA, I can't say the exact question, but heaps and hash-tables were involved (separate questions).   Answer Question
+
+Nov 5, 2014
+---------------
+Be prepared for the object oriented design question. And try to explain your idea clearly.   Answer Question
+
+Mar 1, 2015
+---------------
+Given an array of person objects that contain a name and gender, sort the array such that all females are before males in the array.   1 Answer
+
+Sep 21, 2015
+---------------
+Given the root of a tree, print out the nodes of the tree in row-order.   Answer Question
+
+Jul 14, 2015
+---------------
+Algorithm Question (Cannot specifically say)   1 Answer
+
+Jul 28, 2014
+---------------
+Nothing really difficult or unexpected, just know your stuff. As you are writing your programming, make sure to explain why you are doing what ever you are doing. If you are going off track, they will help.   Answer Question
+
+Jun 24, 2014
+---------------
+None of the questions were difficult. The only 'difficult' question I had was "How would you approach this problem with a better solution?"   1 Answer
+
+Aug 19, 2014
+---------------
+None. All questions were of average difficulty.   Answer Question
+
+Sep 29, 2014
+---------------
+They asked me to create an algorithm to find all the strongly connected components of a graph.   1 Answer
+
+Mar 17, 2014
+---------------
+the questions were straight forward. the toughest one of the three was regarding linked lists   1 Answer
+
+Feb 26, 2014
+---------------
+How is your teamwork?   Answer Question
+
+Mar 6, 2014
+---------------
+I cannot disclose specific questions due to NDA. However, just get ready and feel comfortable with basic CS (algorithms, data structures, OO design). Make sure you can cleanly write code for simple, well-known problems, and that you can explain in few words these concepts.   Answer Question
+
+Feb 13, 2014
+---------------
+What data structures you would like to use to store texts of a text editor that you can do some operations like insert, modify and remove.   Answer Question
+
+Feb 17, 2014
+---------------
+Three algorithm questions within an hour and half. Pretty basis questions about linked list, array list, and a dynamic programming question about a two dimensional array.   Answer Question
+
+Feb 19, 2014
+---------------
+The interview questions weren't that difficult.   Answer Question
+
+Feb 14, 2014
+---------------
+Nothing was difficult. All were general questions based on Hashtable, Sorting, OOPS concept. 1) Given list of elements find if it contains duplicates. 2) Explain inheritance. 3) What is difference between int & Integer. 4) Given file containing IP addresses hitting amazon servers, find ip address with maximum traffic. 5) How Hashtables work? 6) Some behavior questions.   Answer Question
+
+Feb 15, 2014
+---------------
+the string related question on java was the toughest...   Answer Question
+
+Feb 12, 2014
+---------------
+The whole process involves a lot of data structure usage   Answer Question
+
+Apr 19, 2014
+---------------
+The most difficult question was mine: I can understand not being selected, but I can't understand that they wouldn't let me know early enough for me to avoid wasting so much time. Why would you schedule me for an interview, then lose interest in me and not even let me know but rather just not show up? If I did the same, I would probably be blacklisted by your company!   Answer Question
+
+Apr 1, 2014
+---------------
+The difficult question was the situation in Binary Search Trees where duplicates are possible.   Answer Question
+
+Feb 14, 2014
+---------------
+String reversal. Merge LinkedList. OOD. Find duplicates. Prime numbers. Tree serialization.   Answer Question
+
+Mar 12, 2014
+---------------
+Nothing unexpected. If you read this site you will see that others have had the exact questions I got.   Answer Question
+
+Feb 6, 2014
+---------------
+Told me to write a whole data structure with certain features.   Answer Question
+
+Mar 5, 2014
+---------------
+How do you design the system to allow users to rent movies on-demand, provided that all movies are already stored on a company ftp server.   1 Answer
+
+Apr 21, 2014
+---------------
+Invent fastest algorithm to calculate exponential   Answer Question
+
+Aug 25, 2014
+---------------
+Finding out if there is a palindrome inside of a string I think? It's been a while, but I hadn't seen it before and the interviewer helped me out a bit.   Answer Question
+
+Jul 21, 2014
+---------------
+Huffman Coding   Answer Question
+
+Jul 28, 2015
+---------------
+All technical questions, coding required. In the first one, I was asked to reverse a linked list and write a few test cases for my code. The second one asked me to merge to sorted linked lists. Another question about SQL join (what&#039;s the difference between left join and right join), perhaps because I had some database experience in my resume.   1 Answer
+
+Mar 3, 2015
+---------------
+They always ask about some of amazon core values. "how are you customer focused?" "Tell me about a time you dug deep into a problem." There are 14. You can look them up online. Two coding questions per interview. A short one and a long one. It's been awhile so I don't remember exactly. 1st short one: ? 1st long one: Remove repeated elements from an array. 2nd short one: create a circular linked list with a search method 2nd long one: given an array of integers that represent stock values, find the best time to buy and the best time to sell   1 Answer
+
+Oct 4, 2014
+---------------
+permutations of a string   Answer Question
+
+Mar 1, 2014
+---------------
+Three questions, all technical. The first two were about basic data structure and algorithm. The third one was a programming problem through an online coding platform.   Answer Question
+
+Jan 21, 2014
+---------------
+Find top k largest numbers in array in O(n) time   3 Answers
+
+Jan 27, 2014
+---------------
+The most difficult questions were the softer questions. Like how you work with a difficult co-worker, what happens if you find a project will be behind, etc.   1 Answer
+
+Jan 17, 2014
+---------------
+Given an int K and a list of 2-D (x,y) points, write a piece of code that will return the K closest points to the origin (which is the point(0,0))   1 Answer
+
+Jan 16, 2014
+---------------
+Divide without the / operator.   3 Answers
+
+Jan 29, 2014
+---------------
+1. Given a number (not necessarily of type int), find if it is 2^n. What is the complexity? 2. Given a set of points represented by x and y coordinates, find out the first k points that are closest to the origin. What is the complexity? 3. Given an array of integers, return the largest occurrence element times its array index. Do it in place. What is the complexity? 4. Given a binary tree(not necessarily BST), return the sum of all kth level nodes. What is the complexity?   1 Answer
+
+Mar 17, 2014
+---------------
+- Given a binary tree and a number, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals the given number. Return false if no such path can be found. - How do u know if a number is divisible by 8? (hinted to use a binary operator and NOT % or the subtraction approach)   1 Answer
+
+Feb 24, 2014
+---------------
+First: 1) Find out if there's a loop in a linked list 2) Reverse all words(not characters in each word) in a string 3) Design a parking lot Second: 1) Given a node, find its successor node in a BST(follow ups: in place, with or without root node, parent node) 2) Given str1 and str2, find if they are rotated strings of each other   1 Answer
+
+Jan 13, 2014
+---------------
+write a program to connect two people in a social network.   Answer Question
+
+Sep 15, 2014
+---------------
+how to sort a very big bunch of data like 1 million items   Answer Question
+
+Feb 6, 2015
+---------------
+Version control function...brain teaser type thing that was tricky logic with difficult edge cases. Hard to code on a white bored because it was long. Second interview room was an easy linked list question.   Answer Question
+
+Apr 2, 2014
+---------------
+Soft skills   1 Answer
+
+Mar 4, 2014
+---------------
+Questions were of average difficulty   Answer Question
+
+Feb 26, 2014
+---------------
+Implementing a Web Cache system, with LRU policy   Answer Question
+
+Dec 19, 2013
+---------------
+Write a program for a parking lot in Java   Answer Question
+
+Dec 18, 2013
+---------------
+How to find first non-repeating character in an incoming stream of characters   1 Answer
+
+Dec 20, 2013
+---------------
+Worry about recursion and different types of trees.   Answer Question
+
+Dec 3, 2013
+---------------
+The interviews were very technically oriented thankfully. There were no behavioral questions besides the usual: "Why do you want to work with Amazon?" I was given only one problem in every interview, which surprisingly takes the greater part of the interview to solve. We communicated using CollabEdit.com. Question Number 1: //Write a method which takes an array input and returns true if the sum of any two elements is equal to the sum of the corresponding indices. // Concretely if for an array the sum of values at any two indices i and j is equal to the sum of i and j. Question Number 2: // Write a method to reverse a linked list. // State any assumptions and write any classes/structs that you will need.   1 Answer
+
+Dec 9, 2013
+---------------
+Implement a method that flattens an iterator of iterators.   Answer Question
+
+Mar 24, 2014
+---------------
+How would you handle if there's conflict with your manager or co-worker? What would you do your manager is asking something that you don't think very right? Are you comfortable being called at mid-night due to an urgent service issue?   Answer Question List up all the classes that Google's Guava provides as many as you remember.   Answer Question Explain the difference between standard java hashmap and concurrent hashmap.   Answer Question Write a code that prints out all the palindrome words in a string.   Answer Question
+
+Dec 6, 2013
+---------------
+Implement quicksort.   1 Answer
+
+Feb 22, 2014
+---------------
+test question   Answer Question
+
+Feb 1, 2014
+---------------
+Median of two sorted array   1 Answer
+
+Jan 7, 2014
+---------------
+Not many difficult questions   Answer Question
+
+Nov 24, 2013
+---------------
+Design question to find the most frequent sequence of web page views from a log file of all the web pages viewed   1 Answer
+
+Nov 20, 2013
+---------------
+Deep copy of a list list containing a pointer to the next node and also a pointer to a random other node ( could be a node ahead in the list, the node itself, somewhere behind or NULL)   Answer Question
+
+Nov 15, 2013
+---------------
+Design a object oriented class for a vending machine.   1 Answer
+
+Dec 3, 2013
+---------------
+"What would be a disadvantage to using recursion in this case?"   Answer Question
+
+Dec 23, 2013
+---------------
+Bar-raiser was difficult and unexpected (to me) as I'm from embedded application dev background and haven't dealt with such scenario's.   4 Answers
+
+Nov 1, 2013
+---------------
+Everything was really easy.   1 Answer
+
+Feb 4, 2014
+---------------
+nothing particularly difficult   Answer Question
+
+Oct 31, 2013
+---------------
+How to design a zoo with OOP?   Answer Question
+
+Dec 3, 2013
+---------------
+Write a function to tell whether a BST is balanced   1 Answer
+
+Feb 24, 2015
+---------------
+Write a program to shuffle a deck of 52 cards and shuffle them equally to 4 players.   Answer Question
+
+Mar 16, 2015
+---------------
+I don't remember exactly because the description of that is too long to remember. The problem seems like real issues of Amazon, not like simple data structure and algorithm questions. I need to use Map effectively.   Answer Question
+
+Jul 29, 2015
+---------------
+How to decide if a graph is acyclic?   3 Answers
+
+Oct 16, 2013
+---------------
+What is the angle between hour hand and minute hand in an analog clock?   Answer Question
+
+Oct 16, 2013
+---------------
+I think the interview problems are about regular topics. There are not unexpected questions.   Answer Question
+
+Oct 3, 2013
+---------------
+Given any binary tree, write an method to test whether it is a Binary Search Tree   1 Answer
+
+Mar 5, 2014
+---------------
+How to find if a a graph is 2-colorable or not? Code it.   Answer Question
+
+Oct 4, 2013
+---------------
+They asked about the most difficult problem I had to solve in my past jobs, this was a difficult questions because I did not work on projects that are as complex as Amazon's systems and finding an impressive problem was very hard for me. Must be prepared about these questions beforehand.   Answer Question
+
+Apr 12, 2014
+---------------
+all about the data structure, and its hard for me without any study! go to study for data structure   Answer Question
+
+Nov 6, 2013
+---------------
+Signed the NDA. In relation to the book: Cracking the Coding Interview, Amazon will ask about scalability, and your code must be as efficient as possible.   Answer Question
+
+Dec 30, 2013
+---------------
+What would you wish to improve if you were to start the project again?   Answer Question
+
+Nov 11, 2013
+---------------
+There wasn't too difficult question.   Answer Question
+
+Jan 23, 2015
+---------------
+Write a Stack, unexpected.   Answer Question
+
+Aug 29, 2013
+---------------
+The most difficult part is about how to select a data structure to solve the problem effectively.   Answer Question
+
+Aug 20, 2013
+---------------
+Questions were about previous experience as well has hashmaps. How to implement them, handling duplicate keys. There was a coding question about linked list that I can't remember exactly.   Answer Question
+
+Aug 20, 2013
+---------------
+1st is to check whether a linkedlist has cycles, the other one is to get the most frequent integers in an array   Answer Question
+
+Feb 18, 2014
+---------------
+Write a function that converts an int into its alpha-numeric equivalent represented as a null terminated string. The function should accept an int as input and return a string as output. For instance, calling the function with an int value of 324 would return a null terminated string containing "324". Ensure that your function checks for appropriate boundary conditions and edge cases. Assume you cannot use any standard libraries (for example, no itoa or sprintf).   1 Answer
+
+Nov 7, 2013
+---------------
+It was a very challenging group assignment, few behavioural questions.   Answer Question
+
+Jul 30, 2013
+---------------
+How can design a TinyURL for a website? Design an algorithm and write sample code which generates TinyURL for a website.   2 Answers
+
+Aug 26, 2013
+---------------
+It was not difficult. The result wast unexpected that despite my better performance in the second round of interview, I was not selected for another round   Answer Question
+
+Dec 6, 2014
+---------------
+Design a system to store and vend customer preferences to the retail website.   Answer Question
+
+Jun 3, 2013
+---------------
+Nothing unexpected, everything seemed pretty standard stuff that a CS major should know   Answer Question
+
+Aug 17, 2013
+---------------
+if a linked list is a loop, kth nearest points, sort two sorted linked list into one   Answer Question
+
+Mar 22, 2015
+---------------
+How to find duplicate values in BST   1 Answer
+
+Nov 8, 2013
+---------------
+All questions are regular algorithm and OOD questions.   Answer Question
+
+Oct 19, 2013
+---------------
+There wasn't any difficult question.   Answer Question
+
+May 10, 2013
+---------------
+Design a file system   Answer Question
+
+May 8, 2013
+---------------
+Both the interviewers are 10 min late.   Answer Question
+
+May 3, 2013
+---------------
+Describe how you resolved a professional disagreement with your manager/supervisor?   Answer Question
+
+Jun 6, 2013
+---------------
+NULL   Answer Question
+
+Apr 22, 2013
+---------------
+Program to find the longest common subsequence (in a sequence)   Answer Question
+
+May 25, 2013
+---------------
+I am unable to give details, due to a non-disclosure agreement.   1 Answer
+
+Jun 6, 2014
+---------------
+What would you do if you are representing a team with a partner and the partner gives you bad feedback about your peer.   Answer Question
+
+Apr 2, 2013
+---------------
+Describe how you will construct cdn   Answer Question
+
+Apr 8, 2013
+---------------
+How would you create an array given two sorted arrays.   1 Answer
+
+Jul 7, 2013
+---------------
+All normal questions.   Answer Question
+
+Apr 28, 2013
+---------------
+print a tree in level order.   1 Answer
+
+Jun 6, 2013
+---------------
+Pull a random integer from the range 1, ..., N. Shuffle. Find missing integer, without re-sorting. Solution is to used closed-form sum of first N integers.   Answer Question
+
+Mar 30, 2013
+---------------
+How to find the k closest data points to the origin given n data points.   Answer Question
+
+Apr 16, 2013
+---------------
+One question was to write a function to determine whether a word was a palindrome or not and the other was a basic permutation problem.   Answer Question
+
+Mar 15, 2013
+---------------
+All I answered had to be coded.   Answer Question
+
+Mar 12, 2013
+---------------
+All questions were decent, not too simple but not overtly tough either. However, key is talking though the entire process even during phone interviews while working on a problem.   Answer Question
+
+Mar 12, 2013
+---------------
+Nothing so difficult actually.   Answer Question
+
+Mar 19, 2013
+---------------
+No. Everything is simple and normal.   Answer Question
+
+Mar 6, 2013
+---------------
+Generate all valid n pairs of parenthesis, i.e. ( ( ) ( ) ) is valid 3 pairs, ) ( ) ( is not valid.   1 Answer
+
+Mar 31, 2013
+---------------
+Difference between linked list and dynamic array.   Answer Question
+
+Mar 5, 2013
+---------------
+unexpected questions, some questions from their projects.   Answer Question
+
+Jun 10, 2013
+---------------
+Finding phone numbers of a given format inside large number of different HTML files   Answer Question
+
+Apr 1, 2013
+---------------
+The first question is from google i think. They ask you to write an algorithm in order to figure out a kind of bottle will broken after being throwing from a certain floor. The second part was about basic algorithm but the lady had a strange accent and I have to keep asking her what she said. The second part was easy.   Answer Question
+
+Mar 16, 2013
+---------------
+Honestly, no unexpected or super difficult question. Just be confident and think about the problem thoroughly. Also, speak out while you are thinking.   Answer Question
+
+Mar 23, 2013
+---------------
+What should you do if someone on your team is not finishing all of their work?   Answer Question
+
+Aug 22, 2014
+---------------
+Given the data of users' activities on our website(e.g. what link they clicked), write a program that predicates the next page a user will visit based on his current page.   Answer Question
+
+Mar 3, 2013
+---------------
+Nothing unexpected.   Answer Question
+
+Mar 2, 2013
+---------------
+Unix commands   Answer Question
+
+Mar 4, 2013
+---------------
+no very unexpected questions   Answer Question
+
+Jun 14, 2013
+---------------
+Simple qutions throughout   Answer Question
+
+Feb 24, 2013
+---------------
+The interviewer went deep into stack concepts.   Answer Question
+
+Feb 19, 2013
+---------------
+How do you find out if our singly linked list has an infinite loop in it?   1 Answer
+
+Feb 15, 2013
+---------------
+know your hashmaps   Answer Question
+
+Feb 14, 2013
+---------------
+Given an entire repository of files, how would you find the files which contain a certain 10 digit telephone number. Also, give a tool/library method to do the same as well as some OS commands   Answer Question
+
+Feb 16, 2013
+---------------
+Typing the code in notepad for the second interview, since I had not coded C++ in a while. I would recommend reviewing typing code.   Answer Question
+
+Feb 11, 2013
+---------------
+you have a binary tree (contains negative and positive number) find a path from root to a leaf node that sums to value K (K is given) Design a GPS system.   Answer Question
+
+Feb 6, 2013
+---------------
+OO design expression tree   Answer Question
+
+Jun 4, 2013
+---------------
+There was only the one coding project   Answer Question
+
+Feb 28, 2013
+---------------
+to find a missing integer between 1 to n   1 Answer
+
+Feb 28, 2013
+---------------
+find all possible paths between two points in a matrix   1 Answer
+
+Mar 14, 2013
+---------------
+One of the questions is to determine whether a linkedlist has loop   Answer Question
+
+Mar 19, 2013
+---------------
+It was a specific sorting question about sorting certain chunks in an array. I had to write it out and then the efficiency of the program was asked as well.   Answer Question
+
+Apr 21, 2013
+---------------
+Questions are focused on data structures and algorithms.   Answer Question
+
+Oct 6, 2013
+---------------
+All were expected from the standard view point. Nothing difficult as such.   Answer Question
+
+Jan 26, 2013
+---------------
+Write and analyze an algorithm to check if there exists two numbers in an array that sum to a given third number.   Answer Question
+
+Jan 30, 2013
+---------------
+Usual questions. Nothing very difficult   Answer Question
+
+Jan 16, 2013
+---------------
+If you were project manager for a large-scale application just entering market, how would you build the support team necessary to manage the influx of new users?   Answer Question
+
+Jan 18, 2013
+---------------
+Its says team project. But remember each member is evaluated independently.   Answer Question
+
+Jan 16, 2013
+---------------
+I didn't expect the scalability question was that hard.   Answer Question
+
+Mar 7, 2013
+---------------
+find the intersection between to lists.   Answer Question
+
+Feb 5, 2013
+---------------
+Design a large web-based, highly scalable, highly available system. This was an open-ended question. You should make sure to ask the interviewer lots of questions to narrow down the problem before jumping into a solution.   Answer Question
+
+Jan 18, 2013
+---------------
+As one author put it, Amazon loves Object-Oriented Questions. It seems like the interviewers are more concerned with the process and quality of code over the number of questions you're able to answer, although I'm sure a good balance of both is useful.   Answer Question
+
+Feb 7, 2013
+---------------
+1) Implement scrabble game - given a scrabbled word the program should return the correct english word. This was supposed to be done using the trie data structure.   Answer Question 2) Roman numbers implementation. Given a number program should return its equivalent roman number. 10 rules for roman number generation were given and I had to incorporate all of them   Answer Question
+
+Feb 14, 2013
+---------------
+find the longest repeated substring in a string.(e.g., "banana" -> "ana"; "I am what I am" -> "I am").   1 Answer
+
+Jan 28, 2013
+---------------
+NDA. But generic coding and algorithm questions.   Answer Question
+
+Jan 18, 2013
+---------------
+The questions were quite straightforward. Nothing exceptional.   Answer Question
+
+Mar 13, 2013
+---------------
+Code merge sort   Answer Question
+
+Sep 27, 2013
+---------------
+My background and skills?   Answer Question
+
+May 14, 2015
+---------------
+How does Facebook work? How would you design it How does automatic suggestion work? How would you design it to scale, performance, distributed cache, etc. Describe something you worked on at a former company. Explain in detail. (trick question! Always answer that it was proprietary and cannot be discussed)   Answer Question
+
+Mar 11, 2015
+---------------
+Sketch out a shortest path algorithm on a graph on the whiteboard   Answer Question
+
+Sep 13, 2015
+---------------
+There was no unexpected or difficult Question. 1. Find the first non repetitive character in a character stream. 2. Check for prime number and Elevator system design. 3. Agent bidding system design 4. Find for subtree within a larger tree.   3 Answers
+
+Apr 13, 2013
+---------------
+Phone Interviews: 1) Least Common Ancestor of 2 nodes in a binary tree 2) Trim extra spaces in a given String. 3) Check whether given linked list is circular or not 4) Design a restaurant reservation system Face to Face: 1) System Design question . Implement "File" java class. He went deep in to the design specifics , asked me to design cache , handle parallel access , efficient data structures to do it etc.., 2) Integers are arriving at a rate of one on a socket stream. At any given time print k largest numbers. Describe an efficient algorithm and implement it in language of your choice. 3) Given a binary tree and an integer S , print all distinct paths from root to leaves which sum to S. Describe the algorithm and implement it. 4)Write a program to print the largest sub string which is a palindrome in a given string. He asked me to optimize it with O(n) solution 5) Given a list of nodes , Node class has fields value(of type integer) , next(of type Node) , other(of type Node) where next points to next node and other points to some arbitrary node in the list. Make a copy of the list. Describe an efficient algorithm and implement it.   Answer Question
+
+Jan 5, 2013
+---------------
+Given 8 identical balls and find the heavy one by using a balance with two weightings.   1 Answer
+
+Mar 12, 2013
+---------------
+All the questions are technical, nothing surprise. But their questions are not easy...   Answer Question
+
+Jan 16, 2013
+---------------
+Mainly questions about array manipulation.   Answer Question
+
+Feb 27, 2013
+---------------
+I only remember three of the technical questions I was asked, in addition to the usual general questions about my experience, skills, and work: 1. write code to replace spaces in a string with a * character (don't just use .replace functions though, hehe) 2. given an array with values that increase, reach some max, then decrease, find the max in less than O(n) + test cases 3. given a linked list that represents two numbers (e.g., 1234 represented by 1-&gt;2-&gt;3-&gt;4 and 5678 rep by 5-&gt;6-&gt;7-&gt;8), add the numbers. singly-linked list   2 Answers
+
+Nov 30, 2012
+---------------
+Design a chess game.   Answer Question Why amazon   Answer Question The data structures to define a queue   Answer Question
+
+Nov 21, 2012
+---------------
+"Tell me about yourself"   Answer Question
+
+Sep 25, 2013
+---------------
+Given a spase matrix, create a class that would:1. have a method to take the sparse matrix and put into a more efficient data structure. 2. retreive data from the data structure. 3. Use a data structure that would produce an iterator that keeps track of the order in which the entries were added. I was given a class for the data type (xi, xj, value).   1 Answer
+
+Mar 4, 2013
+---------------
+None of the questions were difficult. First interview question was about an array and finding all pair values that add up to a target number. Second question was, given an array, find as many permutations as possible in randomly ordering the array.   Answer Question
+
+Jan 7, 2013
+---------------
+How do you merge n sorted lists and code it.   Answer Question Write a binary tree to a file and then restore it.   Answer Question
+
+Feb 12, 2013
+---------------
+Design a rental locker system.   Answer Question
+
+Jul 7, 2014
+---------------
+I was asked to implement a hash map from scratch. It was challenging because we don't really think in detail about how to do it. There were problems about resolving hash collisions, how to maintain the hash map, how to update/ delete elements, complexity analysis etc. Overall I think this was a very good question to test both CS fundamentals and coding skills.   Answer Question
+
+Dec 17, 2012
+---------------
+Just one problem to solve for the whole day with a group of candidates.   Answer Question
+
+Nov 19, 2012
+---------------
+Signed an NDA, so can't talk about it.   1 Answer
+
+Dec 18, 2012
+---------------
+The head to tail problem was rather difficult for me... first I created a function to generate all words created by changing one letter of a word, then I mentioned doing iterative deepening DFS. Probably should have gone with A* search, with number of different letters as the heuristic... maybe keep a list of explored words to avoid duplicates.   1 Answer
+
+Nov 7, 2012
+---------------
+Given a stream of characters and a set of characters, find the shortest sequence in the stream containing all characters in the set.   1 Answer
+
+Jun 20, 2013
+---------------
+Given two lists containing any kind of objects, build a function that takes them as input and outputs a list of common/different elements.   3 Answers
+
+Oct 14, 2012
+---------------
+Write a function to transform one word to another word, changing one letter at a time, using only valid words (e.g., cat -&gt; dog: cat, hat, hag, hog, dog).   Answer Question
+
+Nov 6, 2012
+---------------
+Given a singly linked list of characters. Determine of they form a palindrome.   Answer Question
+
+Nov 14, 2012
+---------------
+What is the range of numbers that can be stored using a single byte?   2 Answers
+
+Jan 13, 2013
+---------------
+describe java inheritence   Answer Question make a function that counts the number of nodes in a tree   3 Answers Please try to be as detailed as possible regarding the technical question, business case, etc.   Answer Question
+
+Oct 1, 2012
+---------------
+Why do you want to work here? - The question is simple but the recruitor told me my answer was too generic the first time. You actually need to have a good answer for this and not the normal bs.   Answer Question
+
+Oct 24, 2012
+---------------
+Given an array, return the nth largest.   4 Answers
+
+Apr 3, 2014
+---------------
+Usual Algo and data structure questions followed by Design an ATV [Tested OOPS principles]   Answer Question
+
+Sep 26, 2012
+---------------
+A problem solving question that required a graph traversal solution. After getting enough hints from the interviewer I immediately understood what was expected to produce.   Answer Question
+
+Aug 9, 2012
+---------------
+Was asked open ended question on efficient traffic flow through an intersection. This was really an OO design question, but it was open ended enough that it was easy to go in many different directions.   Answer Question
+
+Oct 17, 2012
+---------------
+Given 4 points, write a method to determine if the 4th point is in the triangle made by the first 3 points   2 Answers Desgn a phone book using OO   Answer Question how to check if a binary tree is BST   Answer Question behavior question: what would you do if you have a task need to be done by someone in another team but he does not collaborate   Answer Question
+
+Aug 31, 2012
+---------------
+How would you distribute inventory to minimize the number of missed delivery dates while keeping costs to Amazon low?   1 Answer
+
+Aug 29, 2012
+---------------
+A question about finding contradictions in statements based on some obscure rules. I jumped into writing code too quickly and didn't write out some cases to test for first, and I got burned by it. It's not a super difficult problem, but I was nervous and just skipped some parts of it.   1 Answer
+
+Sep 14, 2012
+---------------
+The most difficult and unexpected question was a bunch of "What if" and "An example of when..." kind of behavioral questions. I should have prepared these, I had not and really was stumped and ended up giving them real examples and expressed my honest opinions (not a good idea esp if you are opinionated like me).   Answer Question
+
+Apr 5, 2013
+---------------
+There were no unexpected question.   Answer Question
+
+Feb 24, 2013
+---------------
+Write a program to print all permutations of a string.   Answer Question
+
+Jul 18, 2012
+---------------
+The interviewer wanted me to create a structure that represents a binary search tree and write a boolean function that verified to see whether a parameter was a binary search tree.   1 Answer
+
+Nov 14, 2014
+---------------
+Behavioral questions tried to probe all kinds of weaknesses.   1 Answer
+
+Jul 4, 2012
+---------------
+validate a binary tree   3 Answers
+
+Jun 8, 2012
+---------------
+Design a parking system, where each car is assigned a parking stall. What assumptions are you making? Any issues that could come up?   Answer Question Sort a file containing a very large number of 16bit integers.   Answer Question
+
+May 30, 2012
+---------------
+Merge two sorted Array   1 Answer
+
+Jun 18, 2012
+---------------
+Given a binary tree, convert it into a doubly circular linked list. The structure of the tree was given by the interviewer and also the structure of the doubly circular linked list.   2 Answers
+
+Sep 27, 2013
+---------------
+How can you design a highly scalable system to fulfill given requirements .... ?   Answer Question
+
+Dec 19, 2012
+---------------
+all questions involve solve problem, then try to solve it better. they want to see how you think   Answer Question
+
+Apr 18, 2012
+---------------
+design an elevator class   Answer Question
+
+May 9, 2012
+---------------
+Given an integer set of numbers, print all the subsets. For some reason the interviewer asked to print the supersets, but what he means is subsets.   9 Answers
+
+May 21, 2012
+---------------
+Delete extra spaces in a string.   2 Answers
+
+Apr 26, 2012
+---------------
+flattening a tree to a file   1 Answer
+
+May 14, 2012
+---------------
+How to find telephone numbers in a lot of files.   Answer Question Print the numbers binary representation.   Answer Question
+
+Jun 12, 2012
+---------------
+find a anagrams of given string from the paragraph.   3 Answers OO design for parking lot.   1 Answer
+
+May 7, 2012
+---------------
+he asked me some java and web related questions , some I know , some I did not , some of them that I do not know was some java garbage collection related question and some sort of web cache related (different kind of cache).   Answer Question The second interview was worse than the first one was a programming assignment about combing and sorting 2 different arrays , my mistake was that I asked her if she needed the repeated numbers to show or not. any way the most ridiculous part was that she hung on me about 4 times!!! and called me back again for some weird background situation that I am not aware of . she was so careless , my another stupidity was that I told her my program was not doing exactly what it was supposed to do (she asked me to sent it to her by email) , she was so careless and distracted , doubt she would have even looked at it... any way , when she was hanging up for the last time , it was so obvious that she was unsatisfied , and I got the nice looking rejection email (after careful consideration... blah blah) , a week later   Answer Question
+
+May 7, 2012
+---------------
+How would you reverse a string without using buffer variables?   Answer Question
+
+May 9, 2012
+---------------
+Average, Best & Worst case complexity of an BST. On what basis these complexities are defined ?   1 Answer
+
+May 14, 2012
+---------------
+Java generics   Answer Question
+
+Apr 16, 2012
+---------------
+design a basic system call   Answer Question write a small api to read strings   Answer Question
+
+Apr 11, 2012
+---------------
+Determine if two strings are anagrams.   2 Answers
+
+Apr 11, 2012
+---------------
+Find the length of the longest palindrom in a given string   4 Answers level order print a given tree   2 Answers
+
+Mar 29, 2012
+---------------
+Design (in Object Oriented manner) a restaurant reservation service. No coding necessary beyond class names and method names and rough description of how they work. Then design the SQL database for this system (table names, columns and foreign keys)   1 Answer Create a Queue using two Stacks.   2 Answers
+
+Apr 3, 2012
+---------------
+Can't share because of NDA agreement. but normal CS stuff.   Answer Question
+
+Apr 2, 2012
+---------------
+None   1 Answer
+
+Sep 18, 2012
+---------------
+Describe a project you are working, tell me how would you scale the application to handle large data.   1 Answer Design elevator system with classes/ methods   Answer Question What happens when a URL is typed into the address bar of the browser? explain how DNS works?   Answer Question
+
+Feb 21, 2012
+---------------
+Given a tree, output a linked list of all nodes in the tree ordered by level. For example, root, then all nodes at the next level, then the next.   1 Answer
+
+Feb 28, 2012
+---------------
+Given a list of numbers and a rand(0,1) function, which returns a random integer between 0 and 1. Provide an algorithm to randomly sort the given list, based on the output of the rand() function, which should be called once for every number on the list. Code the solution in any language of your choice.   3 Answers Given a tree(not a binary tree) and 2 nodes on the tree. Give an algorithm to find the least common ancestor of the given nodes. Code the solution in any language of your choice.   Answer Question
+
+Feb 28, 2012
+---------------
+Given a random array with integers, find every pair that sum up to a certain number.   4 Answers
+
+Jan 26, 2013
+---------------
+Serialize (flatten) and de-serialize a binary tree. First describe the approach, then write the code.   3 Answers Given a list of points in 2D and a single reference point, find k nearest neighbors. No code required (iirc).   2 Answers
+
+Jun 25, 2012
+---------------
+Write a program to count the bits in an int.   Answer Question design a class for a zoo   Answer Question how to find all the telephone numbers in hundreds of files   Answer Question
+
+Apr 29, 2012
+---------------
+As the company would probably frown upon me giving interview specifics, I'll explain the general knowledge base you should have when interviewing with Amazon. They are very concerned with data structures; namely structures that are very fast. Hash tables are a staple, though questions involving tree and trie structures are also asked quite often. Even if you're not applying to a position requiring knowledge of networking, you should know the basics of how it works and how to avoid network congestion.   Answer Question
+
+May 29, 2012
+---------------
+String reversal, OS concepts, Object oriented designing concepts   Answer Question
+
+Apr 29, 2012
+---------------
+None   Answer Question
+
+Oct 17, 2012
+---------------
+1) A puzzle to find 3 numbers in an array which summed to 0.   4 Answers
+
+Feb 17, 2012
+---------------
+11 Answers Given references to roots of two binary trees, how do you short circuit determine whether the sequences of the leaf elements of both the trees are same ? The structure of two BTs may be different. Short circuit : for ex. If the very first leaf element of each tree is different, the algorithm should stop immediately returning false instead of checking all the leaf elements of both trees.   2 Answers Given an array, subarray size k and a number ssum, find the number of subarrays of size k that sum up to ssum.   1 Answer
+
+Feb 7, 2012
+---------------
+Given two sets of numbers find the elements in A that appear in B (set intersection)   3 Answers
+
+Feb 20, 2012
+---------------
+Running times of hash tables, arrays, linked list, heap   Answer Question Choose the n smallest from a pool of m integers in an array (unordered)   Answer Question
+
+Feb 5, 2012
+---------------
+How to save a dictionary. Easy one, just use a trie. During the process, you will be asked questions about big O stuffs. Just remember your data structure   1 Answer How to find every word in one paragraph and return back the 10 most frequently words. Easy one again. Use a hashtable to store the words, after that, use a heap to return the 10 most   Answer Question Numerical Roman numbers. I screw up this one. That's because the interviewee gave me a sheet full of rules, but only two of them are useful in the first part. First part: given a formatted Roman String and convert them into numbers. Easy one, but I spend nearly 25 mins on it. Second part: how to convert a number into Roman Strings. Recursion will work. I only have ten mins, so the interviewee doesnt let me finish this up   Answer Question You have a node, each have three fields: value, next and random. How to make a deep copy. The interviewee is helpful, he gave me hints and I finally solve it. First copy the list with only value and next. Save each one in the hashtable. And then change the random value.   Answer Question
+
+Jan 29, 2012
+---------------
+Given the word "HEAD" and the word "TAIL," write code and/or describe using computer science algorithms how you would transform from the word HEAD to the word TAIL. Each change must be by only one letter, you cannot change the letter in a given position twice, and each new word must be a valid word.   3 Answers Given a binary tree with the usual left and right pointers on each node, and additionally a parent pointer, make an algorithm to discover the closest ancestor to 2 nodes on the tree.   7 Answers
+
+Jan 18, 2012
+---------------
+Given an array of int, find sum of the most common int.   1 Answer
+
+Jan 11, 2012
+---------------
+You are given two arrays, design a method to produce the intersection of those arrays. Analyze its runtime.   2 Answers Write up your method in a language of your choosing. Are there any bugs? What unit tests would you run on it?   Answer Question Define Polymorphism and Encapsulation.   Answer Question You have a directory tree of plain HTML files and your boss wants you to find all the phone numbers on the pages so they can be removed. What would you use to do this?   1 Answer
+
+Mar 14, 2012
+---------------
+what is the average case and worst case time complexity for mergesort?   1 Answer what is the average case and worst case time complexity for quicksort?   1 Answer
+
+Dec 9, 2011
+---------------
+Write an algorithm to determine if 2 linked lists intersect   14 Answers
+
+Dec 29, 2011
+---------------
+Given sequences of page visits for thousands of users, find the most common sub-sequence across all of them. And now can you do it faster than what you just did. What about even faster.   Answer Question Give an overall object-oriented design of the game chess. (This was one of the easier questions, but the interviewer was incredibly stubborn in pushing for a very specific answer).   Answer Question
+
+Dec 8, 2011
+---------------
+Return top 10 most used words in a string   2 Answers Return the least common ancestor for N nodes in a tree given nodes that only have a parent pointer   Answer Question
+
+Dec 23, 2011
+---------------
+design api for cache management   3 Answers unlimited supply of coins of different demoninations. pick min number of coins to get given amount.   4 Answers serialize/deserialize binary tree - diff possible approaches and pick best one. tell why its best? code and complexity.   Answer Question find if binary tree is bst.   Answer Question what ds can be used for LRU cache.   2 Answers
+
+Jan 8, 2012
+---------------
+First phone interview Given a node find all leaves belonging to its children.   Answer Question Second phone interview Think of an organizational structure where each employee is reviewed and given points. Could be any integer. If doing good positive, if not negative, if neutral then 0. Now find the node with the highest number of points when adding points belonging to it and all its children. 3 4 7 0 6 2 -50 In this case the answer is Node 4   Answer Question
+
+Feb 3, 2012
+---------------
+Print the levels of an n-ary tree...   1 Answer
+
+Jul 4, 2015
+---------------
+How to design a system that holds employee records. Employees has start - end dates, and salary. Employees can be added or removed.   Answer Question
+
+Jan 17, 2012
+---------------
+What is the difference between a thread and a process?   Answer Question
+
+Nov 27, 2011
+---------------
+You have a sentence that has a grammatical error, and the sentence has been broken into a parse tree. The grammatical error is because of an interaction between two words. Find the minimum complete phrase that includes the grammatical error.   2 Answers
+
+Dec 15, 2011
+---------------
+What is the computational complexity of graph isomorphism   Answer Question Write a program that takes an integer and gives the closest node in a binary tree.   2 Answers What is another term for graph?   1 Answer
+
+Nov 23, 2011
+---------------
+What would u do if deadline is approaching and ur product is not finished?   4 Answers
+
+Nov 2, 2011
+---------------
+Consider a system with fragmented memory. So when the user invokes a malloc(N) there may be a possibility that N consecutive locations can't be allocated. But chunks of memory that adds to N can be allocated. Design a data structure to store this information and write routines for allocating memory given the size, read , write given number of bytes to read etc.   Answer Question
+
+Dec 22, 2011
+---------------
+different between array and heap   3 Answers
+
+Dec 5, 2011
+---------------
+Given two very large binary trees T1, with millions of nodes, and T2, with hun- dreds of nodes, create an algorithm to decide if T2 is a subtree of T1.   6 Answers
+
+Jan 18, 2012
+---------------
+"Solve a maze", you have a 2D matrix with 1's as blocked and 0's as path. Find a path from one corner to another, backtracking should be allowed.   6 Answers 2.Prove that tree is BST. 3. Ransom note problem - prepare a note(array) from a given magazine(array). 4. Keep track of history of users of Amazon site in pairs of 3 pages that they have consecutively visited.   Answer Question
+
+Oct 7, 2011
+---------------
+What is the relationship between an object and a class?   1 Answer
+
+Apr 26, 2015
+---------------
+How would you resolve a conflict with a colleague.   Answer Question
+
+Oct 2, 2011
+---------------
+Explain how spinlocks were implemented in hardware   1 Answer Given an array of sorted numbers, a number to search for and a condition such as GreaterThanEquals, LessThan etc, return the match if present and the index. The array cannot be search using binary search and have to use least amount of memory as possible   Answer Question Given a sorted inked list. Convert the linked list to binary tree (not binary search tree)   Answer Question Implement the routines for queue. Now, add synchronization routines for enqueue and dequeue   Answer Question
+
+Oct 15, 2011
+---------------
+Given million records, sort them out using 1K memory. Suggest the best algorithm to do this   1 Answer
+
+Oct 16, 2011
+---------------
+What is a hash table and what would you use it for?   Answer Question Write the a function that counts all pairs in an array.   Answer Question
+
+Sep 14, 2011
+---------------
+Having to pick up n items from a warehouse find an algorithm to minimize the cost having a cost function to go from one item to another.   2 Answers
+
+May 30, 2012
+---------------
+how many years experience do you have   1 Answer
+
+Sep 7, 2012
+---------------
+The difference between and interface and an abstract class   3 Answers Using only putchar how would you print out the ascii values for each digit in an integer. For example if the integer was 123, then you would want to print the ascii values for 1, 2, and 3.   5 Answers Given a value and an array of integers, find if there are two integers in the array that add up to the value.   4 Answers Describe the class structure for a chess game.   1 Answer
+
+Sep 1, 2011
+---------------
+General Based on Coursework and Resume and Experince   Answer Question Completely into Data Structures, trees, hash tables   Answer Question
+
+Dec 7, 2011
+---------------
+The first interviewer asked me to code a program to evaluate a post fix expression.   Answer Question Second one asked me to design a Conway's Game of Life. (I had no idea what it was. The interviewer took 5 minutes to explain the game and then asked me to design and code).   Answer Question In the next round, the interviewer gave me a binary tree and asked me to write all the data in a file and when the file is read back we should be able to construct the original binary tree.   3 Answers In the last round, the interviewer asked me to design and code an LRU (Least Recently Used) Cache.   1 Answer
+
+Jul 20, 2011
+---------------
+Binary tree traversal   Answer Question
+
+Jun 28, 2011
+---------------
+Write a program for the longest possible palindrome and write test cases to break it.   Answer Question Elicit requirements for the game of chess and design the game.   Answer Question
+
+Aug 9, 2011
+---------------
+Phone Interview#1: a) Design "People who this also bought this" feature for Amazon. b) Questions on Java Garbage Collection   Answer Question Phone Interview#2: a) Check two binary trees are same. b) Design Java ArrayList   Answer Question F2F: a) find the top k repeated string in the list of string b)Least common ancestor. c)Finding the max sum of 3 element subset in an array. 1 10 6 1 0 32 4 ==&gt;36 d)Design a In memory Voting System to handle concurrent users access e) (Bar raiser)Multiple logs of server containing (time,sessionId,userId,Page) user can navigate page from 1 server to other server. find the three page subset sequence repeated maximum number of times hint:- pushing all file data to DB we can solve this f) Check weather string is a palindrome given a string as Interator&lt;Character&gt;   Answer Question
+
+May 7, 2011
+---------------
+Given an array, put all repeated characters together.   4 Answers Find substring 'substr' in string 'str'   2 Answers
+
+Jul 12, 2011
+---------------
+How did I apply MVC model in my previous project.   Answer Question Compare inheritance and composition.   Answer Question Find intersection of two linked list.   2 Answers
+
+May 18, 2011
+---------------
+Design a recommandation algorithm   Answer Question
+
+May 27, 2015
+---------------
+Data structure to insert in a suggest tree.   Answer Question
+
+May 23, 2011
+---------------
+Standard OOPS concepts like diff between interface and abstract class.   3 Answers Difference between final, finally and finalize in Java   Answer Question Given a binary search tree and a target number, write code to get the closest number to target number in BST .   1 Answer
+
+Apr 5, 2011
+---------------
+is the binary tree a mirror reflection of another   Answer Question
+
+Apr 16, 2011
+---------------
+Design an algorithm to tell how many shapes in the given bitmap image. Shape is defined as all the adjacency true bits. For example, if the input looks like this, the answer is 4. 00001 11000 01101 10001   Answer Question Binary tree operations, and design small games like chess or tetris. Not very hard but they keep asking how to improve it.   Answer Question
+
+Apr 19, 2011
+---------------
+- How did you come to the idea of working for amazon? - Tell me about a project, where you were project leader - what was difficult, what did you learn, how did you master the situation? - What is an object? - Diff abstract class / interface - What's wrong with java? If you'd have the chance to change something in java, what would it be?   Answer Question Write a function with input a list of integers and output the starting index of the longest sequence of ascending numbers e.g. 12123 -&gt; 2 or 4567 -&gt; 0   2 Answers
+
+Apr 23, 2011
+---------------
+Given the list of elements all of them occurring even number of times except for one. Find that number   1 Answer Difference between arraylist and linkedlist in java   Answer Question 2nd interview: Polymorphism in OOP. A question related to NLP since it was my undergraduate project   Answer Question How are virtual functions implemented(continuation of Polymorphism) and write a code for fibonacci series. Compute the complexity   1 Answer
+
+Jun 18, 2011
+---------------
+what do you know about distributed systems   Answer Question
+
+Oct 12, 2015
+---------------
+asking to design some OOP module   Answer Question
+
+Mar 23, 2012
+---------------
+Describe an algorithm to find pythagorean triplets given an array of n integers.   1 Answer How would create and describe a card game like poker using an Object Oriented Framework?   Answer Question Assume you are given 2 words, an initial word and destination word, (valid based on the English dictionary) containing the same number of letters. You are allowed to only change 1 letter at a time. Describe a an algorithm to find the shortest path (shortest number of letter changes) to get from the initial word to the destination word.   1 Answer
+
+Mar 28, 2011
+---------------
+Implement a BST (involving all operations) and mail the code by the end of the day.   Answer Question Explain how hash tables work?   Answer Question
+
+Mar 15, 2011
+---------------
+Why do you want to work at Amazon?   Answer Question Have you heard about Amazon web services? What have you heard about them?   Answer Question
+
+Apr 7, 2011
+---------------
+Design and implement the Boggle word game   Answer Question Spiral print a 2D array   Answer Question
+
+Mar 3, 2011
+---------------
+1) Find largest subsquence in array   Answer Question 2) parse and compute a string in reverse polish notation   Answer Question 3) design checkers game   Answer Question 4) design some board game   Answer Question
+
+Mar 29, 2011
+---------------
+Print a matrix in spiral order   Answer Question Find a pythagoran triplet from an array   1 Answer Reverse a string. For ex: I like food will be food like I   1 Answer
+
+Mar 21, 2011
+---------------
+What is Hashtable? What is BST? How to avoid collision in hashing? Compare these two.   Answer Question
+
+Mar 26, 2011
+---------------
+What do you know about Binary Trees? Write a function that outputs the contents of a Binary Tree to a text file. Write a function that parses from a text file and creates a Binary Tree.   Answer Question Can you describe a fast flood-fill algorithm that you could use in an image-editing program?   Answer Question Determine the intersection point of two linked lists (the point in two linked lists where they both contain the same sub-list)   Answer Question Why do you want to work for Amazon?   Answer Question
+
+Jun 25, 2011
+---------------
+Reverse a string in-place.   4 Answers Design an elevator system (Object oriented design).   Answer Question Design a car parking system (Object oriented design).   Answer Question Given a list of structs which include two ids of parent node and the associated child node, construct a tree.   1 Answer Find the last 3rd element of the singly linked list.   1 Answer
+
+Feb 1, 2011
+---------------
+Given an array of integers, all but one of which appears an even number of times, find the one integer which appears an odd number of times.   3 Answers Write a program to reverse the words in a string in place. for eg; " I am sam " --&gt; " sam am I "   3 Answers
+
+Apr 24, 2011
+---------------
+Write a code for reverse of a string.   1 Answer Consider a directory consisting of hundreds of html files. Find and replace each US phone number occurrence by appending the US country code to it   1 Answer Write a code to determing whether a binary tree is symmetric or not (symmetricity is based on data i.e., folding the tree with respect to the root node, all the leaf nodes which overlap should have same data)   3 Answers Differences between Array and Linked List   Answer Question Difference between Heap and Stack   2 Answers
+
+Apr 6, 2011
+---------------
+How would you find duplicates in two unsorted integer arrays   Answer Question design a serialize/deserialize a binary tree into a string.   Answer Question
+
+Jan 22, 2011
+---------------
+Intersection of arrays   2 Answers Word count of a paragraph   2 Answers
+
+Jan 17, 2011
+---------------
+Design a chess game   1 Answer In an array, all numbers appear even times, while on number appears odd times. Find that number   2 Answers
+
+Jan 15, 2011
+---------------
+Describe how you would design the following...   1 Answer Several object oriented questions   Answer Question Write functions to do the following, find two numbers in a sequence that add to K. Length of longest repeating element in a sequence.   Answer Question
+
+Feb 8, 2011
+---------------
+Non concentric palindrome   Answer Question
+
+Dec 22, 2010
+---------------
+Design a door.   1 Answer Find the last element of a linked list.   7 Answers
+
+Jan 13, 2011
+---------------
+How do you like this city (by the HR)?   Answer Question
+
+Jan 12, 2011
+---------------
+Print all permutations of a given string.   4 Answers
+
+Nov 13, 2010
+---------------
+You have an integer array of length N, containing values in the range 1,2,3…N^2. Sort the array in O(N) time   2 Answers
+
+Mar 16, 2011
+---------------
+Find a longest Palindrome in a given string.   3 Answers
+
+Oct 28, 2010
+---------------
+Why do you want to work for Amazon?   Answer Question
+
+Oct 29, 2010
+---------------
+Why Amazon?   Answer Question
+
+Sep 7, 2010
+---------------
+Give two arrays. Return an array with product of all elements in the array divided by the element at index. Example A[3] = { 1, 2, 3 } return B[3] = { 6/1, 6/2, 6/3} In O(n)   1 Answer Gave an example and asked to choose array or link list for its implementation. Requires many read operations based on position of element. Minumum insertions.   Answer Question Find the longest subsequence in a given array of numbers in O(n)   4 Answers Difference between array and linklist   Answer Question
+
+Feb 13, 2012
+---------------
+provide an algorithm for shortest prefix matching string   1 Answer
+
+Oct 19, 2010
+---------------
+Given an infinite stream of numbers, find the top 50 integers. What's the data structure to use, and what's the time complexity.   4 Answers Convert an int to a string (character array) in C.   Answer Question
+
+Sep 13, 2010
+---------------
+Given an ordered circular array of integers, find an element. Meaning the array is ordered, but the lowest element is not at the first index. Example: array is [5,6,8,10,1,2,4]   1 Answer Design a system for counting how many times an item is clicked on. You need to record clicks and be able to report how many clicks for a given item. Be able to report which items are the most popular. Keep in mind scalability, since this is Amazon we're talking about.   5 Answers Design a system using only standard PCs for load balancing. No load-balancers allowed. Want speed, scalability, reliability, standardized configuration for all nodes.   1 Answer
+
+Sep 1, 2010
+---------------
+Given two lists, A and B, of sizes n and k, respectively, describe an algorithm to determine the intersection, C, of the two lists. What is the complexity of your algorithm? (The obvious solution is O(n*k)). Can you describe a solution that is faster? (An optimized solution can do it in O(n+k)).   4 Answers What algorithm would you use to search a sorted list? What is the complexity of the algorithm? Implement the algorithm in your language of choice.   2 Answers An integer is represented in binary as a sequence of 0's and 1's. Write a function that returns the number of 1's in the binary representation of a given integer.   2 Answers Suppose you have a system that keeps track of thousands of users' contact information, including email address. This information is stored in plain text, on disk in a hierarchical directory structure (on a Unix operating system) organized by year, month, and day it was entered in the system. Something bad happens and the system crashes. We want to get the email address of all these users to notify them. How would you parse these directories and files to generate a simple list of email addresses?   1 Answer
+
+Aug 9, 2010
+---------------
+OOPS Concepts? What is Encapsulation, Polymorphism without giving any Object Oriented Example.   Answer Question Regular Expression for finding US Zip Codes ?   2 Answers Find Common elements from two same sized Integer Arrays(Unsorted) in O(n) without sorting either of them.   3 Answers Design a Farm with Object Oriented Concepts ?   Answer Question
+
+Aug 24, 2010
+---------------
+Describe the MVC design pattern.   1 Answer Given an array of integers and another integer (x) - create an algorithm to determine if the sum of any two integers in the array would result in x.   1 Answer
+
+Aug 14, 2010
+---------------
+Design a game   1 Answer
+
+Aug 27, 2010
+---------------
+given a stack implementation...find min and max.   1 Answer
+
+Jul 15, 2010
+---------------
+Java keywords: final, finalize, finally   Answer Question Explain how Java does Garbage Colleciton.   1 Answer Explain how Mark&Sweep is implemented.   1 Answer Given array of integers, find the first pair add up to 10. Analize your solution.   3 Answers Given array of integers representing historic stock prices. Find the buying and selling points to maximize the profit. (original: You can hold the stock for only 30 days maximum.)   2 Answers
+
+Aug 2, 2010
+---------------
+Without using any high level language methods (such as indexOf()) write a function that takes two strings (A and B) and checks to see if B is in A, if it is return the index that B starts at.   1 Answer
+
+Jan 10, 2011
+---------------
+Design a client/server messaging protocol to facilitate a web-based spreadsheet program. What would the object model look like on the client side?   Answer Question
+
+Jun 10, 2010
+---------------
+Test for cycles in Directed Graph - Check if acyclic or cyclic   Answer Question Implement the game of boggle   Answer Question Implementation of heapsort   Answer Question Cyclic hashing and load balancing   Answer Question
+
+Jul 31, 2010
+---------------
+How would you implement a priority queue?   2 Answers
+
+Jun 29, 2010
+---------------
+1. Find common elements between two arrays of integers. 2. Find cycles in a graph. 3. Efficiently find duplicate elements in an array of numbers with bounded entries (for example, elements are between 0 and 99). 4. Reverse word sequence in a string inplace. 5. Efficiently find all Pythogorean triplets in a given array of integers. 6. Find all anagrams in a list of words. 7. Set operations.   2 Answers
+
+Jul 6, 2010
+---------------
+Given a set of coins of arbitrary denominations, write an algorithm to calculate all possible ways to generate change for a given amount.   Answer Question
+
+Jul 14, 2010
+---------------
+distributed hash table and uses   Answer Question
+
+Jun 5, 2010
+---------------
+Given an array of integer in which all numbers occur even times except for one number occurs odd times, find it.   7 Answers Given 2 strings write a function which returns boolean whether all characters in first string occur in second string.   Answer Question
+
+Feb 21, 2011
+---------------
+Optimize some Algorithm   1 Answer
+
+Oct 23, 2010
+---------------
+Hash Table description, Max heap   Answer Question
+
+Apr 22, 2010
+---------------
+How to compute nth Fibonacci number.   Answer Question
+
+May 10, 2010
+---------------
+What are design patterns and describe Publisher Subscriber pattern and Singleton Pattern   Answer Question Write a program that returns true if the root provided as input is of BST   1 Answer
+
+Sep 13, 2010
+---------------
+Describe the thread states in Java   2 Answers What is the name of the Java garbage collection algorithm   2 Answers
+
+Apr 13, 2010
+---------------
+Design the Boggle Game. (Given a 4x4 character matrix, output all possible words by moving through the matrix)   1 Answer Write a program for creating Huffman Coding for a set of characters given its frequency table.   2 Answers
+
+Apr 1, 2010
+---------------
+Given two (huge) sets, what is an efficient way to find their intersection?   4 Answers
+
+Apr 5, 2010
+---------------
+Implement a single linked list add and size methods using java ?   Answer Question
+
+Mar 27, 2010
+---------------
+Two dates are given to a function. The function should return if the dates are exactly one month apart, less than one month apart or more than one month apart.   Answer Question
+
+Apr 8, 2010
+---------------
+Write a program which picks the first 2 highest numbers in a sequence?   Answer Question
+
+Mar 19, 2010
+---------------
+How to identify network / traffic congestion and debug scenarios and tools   Answer Question
+
+Mar 14, 2010
+---------------
+Design a system to store an HTML page in memory such that each ID is guaranteed to apply to a single HTML element.   1 Answer Find the most common "3 page path" on a website given a large data log.   2 Answers
+
+Feb 27, 2010
+---------------
+Implement a function to validate whether a given binary tree is a BST (i.e. write an isBST() function).   9 Answers
+
+Jun 24, 2010
+---------------
+List all anagrams in a file. Assumptions: case-insensitive, a-z characters only, one word per line. For example, if the file contains dog, cat, ddd, goo, act, god -- output dog, god, act, cat   10 Answers
+
+Jan 21, 2010
+---------------
+Given a set of N servers, design a system to aggregate statistics (disk space available), and create reports (min, max, total, avg).   Answer Question Given a set of N numbers, assume that you have the set of numbers from 1 to N+1, with the exception of one number. How do you determine what number that is? What is the complexity of your solution?   5 Answers
+
+Feb 9, 2010
+---------------
+How would you optimally sort an unsorted random list of numbers by using multiple computers.   2 Answers
+
+Feb 28, 2010
+---------------
+explain what is hashing and how does hashing works   1 Answer all numbers appear twice in an array, except one special number that only apprears once. how to find it efficiently using only constant extra space   1 Answer
+
+Jan 14, 2010
+---------------
+How would you create which you wanted only one instance of   1 Answer How would you find the pairs of numbers that added to some specific number in an array.   7 Answers
+
+Dec 17, 2009
+---------------
+What are the first 2 integers that, when added together, equal 10 in a "very large" array of unsigned integers?   6 Answers
+
+Oct 15, 2009
+---------------
+Find the first common element in two sets   1 Answer design the objects needed to run a jukebox.   2 Answers Given a time-ordered log of user visits to web pages find the most common 3-page sequence   2 Answers Find the deepest common ancestor of two nodes in a tree structure.   13 Answers Layout the fundamental objects to build a restaurant reservation system.   2 Answers
+
+Oct 22, 2009
+---------------
+Write a function that takes two strings A & B as arguments. Return a boolean that indicates if A is a substring of B. Explain the various test cases you would run on the function.   1 Answer What access modifiers does Java support? Explain situations in which you would use each modifier.   Answer Question Determine the first non-repeated character in a word. For example, in abbcaf it should return c. Do this in O(n) time with O(1) space.   4 Answers
+
+Jun 22, 2011
+---------------
+Implement a string matching algorithm that matches a given string prefix to the longest matching string in a dictionary.   1 Answer
+
+Jul 21, 2009
+---------------
+given an array of records of size n, n is in the order of billions, each record stores the co-ordinates (x,y,z) find the m-closest records to the origin.   1 Answer
+
+Jul 16, 2009
+---------------
+the Coding question   Answer Question
+
+Jun 29, 2009
+---------------
+Also, given a large list of stars, with they're co-ordinates, give a smaller number of closest stars, to earth, with earth as origin, and the best and most optimum way to do this.   Answer Question
+
+Jan 28, 2010
+---------------
+You have web application, which runs on a server and your boss comes and up say it's very slow, what do you do?   Answer Question
+
+Sep 25, 2009
+---------------
+Reverse a linked list.   2 Answers
+
+Jun 8, 2009
+---------------
+Number of 1's in binary representation of integer?   12 Answers
+
+Jul 6, 2009
+---------------
+Design Game of Life   Answer Question Google Page Rank Algorithm   Answer Question
+
+May 25, 2009
+---------------
+There were 2 questions which was based on dynamic programming.   Answer Question
+
+Mar 17, 2009
+---------------
+I got questions like "Given a dictionary of words, how do you calculate the anagrams for a new word".   4 Answers Another question was "How do you represent an unlimited dimensional maze and traverse it to find the exit."   1 Answer
+
+Mar 26, 2009
+---------------
+Cut a ransom note from a magazine. Follow up is what if the magazine are two-sided   Answer Question Assume there are a set of stepstone in the river. The butterfly start with initial speed and can only fly for exact one unit of time before it lands on a step stone. Given the configuration of the step stone, determine if the butterfly can across the river.   Answer Question
+
+Jun 27, 2010
+---------------
+Sort the first 100 numbers from a incoming input stream of milions of numbers.   2 Answers
+
+Nov 2, 2009
+---------------
+How would you implement a top 3 word count in a text editor application?   7 Answers How would you design a chess game?   Answer Question
+
+Mar 20, 2009
+---------------
+Sorting a list of some random type   2 Answers
+
+Mar 20, 2009
+---------------
+1. Reverse linked link with recurssion without recurrsion. 2. Horizontal &amp;amp;amp;amp; vertical level order traversal. 3. Dynamic programming question. 4. Search a word in dictionary. 5. Printing all child nodes in tree. 6. Questions on Stack. &amp;amp;amp;amp;Queue. 7. Old work Project Specifications work.   Answer Question
+
+Sep 9, 2015
+---------------
+I was asked to write codes with the interviewer on skype.   1 Answer
+
+Oct 16, 2015
+---------------
+- What is a binary tree? - Write an algorithm to verify if a tree is a binary - What&#039;s the best datatructure to be used for a phonebook?   Answer Question
+
+Oct 4, 2015
+---------------
+Problems of design like: design a parking lot, a table game or a system for send alerts. Coding Problems like: traverse a tree, sort arrays, etc.   Answer Question
+
+Oct 7, 2015
+---------------
+If you were given some data to analyse but did not have enough time to analyse all of it and had to speak about the data, what would you do?   Answer Question Given an array of numbers and a target number. Write a program that prints all pairs of numbers that sum to the target number   Answer Question If I was type "amazon.com" into an address bar how does it bring up the website?   Answer Question Design a system using UML diagrams for warehouses and trucks that deliver products between these warehouses   Answer Question
+
+Aug 9, 2015
+---------------
+q1.was on dynamic programming q2.was on brute force .aptitude consited of c,os,dbms and quantative ap.   Answer Question
+
+Aug 20, 2015
+---------------
+To create a &amp;#034;robot&amp;#034; that would take a string sequence and carry out those commands.   1 Answer
+
+Aug 24, 2015
+---------------
+Given the a positive integer N 0&amp;lt;N&amp;lt;=1000 count the number of 1 digits in the representation of 11^N. Worst expected time complexity O(N^2) Worst expected space complexity O(N)   1 Answer
+
+Aug 4, 2015
+---------------
+1. Write a boggle solver 2. library management system design   Answer Question
+
+Sep 9, 2015
+---------------
+Mostly OS and Data Structures (Trees)   Answer Question
+
+Sep 14, 2015
+---------------
+One thing that they asked me was behaviour related (to see if I was aligned with their culture).   1 Answer
+
+Jul 22, 2015
+---------------
+technical interview question mostly were on the linked list, trees and some normal algorithms   Answer Question
+
+Jul 19, 2015
+---------------
+Describe the challeging work you have experienced   Answer Question Given row table matrix having 0's and 1's. Find which row has most number of 1 using 2 dimension array.   1 Answer
+
+Jul 29, 2015
+---------------
+The coding questions were some which are available in Geeksforgeeks from the DS and algorithms part.   1 Answer
+
+Jun 15, 2015
+---------------
+just questions from leetcode..   Answer Question
+
+Apr 26, 2015
+---------------
+I remember that one of the questions was how would i implement a parking lot usin OOP.   Answer Question
+
+Apr 8, 2015
+---------------
+two coding questions, 75 mins, Data Structures   1 Answer
+
+Mar 21, 2015
+---------------
+Check if all the leaves are at the same level in a binary tree   1 Answer
+
+Jun 29, 2015
+---------------
+Questions about the past experience. Few algorithms to solve. Few OOP concepts   1 Answer
+
+Apr 3, 2015
+---------------
+Given an array of integers of length n, containing values between 1 and n-1, find the duplicate entry.   Answer Question
+
+Feb 2, 2015
+---------------
+Using a 2D int array as a world map, neighbouring array elements with the same value are consider as the same nation, find the number of nations on any 2D int array.   Answer Question Given a 1D int array, find the largest distance between two elements with the same value. The code was originally written in O(n^2) complexity, optimise it to O(n).   1 Answer
+
+Sep 12, 2015
+---------------
+design the system using real-life situation.   Answer Question
+
+Sep 3, 2015
+---------------
+They asked 1 programming question for each phone interview. During the on-site, a system design, 3 programming questions were asked. System design and 2 questions were fairly easy but the bar-raiser was seriously hard, considering thet only left me 20 minutes to solve it. I got the solution but didn't have enough time to code it on white board.   Answer Question
+
+Feb 11, 2015
+---------------
+Hashtable, BST and complexity.   Answer Question
+
+Jan 18, 2015
+---------------
+how to work with customers as a SDE   Answer Question
+
+Jan 10, 2015
+---------------
+Write a program to find specific points in an 3D array.   Answer Question
+
+Jan 4, 2015
+---------------
+Write a code to traverse a tree without recursion.   Answer Question
+
+Jan 2, 2015
+---------------
+Two tests of the same mid-high complexity.   1 Answer
+
+Jan 28, 2015
+---------------
+Very common technical interview questions.   Answer Question
+
+Feb 4, 2015
+---------------
+Just a basic question from Cracking the Coding Interview   Answer Question
+
+Jul 27, 2015
+---------------
+Write a function to validate a binary search tree. Assume there are supporting classes and functions already. Try to prioritise speed - don't worry too much about memory. - What other test cases would you use? - How to do it without recursion?   Answer Question
+
+Dec 28, 2014
+---------------
+All of the technical questions were fairly standard interview questions.   Answer Question
+
+Dec 5, 2014
+---------------
+I would say most technical questions are not unexpected, I got many behavioral questions from management side, like 'Is there problem that you feel really hard and haven't try yet', 'what if you are required to solve it, how would you get started?'   Answer Question
+
+Nov 29, 2014
+---------------
+Moderate level programming   1 Answer
+
+Dec 12, 2014
+---------------
+Given a matrix of letters, write a program function to list all words that start with each of these letters.   1 Answer
+
+May 29, 2015
+---------------
+Serialization and deserialization of a tree to a string. If every node of tree represents a letter serialize tree to string in a way that you can deserialize the same string to a tree again.   Answer Question
+
+Feb 19, 2015
+---------------
+The first coding question was to determine whether a list of integers with size N, contains all the numbers from one to N.   2 Answers The second one was to find the "local minimums" in a list of integers. Which is when the sequence stops decreasing and starts increasing. Example: 5 3 5 2 1 4 7 3 1 2 - 3, 1, 1 are minimums.   Answer Question
+
+Nov 22, 2014
+---------------
+Different questions regarding the differences between hash maps and binary search trees.   Answer Question
+
+Nov 14, 2014
+---------------
+The first question was to find the first word on a stream that do not repeat in the rest of the stream. I got some Interfaces that I needed to implement, there was a example input and output.   2 Answers The second question was to design a backup system that count how many tapes would be required to store files in the most efficient way, knowing that: 1. Never place more than two files on the same tape. 2. Files cannot be split across multiple tapes. It's guaranteed that all tapes have the same size and that they will always be able to store the largest file.   Answer Question
+
+Sep 28, 2014
+---------------
+Among all the interviews, four of them have behavioral questions, like how to manage conflicts. Emphasis on these questions was unexpected.   Answer Question
+
+Nov 10, 2014
+---------------
+The interveiw was not really hard but i couldn't answer. The questions were about data structure programming. The interviewer was so kind and respectful.   Answer Question
+
+Mar 20, 2015
+---------------
+1st phone screen: Technical behavioural questions + 2 fairly mediocre coding questions 2nd. Phone screen Technical behavioural questions + 1 fairly substantial coding question On-site interview 1st interview: coding questions about arrays and reading a file into memory 2nd interview: white board diagram design. Distributed systems architecture 3rd: behavioural/Admin: wishy washy behavioural questions + talked about signing bonus, start date, and stock 4th. Coding questions: object orientated class design. 5th. Technical behavioural 6th: coding: hardest coding question of the day   Answer Question
+
+Nov 5, 2014
+---------------
+binary expression tree part is tricky for me   Answer Question
+
+Nov 25, 2014
+---------------
+The design you proposed me seems fine to me, it will probably work. Though, let's imagine that someone comes to you saying he dislikes it and ask you to change it. What do you do ?   1 Answer
+
+Oct 24, 2014
+---------------
+I would rather not give away specifics but I will say that all the questions I was asked were relatively straightforward and based on searching and sorting integer arrays and tree data structures. There were some follow-up questions on time/space complexity as well.   1 Answer
+
+Sep 30, 2014
+---------------
+2 linked lists share at least 1 common node. Find the first common node.   Answer Question
+
+Oct 13, 2014
+---------------
+Explain your understanding of lists and hash maps   Answer Question
+
+Sep 25, 2014
+---------------
+The questions weren't very difficult, but before you start is really convenient try the demo question of the web tool.   Answer Question
+
+Oct 27, 2014
+---------------
+What is a weak reference in Java?   Answer Question
+
+Oct 14, 2014
+---------------
+No very unexpected questions. The interviewer asked me the most difficult thing I had experienced in the past 5 years.   1 Answer I was asked to solve two programming questions using collabedit. One is to merge two sorted linked list and the other is to set matrix to zero. You can find both of the questions on leetcode.   1 Answer
+
+Apr 24, 2015
+---------------
+- Are you open to relocating and visa support for and your family to Seattle, WA (Amazon will cover the cost of relocation)? - Do you already have an existing U.S. Permanent Resident card (Green Card) or have you ever held a US work visa? If so, what type and how many years have been used? - If offered a position, would anyone else relocate with you? If so, what is your relationship with them? - Are you actively interviewing with other companies? - Do you have any offers pending? If so, are there any deadlines by which you need to respond to the offers that would affect the timeline of our interview process? - What city are you currently located in and will you need travel arrangements to interview? - Do you have a computer science or equivalent degree?   Answer Question
+
+Nov 5, 2014
+---------------
+Unable to comment on questions due to the agreement that questions are personal property of Amazon.   Answer Question
+
+Sep 30, 2014
+---------------
+ask a OOD question, a string problem to validate parenthesis and braces and insert into a circular linked list. algorithms, complexity, object oriented design.   Answer Question
+
+Sep 24, 2014
+---------------
+1. Implement a method that verifies if one string can be constructed by another. E.g: "aaabc" can be constructed by "aaabbbccd" 2. Given a linked list containing numbers (Node element), implement a method that returns two lists: one containing even numbers and one odd numbers - without allocating new list elements.   2 Answers
+
+Dec 7, 2014
+---------------
+Design questions were unexpectedly detailed. 1 binary search 1 string process 2 design questions additionally a bunch of data structure related improvements .   Answer Question
+
+Aug 27, 2014
+---------------
+You have an array of integer and a target number, give all the possible combinations that sum up to the target.   Answer Question
+
+Jul 22, 2015
+---------------
+Why would like to work for Amazon?   Answer Question
+
+Jul 30, 2014
+---------------
+1st coding techinical technical technical   1 Answer
+
+May 24, 2014
+---------------
+for the OOD questions, it is too brief to answer it, e.g. design a libaray managment system, just one sentence without any detail even you ask which functions should be consinder.   Answer Question
+
+Sep 17, 2014
+---------------
+Sort array of integers (positive, zero and negatives) so that the negatives are first, then the zeros, then the positive numbers while ensuring that the order of the individual groups stay the same. I.e. order groups but keep original order of internal elements of each group.   Answer Question
+
+Jun 12, 2014
+---------------
+Nothing unexpected   Answer Question
+
+Oct 23, 2015
+---------------
+Explain a sorting algorithm and its impact on cpu and memory.   Answer Question Difference between SOAP and REST web services.   Answer Question
+
+May 18, 2014
+---------------
+Problem faced with past project.   Answer Question
+
+Jun 20, 2014
+---------------
+It was simply unexpected, why do you use Java?   1 Answer
+
+Sep 19, 2015
+---------------
+What is difference between C++ and Java   Answer Question
+
+Jun 13, 2014
+---------------
+What makes you a good candidate for this position?   1 Answer
+
+Apr 3, 2014
+---------------
+Questions on Graph problems.   Answer Question
+
+Apr 14, 2014
+---------------
+Two coding questions, one binary search tree, and one depth first search. I was asked to think about alternative ways to solve the second questions.   Answer Question
+
+Apr 30, 2014
+---------------
+The analytical thinking questions were not easy.   Answer Question
+
+Feb 21, 2014
+---------------
+Design a class model for an invoicing system   Answer Question
+
+Aug 4, 2014
+---------------
+Not hard, questions in cracking the code interview.   1 Answer
+
+Jun 9, 2015
+---------------
+Flood fill algorithm   Answer Question
+
+Feb 19, 2014
+---------------
+1° phone interview: - Talking about background and previous experiences - Design Patterns - Big O notation concepts and examples - Agile metodologies 2° phone interview: - Find the element that appears an odd number of times in an array where all elements except one appear an even number of times. - Design a Data Structure for a phonebook - Find if there are two elements in an int array that sum up to a given x - Live coding of the solution to second problem through collabedit.com - Talk about given solutions complexity On site interview: 1° (Senior Product Manager) - Three "Tell me about a time you..." questions 2° (SDE) - Given a 0-5 random int generator create a 0-7 random int generator. - Get k highest price in a list of n &lt;item,price&gt; pairs (and talk about complexity) 3° (Senior SW Dev. Manager) - Two "Tell me about a time you..." questions - In-depth discussion about a schema I drew on a whiteboard 4° (SDE) - OO Design of an elevator system - Write code to handle the system requests queue 5° (SDE) - Solving a Puzzle that involves graphs search - Write BFS code on a whiteboard   Answer Question
+
+Feb 10, 2014
+---------------
+2 questions: * Code a binary tree from an input of the like: [2, 4], [1, 2], [4, 8], [5, 9], [1, 3], [2, 5], [3, 6], [3, 7] * Design (OO Language) a billing system   Answer Question
+
+Feb 3, 2014
+---------------
+a primitive class having two string attributes and one attribute list of the class itself and then we have to get the each level's string variables's printed....   3 Answers
+
+Dec 25, 2013
+---------------
+Nothing really difficult   Answer Question
+
+Jan 16, 2014
+---------------
+One question involve removing a node in a linked list with recursion - I was given a buggy piece of code and was asked to fix it. I was distracted when I mentioned this would not work on a long linked list so I couldn't answer it but the engineer let it go anyway since we were short on time   Answer Question
+
+Dec 2, 2013
+---------------
+3 coding question.1.tree,2.algorithm based on string,3.linked list.   1 Answer
+
+May 22, 2014
+---------------
+The simplicity of the question   Answer Question
+
+Jul 22, 2014
+---------------
+Confidence is your best friend.   Answer Question
+
+Dec 7, 2014
+---------------
+reversing words in a sentence in-place   Answer Question
+
+Dec 17, 2013
+---------------
+Lots of questions on specific front end technologies: JS, CSS, etc. Asked to code a simple JS function. No questions on fundamentals or algorithm.   Answer Question
+
+Sep 29, 2013
+---------------
+the first round for this position was Written test. Following are the questions - 1. Write a program to find next largest element in binary search tree. 2. Write a program to search element in circular sorted array 3. Write a program to reverse a linked list in a chunk of 3 . ex. consider the following linked list 1-2-6-75-33-10-5-3-2 , then the output should be 6-2-1-10-33-75-2-3-5. i was not shortlisted . so it might help others .   Answer Question
+
+Nov 3, 2013
+---------------
+The questions are not tough. Just because the phone interview is not the comfortable interview.   Answer Question
+
+Dec 21, 2013
+---------------
+The most difficult questions were from data structure implementation point of view. They required a strong understanding of the problem statement to decide the correct data structure to implement. They were very stern about the required efficiency of the solution. Getting a solution wasn't enough, we are expected to give the best solution we can possibly think of!   Answer Question
+
+Sep 23, 2013
+---------------
+There was only one technical question and it was to design a media player for a mobile device. I didn't expect it because of what I had read about Amazon interviews in websites.   Answer Question
+
+Aug 30, 2013
+---------------
+Solving algo problems   Answer Question
+
+Oct 19, 2013
+---------------
+Differences on memory handling between C++ and Java.   Answer Question
+
+Aug 21, 2013
+---------------
+Given a Binary Tree. Assuming each node denotes some x,y coordinate. root node denotes (0,0). Write a code to display coordinate of all nodes.   Answer Question
+
+Sep 5, 2013
+---------------
+Given a binary search tree, find the second smallest element to a given element.   1 Answer
+
+Oct 1, 2015
+---------------
+1. find the sum of nodes in the tree that are vertically aligned. implement a data structure to update, delete, add in O 1 time. 2. design and implement a datastructure to store cricket score cards, data structure to store files for real world scenario. 3.design and implement data structure to store t9 numbers. 4. binary tree traversal, bot problem with parallel computation,   1 Answer
+
+Mar 17, 2014
+---------------
+this question is a bit difficult because of the limited time I was given to code it. Given a binary tree with fields- {pointer to left child,poiter to right child,next pointer}. Initially the next pointers are all NULL. Now fill all the next pointers in each node with pointer to the node which is immediately right to the node in the same level. The next pointer of rightmost node in a level shold be NULL. It can be done using level order traversal using a queue but the interviewer asked me to do it without using queue or any extra memmory and in O(n) time. Hint: The logic is to fill the next pointers in the (n+1) th level while trvelling in the n th level. I was asked to code it   Answer Question
+
+Aug 9, 2013
+---------------
+clone a graph which has cycles   Answer Question
+
+Jul 1, 2013
+---------------
+How you will convince your manager to consider your new innovative idea ?   Answer Question
+
+Jun 11, 2013
+---------------
+Given a n (large number) lists of customers who visited n webpages on n (large number) days, design a data structure to get customers who have visited the website on exactly "k" days and should have visited at least "m" distinct pages altogether. Was then asked to improvise the solution as much as possible   Answer Question
+
+Jun 17, 2013
+---------------
+Writing documentation for 3 test questions took me a big way too long time.   Answer Question
+
+May 13, 2013
+---------------
+No difficult question. the interview walks you through the answer and helps along the way. Just be good at algorithms and some languages like C++ , java, etc.   Answer Question
+
+Jul 24, 2013
+---------------
+Something about merging sorted list.   Answer Question
+
+May 19, 2013
+---------------
+maximum cardinality bipartite matching   Answer Question
+
+Apr 17, 2013
+---------------
+Are you prepared to code for most of your work day?   Answer Question
+
+Apr 23, 2013
+---------------
+Given an InOrder traversal and a PreOrder traversal of a binary tree, rebuild the tree. I didn't actually know how to do it, but once they told me the trick it wasn't difficult to code the algorithm. Don't be afraid to say you don't know!   Answer Question
+
+Mar 13, 2013
+---------------
+A constellation is a group of connected stars. Given a set of stars in the sky. Assume that each star takes up a square region (think of it as pixel). Given a specific star, find the constellation it is part of.   Answer Question
+
+Mar 10, 2013
+---------------
+How to explain your grandmother what the internet is :).   Answer Question
+
+Mar 4, 2013
+---------------
+Write a program to compress text (being as syntactically correct as possible in a language of your choice) by encoding runs of repeated characters: e.g. aaaaaabbbcc becomes a6b3c2 Also the graph problem which I cannot remember exactly but you had a certain number of spaces and each space could jump a certain number of spaces to another space. Find the shortest number of jumps to reach the end.   Answer Question
+
+Apr 16, 2013
+---------------
+The questions in the first round were fairly straightforward if you use data structures like trees and linked lists for your work regularly. If you're working in areas where you don't use those data structures regularly, you may find the problems challenging. The question I was asked was "Given a sorted linked list, create a binary tree with the array with minimum height." Note that the question specified only binary tree and not binary search tree.   1 Answer
+
+May 8, 2013
+---------------
+I've been asked not to discuss this.   1 Answer
+
+Feb 9, 2013
+---------------
+solve boogle using a function   Answer Question
+
+Jan 14, 2013
+---------------
+can't talk the details, but OO design and alg.   Answer Question
+
+Feb 8, 2013
+---------------
+He asked the best way to store boolean values on memory. I said an array but he wanted more, so in the end I said BinaryVector class. He asked why a binary vector is a better option but I couldn't answer that. I told him that I don't know the internal implementation.   2 Answers
+
+Jan 3, 2013
+---------------
+How would you implement a garbage collector? How would this deal with multi-thread applications?   Answer Question
+
+Jan 6, 2013
+---------------
+Designing algorithm with the best possible time-complexity?   Answer Question
+
+Apr 4, 2013
+---------------
+Optimize each solution with respect to time and space   1 Answer
+
+Dec 24, 2012
+---------------
+Reverse Polish Notation   Answer Question
+
+Dec 12, 2012
+---------------
+1. Reverse words in a string I.e given "I love glass door" make it "door glass love I"   Answer Question
+
+Dec 11, 2012
+---------------
+Given a binary search tree, find the length of the path between two nodes.   1 Answer
+
+Dec 10, 2012
+---------------
+SVL Tree balance   Answer Question
+
+Dec 24, 2012
+---------------
+Find the missing card: I gave an O(n) space approach using hashtables, but he wanted a much better optimized solution, after some thinking thought of using only required bits or using the cards as an A.P., however these thoughts came after the interview.   Answer Question
+
+Dec 8, 2012
+---------------
+None.   1 Answer
+
+Dec 5, 2012
+---------------
+Ask about the process solving the binary tree.   Answer Question
+
+May 16, 2013
+---------------
+To design a model (data structures, what must be already computed..) for building a T9 dictionary.   Answer Question
+
+Mar 10, 2013
+---------------
+How will you find lowest common ancestor of 2 nodes in a tree??   Answer Question
+
+Jan 4, 2013
+---------------
+Asked me to design a Banking database and some queries regarding how to find monthly transaction details.   Answer Question
+
+Nov 26, 2012
+---------------
+The question is basic, make sure when you write code, you need to check NULL and edge case.   Answer Question
+
+Nov 18, 2012
+---------------
+design an element system   Answer Question
+
+Nov 13, 2012
+---------------
+Write code to reverse a C-Style String(C-String means that “abcd” is represented as five characters, including the null character )   Answer Question
+
+Nov 12, 2012
+---------------
+1. Write code? Inserting and deleting an iteam from a Binary Search Tree 2. What's the difference between List and ArrayList? 3. How to get the common elements from 2 given lists? 4. What's the difference between Abstrat class and Interface?   Answer Question
+
+Nov 19, 2012
+---------------
+How do you do divide without using / . Two integers are given, create a function. Then what is the input for testing the result   1 Answer
+
+Nov 2, 2012
+---------------
+Implement a stack with push , pop and minimum functions   Answer Question
+
+Jan 11, 2013
+---------------
+In a hash map how is it determined where in the map an object is positioned?   1 Answer
+
+Oct 31, 2012
+---------------
+To secure the code about decrease an amount of money from account a and increase the same amount of money on account b.   Answer Question
+
+Oct 31, 2012
+---------------
+Like I said the questions weren't difficult but the way I could answer them were something I wasn't use to   Answer Question
+
+Oct 30, 2012
+---------------
+Warn: this is not a real question Telling me the position has been filled after scheduling the interview   Answer Question
+
+Oct 18, 2012
+---------------
+Write the code about eliminating extra space in the string. e.g "hello world" to "hello world"   Answer Question
+
+Oct 16, 2012
+---------------
+Tricky algorithm problems and puzzles that you must solve on the spot, in front of the whiteboard and explain the solution.   1 Answer
+
+Oct 18, 2012
+---------------
+OO Design   Answer Question
+
+Oct 16, 2012
+---------------
+Nothing special, just some common question.   Answer Question
+
+Dec 15, 2012
+---------------
+1)Find LCA given 2 nodes in a binary tree 2)Merge two sorted linked lists 3) Print a substring of a given string given the source and destination indices 4) Check whether a given tree is BST or not. 5) regarding Hashing technique   Answer Question
+
+Oct 8, 2012
+---------------
+they asked a few technical programming questions and i think the hardest thing was thinking of various ways to raise an integer a to the power b.   Answer Question
+
+Oct 13, 2012
+---------------
+One of the interviewers is an expert in 3G technology. He posed me a question related to the inner workings of 3G technology. I am aware of how the internet works, TCP stacks, DNS, DHCP, and all that... I had no idea what kind of protocols are deloyed on 3G.   1 Answer
+
+Oct 3, 2012
+---------------
+Design/Write an algorithm to find the most-popular sequence of three pageTypes in a row.   Answer Question
+
+Oct 29, 2012
+---------------
+Question pretty basic and straightforward. Java : difference between "steve"=="steve" and "steve".equals("steve") Write code that finds common items in two unsorted lists. What's its complexity? How can you make it faster.   Answer Question
+
+Nov 13, 2012
+---------------
+-Read out code for merging 2 sorted arrays to get a single array as an output which should also be sorted -Read out pseudocode for checking if a search tree is a binary search tree or not.   Answer Question
+
+Oct 1, 2012
+---------------
+Optimizing Fibonacci for scale with caching considerations, large numbers   Answer Question
+
+Nov 10, 2012
+---------------
+In a collection of strings, output the string that occurs most often.   3 Answers
+
+Oct 16, 2012
+---------------
+OOP concepts, comparison between datastructures and array manupilation.   Answer Question
+
+Nov 29, 2012
+---------------
+The problem statement was basically a string manipulation problem where in an integer was to be converted to its roman equivalent.   Answer Question
+
+Sep 28, 2012
+---------------
+Given an array of numbers find all the pairs of numbers that add up to the total.   Answer Question
+
+Sep 21, 2012
+---------------
+Heaps. Design a website which would display the top 1000 amazon products   Answer Question
+
+Sep 21, 2012
+---------------
+Design O(1) LRU cache   Answer Question
+
+Sep 17, 2012
+---------------
+I did not know what is a red-black tree. And he asked me what collection uses r-b tree. And i just did not know. Didn't even guess.   2 Answers
+
+Sep 16, 2012
+---------------
+They need details of implementation at every step.   Answer Question
+
+Feb 17, 2013
+---------------
+Given a set of number ranges, i.e. [1,5], [3,6], [7,9], write a program to merge overlapping number ranges. In the above example, the result should be [1,6], [7,9].   2 Answers
+
+Sep 8, 2012
+---------------
+Algorithm efficiency optimization for almost every code that u write.   Answer Question
+
+Nov 23, 2012
+---------------
+I am not going to reveal the questions here. I had heard about the question that the first interviewer asked. It is an open-ended question. The interviewer qucikly became frustrated with the direction I was going and had to rein me in a little bit. I was frustrated about why then he asked such an open ended question. Anyway, his intentions were clear when he asked the follow-up which I found to be an interesting one. But unfortunately time was running out at that point and I quickly suggested some ways I would solve the problem. In hindsight, I realized this was an important question because Amazon had designed a product around it and uses it very heavily internally. The second interview was about the application of efficient data structures to solve a problem. I quickly arrived at the solution and coded it. There was more time left in the interview and we talked about problems arising in a distributed architecture setup. The third interviewer was nice and asked if I needed a restroom break. I gladly took his offer. This interview was also about the application of an efficient data structure. I initially proposed a multi-threaded solution to his problem. He asked a few follow-ups which I was able to answer. But he eventually asked me to give a single-threaded solution which required the realization of a need for an efficient data structure. I quickly realized that I needed a data structure to solve a problem, but he had to give me some hints to arrive at the right one which ironically was what I had proposed for the question asked by the second interviewer. The last interview was not very technical. The interviewer asked about what I did my current role, how I would handle stress, what to expect at Amazon etc., After the interview was over, he walked me out of the building and wished me good luck.   Answer Question
+
+Aug 29, 2012
+---------------
+Difficult: Finding a particular combination of numbers from an array with particular properties, without a floor or ceiling on how many different numbers could be involved.   Answer Question
+
+Aug 11, 2012
+---------------
+One of the interviewers (not the 'bar-raiser') asked a very open ended question about how to design a specific system in a way that could effectively and efficiently scale to meet Amazon's needs.   Answer Question
+
+Oct 4, 2012
+---------------
+most difficult question was on infinite array. They keep changing some information given in the beginning and ask us how would that change our solution.they keep asking u did u complete many times which means they expect u to code fast   Answer Question
+
+Nov 7, 2012
+---------------
+Find Mode and the frequency   Answer Question
+
+Apr 25, 2013
+---------------
+Given an array of numbers, nums, return an array of numbers products, where products[i] is the product of all nums[j], j != i. Input : [1, 2, 3, 4, 5] Output: [(2*3*4*5), (1*3*4*5), (1*2*4*5), (1*2*3*5), (1*2*3*4)] = [120, 60, 40, 30, 24] You must do this in O(N) without using division.   12 Answers
+
+Sep 24, 2012
+---------------
+The question on finding time-complexity of a recursive function was the hardest.   Answer Question
+
+Jul 28, 2012
+---------------
+Finding a path in a maze which is represented by a grid of characters.   2 Answers
+
+Aug 28, 2012
+---------------
+You are given a nxm matrix having unique integers, each column is sorted in ascending order. You have to select one integer from each column such that the difference between the minimum and maximum of the selected numbers becomes minimum.   1 Answer
+
+Sep 9, 2012
+---------------
+1) They asked me to make two programs both were easy one, but they want us to make it complete in every sense.i.e. under all input conditions.I was able to complete that successfully. 2)So next they scheduled the next round of telephonic interview and told me the date and time of the interview,but they didn't give any call.   Answer Question
+
+Sep 1, 2012
+---------------
+Find the longest subarray which consists of numbers that can be arranged in a continuous sequence. For ex- {4,5,1,5,7,6,8,4,1} output-{5,7,6,8,4}.Find the longest.   3 Answers
+
+Aug 6, 2012
+---------------
+You have a list of sentences/words. How to find out the sub list that consists of a specific prefix? Ex: input: prefix="he", list = ["hello", "world", "hello world", "hey dude", "galaxy"....] output: ["hello", "hello world", "hey dude"]   4 Answers Imagine a sequence like this: a, b, c...z, aa, ab, ac...zz, aaa, aab, aac.... aax, aaz, aba, abc... (Its same as excel column names). Given an integer (n), generate n-th string from the above sequence. Ps: Don't generate the full list of sequence till n. It'll be definitely bad approach :)   1 Answer Find the intersection of two array of integers.   1 Answer Design a system and API that should support 50 instances of custom designed Queue. Basically the question is about how you'll make use the given block of memory, to achieve the above requirement.   Answer Question How would you design a "recommended products for you" module of amazon.com. Design a zoo. Find whether the strings in a file are anagrams Write a program to check whether a binary tree is a binary search tree   Answer Question
+
+Jul 31, 2012
+---------------
+why amazon?   Answer Question ransom note problem   Answer Question
+
+Jun 29, 2012
+---------------
+Design a seating kiosk for a restaurant.   Answer Question
+
+Dec 11, 2012
+---------------
+Most questions were posted here on Glassdoor. Just go through and create a list of common questions. Study seriously for a month if you can.   Answer Question
+
+Jun 21, 2012
+---------------
+Implement LRU cache.   Answer Question Given a filled sudoku table, implement a function verifying if all filled numbers satisy all sudoku rules.   Answer Question
+
+May 30, 2012
+---------------
+How to merge 2 sorted array in to one sorted array   1 Answer How to find a tree is BST or not   1 Answer
+
+Jun 1, 2012
+---------------
+Find unique phone numbers in 50,000 files   1 Answer Make a class for cards with Shuffle and Deal methods.   Answer Question
+
+Jun 5, 2012
+---------------
+What is multiple inheritance.   Answer Question Write code to check palindrome. (15 Min)   Answer Question Relationship between Object and Class.   Answer Question What is dynamic array in Java.   Answer Question Write code for Priority Queue. (1 Hr)   Answer Question
+
+Jun 1, 2012
+---------------
+Find the maximum value in a stack, with constant complexity   3 Answers Find common entries between arrays   1 Answer
+
+Apr 22, 2012
+---------------
+check if bst is mirror   Answer Question
+
+Apr 18, 2012
+---------------
+Test if a tree is BST   1 Answer Design a parking system with lots of types of parking lot for different type of cars.   1 Answer
+
+Jul 1, 2012
+---------------
+Lowest common ancestor of two nodes in BST   1 Answer Given an inorder representation , how many BST's can be formed from it.   2 Answers
+
+Feb 8, 2014
+---------------
+not any. all questions were good algorithmic problems.   Answer Question
+
+May 13, 2012
+---------------
+How would you implement a trace route?   1 Answer How would you implement a cloud resource distribution system? Go into detail about how jobs would be distributed.   Answer Question
+
+Mar 31, 2012
+---------------
+Print first 'N' prime numbers   Answer Question Given 'n' integers, print the numbers given in a range   2 Answers
+
+Mar 29, 2012
+---------------
+Talk about BST   Answer Question Check whether two BSTs contain same Node value   Answer Question
+
+Mar 28, 2012
+---------------
+Detect a loop in the given directed graph.   1 Answer
+
+Apr 26, 2012
+---------------
+Describe semaphores, locks, hash tables.   Answer Question
+
+Jun 4, 2012
+---------------
+Breadth -first-traversal   1 Answer
+
+Jun 4, 2012
+---------------
+Design the backend system and data structure needed for an online ticket booking system for an intercity bus service.   Answer Question
+
+Aug 19, 2012
+---------------
+1.Implement merge sort 2. reverse a single linked list   Answer Question
+
+Feb 9, 2012
+---------------
+How would you find the common primes in two integers ?   2 Answers Merge two sorted linked lists with unique integers.   2 Answers
+
+Mar 9, 2012
+---------------
+Write equals for binary trees.   Answer Question
+
+Feb 27, 2012
+---------------
+They asked the question to find the depth of a tree   Answer Question Question about hash tables   Answer Question
+
+Mar 13, 2012
+---------------
+given list of integer duration, e.g. [1, 5], [3,11],[7,20] decide whether the all the duration will form a continuous duration.   1 Answer
+
+Mar 13, 2012
+---------------
+Re-implement the parseInteger method in java   Answer Question
+
+Feb 23, 2012
+---------------
+Design a system to play games from deck of cards.   Answer Question Coding of some string related question .. (Something like sorting , searching and merging)   Answer Question
+
+Feb 6, 2012
+---------------
+Why do you want to work at Amazon?   1 Answer
+
+Feb 16, 2012
+---------------
+Why amazon   Answer Question Describe a project that you found most interest   Answer Question
+
+Mar 22, 2012
+---------------
+What questions do you have for me?   Answer Question
+
+Feb 15, 2012
+---------------
+Can't tell since I signed the NDA agreement.   Answer Question
+
+Jan 13, 2012
+---------------
+Array vs LinkedList   Answer Question How do you insert node in linked list? they told me to just explain it. I didn't have to code for this question.   Answer Question Code the soduku game.   Answer Question
+
+Mar 14, 2012
+---------------
+how much would you charge for washing all windows in Seattle.   Answer Question
+
+Feb 29, 2012
+---------------
+Given a string "aaabbbcc", compress it, = "a3b3c2" . Given that output string's length is always smaller than input string, you have do it inplace. No extra space   15 Answers
+
+Mar 2, 2012
+---------------
+How well would your solution scale?   Answer Question
+
+Mar 14, 2012
+---------------
+given non-zero number array A, create array B where B[i] = product of all elements in A except A[i].   5 Answers
+
+Apr 25, 2012
+---------------
+At least one question involving a hash table. Amazon is famous for asking questions about hash tables. Either they ask about the hash table constructs in various programming languages (like Java and Perl, hash vs. map, etc..), or a coding problem where the hash table affords an O(N) or O(1) solution.   Answer Question
+
+Jan 27, 2012
+---------------
+starting from array,which asked to describe algorithm, then asked Big O and advanced data structure   Answer Question
+
+Dec 1, 2012
+---------------
+easy questions all   Answer Question
+
+Dec 20, 2011
+---------------
+How will you check to see if two integer arrays have any common elements?   4 Answers
+
+Dec 21, 2011
+---------------
+Describe data structure for Shuffle operation in a music player   2 Answers Longest path between any two nodes of a binary tree   1 Answer
+
+Dec 5, 2011
+---------------
+A anagram program   Answer Question
+
+Jan 4, 2012
+---------------
+- There are ID records of customers who visited yesterday and today. - Extract all customers who visited yesterday and today either. - Estimate time complexity of my algorithm. - Suggest best algorithm to fulfill above task.   Answer Question - Knowledge testing about hash table.   Answer Question
+
+Dec 11, 2011
+---------------
+Whats the complexity of a SQL select statement where 'Between' is Used?   1 Answer
+
+Dec 27, 2011
+---------------
+Find nth last number in a singly linked list.   6 Answers
+
+Dec 22, 2011
+---------------
+what is the use of interfaces?   Answer Question
+
+Jan 17, 2012
+---------------
+Describe Hash Map, Linked list, etc. Write a program to output int as string. BST.   Answer Question
+
+Feb 27, 2012
+---------------
+String to Integer without Libraries   Answer Question Network related (TCP/IP)   Answer Question
+
+Feb 8, 2012
+---------------
+Give me a sentence, and print the sentence reversely. ex. input "he is a boy", output"boy a is he"   1 Answer
+
+Mar 1, 2012
+---------------
+How to inverse a link list.   1 Answer
+
+Dec 23, 2011
+---------------
+Sorting. Data structure.   Answer Question
+
+Dec 20, 2011
+---------------
+What is JavaScript?   Answer Question What are the challenges facing cloud computing?   Answer Question
+
+Nov 2, 2011
+---------------
+find the closest pair of points in a 2 dimensional space.? write an algorithm.   2 Answers
+
+Nov 1, 2011
+---------------
+How do you approach the problem you were given   Answer Question
+
+Oct 31, 2011
+---------------
+Transpose of a matrix   Answer Question What are you currently working on   Answer Question
+
+Oct 11, 2011
+---------------
+How do you check whether a given binary tree is a binary search tree or not?   1 Answer
+
+Oct 9, 2011
+---------------
+Design an elevator system for a building   Answer Question
+
+Jun 9, 2012
+---------------
+Write code to convert a Binary Tree into a singly linked list by traversing level by level.   1 Answer
+
+Sep 24, 2011
+---------------
+count the number of times a word has occurred in a given string   4 Answers
+
+Oct 2, 2011
+---------------
+This was not unexpected but a bit difficult. How would you represent the ordering of a deck of card if you only have 32bytes to work with. So, he explained that you have 52 objects, there are 52! possible ordering of them. how to encode one of those ordering within 32 bytes?   9 Answers
+
+Sep 16, 2011
+---------------
+reconstruct a BST   Answer Question Debug a code on a paper   Answer Question
+
+Feb 20, 2012
+---------------
+Find the numbers that sum up to the same value   Answer Question
+
+Sep 23, 2011
+---------------
+The technical interview will include (but is not limited to) questions related to: Coding, CS fundamentals, Problem Solving, Data structures, Algorithms and Object Oriented Design and will last about an hour.   Answer Question
+
+Jun 21, 2012
+---------------
+Tell me of a time when you did something wrong/incorrect, or when something with the project went bad, and what did you do?   Answer Question
+
+May 5, 2012
+---------------
+How to check if there are any duplicate entries in a file?   1 Answer
+
+Oct 1, 2011
+---------------
+Implement atoi   3 Answers
+
+Jul 12, 2011
+---------------
+Write a function that takes a BinaryTree and validates if it is a valid BinarySearchTree. Assume the tree contains no duplicate values.   2 Answers
+
+Jul 18, 2011
+---------------
+how do you find ancestors on a doubly linked tree ?   Answer Question median of various values   Answer Question
+
+Dec 26, 2011
+---------------
+Tell me about yourself and your weakness.   Answer Question
+
+Jun 20, 2011
+---------------
+Check given binary tree is BST or not   2 Answers How to implement Nary Tree   Answer Question What do you Know about hashing   Answer Question Memory usage in Arrays and linked list   Answer Question What do you know about amazon, why amazon   1 Answer
+
+Oct 16, 2011
+---------------
+Develop a general algorithm to enumerate all postal codes, for package routing, when passed of country of interest (note: postal codes do not necessarily follow a consistent pattern or perhaps exist on the international stage).   Answer Question
+
+Jun 16, 2012
+---------------
+Describe red-black trees. Explain how to implement insert and delete functions on red-black trees.   Answer Question
+
+May 10, 2011
+---------------
+Given an array of integers and another integer X - create an algorithm to determine if the sum of any two integers in the array would result in x   2 Answers design a ADT to implement push(), pop() method as stack, and also has a getMinElement(). Require that getMinElement() is constant time but push()/pop() do not have to be constant time at first. Then for improvement, these three methods are all required to be constant time   6 Answers
+
+May 29, 2011
+---------------
+convert binary tree to double linked list   3 Answers
+
+Oct 5, 2012
+---------------
+Questions were pretty standard; usual graph/tree related stuff   Answer Question
+
+May 13, 2011
+---------------
+Design an algorithm to find out if an array has a pair of integers summing to10.   Answer Question
+
+Apr 25, 2011
+---------------
+How do HashTables work?   Answer Question Describe an Array. What are the benefits/drawbacks?   Answer Question How does a linked list work? What are the benefits/drawbacks?   Answer Question Write a method to find the sum of all nodes with no siblings in a binary tree.   1 Answer
+
+Mar 14, 2011
+---------------
+How do you check if a Binary Tree is a Binary Search Tree?   2 Answers Say you have a binary tree (data, left, right). Write a method to find the height of the tree!   1 Answer Given the hour and minute of a clock, find the smallest angle between the arms. What are some test cases that would be useful?   1 Answer Amazon has to display the availability of an item even when it's being viewed by millions of people. How would you design how this availability should be implemented so that it's as accurate as possible while being updated as quickly as possible?   3 Answers Analyze a method for Fibonacci numbers.   1 Answer
+
+Mar 16, 2011
+---------------
+You are given 1000 containers of water with exactly one container containing poison. You can use pigs to test which container contains poison. The conditions are that: A pig drinking the poisoned water woudl die exactly after 1 hour and that a pig could be used for sampling multiple containers. Assume that the pig takes 0 time to drink water from any number of containers. What is the minimum number of pigs would you use to identify the poisoned container within 1 hour.   4 Answers
+
+Mar 22, 2011
+---------------
+I have a file containing below matrix information: 3 3 2 0 0 0 0 0 3 0 0 First row represents order of Matrix. 2 -- Start Point 3 -- End point 0 -- a city to be visited 1 -- a city you have no access Find all possible ways to go from start to end city visiting all 0 nodes and avoiding all 1 nodes. In this case the possible solution is 2   Answer Question
+
+Oct 23, 2011
+---------------
+Reverse a linked list   1 Answer
+
+Apr 4, 2011
+---------------
+Find second largest number of the given integer array? What about finding Kth?   Answer Question Difference between C/C++/C#. How do you design a garbage collector in C++?   Answer Question A log file contains records of IP addresses that have logged on to the server in one hour. Given two log files for two different hours, how can you find the IP address that have logged on in both hours? What to do if memory is limited?   Answer Question Serialize/Deserialize a binary tree. (Write a binary tree to file and reconstruct it by reading from the file)   Answer Question Describe the data structures you know. How do you describe BST, hashtable, array to a non-technical person?   Answer Question
+
+Feb 8, 2011
+---------------
+Q1) Implement hash table   2 Answers Q2) Certain Customers buy kindle on day one and certain customers buy kindle on day two. Design an algorithm(optimum) to find customers who bought on both days. Each customer has a unique ID (Integer). (I forgot to consider case of duplicates,until she reminded), You need to write complete code(NOT just pseudo code within given time and read it out)   3 Answers Q3) Few questions on design patterns(Interpreter/ Observer/State) etc.   4 Answers
+
+Feb 27, 2011
+---------------
+Find intersection of two unsorted arrays?   2 Answers Several questions in java. conceptual stuff   Answer Question
+
+Mar 2, 2011
+---------------
+Reverse a linker list   Answer Question
+
+Jan 15, 2011
+---------------
+Having an infinite supply of water and two containers, one for 3 liters and one for 5 liters, how would you measure 4 liters?   7 Answers Write a function to search for a string within another string. Analyze it's complexity, and propose optimizations.   5 Answers Write a function to obtain a string with the binary representation of an integer   6 Answers
+
+Mar 18, 2013
+---------------
+Behavioural. Sometimes if enough time is given to think through past experience, this would mostly be cake walk, be sure to check the leadership principles before you walk in for an interview!   Answer Question
+
+Apr 27, 2012
+---------------
+Replace all spaces in a string by %20. Write production quality code in first attempt   2 Answers Lowest common ancestor in binary tree   Answer Question
+
+Aug 5, 2015
+---------------
+Very common technical interview questions.   Answer Question
+
+Dec 22, 2010
+---------------
+Give a recursive definition of Binary search   1 Answer Test if a Binary tree is BST or not   4 Answers Find intersection of two sets (i.e. elements which appear in both the sets)   1 Answer
+
+Dec 12, 2010
+---------------
+Given a series of N strings, find a set of repeating string of size 3 e.g. ababadefb   1 Answer Given N numbers of memory size 1 bit per number and another memory set of size M bits, find the M largest bits from given N numbers without using additional memory   1 Answer Staircase problem: Given a stair of size N and two ways to reach next step, take 1 step at a time or take 2 steps at a time. What is the total possible ways you can reach staircase of particular length?   3 Answers
+
+Jan 2, 2011
+---------------
+Basic C++ concepts such as virtual functions, pure virtual functions, override, overload, inlining.   Answer Question Design problem: Design a web-server system for click advertisement. Load balancing, database related questions.   Answer Question
+
+Jan 26, 2011
+---------------
+Finding statistically probable words in a sentence   1 Answer
+
+Apr 21, 2012
+---------------
+Prove that (n^2-1) is divisible by 24 for all n where n &gt; 3 and n is prime.   1 Answer A table consists of [name, favorite_programming_language_1, favorite_programming_language_2] fields. Write an SQL query to find all the people whose favorite language are either C or Java.   1 Answer Write code to count the number of bytes used for the int data type.   4 Answers Given two sorted arrays, find the median of the merged arrays without really merging them.   Answer Question Model exhibits in a zoo   Answer Question
+
+May 8, 2011
+---------------
+Dynamic programming example   Answer Question question on scalabilty   Answer Question
+
+Feb 9, 2011
+---------------
+Given an array of numbers find maximum subset sum? What is the complexity.   Answer Question
+
+Jun 19, 2011
+---------------
+How would you sort a 32 GB file with a number on each line.   2 Answers Write a function to determine whether a given number is a power of 2.   1 Answer How do hashmaps work?   Answer Question
+
+Nov 21, 2010
+---------------
+Porblem about design pattern   Answer Question find 2 numbers which summation is a give number   2 Answers
+
+Oct 7, 2010
+---------------
+String reversal in place   1 Answer An array consists of elements where each element appears an even number of times. Only 1 element appears odd number of times. Find that number   3 Answers
+
+Nov 8, 2010
+---------------
+Write a function to display the permutations of a string   2 Answers
+
+Oct 5, 2010
+---------------
+Write a code for determining the given integer is palindrome in binaries.   4 Answers Create the necessary classes when you are asked to model the card game.   1 Answer
+
+Nov 14, 2010
+---------------
+Design a DB schema for an HR dept in which one manager may have more than one manager .   Answer Question
+
+Mar 16, 2012
+---------------
+Amazon Video Services question   Answer Question
+
+Sep 12, 2010
+---------------
+Write code to find how many 1s are in an integer in its binary form.   2 Answers Write code to find the nth fibonacci number.   3 Answers Explain time complexity in implementing a Priority Queue.   Answer Question
+
+Sep 11, 2010
+---------------
+Maximum subarray problem: complexity and pseudo code   Answer Question Evaluation of a mathematical expression: how to model this using an OO language   Answer Question Given a single linked list, choose an element from from that list randomly and equal distributed   Answer Question
+
+Sep 9, 2010
+---------------
+What is the hash table, what is the usage, what is advantage, what is the implementation, how you code a hash function   Answer Question
+
+Sep 27, 2010
+---------------
+i) Given a value v, in a BST find the next value in order.   6 Answers ii) In a file or one million words find a pattern of words.   4 Answers
+
+Feb 10, 2011
+---------------
+1) Write a prime number service in language of your choice. how you scale it. 2) design an airline company in object-oriented way.   2 Answers
+
+Oct 31, 2010
+---------------
+How do u implement hash tables   Answer Question
+
+Aug 8, 2010
+---------------
+Write an algorithm to find if a King has been Check-mated.   Answer Question How would you implement a priority queue. Code.   Answer Question Find the largest palindrome in a string in a O(n)   Answer Question Link all the siblings in a binary tree in O(n) without using queues or stacks.   Answer Question Reverse a linked list in groups of 3, sort the linked list.   Answer Question
+
+Jul 19, 2010
+---------------
+Find all anagrams in a file. Improve the running time to O(n).   7 Answers Implement start with feature, which data structure would you use?   Answer Question
+
+Jan 28, 2012
+---------------
+I was asked to explain my masters thesis work in detail   1 Answer
+
+Jun 21, 2010
+---------------
+Write fibonacci number generator   Answer Question Write a program how to find the closes pair of stars in 1 billion stars   Answer Question
+
+Jun 14, 2010
+---------------
+Fiboancci of n   Answer Question find last nth node of link list recursively   Answer Question
+
+Jun 18, 2010
+---------------
+Given an immutable singly linked list of some object with pointer to next element, find the nth element from the end of the linked list.   1 Answer
+
+May 27, 2010
+---------------
+Design an aeroplane reservation system.   Answer Question
+
+May 19, 2010
+---------------
+If there are 'n' computers connected in a circular node, what is the minimum hop required to reach the diagonally opposite computer, and what is the max possible hops. Use any algorithm to hop through computers.   2 Answers
+
+Jun 24, 2010
+---------------
+A word to describe a good software and a word to describe a good supervisor.   Answer Question
+
+May 12, 2010
+---------------
+Write a program that balances an unbalanced binary tree.   Answer Question
+
+May 8, 2010
+---------------
+write a program to generate N fibonacci numbers.   Answer Question Regex for finding phone numbers.   Answer Question
+
+Jul 8, 2014
+---------------
+Reverse the linked-list and check for edge cases   Answer Question
+
+Apr 5, 2010
+---------------
+How to print a matrix whose size is n*n in spiral order?   Answer Question
+
+Mar 23, 2010
+---------------
+How to find the unique integer in an array, where all the other numbers appear twice.   4 Answers Find the most frequent 3-page sequence in a web log.   3 Answers
+
+Apr 4, 2010
+---------------
+Tell me some standard data structures & also their advantage over the other   1 Answer Do you know about the Fibonacci series? Write the recursive program for it. What is the complexity? Write the program for the iterative approach. What is the complexity?   Answer Question
+
+Apr 7, 2012
+---------------
+Design a parking lot   Answer Question Print a binary tree level by level   Answer Question Given an integer array which consists of numbers from 1 to N with 1 number missing find the missing number. What will you do if 2 numbers are missing?   4 Answers
+
+Feb 11, 2010
+---------------
+Can you implement a queue using 2 stacks where in you can add and remove an element from the queue at the same time?   Answer Question
+
+Feb 12, 2012
+---------------
+Programming technical questions.   Answer Question
+
+Jan 27, 2010
+---------------
+Search Algorithms   Answer Question Schema design   Answer Question
+
+Aug 8, 2010
+---------------
+revert a linked list   Answer Question describe past experience, focus on your contribution   Answer Question
+
+May 14, 2013
+---------------
+test, leave me alone.   Answer Question
+
+Jan 19, 2010
+---------------
+what languages are you proficient with   1 Answer what was your final project all about?   1 Answer
+
+Apr 3, 2010
+---------------
+How do you implement LRU cache?   2 Answers 4, 7, 15, 29, 59, 117, 235.... whats the next in the series?   2 Answers
+
+Dec 12, 2009
+---------------
+Why do you join this company?   Answer Question
+
+Dec 26, 2009
+---------------
+How is the Java garbage collector implemented?   1 Answer How would you implemented a priority queue that allows one to get minimum and maximum from the same data structure?   3 Answers
+
+Apr 15, 2011
+---------------
+design a bus stand   1 Answer least common ancestor   3 Answers
+
+Oct 13, 2013
+---------------
+given an array of lenght 2n+2 in which every number except for two numbers repeat twice each.. and we have to figure out what they are.   2 Answers
+
+Jul 24, 2013
+---------------
+Anything from Designing to cryptic algorithms   Answer Question
+
+Dec 26, 2012
+---------------
+Given 2 eggs and there are 100 steps. Need to find the step from which the egg starts breaking. What is the minumum tries?   2 Answers
+
+Dec 30, 2011
+---------------
+Deep probing on object oriented programming skills.   Answer Question
+
+Feb 1, 2010
+---------------
+Write a program to fina a loop in a linked list   1 Answer
+
+Jul 26, 2010
+---------------
+Find nth fibbonacci number in less than 0(n).   3 Answers Write production quality code to find whether a given binary tree is a BST or not. You can't make any global variable.   3 Answers
+
