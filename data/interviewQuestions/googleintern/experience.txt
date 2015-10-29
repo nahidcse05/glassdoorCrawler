@@ -1,0 +1,730 @@
+May 12, 2014
+---------------
+had two phone interviews. Both interviews consist of coding for given problems. Only coding..not asked my research or interest area even though I am a phd candidate who mainly research on specific topic.
+
+too much coding test   1 Answer
+
+May 21, 2014
+---------------
+Got interview opportunity by talking to university recruiter. Interviewed at HQ with a small team of guys. Asked a lot of CS questions. Took about 2 hours. Did not get offer.
+
+Write a method to return all permutations of a string.   2 Answers
+
+Mar 11, 2014
+---------------
+I applied from the google job website and got an email from recruiter 2 weeks later. Phone interview was scheduled for an internship position. There was 2 45 minutes technical phone interviews.
+
+After given clearly definition of UTF-8 format. ex: 1-byte: 0b0xxxxxxx 2- bytes:.... Asked to write a function to validate whether the input is valid UTF-8. Input will be string/byte array, output should be yes/no.   Answer Question
+
+Mar 10, 2014
+---------------
+I applied online and within about a week I was offered an interview. The interview consisted of a google hangout with two different google employees that each interviewed me for 45 minutes. The guys couldn't get there audio working so they both just called me instead.
+
+The dude basically asked me "what weird things have you found in using C?" Odd question...   2 Answers
+
+Mar 3, 2014
+---------------
+phone interview. apply on google website. take two week for process and schedule phone interview one three to four weeks later
+
+1. Describe what happens when user surf the internet 2. What's Java Object class. Name one of its method. What will be returned for equal() if two objects have same hashcode   3 Answers
+
+Feb 14, 2014
+---------------
+Got interview from recruiter, since I had participated in one of Google's summer programs. I was scheduled 2 interviews one after the other on the same day. My interviewers were very friendly and down-to-earth.
+
+Given an array of (unsorted) integers, arrange them such that a &lt; b &gt; c &lt; d &gt; e... etc.   4 Answers I noted Python as my language of choice and was thus asked a lot about it, including libraries I had not used before. So whatever language you pick, make sure you're an expert on it!   Answer Question
+
+Feb 6, 2014
+---------------
+The hardest part was getting offered the interviews. I applied through the website as well as emailed a contact from my university - about 3-4 weeks later, I heard back from a recruiter. I had two technical phone interviews (not too bad - I felt like luck had a factor) followed by a longer host-matching period. I just went with the first host that contacted me because I liked the position and didn't want to risk not getting an offer in the end.
+
+Under NDA - can't talk about these. Reviewing your algorithms book won't hurt, however.   Answer Question
+
+Mar 14, 2014
+---------------
+Submitted resume online and got connected by recruiter. Then scheduled two 45-mins technical phone interviews with Google engineers. It was not hard but I gave them wrong answer about time complexity. But the engineers are very nice and friendly. After that I got the email about making a third phone interview. I think that might because I did just on average in the first two rounds and they want to give me another chance. But later I got several other offer deadlines approaching and thus declined further interview process with Google. Google's host matching round takes quite a time. But great company though.
+
+Not so hard. They like to ask complexity analysis for each question.   1 Answer
+
+May 13, 2014
+---------------
+I ask a friend to refer me in Jan and get first phone interview in Feb. The interview question is quite simple, very common with leetcode problems. And they will ask you to analyze the complexity and improvements. I got one more interview in March, since they are hard to evaluate me. After I pass the interview in March, they said I am in a hosting match process. I was very excited, however, I found that at that time there is almost no positions in Google. The final result is that I got a reject letter no long before.
+
+Common interview problems like string processing. Remove repeated chars in a string.   2 Answers
+
+Feb 21, 2014
+---------------
+I applied for this job and in a month was contacted by a recruiter. He has set two technical interviews one after another and let me choose the date. Both interviews were tech screens (in Google Hangouts), took approximately 45 minutes and had identically the same structure - first 3-4 minutes interviewer introduces himself and lets you quickly introduce yourself, then he asks you one programming question, you need to code your solution in Google doc so that he sees your performance. After that you discuss possible bugs and time/space complexity (pay attention to it, that's really important).
+
+Some basic question - in the solution you just need to apply some rule to change the array order   1 Answer
+
+Jan 22, 2014
+---------------
+I interviewed with Google in late March last year for the Software Engineer Internship for 2013. It's a technical interview. They're not that interested in your resume, but they want to know what you can do and how you think, coding-wise. The questions aren't particularly tricky, but it's a phone interview, so it can be pretty difficult to convey your coding ideas over the phone. Meanwhile, they watch you as you type on a Google doc.
+
+Given a TV remote, write a script that would give directions to input some letters. Starting from the upper left-hand corner. If the buttons were in 3 columns, and you wanted to type "feed", you would want the output of the program to say "right, right, down, PRESS, left, PRESS, PRESS, left, PRESS"   6 Answers
+
+Jan 17, 2014
+---------------
+2 phone interviews, 1 host match interview. Phone interviews are quite standard. Basic graph traversal. And some problems you can find on LeetCode/CareerCup. Just need to remember the most commonly used data structures and big-O complexity for their operations.
+
+All basic questions, nothing complex.   Answer Question
+
+Dec 12, 2013
+---------------
+FIrst I had two technical interviews, which were back to back, by phone, 45 minutes each. I coded in a Google Doc that was shared with the interviewer. They asked standard factual questions about Java and OOP (which I had stated I was familiar with) and asked me to work through a programming problem in the language of my choice (I chose Perl, the interviewer wasn't familiar but was fine with that). I made some mistakes in my code, didn't check some boundary conditions, the interviewer asked e.g. "what about when x = y", I fixed it, it was fine. Then I had two interviews with potential hosts, they asked me what I wanted to get out of the internship, what experience I had with the technologies they used, and how I would approach various research and engineering problems.
+
+Google says you're not supposed to repeat specific questions. I don't remember anything anyway. Everything was pretty standard.   Answer Question
+
+Jan 3, 2014
+---------------
+two phone interviews, 45 mins each
+
+Fair regular expression parsing questions   1 Answer
+
+Nov 25, 2013
+---------------
+2 phone interviews, mostly technical, only a couple of minutes for your own questions at the end and perhaps a brief introduction of your previous experience at the beginning. If the interviews go well, then host matching begins. Different potential hosts interview candidates until they find a suitable match. The host matching is usually just a relaxed conversation.
+
+I can't remember the toughest question. Preparing with TopCoder, ACM ICPC or uva online judge should do. Try to keep the conversation going at all times. It's alright to take a pause for a couple of seconds and think, but it's important to always let the interviewer know how we are tackling the problem.   Answer Question
+
+Nov 12, 2013
+---------------
+The hiring process was pretty good. I was recruited, so I had a slightly different pathway, but the recruiter was always on top of things, and response time was quick.
+
+Low level systems questions, non-traditional questions.   Answer Question
+
+Oct 28, 2013
+---------------
+Contacted by Google within two weeks from resume submission. Two consecutive phone interviews in 2 hours, each of which lasts for 45 minutes and with one coding question. No behavioral question. The first interview asked extensively about data structures and some language/design questions. The second interview started coding question directly without asking anything else.
+
+Nothing needs knowledge of fancy algorithms, e.g. Knuth–Morris–Pratt algorithm. You just need some "street smartness" on practical problems to work out coding problems. Chapter 10 Scalability and Memory Limits in Cracking the Coding Interview will help.   Answer Question
+
+Nov 14, 2013
+---------------
+It was a tough interview. Most of the questions were from DS and Algos. And I had to design one problem. There were two interviews of 45 min each.
+
+Signed NDA :/   Answer Question
+
+Nov 14, 2013
+---------------
+2 Back-to-back phone interviews using Google Doc. The first one with a Software Engineer who had Indian accent was pretty good. Two coding questions related to string manipulation and tree structure. But no questions related to resume were asked. Then, the second one was with a Software Engineer who had Chinese accent. I spent quite a long time to understand what he meant many times during the interview. He asked me about many Low level systems questions and questions about the most challenging projects I had done. Then, there was an unorganized and unclear question about dictionary. However, in 10 minutes, it turned out to be implementing/overriding a function in java String class. It was kind of weird. And then, at last, when he told me that what questions I would like to ask him, I said "Could you tell me something about your team? And how long have you been working in Google?" Pretty normal questions, right? However, then, he was like "It seems like you are doing a survey!" WT...His replies really made me feel quite uncomfortable. It was not a pleasant experience as I had expected at the beginning. The position and expectation Google had in my heart were lowered to some extent.
+
+Signed NDA. Questions related to Data Structures and Algorithms.   Answer Question
+
+Nov 14, 2013
+---------------
+I applied online and was contacted by a Google recruiter ~2 weeks later. She set up two back-to-back 45 minute phone interviews for me. First interviewer was 15 minutes late and was very disinterested. He asked me to implement something that I'd say is very difficult and that I couldn't find online later. Regardless I think I did an alright job. Second interviewer asked me more standard interview questions. I got to the optimal solution for the first question and figured out a solution for the second question and the interviewer seemed to like me.
+
+This was one of the more standard questions. You have stairs with N number of steps. You can take either one step steps or two step steps; how many ways can you climb the stairs?   3 Answers
+
+Mar 27, 2014
+---------------
+I submitted my resume online on their website. A recruiter contacted me within 2 weeks. Interview times are very flexible. Gave me a whole month to pick dates from. I had two phone interviews (45 minutes each) back to back.
+
+This was my first technical interview, so I was very unprepared. I will say prepare well. The first interview was not really hard, and the interview help you a lot through the process. Think loud while you are coding (on Google Doc), interviewer will help you, and it allows him to analyze your problem solving skills. It consisted of some String related questions, their efficiencies and way to improve your code. The second interview was meant to be hard (as the interviewer himself mentioned. It was supposed to check your limit. I will not disclose the questions, as I respect their policy. But know you Data Structures well! Like really well. And also efficiency of algorithms.   Answer Question
+
+Oct 25, 2013
+---------------
+Had my resume in a database for a women's conference. Google reviewed it and contacted me for an interview at the conference. No phone screen, just two interviews on-site, back to back, each 45 minutes. Asked me questions that involved recursion.
+
+Nothing too complicated.   Answer Question
+
+Nov 23, 2013
+---------------
+2 Technical interviews, 1 host matching interview (more explaining the project than an interview) Everyone was very nice in the process and very quick to respond if I had any questions. Really no surprises in the process, brush up on key Cormen data structures chapters before hand.
+
+Signed an NDA to not disclose questions but TopCoder, GlassDoor, LeetCode, ProjectEuler and CareerCup will give you almost all of the types of questions you will see. The questions were not super complicated, but were able to probe if you have a basic algorithms / CS background quite well. Know your Big-Os of standard operations on datastructures, worst case/ best case/average case analysis.   Answer Question
+
+Apr 15, 2013
+---------------
+They were very prompt when it comes to recruiting. It took me about 3 weeks from the moment I applied to the point where I had all the interviews. My advice is to practice doing easy/medium problems of Div. 1 Interviewers were helpful in general. Pay close attention to data structures and algorithms. You need not know anything more than what is being in the standard courses of the university with a good CS program.
+
+Signed the NDA :( Basic stuff. If you do well on Topcoder algorithms - you should be fine.   Answer Question
+
+Mar 18, 2013
+---------------
+I was contacted by a recruiter that put me through two back to back interviews. The questions were interesting and definitely took time to answer. Once the interviews were over, I was put into a host matching period where I had to wait for someone at Google to want to take me as an intern.
+
+Not going to disclose the questions but data structures with a sweet twist :).   Answer Question
+
+Mar 20, 2013
+---------------
+2 phone interviews plus host matching interview
+
+brain storming within short time   Answer Question
+
+Mar 15, 2013
+---------------
+Had two phone interviews. Asked basic questions, algorithm, OOP, complexity, data structures, and some probability problems. The interviewers are nice. They do not expect you to answer all of their problems, but to see how far you can go with these problems.
+
+Probability problems   Answer Question
+
+Mar 18, 2013
+---------------
+Was contacted by HR almost immediately after applying. I filled out a candidate questionnaire and was scheduled to interview on-campus at my school. The questions were straightforward problems and overall not very difficult (analysis of algorithms, sorting, data structures). They asked me about my past experience, various projects I've worked on, what was the biggest challenge for me writing software. I had to sign a NDA related to interview questions.
+
+What was the most challenging project you worked on? Explain why.   Answer Question
+
+Mar 6, 2013
+---------------
+One round OCR followed by one round of phone interviews. Questions were actually pretty straightforward. In the end I spent 6 weeks in host selection before being told they couldn't find a project. I made the mistake of not recruiting during the host selection process, hedge your bets and keep other options on the table.
+
+Signed a NDA   Answer Question
+
+Feb 24, 2014
+---------------
+Was referred by a current employee. Had an initial phone interview with 2 current engineers. Was asked two somewhat difficult questions as soon as the interview started, without any introductions. I found one of the employees very difficult to hear; with a bad phone connection and a thick accent on his side, it was not an ideal situation. I found the recruiters I talked to very accommodating and responsive.
+
+I was asked a few testing questions, which was unexpected since I wasn't applying for a testing position.   Answer Question
+
+Mar 28, 2013
+---------------
+two 45-min interviews, First talk about resume and two basic coding questions: hashMap and Newton-raphson functions. Second, talk about two basic coding questions: hashMap and flatten iterator. I didn't work out the iterator question and finally get rejected.
+
+flatten iterator   2 Answers
+
+Feb 16, 2013
+---------------
+I applied online, and the HR contacted me that he needed my information, including time slots for interview. The interview was purely technical, with just introduction about myself in the beginning. It was divided in 2 calls. Each call was 45 minutes, separated by 15 minutes break and different person. We used Google Docs for the live coding.
+
+Given a string and a dictionary. Break the string into meaningful words.   4 Answers
+
+May 31, 2014
+---------------
+Went through campus recruiting. Three interviews in total. Two technical and One semi-technical for host matching. First two were on campus interviews and tested for algorithmic and critical thinking skills. Know your algorithms and data structures and you should be good. Friendly and helpful recruiters.
+
+The most unexpected question they asked me was Why Google? I said, Why not Google?   Answer Question
+
+Dec 1, 2013
+---------------
+Two rounds phone interview. Each round last 45 minutes. Round 1: Compare whether two trees are the same. Round 2: 1. Bag-of-words model. Write the process of search based on inverted index. The follow up is given some attributes(an array), how to filter the search result. 2. Given the radius, generate a random point inside a circle
+
+What is you biggest challenge in your life and how did you deal with it?   1 Answer
+
+Mar 11, 2013
+---------------
+Applied online and through career services. Got an on campus interview that consisted of two rounds of interviewers, for 45 minutes each. The first interviewer asked to find the length of the longest chain of consecutive integers in an unsorted set. The second interviewer asked to approximate pi, and to find a way to encode and decode a string.
+
+Find the length of the longest chain of consecutive integers in an unsorted set in linear time.   5 Answers
+
+Jan 25, 2013
+---------------
+Got in touch with with Google through a campus recruiting event, talked to the recruiter and she told me to turn it in online. A month or two later I was sent an email saying that I had gotten an interview! I was so excited. I had two phone interviews, that were supposed to be 45 minutes long each with a 15 minute break between them. The first interviewer called me 15 minutes late so that was a little annoying. We didn't chit-chat or anything and got straight to the problem, which was a board game problem (I won't go further because I don't want to breach my NDA). When my interviewer asked me the question, my mind went blank and I had no idea how to solve it right away so I just talked my way through it. Overall I felt I didn't do too well on this question and I took almost whatever time I had left in the interview to solve this problem. The second interviewer called about 1-2 minutes after the first interviewer hung up and he talked about what he did a little bit and then we got down to the problem solving. Again, I don't want to breach my NDA so I can't really say what my question was. I thought I solved this problem pretty well and it sounded like my interviewer was fine with my solution. We then talked about another problem and rather than having me code it, he just asked me to describe how I would solve it. After I did this, I asked him some questions about his history and what it was like to work at Google and then we ended the interview about 5 minutes early because we were more or less done. It took Google about 3 weeks to get back to me (it was a dreaded wait) however I knew after the first interview I wasn't going to get an offer. I felt that to get an internship you needed to blow both the interviews out of the park and I felt like I barely got by the first one and blew the second one out of the park, which wasn't going to be enough. Overall, I was really nervous because this was my first interview with a big name company and I feel like that really got to me in the first interview. Even though I didn't get an offer, it was really good practice because I ended up interviewing at Microsoft and I learned what not to do in the interview (like be nervous!). I was able to remain calm during my Microsoft interview and I ended up getting an offer there, which I don't think I would have been able to do unless I had this interview with Google.
+
+First interview: Board Game question Second interview: One coding question (honestly I can't remember it for the life of me), and one technical question where I was asked how I would solve it   Answer Question
+
+Jan 18, 2013
+---------------
+Overall a very smooth process. I submitted my resume and got schedule for two phone interviews the next day. Then within a week I got notified I entered the matching process. In the next two weeks following, I was matched up with several projects, and ultimately received an offer in the one I liked the most.
+
+Write a sudoku solver   Answer Question
+
+Jan 26, 2013
+---------------
+The process started when I applied for a Software Engineering Intern position online. The online application was relatively simple and included basic information such as name, address, education, work experience etc. It took approximately 2 weeks after submitting my online application before a recruiter contacted me to schedule 2 phone interviews. After several emails sent back and forth, both interviews were scheduled, one right after the other. Both interviewers were very nice and helpful during the interview. Each interview was between 40 and 50 minutes long. I had heard that sometimes the interviewers can be condescending and distant, but this was not the case in my interviews. Both interviewers were very sincere and talked me through the whole process.
+
+I am going to respect my non-disclosure agreement that I signed with Google. Just know your basic data structures, algorithms, and be prepared to think on your feet.   1 Answer
+
+Jan 4, 2013
+---------------
+Submitted my resume online and was contacted within a week by my recruiter. She set up two 45 minute interviews for 3 weeks later. The interviews were back to back. I can't give details about the questions because of the NDA, but the first dealt mainly with common data structures and algorithms - any computer science major should have been able to easily code the solutions. I got through about 6 questions with a few bugs along the way (mainly because of nerves) but the interviewer was very nice about pointing them out and giving me an opportunity to correct them. The second interview did not go nearly as well. I got stumped on the first question and ended up spending all 45 minutes on it; it shouldn't have been very hard, but it dealt with a concept I hadn't thought about for a while so I didn't know where to begin. The interviewer was not particularly friendly or helpful (he would correct my code as I wrote it which was a bit annoying and nerve-wracking) but overall wasn't mean. By the end of the 45 minutes I had a working (although not at all elegant) solution. Seeing as my second interview went so terribly I was shocked when I received an email the next day from my recruiter saying I made it to the host matching phase. I was in Google purgatory for 3 and a half long weeks before I heard back from a potential host in Boulder, CO. My recruiter set up an interview for the following week. The host interview hardly felt like an interview, it was very conversational and was mostly him telling me about the position. He ended the phone call basically telling me I had the job; about 5 minutes later I received a congratulatory email from my recruiter, and was given the official offer the next day.
+
+During the host interview: What is your favorite/least favorite thing about the java language?   Answer Question
+
+Feb 20, 2013
+---------------
+there were 2 rounds, 45 min each and two problems for each round. They were straight into their questions. If you get stuck somewhere, they will give you hint. They hope to help you go as far as you can.
+
+they gave me a piece of code, which uses function call and recursive structure and asked me to tell them what the code does. Also, they asked me to design a database that satisfies some functionality.   Answer Question
+
+Sep 24, 2013
+---------------
+Contacted by HR and had 2 technical phone interviews. The first interviewer had a strong accent which has been a really big problem during the whole interview. He was trying to give tips and I made him type in google doc where I had to code. Second interviewer was great, we talked a lot about the company and he was laughing to the jokes I made. Questions were simple, don't study too much just repeat the data structures and test cases to verify the correction of your code. Recruiters send an email telling you what to go over, it has bunch of stuff written you don't need to get frustrated, because they're way too complex and you will be never asked to implement them in 45 minutes.
+
+None of the questions were difficult, just basic data structure questions.   Answer Question
+
+Sep 6, 2013
+---------------
+They ask most straightforward questions. I don't encounter those complicated and tricky ones out there. Basically, they care a great deal about code quality. And I believe they also design the questions according to your background. So don't panic if there are things you don't know.
+
+I think it's ok.   Answer Question
+
+Dec 25, 2012
+---------------
+An employee at Google helped me submit my resume to their referral system. Two days later a recruiter contacted me and asked me to fill some standard forms about my location preference and skills. Then another recruiter asked me preferred dates for two telephone interviews. There were two 45 minute interviews and the interviewer were very well-prepared. Very standard data structure and algorithm coding problems. They helped me throughout the whole process. Make sure that you think aloud and tell them your thoughts and concerns. Do not hesitate to ask them if there's anything not clear. Although I made some mistakes and got the final correct answer/code after a lot of their hints, I was noticed one day after my interview that I had passed. Then was the host matching process. Someone(including me) may think that if apply early, we would get an offer for internship if we can pass the tech interviews because Google would match you to different hosts until summer. BUT this was not the case. Now they have a new policy. If the recruiter can't find a host that shows interest to the candidate within several weeks, the intern will be rejected. It seems a lot of candidates who pass the tech interviews can't get an offer because no match can be found. After a host showed interest to me, we had a non-technical phone talk, which was about half an hour. He first asked some experiences on my resume. Then introduced his project and asked if I was interested. We were both satisfied and two days later my recruiter told me she will prepare an offer. One more week later I got a phone call from the recruiter about the offer and two more days later I got the offer letter. It's an intern position at Mountain View. Satisfied and accepted immediately.
+
+No unexpected question   Answer Question
+
+Jul 19, 2012
+---------------
+Applied online and was contacted the next day. Interview scheduling was really prompt as well. There were 2 back-to-back technical interviews. The first interviewer asked a little about my resume and projects that I had worked on.
+
+Signed a non-disclosure agreement so can't give exact questions. Though they're pretty standard interview questions based on Data Structures, String manipulations etc. My best advice would be think about what you would like to ask the interviewer. I totally forgot to prepare questions and I felt like they were waiting for me to ask them something.   2 Answers
+
+Nov 11, 2013
+---------------
+two technical interviews and group match interview
+
+Prepare all the technical interview questions, nothing really unexpected.   Answer Question
+
+Mar 2, 2012
+---------------
+Long process, but interviewers were friendly. I can't compare, as this is my first internship, but it's a relatively smooth process throughout despite what some other folks have said.
+
+Signed an NDA so I'll respect that   1 Answer
+
+Mar 27, 2012
+---------------
+I was recommended by a Google employee. The procedure consisted of two back to back phone interviews. Questions were pretty standard. Nothing too fancy. But I was asked to to use Lists in Java with which I was not well versed. So, I ended up Googling during the interview : Not Good. The interviewers were not as friendly as I had heard, but also not harsh. A week after the interview, the recruiter told me over the phone that they were not going to go forward with the process : Bummer. But they did not disclose any reason as to why.
+
+Write a method that generates a random sequence of numbers of specific percentages.   Answer Question
+
+Nov 27, 2012
+---------------
+It was a google hangout interview where I coded in a googledoc in front of an engineer. It was suppose to be a phone interview, which instead became a google hangout call. The process was standard with behavior questions, then a coding question, then questions for the interviewer. The person was nice and very understanding. They asked me to calculate the run time of my algorithm.
+
+There were not too many unexpected questions. One was about how to parse a directory string.   Answer Question
+
+May 21, 2014
+---------------
+Applied online after going to a job fair. Was contacted for interview at career center. I was asked basic questions on Java and its various features. They didn't ask any huge curveball questions, they asked things that most people should know at my level. Generally, they only ask questions about the things listed in your resume.
+
+Redefine a function (signature given) to write data to a new replacement for an antiquated database (which you previously designed)   Answer Question Write a function to return the longest common prefix between two strings.   3 Answers
+
+Feb 15, 2012
+---------------
+The interviewers were really nice. Both set up online docs to code on so they could see me code. Questions tended to be pretty open ended, so you could go where you wanted with them, but it did require that you knew the subjects the asked you about really well.
+
+No Question
+Jul 5, 2012
+---------------
+I had two in-person interviews coding on a whiteboard. The interviewers were really friendly and offered lots of tips about what working at Google is like. Then, I waited to get a phone interview with my eventual manager. This last interview was really short and involved doing some coding online.
+
+Write an algorithm to insert a new value into a circular sorted linked list.   4 Answers
+
+Apr 15, 2013
+---------------
+Applied on line. Initially 2 phone interviews and then one more phone interview.
+
+Do you know how to write efficient hashCode in Java?   Answer Question
+
+Feb 3, 2014
+---------------
+Applied by emailing a HR person who is responsible for my school. Luckily got an on-campus interview (that replaced two phone interviews), then I was put into a pool of intern candidates. From this stage, it is stable matching between hosts and interns (that favors preference of hosts). It is possible that you get multiple interviews from hosts and choose one team you like. But it is also possible that you get no interviews.
+
+In one of the phone interview, I was asked to write a code on google doc that reverses a linked list. That was somewhat tricky.   1 Answer
+
+Feb 22, 2012
+---------------
+Hiring process was very fluid. I applied online and was contacted by a recruiter to set up a phone interview. First interview consisted of standard algorithms questions and a creative prices question. I passed the first round and was set up with a second phone interview. This one was less broad than the first but the difficulty was greater. Overall a good experience. Recruiters were friendly and prompt in following up after my interviews. Overall very happy with the process.
+
+textbook algorithms questions   2 Answers
+
+May 31, 2012
+---------------
+Long, recruiters took awhile to respond
+
+Why Google?   1 Answer
+
+Nov 8, 2011
+---------------
+Asked typical CS-style interview questions, eg. reverse a linked list, print all permutations of a set of numbers, graph traversal, etc. Involved writing code on a whiteboard, followed by time/space analysis of solutions, can this algorithm be improved, etc. Also was asked other technical questions (explain what inheritance is, how does virtual memory work, etc) and had to talk about some of the points on my resume.
+
+typical CS interview questions, as listed above   Answer Question
+
+Mar 13, 2013
+---------------
+I had two phone interviews and an interview with my to-be host. All three interviews were 45 min each and the two phone interview were basic computer science questions. The host interview were specifically about the project to test my skills.
+
+Write down different versions for computing the fibonacci sequence.   1 Answer
+
+Feb 26, 2011
+---------------
+I dropped my resume at university career fair, one week later I got the chance for the on-campus interviews, which consist of two 45 minutes back-to-back interviews. Unfortunately, on the day before the on-campus interview, they told me that one of the interviewers will leave earlier so that only one back-to-back interview is available and the other will be changed to phone interview. I did well for the on-campus interview but not so good for the phone interview. Anyway, the interview process is supposed to be happy but turned to be not so good.
+
+For a given maze, how to write a function to check if there's a way rom the top-left grid to bottom-right grid with obstacles in the middle.   1 Answer
+
+Jan 23, 2011
+---------------
+I discussed my interests and my short-term plan for the future with the recruiter. She was very easy to talk to and she seemed very interested in helping me get an internship at Google.
+
+What do you plan to do after college?   Answer Question
+
+Jan 15, 2013
+---------------
+on campus interview (2 sessions) + 1 phone interview. On campus interview has 2 15-20 min sessions talking to one engineer. The senior one asked me about linked list and queue. The second one asked me (1) something solved by devide-and-conquer (2) digit dial on the phone pad, how to enumurate all numbers. I did good in the second one and badly in the first one, and that's why they want a phone interview.
+
+enumurate all phone numbers by the digit dial on the phone keypad   Answer Question
+
+Oct 14, 2011
+---------------
+My recruiter was very friendly. She was a little slow to respond to emails, but it wasn't too bad. The technical interviews were fairly easy. After the technical interview, there were project interviews. These were just to determine whether or not I would be interested in a given project; it was for my benefit more than theirs. I ended up turning down their offer the first year to take an opportunity programming for public health in Cambodia, but they told me that I could go with them the following year without having to repeat the technical interview. The next year, my recruiter connected me with a project in Google.org that I accepted.
+
+"Please define these random Object Oriented Programming terms"   Answer Question Write this function (on a Google doc): /*How many ways can you make change given the following denominations? ie, if numCentsToMake is 6 and denominations is [25, 10, 5, 1], then it should return 2: either a nickel and a penny or 6 pennies.*/ int numWaysToMakeChange(int numCentsToMake, int[] denominations)   2 Answers how would you implement a web search engine?   1 Answer how would you find the shortest path between two nodes in a social network?   7 Answers you have a sorted array of real numbers drawn from the uniform distribution between 0 and 1. How can you quickly find a number in it? This was the last question. They had me implement it on my own and send it back to them.   1 Answer
+
+Aug 7, 2010
+---------------
+I applied for the position online. After they reviewed my application, I was ask about my availability for phone interviews. The interviews were done during the same day with very nice software engineers. I heard back in about 2-3 weeks about my offer. The recruiter kept the process very transparent and kept me updated along the way.
+
+Reverse the word order in a string.   2 Answers
+
+Jan 19, 2010
+---------------
+Interviewing with Google was not bad. They have a process of phone interviews, where you use Google Documents during the interview to write answers to programming questions. They ask a variety of computer science questions and are interested in seeing how you think. Overall, nothing too surprising. The corporate culture seems very good, and this is what attracted me to the company in the first place. They seem genuinely interested in finding people who are excited by the prospect of solving challenging problems. The best questions during the interviews were the ones where the interviewer presented a problem from his relevant Google project and asked for ideas on how to address it.
+
+Given this Google product, how would you address this technical challenge? What kinds of algorithms would you use?   Answer Question
+
+May 5, 2014
+---------------
+Applied online before Christmas, didn't expect to hear back at all, but in late January got an email and 2 45-minute technical interviews over the phone were scheduled. A couple of days before the first interview, I contacted the recruiter as I wasn't confident I have had enough time to prepare. My interview was pushed back a week, which was extremely nice of Google. In the first inverview, I was asked to code a very basic, well-known algorithm but the interviewer did not specify that in the question, it was more like 'how would you do this?'-type question. Then I was asked to walk through a sample input and explain how the algorithm would execute. Finally I was asked how I would adequately test the algorithm. Second question involved coming up with a solution to a problem involving 2 integer arrays. No coding was required, just an explaination of how I would go about it. Second interviewer had me explain some object-oriented concepts, even though I chose to answer in C. There were some ambigious questions about the Google search engine and the Google servers, which I'm pretty sure I did not answer correctly. Then I was asked to write an encryption function, and once I managed to complete it, the problem was made more difficult a couple of times and for each I had to rewrite the code to suit the problem. Overall, I thought the interviews were not as hard as I thought they would be, and both of the interviewers were quite nice and patient, explaining concepts I did not understand, or helping me find the right solution. At the end of each interview I had some time to just chat with them, and ask questions, which I thought was great.
+
+How does the Google search engine work?   2 Answers
+
+Apr 9, 2014
+---------------
+I applied online and the process took 4+ weeks - interviewed at Google in March 2014. The process had two stages, interviews, followed by project assignment. The process was comfortable. All questions are framed to your personality and your CV, focus was on programming languages and algorithms. That was the trend for both. I was unsuccessful at the interview stage, I waited for a month to hear back from them after I had finished my both technical interviews. In my case the interviewers never asked any personal questions and we moved straight to coding so I found it difficult to blend in. The first interviewer was a bit unenthusiastic and intimidating which also threw me off a bit but the second interviewer I had was really nice and helpful in describing what we had to do properly.
+
+How would you gather input from users (name, dob, address) and reprocate the same as output?   1 Answer
+
+Mar 31, 2014
+---------------
+Applied online through their job portal and got contacted by a recruiter about 3 weeks later and was scheduled two technical phone interview. The first round went well but the 2nd one with a different interview was much more difficult. He asked me something about databases and I said I haven't learned that yet(i think it's reasonable considering I am only a freshmen at college) then he changed to another question about bit manipulation, which is also unfamiliar to me.
+
+Count the number of bits set in an integer. What is your favorite language and what you don't like about that language.   3 Answers
+
+Feb 21, 2014
+---------------
+A recruiter contact me, and she schedule two phone interviews in weeks later. It tooks me more than a week for the interview response. First interview is scheduled on 10:45, and the second interview is scheduled on 11:45. The first interviewer is an American girl, she just asked me some easy algorithms questions. About 30 minutes we run out of those problems, then we just talk about some projects on my resume. The second interviewer is late for the interview. She was from HongKong, and brought some more open mind problems.
+
+There is a NDA, so I can say nothing about the question. I would strongly recommend to prepare well in recursion problems.   Answer Question
+
+Feb 5, 2014
+---------------
+The process had two stages, interviews, followed by project assignment. The process was comfortable. After a prelude of non-technical personality type questions they moved onto the technical bit, focus was on programming languages and algorithms. That was the trend for both. I was unsuccessful at the interview stage
+
+Find the average of values in an array accounting for integer overflow   1 Answer
+
+Feb 5, 2014
+---------------
+After submitting resume, got a phone call from SG.
+
+Questions about time complexity, sorting, worst case...   Answer Question
+
+Jan 26, 2014
+---------------
+Interviews were toughf and youn need to study al lot. No joking.
+
+Im not allowed to share the questions Ive been asked.   1 Answer
+
+Apr 13, 2014
+---------------
+the first interview is very simple and the question is straight. Then the second is much difficult but no coding.
+
+Can't give you the technical review questions. First non-technical phone-call, i'm asked about sorting algorithms and their complexity and OS-memory related stuff.   Answer Question
+
+Jan 20, 2014
+---------------
+They contacted me from school and we arranged a call, First non-technical interview, a few technical questions. Then they proceeded to the actual technical interview 2 months later.
+
+A task in which I was required to print all numbers between 1 and a million - with no repeating digits - Easy enough! Just can throw you off guard a bit   5 Answers
+
+Jan 5, 2014
+---------------
+I applied for a 12 month internship in the UK around October and got a reply in November saying that they would like to schedule 2 phone interviews (I got to select some dates that I were free). The recruiter was extremely friendly and even linked me to a lot of webpages with information about what kind of questions I can expect in the interview. A lot of which included CS theory such as OOP and data structures. I was scheduled 2 45-minute interviews. Unlike what I expected, I had to complete 2 programming tasks (one in each interview) with no questions about computer science theory. Under the stress of being in an interview, and due to the expectation of CS theory questions, my mind blanked despite having 2 tasks which I could complete with ease - of course I regret being such an idiot - So long as you focus logically on what you do the interview should be a fairly easy process, although the randomness of the code can throw you off guard. The first interviewer was a bit unenthusiastic and intimidating which also threw me off a bit but the second interviewer I had was really nice and helpful in describing what we had to do properly. Due to my idiocy I did not progress to the next stage.
+
+No, NDA. But almost all of them are in cracking the coding interview book (which you need to read before the interview) and the careercup website (if you have finished with cracking coding interview book, and studied well algorithms ,complexity and data structures and you still have time, you can do some trainning in carreer cup website: for all google interview and not only google internship interview)   Answer Question
+
+Dec 24, 2013
+---------------
+2 Phone interviews(only technical questions), you can use what ever language you like, but you probably need to prevent them before that. Then I got really quickly a mail telling me that I was accepted to the second step: host matching : I got 5 weeks to get a match: If I failed I would be rejected. I had three host matching interviews and I finally found a really cool project and host. Google recuiters are awesome.
+
+Given a binary search tree, return the most approximate number to the one passed as input.   2 Answers
+
+Nov 6, 2013
+---------------
+I applied online at their website. The HR person called me first to explain the next steps of the process: 2 technical phone-interviews and, if successful, another one with my future potential project manager. The first 2 phone interviews were scheduled (45 min + 45min, with 15 min interval between the two), but I guess they forgot me because only the second person called me. In this interview, I was asked to code. Only to code. He almost didn't give me any time to think on the solutions, as he was constantly saying "Implement! Implement! We are running out of time." I guess he was testing my response to stressful situations... The first interview (that was skipped) was rescheduled to another day. This one, that was supposed to be the first one, went much better. She asked about my background and goals, and also allowed some time for my questions. There was also some technical questions involved. I passed the two interviews, and another one was scheduled with the project manager. He asked me some more questions, related with the project in which he was working.
+
+Signed NDA but a few basic questions on data structures, a question on system design, and then two coding questions on an unexpected topic (hence why I didn't get an offer)   Answer Question
+
+Oct 20, 2013
+---------------
+Applied for the position through my university, got an email a week or two later asking to schedule two technical phone interviews, then had two back to back 45 minute phone interviews
+
+they asked me to code for such a question: the input was a string and I was supposed to output the longest sub string with only 2 distinct chars in the sub string.   2 Answers
+
+Nov 26, 2013
+---------------
+submit resume online, contacted by a recruiter the next day, they asked about my available time during the following month, but still scheduled an interview which conflicts with my calendar. the recruiter responses email really slowly, it even took more than a week to reply my "rescheduling" email. Anyway, I had the 2 45-min phone interview with two engineers.
+
+I was asked not to share the questions.   Answer Question
+
+Feb 26, 2014
+---------------
+I applied through an employee referral. The whole process went really fast. I had two 45 minutes phone interview. They were really helpful, sent me lots of references for practicing for the interview. Both interviewers were really nice. I was expecting more difficult questions but it was still difficult. It definitely requires lots of practice to do well on this interview. I waited two weeks for the answer. I didn't get an offer.
+
+Here is a problem P. How many ways can you solve P? What's the pros and cons of each implementation? E.g. what is the best way to represent a matrix?   2 Answers
+
+Sep 24, 2013
+---------------
+1. Applied online and received a request to do an interview with them about a week later. Emails to recruiters usually takes a day or so to get a response, but is often much faster (maybe half an hour when our timezone align). 2. Two phone interviews, 45 min each with engineers. There were no personality interviews during the preliminary interview. 3. Once you pass the preliminary interview, you are in the process for team matching. At the team matching interview, they still don't ask many behavioral questions. There's sometimes easy technical questions (e.g. how would you find the min element of a BST) to see your coding style. Treat this last interview as an opportunity to find out more about the team!
+
+I signed the NDA.   Answer Question
+
+Dec 25, 2013
+---------------
+Applied online, get the response the next day to arrange a telephone interview. The two technical interviews went smoothly with typical coding questions, algorithms. However the response took too long (3 weeks) despite the fact that they stated it only took maximum 2 weeks.
+
+No Question
+Apr 23, 2013
+---------------
+I applied online where I submitted my CV and was contacted after a day. I was working during that time, so my two phone interviews were scheduled on the same day and the recruiter was really helpful in making sure I can make the time. The phone interviews were 15 minutes apart and the first one had a lot of small questions that required no coding, but rather collaboration on how I might do things as well as questions about data structures. On one of the questions I did not entirely understand what I was asked and the interviewer explained what was expected. The second interview was a single coding exercise. I had to write a solution to a given problem and after I wrote it, I had to explain the complexity of my solution. After that I was asked to improve my algorithm so that it runs faster. The interviewer did not require the code to be compilable, but to show knowledge of the language and the solution. Off the top of my head I did not remember the exact way of doing I/O with files in Java, but that was not a problem. After the interviews I was contacted the following day and the recruiter informed me that I am continuing to the next stage where they search for a project for me. The project was found in a couple of days and I had a phone conversation with the team manager who asked me about my previous experience with some technologies and my availability for the needed dates. After that I was given my offer in another couple of days. Through all the experience the recruiter made sure I was informed of what is coming next and what I need to expect.
+
+The most difficult part was to improve my solution in the second interview, which was not hard by itself, but when put on the spot it is harder to think of another way to solve it.   Answer Question
+
+Feb 23, 2014
+---------------
+Two questions, one algorithm-oriented and one system-oriented.
+
+Various ways a same program would give different results on the same machine.   Answer Question
+
+Jul 23, 2013
+---------------
+Applied online. After resume screening, I was contacted for more details and preferences. Then scheduled two interviews. These two are the only interviews you need to give.
+
+Everything was easy, but had a Google perspective. They need algos which are just faster and clearer. Expect a lot of questions from Datastructures, Graph Algos and the projects and technologies you have done or used so far.   Answer Question
+
+May 17, 2014
+---------------
+Applied online and didn't hear from then for a few months. Received a phone call from HR with a lot of technical questions such as converting binary to numerical numbers. After the initial interview, you receive an email to prepare for the next interview of typing up code on Google docs.
+
+Unexpected to answer so many technical questions on the spot.   Answer Question
+
+Nov 27, 2012
+---------------
+Phone interview
+
+Given n stairs, how many number of ways can you climb if u use either 1 or 2 at a time   1 Answer
+
+Nov 23, 2012
+---------------
+I submit the resume online, after three weeks the HR arranges me two 45 mins interviews. The first asks about how to compute the product of an array except the entry at each position, and how to judge whether a string A is a variation of string B. The second interviewer asked my research interests and a brain teaser question.
+
+How to computer the longest increasing sequence in an array with only one extra variable   Answer Question
+
+Jan 17, 2013
+---------------
+The hiring process run smoothly, I've been through 2 technical interviews of 45 mins each. The recruiting staff was very helpful. Most of the questions were algorithmic.
+
+I was asked if I've participated in International Olympiad contests.   Answer Question
+
+Oct 27, 2012
+---------------
+My first contact with Google was attending an info session that they hosted at my university. At the end of the info session, then they had mini 3 minute interviews with anyone who was interested. During the mini interview, I gave the Google engineer I was talking to my resume, and he asked me questions about my experiences with software development up until that point. A little later, I was contacted by Google and told that they wanted to schedule a real interview with me for a summer internship. This interview consisted of two back to back 45 minute sessions, each which started out with a few broad questions then narrowed down to solving a specific interview problem. After that, Google contacted me a little while later again saying that I'd been offered an internship for that summer.
+
+I was asked to think about the drop down search box in a browser like Firefox or Chrome. The question was, given that the user types a few characters and we present them with suggestions, how do we decide what suggestions to give them, what order to present them in, and finally, how do we know if we did a good job? Once we had discussed this for a bit, I was then asked to actually come up with an algorithm for finding suggestions quickly, with out having to search through all the possible suggestions for each character the user typed.   Answer Question
+
+Oct 31, 2012
+---------------
+I applied both online and at a career fair and was contacted by a recruiter about one week later. My interviews were scheduled by a recruiting coordinator for the following week; I had two back-to-back phone interviews. I signed a NDA so I can't disclose specific questions, but the interviews were almost entirely technical in nature (my two interviewers skipped behavioral questions entirely). Most of the questions dealt with the primary data structures in Java and being able to manipulate or reuse them to achieve some goal (e.g. improve efficiency, modify what the data structure does).
+
+Technical questions. One question was about a topic I had not studied and could not fully reason through.   Answer Question
+
+Oct 10, 2012
+---------------
+Talked with the campus recruiter, and submitted my application online. Got a phone interview few weeks after and wrote code in shared document with an interviewer. Was supposed to have 2 phone interviews, but the other interview did not call. First interview was confusing and hard to listen because of the interviewer's accent.
+
+How would you implement the binary tree.   Answer Question
+
+Oct 15, 2013
+---------------
+First, a small group of staffers interviews the candidates. Then a second committee reviews all materials about the applicants, including those they submitted on their own behalf as well as interviewer feedback.
+
+But that’s not the only way analytics have shaped the process. Google used to conduct many interviews before settling on a job candidate and making an offer. But through analytics, the company has determined that after four interviews, they don’t achieve a much greater degree of confidence about whether the interviewee is a good fit for a position. As a result, they’ve capped the number of interviews that they’ll put a candidate through. Data also have led Google to conclude that speed is of the essence when it comes to hiring recent graduates.   Answer Question
+
+Nov 5, 2012
+---------------
+Applied online. Recruiter contacted me and scheduled 2 phone interviews (back-to-back). Both technical, 45 mins each. Involved coding on google docs. 4 questions. Related to arrays, BST, singly linked list, strings. I could come up with the algos for all 4 problems but did bad on writing the code on google doc. 1st guy was friendly. 2nd guy didnt talk at all, just asked me to write code and tell him once I am done.
+
+signed NDA. Cannot give the exact questions. All my questions were based on edge case of data structures.   Answer Question
+
+Sep 18, 2012
+---------------
+Process consisted of an initial talk with a recruiter to gather information about my interests, several phone interviews asking technical questions, and then several interviews with teams to find someone interested in me.
+
+Will honor my NDA   Answer Question
+
+Nov 21, 2012
+---------------
+Have two phone interviews, both went on well. Then the recruiter moves to host match process. The recruiter told me for their work delay about 2 - 3 weeks, then I have to wait for 2 - 3 weeks. My recruiter was changed after 4 - 5 weeks since the host match process, but the new recruiter informed me 2 weeks later that they did not find a strong match, so I was rejected. The whole process starts smoothly, but the host match process is unbelievable.
+
+I signed the NDA, so I respect it here for the interview questions.   Answer Question
+
+Aug 20, 2012
+---------------
+There were 2 phone interviews (45 minutes each). The first guy was nice and helpful. Asked about the CV. Asked a technical question about a problem they had. Wanted me to come up with possible solutions and type the code for them in any language I want using google doc. The second guy was very weird. He had a heavy accent and somehow sounded as if he had no idea about the things he asked!
+
+The questions were straight forward. You don't have to be a genius to come up with a reasonable answer. However, you have to know the algorithm book like you know your name. Not looking at it and not coding the algorithm at least once will be a total failure.   Answer Question
+
+Jul 12, 2012
+---------------
+I had two phone interviews with coding in google docs. All the questions for algorithms, data structures related and I had to code after I described the algorithm. After that I had host matching followed by the final offer letter
+
+Most difficult question was how would I design an algorithm to find the most frequently searched word in google search   3 Answers
+
+May 10, 2012
+---------------
+It was my first interview and I made a lot of mistakes but I liked the process a lot more than what happened in other companies. They contacted me about a week after I submitted an online application and met with me in person on my campus. They contacted me 2 weeks after the interview to tell me that I was not hired, which I appreciate since a lot of companies don't tell you anything.
+
+find the largest prefix common in a list of strings   Answer Question given list a and list b, output everything in list a that is not in list b   Answer Question
+
+Jun 10, 2012
+---------------
+It was no personal questions, just got right into algorithm questions. First 45 minute interview was harder than the second. I advise you to get general information about how computer networks work, being that google is a website they want all employees to know how they work.
+
+How does the internet know how to pull up the right website when a user enters it. --&gt; Why does Google show up when you type it every time.   Answer Question
+
+Apr 18, 2012
+---------------
+The interview consisted of two technical 45 minute phone calls, which is the same for every applying intern. The first interviewer was difficult to understand (talked softly, had an accent), but I did much better in this interview than the second. First he asked a general question about my computer science studies, then two big coding questions. I did not completely finish them but walked him through how I would finish them since I was pressed for time. The second interviewer was friendlier and easy to understand, but asked a very difficult coding question that took me the whole interview. He had to talk me through most of the problem and the code still wasn't completely done at the end. There is no specific way to prepare for these interviews, as anything relevant you learned in the past few years can be asked. I'd suggest reviewing any data structures or algorithms you have had a hard time with in the past. Also, come prepared with questions to ask the interviewer at the end.
+
+Write an algorithm to calculate the total number of paths possible from point (0, 0) to point (m, n) in an m by n grid. (You cannot retrace a line you already made when forming a path.)   6 Answers
+
+Dec 7, 2012
+---------------
+I learned of summer internship opportunities at Google through a panel at my school. After filling out the online application, which included nothing more than basic information like major, project interests, and unofficial transcripts, I was contacted by email by a recruiter to set up a series of two back-to-back phone interviews. These interviews were technical in nature. The first interview required me to design and describe algorithms but did not require any actual coding. There was also a more general design question about how I would go about adding a new feature to one of the company's products. The second interview required live coding in a shared document. After passing these technical interviews, I went into the host matching phase, where my information is placed into a database for the perusal of possible hosts. I was soon contacted by my recruiter, who told me that a host had selected me for a possible internship. My recruiter set up a phone interview with my host, who asked me a few technical questions, but he was satisfied with broad descriptions of general approaches rather than the more technical explanations required for my previous interviews. My recruiter then contacted me to inform me that I had passed the host matching interview and extended an offer for summer employment.
+
+A question required me to design an implementation of an LRU cache.   Answer Question
+
+Jan 5, 2012
+---------------
+I got the interview by a friend's referral who is working at Google. It was two back to back 45 minutes interviews. The difficulty of the questions from the two interviews are similar. The interviewers are nice and they try to guide you to reach the answer for their questions.
+
+Code an application that creates a new thread and exposes a "ping()" method. Whenever ping() is called, the thread prints "Google rocks" once.   Answer Question
+
+Jan 29, 2012
+---------------
+I was contacted by a recruiter for a phone screen after submitting my resume online. Like other posters have detailed, the phone screen consists of two back-to-back 45 minute interviews with Google employees. Interviewers were generally friendly. After passing the phone screen, the recruiter will send and email informing you that you will be matched with a group.
+
+Signed an NDA which I'll respect.   Answer Question
+
+Nov 14, 2011
+---------------
+Two back-to-back phone interviews writing code in Google doc. All simple coding questions, nothing else. Practice coding in google doc would be most helpful. Forget about the fancy algorithms... Second interviewer was awful. He kept asking for a better solution but wouldn't give any hint. He was clearly not interested in the interview. Many times I asked a question and he was all silent; I had to ask again to get him to mumble something. It was as if he was watching a movie and I was bothering him.
+
+Eliminate replicates in a string   1 Answer
+
+Jan 17, 2012
+---------------
+got an email for scheduling phone interviews. done with two phone interviews
+
+Implement 'memcpy()' in C   Answer Question
+
+Apr 29, 2014
+---------------
+Contacted by an recruiter through email and scheduled an onsite interview
+
+One question is regarding coding skills and one is regarding algorithm design. The later one is about graph and is difficult. Didn't figure out the solution myself. The interviewer is nice and offered lots of hints.   Answer Question
+
+Aug 13, 2011
+---------------
+I received an email requesting a phone interview with 2 people at separate times but back to back. The email also contains two links to two google docs. This is where you type in your answers so the interviewer can see them. The types of questions they ask you is about algorithm and problem solving in general, but they go deeper and deeper once you have a solution. They'd go with the "what if now..." questions. Luckily I scored a third interview, and this was just like the other past two, over the phone and on a google doc. But I didn't get an offer after this.
+
+Given an array of numbers, there is one number that has a duplicate. How would you find the number?   4 Answers
+
+Jan 19, 2012
+---------------
+Two back-to-back technical phone interviews Give a problem and asked to write code to solve it One is to count all winning "x o" games The other is about checking time conflicts of events.(interval overlaps)
+
+design an algorithm to check if there are overlaps between a group of intervals   3 Answers
+
+Apr 9, 2011
+---------------
+Two back to back 45 minutes phone interviews. The interviewers were not native speakers, and it was a bit hard to understand their questions. First interview consisted of general questions about complexity of different algorithms. Second interview asked to solve two problems and code them in language of choice First interviewer seemed happy with my answers. He even tried to help with hints. Second interviewer was a bit grumpy and seemed disinterested in the interview. I solved both questions but did not give right complexity for the first problem. Also my code must have looked a bit primitive since I used plain C to code. Did not get the offer but don't think the questions were out of reach. It was a reasonable experience. Advice: get a lot of sleep before interview. I haven't and by the second interview I was already drained
+
+Question related to Fibonacci series   Answer Question Question related to merging two arrays   Answer Question
+
+Jan 24, 2012
+---------------
+Initially fit screening that is basically a hello. Then a 2-part phone interview by two interviewers who were both very nice. However, just answering all the questions correctly does not mean you pass. Questions range from easy to medium-difficulty (started with graph theory, ended with Prims)
+
+if we had a list of n nodes, what are the maximum number of edges there can be for a directed acyclic graph?   4 Answers basically code prims algorithm   Answer Question
+
+Dec 19, 2012
+---------------
+Contacted after applying online to fill out background information before having 2 phone interviews back to back. Each interview lasted about an hour, and each included algorithm implementation questions or a brain teaser. Also asked about projects I was working on at university, why I wanted to work there, and what I hoped to learn from the internship. Process took about 2 weeks.
+
+cannot go into detail as per NDA, but expect to be questioned on algorithms and complexity   Answer Question
+
+Feb 9, 2011
+---------------
+I have been asked of sending my CV by an employee, and I sent it in July 2010. In September a recruiter contacted me back and we started the interview process. The process itself is long and sometimes I had to wait 2-3 weeks between each interview and its outcome. They assign you a recruiter and she follows all the phases of the process, quickly answering to your questions and keeping you updated. The interviewers are very competent and friendly, if you don't know something they tend to help you, because they need to know how you reason and what is your background. The people seem overall excellent. The process is a bit lengthy but not unbearable.
+
+Compute all the intersections of two sets of segments in a line.   2 Answers Suppose you have a set objects, identified by a unique name. How do you store them so that you can retrieve them easily?   1 Answer Given a set of cities, each with a given population, select randomly a city with a probability that is proportional to the population.   2 Answers How do you process a set of log files if you don't have enough memory to do it?   1 Answer What is the output of the Linux uptime command? What is the meaning of load average? How is the load average affected by SMP?   1 Answer
+
+Jan 16, 2011
+---------------
+Interview process consisted of three phone interviews, each with a different engineer. All the questions were engineering questions, ie no cultural fit or other types of questions like this. I had to choose 3 areas of interest, and submit a CV. Based on that, and your interview performance, Google decided whether you are a "good fit" for their intern program.
+
+Perform binary search on a sorted array, of which you don't know the size.   2 Answers Implement a fast exponentiation function   4 Answers You are climbing a stair case. Each time you can either make 1 step or 2 steps. The staircase has n steps. In how many distinct ways can you climb the staircase ?   8 Answers How would you go about testing a distributed system such as Gmail, before releasing it to the public. How would you simulate realistic server load ?   1 Answer
+
+Sep 21, 2010
+---------------
+I gave my resume to recruiter from Google I met at the Europython 2010 conference. Then he contacted me by mail to ask me what I like to do, and where I would like to work, and when I would be free for a phone interview. During the interview, I was asking to provide some gode on a google doc, and also reply on the fly to some technical question.
+
+Give the sizeof of the following struct : struct{ char a,b; int c; }   3 Answers Write a C procedure to reverse a string in-place.   4 Answers Someone can go up on stairs from one or two steps, how many different there is to go up on a stairs with n steps.   5 Answers What are the argument of the main function in C.   2 Answers How to delete the file "-f" with rm.   1 Answer
+
+Mar 14, 2012
+---------------
+I applied through my uni's career center , later they contacted me telling me that they would like to schedule a phone interview , some software engineer called me all the way from zurich and it was pretty easy at first it wasnt intimidating at all , questions about my goals and personality more or less . after that she contacted me a week later telling me that they scheduled a technical interview through google docs online , that was pretty INTENSE , questions were not easy at all and they would probably even weed out a good candidate if he is nervous enough . they offered me the job but i ended up declining it cause i had other plans.
+
+Write a function in which ever language you prefer that would give an automated solution for the game sudoko   Answer Question
+
+Mar 10, 2011
+---------------
+I had two phone interviews in the same day. first interviewer was nice, second had VERY heavy accent. couldn't understand half of the time what he was asking, but he was nice too. questions were pretty standard: data structures, algorithms, design patterns. I had to write code in google docs.
+
+what's BST?   Answer Question find if long string contains shorter one.   1 Answer determine if BST is indeed BST and what's complexity of it?   Answer Question design patterns. visitors pattern.   Answer Question how do you find out if there is a cycle in linked list.   3 Answers
+
+May 10, 2010
+---------------
+I had two technical interviews over phone. The first interviewer asked me to solve two graph related problems, and the second one asked me about finding the intersection of two lists of integers, leading on to the case where the lists are too big to fit into the memory. I think I gave correct solutions, but botched on asymptotic running time of one of the graph problems.
+
+There is a museum organized as NxN room. Some rooms are locked and inaccessible. Other rooms are open and some rooms have guards. Guards can only move north, south, east and west, only through open rooms and only within the museum. For each room, find the shortest distance to a guard. What is the time complexity of your algorithm?   3 Answers There is an NxM grid containing a robot at (1, 1) and a destination at (N, M). Robot can move only up or right. Some locations can have obstacles. Find the number of unique paths from (1, 1) to (N, M). What is the time complexity of your algorithm?   9 Answers You are given two sets of integers, sizes M and N with M &lt; N. Perform inner equal join on these two sets (i.e., find intersection of the two lists). How to perform it if both the lists are in files and the available memory is of size K &lt; M &lt; N.   1 Answer
+
+Mar 24, 2011
+---------------
+this is my first phone interview, the process is very technical. it is two 45min, with 15 min rest time in the middle, and I have been asked questions about writing a tree-related algorithm, describing basic operating system ideas. I can only remember this much.
+
+operating system related question   1 Answer
+
+May 9, 2010
+---------------
+I submitted my resume online, I got an email saying they would be interested in interviewing me. They scheduled two 45 minute interviews over a two hour period We were to use the phone and Writely (aka Google Docs) Oddly enough they referred to it as Writely. The interviewers were both engineers, they called me but Writely did not work so we spend 10 minutes during each interview trying to get it to work. They were both nice about it not working, no snide comments etc. We ended up using Google Talk, I would post my code and she her comments and/or questions. They asked about my research, then a few softballs followed by one or two questions. The second interviewer also explained the Google interviewing process, and what I should expect next. The questions were tricky, and I was not feeling confident afterwards. A few weeks later, I sent the recruiter an email asking for an update then she responded with another phone interview this time for a specific position, with a hiring manager (host). He called me, he described his project, which I had looked up when the recruiter told me the group. He also described the position, which I was a bit bleh about - he noticed that. We asked about my background then did a bit of role play - how would you do X, etc. I emailed the recruiter a synopsis of the interview as she had asked. A few weeks later, she said she was still trying to find me a good host at Google.
+
+Build Windows Minesweeper. Data structure, method to check state etc.   Answer Question Find a loop in a linked list. How long is the loop?   Answer Question
+
+Jan 31, 2010
+---------------
+I applied on the Google website, a few days later got an email saying they wanted to two technical phone interviews. After those, there was a month period where I had to be matched up with a host. Then just another interview with him, and I got the offer. They had come to my college, and I also handed my resume to a recruiter, not sure if that had anything to do with it at all.
+
+Write ArrayList in Java.   1 Answer How would you implement a stack with the additional operation of getMin?   8 Answers
+
+Feb 8, 2010
+---------------
+At first I received a phone interview to discuss what sort of areas of software development I was interested in, a little bit about my background, why I thought I would be a good fit for Google and also received a few questions regarding some common programming questions. This was then followed by a one on one phone interview with an Engineer from Google who asked me some general problem solving questions, such as how to implement a queue simply using two stacks and how to implement a highly efficient queue using two stacks and another question about calculating the max execution time of a program that had to fit into a certain size of memory on an embedded device.
+
+How to implement a queue simply using two stacks and how to implement a highly efficient queue using two stacks.   7 Answers Calculating the max execution time of a program that had to fit into a certain size of memory on an embedded device.   2 Answers
+
+Sep 25, 2010
+---------------
+Submit resume online. Several months later, I was phone interviewed by 2 software engineerer. First interview consists of the overview of my resume and project expericence. Then 2 technical questions are asked. No programming on google doc. Second interview consists of 1 programming problem on google doc.
+
+Find the integer pairs in an integer array, so that they sum up to a specific number n.   6 Answers
+
+Jan 19, 2010
+---------------
+Two phone interviews on the same day. Both were very technical. The first interview consisted of programming questions. The ultimate question was a bit manipulation problem, and I had to code it in Google docs, while the interviewer could read my code. The second interview consisted of design questions. I was to design a software library, something about a histogram. It involved defining classes, subclasses, and methods.
+
+Design a software library to implement a histogram.   1 Answer
+

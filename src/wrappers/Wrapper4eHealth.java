@@ -247,7 +247,7 @@ public class Wrapper4eHealth extends WrapperBase {
 
     public static void main(String[] args) {
         
-    	String company = "google";
+    	String company = "facebook";
     	
     	Wrapper4eHealth wrapper = new Wrapper4eHealth(company);
         int range = 0;
@@ -283,8 +283,18 @@ public class Wrapper4eHealth extends WrapperBase {
     		fileURL = "http://www.glassdoor.com/Interview/Google-Software-Engineer-Interview-Questions-EI_IE9079.0,6_KO7,24_IP";
         	range = 153;
     	}
-        
-        for(i=1;i<=range;i=i+1)
+    	else if(company.equalsIgnoreCase("googleintern"))
+    	{
+    		fileURL = "http://www.glassdoor.com/Interview/Google-Software-Engineer-Intern-Interview-Questions-EI_IE9079.0,6_KO7,http://www.glassdoor.com/Interview/Google-Software-Engineer-Intern-Interview-Questions-EI_IE9079.0,6_KO7,31_IP";
+        	range = 13;
+    	}
+    	else if(company.equalsIgnoreCase("facebook"))
+    	{
+    	
+    		fileURL = "http://www.glassdoor.com/Interview/Facebook-Software-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,26_IP";
+    		range = 59;
+    	}
+    	for(i=1;i<=range;i=i+1)
         {
         	String fileLink = fileURL+i+".htm";
         	String filename = "./data/glassdoor/"+company+"/"+i+".htm";

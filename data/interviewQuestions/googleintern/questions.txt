@@ -1,0 +1,480 @@
+May 12, 2014
+---------------
+too much coding test   1 Answer
+
+May 21, 2014
+---------------
+Write a method to return all permutations of a string.   2 Answers
+
+Mar 11, 2014
+---------------
+After given clearly definition of UTF-8 format. ex: 1-byte: 0b0xxxxxxx 2- bytes:.... Asked to write a function to validate whether the input is valid UTF-8. Input will be string/byte array, output should be yes/no.   Answer Question
+
+Mar 10, 2014
+---------------
+The dude basically asked me "what weird things have you found in using C?" Odd question...   2 Answers
+
+Mar 3, 2014
+---------------
+1. Describe what happens when user surf the internet 2. What's Java Object class. Name one of its method. What will be returned for equal() if two objects have same hashcode   3 Answers
+
+Feb 14, 2014
+---------------
+Given an array of (unsorted) integers, arrange them such that a &lt; b &gt; c &lt; d &gt; e... etc.   4 Answers I noted Python as my language of choice and was thus asked a lot about it, including libraries I had not used before. So whatever language you pick, make sure you're an expert on it!   Answer Question
+
+Feb 6, 2014
+---------------
+Under NDA - can't talk about these. Reviewing your algorithms book won't hurt, however.   Answer Question
+
+Mar 14, 2014
+---------------
+Not so hard. They like to ask complexity analysis for each question.   1 Answer
+
+May 13, 2014
+---------------
+Common interview problems like string processing. Remove repeated chars in a string.   2 Answers
+
+Feb 21, 2014
+---------------
+Some basic question - in the solution you just need to apply some rule to change the array order   1 Answer
+
+Jan 22, 2014
+---------------
+Given a TV remote, write a script that would give directions to input some letters. Starting from the upper left-hand corner. If the buttons were in 3 columns, and you wanted to type "feed", you would want the output of the program to say "right, right, down, PRESS, left, PRESS, PRESS, left, PRESS"   6 Answers
+
+Jan 17, 2014
+---------------
+All basic questions, nothing complex.   Answer Question
+
+Dec 12, 2013
+---------------
+Google says you're not supposed to repeat specific questions. I don't remember anything anyway. Everything was pretty standard.   Answer Question
+
+Jan 3, 2014
+---------------
+Fair regular expression parsing questions   1 Answer
+
+Nov 25, 2013
+---------------
+I can't remember the toughest question. Preparing with TopCoder, ACM ICPC or uva online judge should do. Try to keep the conversation going at all times. It's alright to take a pause for a couple of seconds and think, but it's important to always let the interviewer know how we are tackling the problem.   Answer Question
+
+Nov 12, 2013
+---------------
+Low level systems questions, non-traditional questions.   Answer Question
+
+Oct 28, 2013
+---------------
+Nothing needs knowledge of fancy algorithms, e.g. Knuth–Morris–Pratt algorithm. You just need some "street smartness" on practical problems to work out coding problems. Chapter 10 Scalability and Memory Limits in Cracking the Coding Interview will help.   Answer Question
+
+Nov 14, 2013
+---------------
+Signed NDA :/   Answer Question
+
+Nov 14, 2013
+---------------
+Signed NDA. Questions related to Data Structures and Algorithms.   Answer Question
+
+Nov 14, 2013
+---------------
+This was one of the more standard questions. You have stairs with N number of steps. You can take either one step steps or two step steps; how many ways can you climb the stairs?   3 Answers
+
+Mar 27, 2014
+---------------
+This was my first technical interview, so I was very unprepared. I will say prepare well. The first interview was not really hard, and the interview help you a lot through the process. Think loud while you are coding (on Google Doc), interviewer will help you, and it allows him to analyze your problem solving skills. It consisted of some String related questions, their efficiencies and way to improve your code. The second interview was meant to be hard (as the interviewer himself mentioned. It was supposed to check your limit. I will not disclose the questions, as I respect their policy. But know you Data Structures well! Like really well. And also efficiency of algorithms.   Answer Question
+
+Oct 25, 2013
+---------------
+Nothing too complicated.   Answer Question
+
+Nov 23, 2013
+---------------
+Signed an NDA to not disclose questions but TopCoder, GlassDoor, LeetCode, ProjectEuler and CareerCup will give you almost all of the types of questions you will see. The questions were not super complicated, but were able to probe if you have a basic algorithms / CS background quite well. Know your Big-Os of standard operations on datastructures, worst case/ best case/average case analysis.   Answer Question
+
+Apr 15, 2013
+---------------
+Signed the NDA :( Basic stuff. If you do well on Topcoder algorithms - you should be fine.   Answer Question
+
+Mar 18, 2013
+---------------
+Not going to disclose the questions but data structures with a sweet twist :).   Answer Question
+
+Mar 20, 2013
+---------------
+brain storming within short time   Answer Question
+
+Mar 15, 2013
+---------------
+Probability problems   Answer Question
+
+Mar 18, 2013
+---------------
+What was the most challenging project you worked on? Explain why.   Answer Question
+
+Mar 6, 2013
+---------------
+Signed a NDA   Answer Question
+
+Feb 24, 2014
+---------------
+I was asked a few testing questions, which was unexpected since I wasn't applying for a testing position.   Answer Question
+
+Mar 28, 2013
+---------------
+flatten iterator   2 Answers
+
+Feb 16, 2013
+---------------
+Given a string and a dictionary. Break the string into meaningful words.   4 Answers
+
+May 31, 2014
+---------------
+The most unexpected question they asked me was Why Google? I said, Why not Google?   Answer Question
+
+Dec 1, 2013
+---------------
+What is you biggest challenge in your life and how did you deal with it?   1 Answer
+
+Mar 11, 2013
+---------------
+Find the length of the longest chain of consecutive integers in an unsorted set in linear time.   5 Answers
+
+Jan 25, 2013
+---------------
+First interview: Board Game question Second interview: One coding question (honestly I can't remember it for the life of me), and one technical question where I was asked how I would solve it   Answer Question
+
+Jan 18, 2013
+---------------
+Write a sudoku solver   Answer Question
+
+Jan 26, 2013
+---------------
+I am going to respect my non-disclosure agreement that I signed with Google. Just know your basic data structures, algorithms, and be prepared to think on your feet.   1 Answer
+
+Jan 4, 2013
+---------------
+During the host interview: What is your favorite/least favorite thing about the java language?   Answer Question
+
+Feb 20, 2013
+---------------
+they gave me a piece of code, which uses function call and recursive structure and asked me to tell them what the code does. Also, they asked me to design a database that satisfies some functionality.   Answer Question
+
+Sep 24, 2013
+---------------
+None of the questions were difficult, just basic data structure questions.   Answer Question
+
+Sep 6, 2013
+---------------
+I think it's ok.   Answer Question
+
+Dec 25, 2012
+---------------
+No unexpected question   Answer Question
+
+Jul 19, 2012
+---------------
+Signed a non-disclosure agreement so can't give exact questions. Though they're pretty standard interview questions based on Data Structures, String manipulations etc. My best advice would be think about what you would like to ask the interviewer. I totally forgot to prepare questions and I felt like they were waiting for me to ask them something.   2 Answers
+
+Nov 11, 2013
+---------------
+Prepare all the technical interview questions, nothing really unexpected.   Answer Question
+
+Mar 2, 2012
+---------------
+Signed an NDA so I'll respect that   1 Answer
+
+Mar 27, 2012
+---------------
+Write a method that generates a random sequence of numbers of specific percentages.   Answer Question
+
+Nov 27, 2012
+---------------
+There were not too many unexpected questions. One was about how to parse a directory string.   Answer Question
+
+May 21, 2014
+---------------
+Redefine a function (signature given) to write data to a new replacement for an antiquated database (which you previously designed)   Answer Question Write a function to return the longest common prefix between two strings.   3 Answers
+
+Jul 5, 2012
+---------------
+Write an algorithm to insert a new value into a circular sorted linked list.   4 Answers
+
+Apr 15, 2013
+---------------
+Do you know how to write efficient hashCode in Java?   Answer Question
+
+Feb 3, 2014
+---------------
+In one of the phone interview, I was asked to write a code on google doc that reverses a linked list. That was somewhat tricky.   1 Answer
+
+Feb 22, 2012
+---------------
+textbook algorithms questions   2 Answers
+
+May 31, 2012
+---------------
+Why Google?   1 Answer
+
+Nov 8, 2011
+---------------
+typical CS interview questions, as listed above   Answer Question
+
+Mar 13, 2013
+---------------
+Write down different versions for computing the fibonacci sequence.   1 Answer
+
+Feb 26, 2011
+---------------
+For a given maze, how to write a function to check if there's a way rom the top-left grid to bottom-right grid with obstacles in the middle.   1 Answer
+
+Jan 23, 2011
+---------------
+What do you plan to do after college?   Answer Question
+
+Jan 15, 2013
+---------------
+enumurate all phone numbers by the digit dial on the phone keypad   Answer Question
+
+Oct 14, 2011
+---------------
+"Please define these random Object Oriented Programming terms"   Answer Question Write this function (on a Google doc): /*How many ways can you make change given the following denominations? ie, if numCentsToMake is 6 and denominations is [25, 10, 5, 1], then it should return 2: either a nickel and a penny or 6 pennies.*/ int numWaysToMakeChange(int numCentsToMake, int[] denominations)   2 Answers how would you implement a web search engine?   1 Answer how would you find the shortest path between two nodes in a social network?   7 Answers you have a sorted array of real numbers drawn from the uniform distribution between 0 and 1. How can you quickly find a number in it? This was the last question. They had me implement it on my own and send it back to them.   1 Answer
+
+Aug 7, 2010
+---------------
+Reverse the word order in a string.   2 Answers
+
+Jan 19, 2010
+---------------
+Given this Google product, how would you address this technical challenge? What kinds of algorithms would you use?   Answer Question
+
+May 5, 2014
+---------------
+How does the Google search engine work?   2 Answers
+
+Apr 9, 2014
+---------------
+How would you gather input from users (name, dob, address) and reprocate the same as output?   1 Answer
+
+Mar 31, 2014
+---------------
+Count the number of bits set in an integer. What is your favorite language and what you don't like about that language.   3 Answers
+
+Feb 21, 2014
+---------------
+There is a NDA, so I can say nothing about the question. I would strongly recommend to prepare well in recursion problems.   Answer Question
+
+Feb 5, 2014
+---------------
+Find the average of values in an array accounting for integer overflow   1 Answer
+
+Feb 5, 2014
+---------------
+Questions about time complexity, sorting, worst case...   Answer Question
+
+Jan 26, 2014
+---------------
+Im not allowed to share the questions Ive been asked.   1 Answer
+
+Apr 13, 2014
+---------------
+Can't give you the technical review questions. First non-technical phone-call, i'm asked about sorting algorithms and their complexity and OS-memory related stuff.   Answer Question
+
+Jan 20, 2014
+---------------
+A task in which I was required to print all numbers between 1 and a million - with no repeating digits - Easy enough! Just can throw you off guard a bit   5 Answers
+
+Jan 5, 2014
+---------------
+No, NDA. But almost all of them are in cracking the coding interview book (which you need to read before the interview) and the careercup website (if you have finished with cracking coding interview book, and studied well algorithms ,complexity and data structures and you still have time, you can do some trainning in carreer cup website: for all google interview and not only google internship interview)   Answer Question
+
+Dec 24, 2013
+---------------
+Given a binary search tree, return the most approximate number to the one passed as input.   2 Answers
+
+Nov 6, 2013
+---------------
+Signed NDA but a few basic questions on data structures, a question on system design, and then two coding questions on an unexpected topic (hence why I didn't get an offer)   Answer Question
+
+Oct 20, 2013
+---------------
+they asked me to code for such a question: the input was a string and I was supposed to output the longest sub string with only 2 distinct chars in the sub string.   2 Answers
+
+Nov 26, 2013
+---------------
+I was asked not to share the questions.   Answer Question
+
+Feb 26, 2014
+---------------
+Here is a problem P. How many ways can you solve P? What's the pros and cons of each implementation? E.g. what is the best way to represent a matrix?   2 Answers
+
+Sep 24, 2013
+---------------
+I signed the NDA.   Answer Question
+
+Apr 23, 2013
+---------------
+The most difficult part was to improve my solution in the second interview, which was not hard by itself, but when put on the spot it is harder to think of another way to solve it.   Answer Question
+
+Feb 23, 2014
+---------------
+Various ways a same program would give different results on the same machine.   Answer Question
+
+Jul 23, 2013
+---------------
+Everything was easy, but had a Google perspective. They need algos which are just faster and clearer. Expect a lot of questions from Datastructures, Graph Algos and the projects and technologies you have done or used so far.   Answer Question
+
+May 17, 2014
+---------------
+Unexpected to answer so many technical questions on the spot.   Answer Question
+
+Nov 27, 2012
+---------------
+Given n stairs, how many number of ways can you climb if u use either 1 or 2 at a time   1 Answer
+
+Nov 23, 2012
+---------------
+How to computer the longest increasing sequence in an array with only one extra variable   Answer Question
+
+Jan 17, 2013
+---------------
+I was asked if I've participated in International Olympiad contests.   Answer Question
+
+Oct 27, 2012
+---------------
+I was asked to think about the drop down search box in a browser like Firefox or Chrome. The question was, given that the user types a few characters and we present them with suggestions, how do we decide what suggestions to give them, what order to present them in, and finally, how do we know if we did a good job? Once we had discussed this for a bit, I was then asked to actually come up with an algorithm for finding suggestions quickly, with out having to search through all the possible suggestions for each character the user typed.   Answer Question
+
+Oct 31, 2012
+---------------
+Technical questions. One question was about a topic I had not studied and could not fully reason through.   Answer Question
+
+Oct 10, 2012
+---------------
+How would you implement the binary tree.   Answer Question
+
+Oct 15, 2013
+---------------
+But that’s not the only way analytics have shaped the process. Google used to conduct many interviews before settling on a job candidate and making an offer. But through analytics, the company has determined that after four interviews, they don’t achieve a much greater degree of confidence about whether the interviewee is a good fit for a position. As a result, they’ve capped the number of interviews that they’ll put a candidate through. Data also have led Google to conclude that speed is of the essence when it comes to hiring recent graduates.   Answer Question
+
+Nov 5, 2012
+---------------
+signed NDA. Cannot give the exact questions. All my questions were based on edge case of data structures.   Answer Question
+
+Sep 18, 2012
+---------------
+Will honor my NDA   Answer Question
+
+Nov 21, 2012
+---------------
+I signed the NDA, so I respect it here for the interview questions.   Answer Question
+
+Aug 20, 2012
+---------------
+The questions were straight forward. You don't have to be a genius to come up with a reasonable answer. However, you have to know the algorithm book like you know your name. Not looking at it and not coding the algorithm at least once will be a total failure.   Answer Question
+
+Jul 12, 2012
+---------------
+Most difficult question was how would I design an algorithm to find the most frequently searched word in google search   3 Answers
+
+May 10, 2012
+---------------
+find the largest prefix common in a list of strings   Answer Question given list a and list b, output everything in list a that is not in list b   Answer Question
+
+Jun 10, 2012
+---------------
+How does the internet know how to pull up the right website when a user enters it. --&gt; Why does Google show up when you type it every time.   Answer Question
+
+Apr 18, 2012
+---------------
+Write an algorithm to calculate the total number of paths possible from point (0, 0) to point (m, n) in an m by n grid. (You cannot retrace a line you already made when forming a path.)   6 Answers
+
+Dec 7, 2012
+---------------
+A question required me to design an implementation of an LRU cache.   Answer Question
+
+Jan 5, 2012
+---------------
+Code an application that creates a new thread and exposes a "ping()" method. Whenever ping() is called, the thread prints "Google rocks" once.   Answer Question
+
+Jan 29, 2012
+---------------
+Signed an NDA which I'll respect.   Answer Question
+
+Nov 14, 2011
+---------------
+Eliminate replicates in a string   1 Answer
+
+Jan 17, 2012
+---------------
+Implement 'memcpy()' in C   Answer Question
+
+Apr 29, 2014
+---------------
+One question is regarding coding skills and one is regarding algorithm design. The later one is about graph and is difficult. Didn't figure out the solution myself. The interviewer is nice and offered lots of hints.   Answer Question
+
+Aug 13, 2011
+---------------
+Given an array of numbers, there is one number that has a duplicate. How would you find the number?   4 Answers
+
+Jan 19, 2012
+---------------
+design an algorithm to check if there are overlaps between a group of intervals   3 Answers
+
+Apr 9, 2011
+---------------
+Question related to Fibonacci series   Answer Question Question related to merging two arrays   Answer Question
+
+Jan 24, 2012
+---------------
+if we had a list of n nodes, what are the maximum number of edges there can be for a directed acyclic graph?   4 Answers basically code prims algorithm   Answer Question
+
+Dec 19, 2012
+---------------
+cannot go into detail as per NDA, but expect to be questioned on algorithms and complexity   Answer Question
+
+Feb 9, 2011
+---------------
+Compute all the intersections of two sets of segments in a line.   2 Answers Suppose you have a set objects, identified by a unique name. How do you store them so that you can retrieve them easily?   1 Answer Given a set of cities, each with a given population, select randomly a city with a probability that is proportional to the population.   2 Answers How do you process a set of log files if you don't have enough memory to do it?   1 Answer What is the output of the Linux uptime command? What is the meaning of load average? How is the load average affected by SMP?   1 Answer
+
+Jan 16, 2011
+---------------
+Perform binary search on a sorted array, of which you don't know the size.   2 Answers Implement a fast exponentiation function   4 Answers You are climbing a stair case. Each time you can either make 1 step or 2 steps. The staircase has n steps. In how many distinct ways can you climb the staircase ?   8 Answers How would you go about testing a distributed system such as Gmail, before releasing it to the public. How would you simulate realistic server load ?   1 Answer
+
+Sep 21, 2010
+---------------
+Give the sizeof of the following struct : struct{ char a,b; int c; }   3 Answers Write a C procedure to reverse a string in-place.   4 Answers Someone can go up on stairs from one or two steps, how many different there is to go up on a stairs with n steps.   5 Answers What are the argument of the main function in C.   2 Answers How to delete the file "-f" with rm.   1 Answer
+
+Mar 14, 2012
+---------------
+Write a function in which ever language you prefer that would give an automated solution for the game sudoko   Answer Question
+
+Mar 10, 2011
+---------------
+what's BST?   Answer Question find if long string contains shorter one.   1 Answer determine if BST is indeed BST and what's complexity of it?   Answer Question design patterns. visitors pattern.   Answer Question how do you find out if there is a cycle in linked list.   3 Answers
+
+May 10, 2010
+---------------
+There is a museum organized as NxN room. Some rooms are locked and inaccessible. Other rooms are open and some rooms have guards. Guards can only move north, south, east and west, only through open rooms and only within the museum. For each room, find the shortest distance to a guard. What is the time complexity of your algorithm?   3 Answers There is an NxM grid containing a robot at (1, 1) and a destination at (N, M). Robot can move only up or right. Some locations can have obstacles. Find the number of unique paths from (1, 1) to (N, M). What is the time complexity of your algorithm?   9 Answers You are given two sets of integers, sizes M and N with M &lt; N. Perform inner equal join on these two sets (i.e., find intersection of the two lists). How to perform it if both the lists are in files and the available memory is of size K &lt; M &lt; N.   1 Answer
+
+Mar 24, 2011
+---------------
+operating system related question   1 Answer
+
+May 9, 2010
+---------------
+Build Windows Minesweeper. Data structure, method to check state etc.   Answer Question Find a loop in a linked list. How long is the loop?   Answer Question
+
+Jan 31, 2010
+---------------
+Write ArrayList in Java.   1 Answer How would you implement a stack with the additional operation of getMin?   8 Answers
+
+Feb 8, 2010
+---------------
+How to implement a queue simply using two stacks and how to implement a highly efficient queue using two stacks.   7 Answers Calculating the max execution time of a program that had to fit into a certain size of memory on an embedded device.   2 Answers
+
+Sep 25, 2010
+---------------
+Find the integer pairs in an integer array, so that they sum up to a specific number n.   6 Answers
+
+Jan 19, 2010
+---------------
+Design a software library to implement a histogram.   1 Answer
+
