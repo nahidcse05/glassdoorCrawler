@@ -1,0 +1,399 @@
+Sep 13, 2014
+---------------
+First was a HR / technical interview. Spoke about 2 projects and answered questions on them. 25 min online technical interview. Question was "Given a pattern and a string - find if the string follows the same pattern Eg: Pattern : [a b b a], String : cat dog dog cat "
+
+Given a matrix of friend/enemy relationship between a group of people, your goal is to figure out if two individuals have a particular relationship chain (&#039;friend of a friend&#039;, &#039;enemy of a friend&#039;) For example, consider when you have the following matrix of relationships, where F means &#034;friend of&#034; and E means &#034;enemy of&#034;, and an entry at (x,y) is the relationships between individual x and individual y: -FE F-F EF- In this example, individual 0 and individual 2 have a relationship chain E (eg. 0&lt;--&gt;2), but they also have the relationship chains FF (0&lt;--&gt;1&lt;--&gt;2) and EFFE (0&lt;--&gt;2&lt;--&gt;1&lt;--&gt;0&lt;--&gt;2)l that is cycles of relationships are possible. These relationships have the following properties: 1. Being friends and enemies are symmetric, so if person A is friend with person B that implies that person B is also friends with Person A, similarly with enemies 2. A person cannot have a relationship to themself and so no relationshp chain will include 0&lt;--&gt;0 3. The only valid relationships are F, E, or - (friend, enemy, or neither) Given a matrix of size n x n, the indices for 2 individuals, and a relationshp chain as a string, return 1 this relationshp exists between 2 people and 0 if otherwise. This is the boilerplate function, I had to write the code for: n = number of people frenemy is the relationship type x = index of person A y = index of person B relationship = def is_Frenemy(n, frenemy, x, y, relationship):   Answer Question
+
+Oct 2, 2015
+---------------
+This is just the question for the online skills test. I don't have anymore info to offer except for the type of questions one might see in on of these challenges.
+
+If you have 2 separate lists, construct a method to find the values they intersect at and return the list   Answer Question
+
+Oct 14, 2015
+---------------
+applied during career fair and came in for the on campus interview. First round was technical, and it lasted fairly short (~30 minutes). Overall, the process ran very smoothly although they had an extremely large number of candidates being interviewed within the same 2 day time frame. The interviewer covered general technical questions and simple big O notation on the methods.
+
+Breadth first search   Answer Question
+
+Aug 26, 2015
+---------------
+I had previously applied to an internship or something at Dropbox and so I had the contact information for my college's recruiter so during the summer I reached out and told her I was interested in applying to a full-time role. She sent me a coding challenge later where I had 60 minutes to complete the activity. It wasn't too bad, just a BFS with some modifications. I did well and so I moved on to a phone interview with 2 people asking questions. We briefly talked about my resume and then had another coding question, which I did not perform very well on. I think if I had done well, I would have had one more phone interview then onsite.
+
+Program a web crawler, then make it multithreaded.   Answer Question
+
+Jun 19, 2015
+---------------
+A recruiter found me on LinkedIn and was always in touch throughout the process. She was very helpful and friendly. I had two phone interviews, done on CoderPad. Both asked me about a previous project for ten minutes, then gave me an eng interview. They were friendly and happy to answer questions about Dropbox after. I passed them and went to an onsite interview, where I had three eng interviews, one demo session (an engineer showed off upcoming Dropbox products), and an hour-long culture fit interview where they got someone from my college to answer all my questions and take notes on what I asked/said. All the eng questions were already covered, or straight out of Cracking the Coding Interview. Overall everyone was very friendly and helpful. It took the recruiter 2 business days to get back to me after phone screens, and 1 week to give me the results of my onsite. I didn't get an offer, but I was told to apply again in a year and I certainly will.
+
+Class registration system. You have to implement 9 functions like create/delete classes, students, enroll/deenroll student to class, remove class (deregister all students). I was writing the same checks over and over again. May be i should have used Python.   Answer Question
+
+Jul 25, 2015
+---------------
+Hackerrank challenge - Was lengthy - There was no thought process involved - was a typing speed contest. Use Python. I used C++ Applied online - got a reject because I couldn't finish the challenge.
+
+Implement a class to allocate integer IDs and release them so that they are reusable   Answer Question Implement getElementByClassName and getElementByHierarchy in the DOM in JS   Answer Question
+
+Aug 11, 2015
+---------------
+I had two phone interviews with two different engineers, both very polite and courteous. The first one asks a few questions about projects I've worked on, teamwork and processes in my current team, then we get started with the technical question. The second one starts with the technical question right away.
+
+you are building a website and how would you count the number of visitors for the past 5 min. Follow ups included exploring potential concurrency issues and how would you fix it.   3 Answers
+
+Mar 10, 2015
+---------------
+First the recruiter sent me an online coding challenge about class registration as mentioned before by lots of reviews. The time limitation is 2 hours. After a week I got a phone interview. The question is about count the number of visitors on a website for the past 5 min. Follow ups included exploring potential concurrency issues and how would you fix it. An online collaboration editor was used, and your code need to be compiled and run. The engineer who spoke with me was really nice.
+
+Dropbox questions are covered by an NDA. Some of them already appeared on Glassdoor though.   Answer Question
+
+Mar 18, 2015
+---------------
+About two weeks after submitting my resume, a Dropbox recruiter reached out to organize a phone screen. After establishing that I require a US visa and the application deadline is fast approaching, two phone interviews were scheduled back to back on the shortest possible notice. Within 24 hours, an invite to the headquarters was extended, and by the time weekend rolled around I was flown from Europe to San Francisco, expenses paid. I was encouraged to take a couple of days to rest, enjoy the city, and recover from the jet lag before interviewing. Once fresh and ready, I went through a full day of on-site interviews, including discussing past projects, hands-on coding, and data structures/algorithmic whiteboard questions. The day was intense, fast paced, and accentuated with the delicious Tuck Shop food and perfectly brewed coffee. The Dropbox interviewers were smart, yet approachable, knowledgable, yet humble. Within two hours of completing the interview, a preliminary offer was hinted at. After I flew home, a full offer was extended, negotiated on, and signed, all within a day. Essentially, everything happened at the speed of light.
+
+how to design a web counter that returns number of visitors in last 5 mins   Answer Question
+
+Mar 31, 2015
+---------------
+Phone screening. Dropbox seems only ask a few questions that they always ask. The can all be found on this website... On the second round, the interviewer found out that I have seen the first question, and thus went directly to the second one. I took an approach that is not very easy to implement, and didn't do well... interview these days are so fake
+
+No Question
+Apr 10, 2015
+---------------
+online coding test. the question is mentioned here. not difficult, but the online compiling and testing takes time. It's better to review the code before running the test.
+
+online coding test   Answer Question
+
+Feb 25, 2015
+---------------
+Applied through university job fair and got the reply. It was a 1 hour long interview with technical questions. Normal behavior questions followed by two questions related to log system. And then talked about the complexity of the algorithm.
+
+Normal behavior questions followed by two questions related to log system. And then talked about the complexity of the algorithm.   Answer Question
+
+Mar 15, 2015
+---------------
+two phone interviews, one onsite. phone interview: background related questions first. Then followed a technical problem. The problem is easy initially but they will ask for optimization, which is the hard part. Then they asked me to go to SF for onsite interview. There are three more interview the same as the phone interview, except you see the real interviewer.
+
+Normal questions requiring knowledge of algorithm and multithreading   Answer Question
+
+Apr 7, 2015
+---------------
+Applied online through their job portal. Got a reply where they asked me to solve an online test. I applied in November 2014 and got a reply soon for the test. But due to other work I had to delay the test till February. I was given a week to complete the test
+
+Implement a Class Registration System. The requirements were neatly specified in a very long description. The method declarations were provided. I was asked to implement around 8 to 9 methods according to the requirement.   1 Answer
+
+Mar 29, 2015
+---------------
+I was called me on time for a coding interview via coderpad.io. The initial conversation was brief because the main interviewer joined Dropbox recently and had basically nothing to talk about w.r.t job experience, etc. The problem statement was simple, "Find all duplicate files by content in your filesystem." However, the question was somewhat awkward via coderpad.io because it involved I/O. I didn't know what to expect from traversing a real filesystem via coderpad.io. I have experience working with low level filesystem design, so I tried to clarify the problem statement but didn't get much love (e.g.: http://wiki.osdev.org/File_Systems) To make things more confusing, the interviewer described the problem using a list of arrays that seemed the input of the problem. As a matter of fact, that was the expected output. I realized that because after 20 minutes working with it as input, he pasted the actual input as a tree. I ran out of time because I was basically designing my own index from the input (errr output) then doing a tree traversal.
+
+Find all duplicate files by content in your filesystem.   5 Answers
+
+Mar 14, 2015
+---------------
+Met Dropbox at University Career Opportunities Conference, and was contacted that night for an on-campus interview for the next day. My interviewer was an alumni from my university and he asked me about courses that I was taking and TAing and about a couple of the projects on my Resume. And he then went onto ask my a programming question and continuously took down notes as I was explaining my solution.
+
+Deduplication from a file system in any programming language of your choice   Answer Question
+
+Jan 27, 2015
+---------------
+The online portion of the interview asked to implement a class registration system. Each student had a number of classes they were assigned to, and each class had a number of students. Functions were needed to add students, add classes, remove students, remove classes, etc. There was around a two hour time limit.
+
+Class registration   Answer Question
+
+Jan 8, 2015
+---------------
+I applied online, and two weeks later I got an email from a recruiter asking me to complete a 90-minute timed online coding exercise from HackerRank. The coding exercise can be started at anytime within one week from the day they sent it to you. My coding exercise was about developing an online class registration system. I had a bunch of related functions that I had to implement (add a class, remove a class, enroll a student, remove a student, etc), and they give you the specifics for each function. I didn't think it was very difficult, but it was kind of long so I didn't get to implement everything. You can compile and run your program right on the coding exercise page. There are also test cases, and it will tell you which test cases you passed, which ones you got wrong, and what should be the correct output for those.
+
+Implement an online class registration system.   Answer Question
+
+Jan 20, 2015
+---------------
+The onsite interview was supposed to be 3 hours: with 2 coding interviews (1 hr each) and 1 behavioral interview (1 hr) My first interviewer, however, said that the original interviewer was sick and that he was filling in at the last moment. The first interview was originally supposed to be a specific front-end engineering interview. However, the questions asked were about algorithm design, data structures, etc and the interviewer didn't seem to want to discuss and sat there quietly. This was very unexpected. I was better prepared for the second interview which also focused on data structures and algorithms. After the second interview, I was told I was done for the day and that I would be called back for a deep-dive fronted-focused interview. They got in touch later to apologize and to restart the process by scheduling a 1-hr phone interview to give me another chance but I declined.
+
+Given a list of names (strings) and the width of a line, design an algorithm to display them using the minimum number of lines.   2 Answers
+
+Jan 10, 2015
+---------------
+I was contacted by DropBox recruiter. After I spoke with the recruiter about opportunity and culture, I decided to submit the resume. The entire process was really pleasant and fast. I was scheduled for the phone interview within few days after submitting the resume. The initial phone interview was technical but there was no coding. It was more of screening and testing knowledge of the candidate in various technical area (system, parallel programming, networking, basic data structure, algorithm, web infrastructure, tech-stack). It wasn't hard but wasn't easy either. My advice is study and understanding tradeoffs. Interviewer actually looked into your resume and try to ask questions relevant to your area of expertise. First 15 minutes was introductory and the rest was breadth technical. The interview result was revealed a day after.
+
+What is a conditional variable? When would you use thread vs process? How would you find out bottlenecks in your web app (both client and server sides)?   Answer Question
+
+Feb 4, 2015
+---------------
+Received an email saying Dropbox saw my resume at a Hackathon and was interested in pursuing candidacy. I was sent a coding challenge to do online (I generally value NDAs, so I can't say, but it's for sure a question that was already posted to this site in other interview reviews), took an hour and a half and was more of a "build-from-scratch" kind of thing rather than a tough algorithms puzzle. I got 18/18 on it, and was emailed two days later to set up a phone interview. Phone interview, was asked a variation of the counting change problem, I wasn't quite able to code it up. Got the denial a few days later, as expected. Everyone was very nice and friendly, had a great chat with the interviewer also. I'd recommend giving this company a shot, there was NOT kool-aid at all like at most companies; just genuine engineers who seemed to want to hire great talent.
+
+Coding challenge with basic OOP concepts (encapsulation, testing).   Answer Question (VARIATION OF:) Given a set of possible change, such as {1, 5, 10, 25}, and an amount such as 13, return all possible ways you can give change back to someone.   3 Answers
+
+Feb 5, 2015
+---------------
+2 phone screens, 5 onsite interviews (1 day) Each person asked me a single technical question that I then worked through. They were unique and somewhat difficult. I also got to bring in a project that I'd worked on in the past, and show that to one of the interviewers.
+
+I had a question about locking which was probably the trickiest.   Answer Question
+
+Oct 5, 2015
+---------------
+A phone interview and then a onsite interview. There was only one question for the phone interview. and about 4 rounds for the onsite. The company treats the candidates really well. I enjoyed the 2 days in SF.
+
+Phone: Quesion about Hash. On site: Combination, Filesystem, Something like B tree   Answer Question
+
+Dec 14, 2014
+---------------
+Called for on campus interview after the Career Fair. 30 mins of the first interview. Typical DS questions. I solved it but they wanted juniors. Do your data structures very well.
+
+Nothing really hard.   Answer Question
+
+Dec 12, 2014
+---------------
+I applied several years ago, the process has changed significantly since then. I did one preliminary interview and then an all-day series of technical interview. After that I had dinner with the team. There were a few weeks of negotiation afterwards, but that was largely a function of my slow response time.
+
+There was a live coding session.   Answer Question
+
+Jan 4, 2015
+---------------
+This was an initial phone screen. Very pleasant process. Was contacted by email by HR / Recruiting (two different people but handled seamlessly) who set up the phone screen. A last minute schedule conflict was quickly resolved and I was called at the appointed time. About 15 minutes of the screening was introductory / about them / about me. A few minutes were taken posing the problem and discussing, and intro to the online code sharing tool (linked to by HR in earlier emails).
+
+Other reviewers have called out this problem. Should have worked through ahead of time. Also should have set up an empty project in my own environment that I could have pasted the initial problem definition into to (allowed, and would have saved time). The code sharing environment has no auto-completion or debugging (bud did have syntax coloring).   Answer Question
+
+Oct 18, 2014
+---------------
+Applied through university's career center, received coding test on HackerRank. It's the first coding test I attempted to solve so far, so it's hard to tell how difficult it is compared with other company's tests. It would be extremely helpful for me if someone else can offer a few thoughts on this pattern recognition exercise, hey, maybe you'll run into the same/similar question next time!
+
+Question was "Given a pattern and a string input - find if the string follows the same pattern and return 0 or 1. Examples: 1) Pattern : "abba", input: "redblueredblue" should return 1. 2) Pattern: "aaaa", input: "asdasdasdasd" should return 1. 3) Pattern: "aabb", input: "xyzabcxzyabc" should return 0.   30 Answers
+
+Nov 3, 2014
+---------------
+Spoke with an engineer at a career fair about my previous experiences and dropped off my resume. I was asked to sign up for a 30 minute on campus interview that night for the following day. Following the interview, I was asked to do another 60 minute interview the next day. Each of these was about 20% questions about goals and prior experience and 80% coding for the rest. After solving the problem I could ask questions about Dropbox as a company. In two days I was asked to visit SF office for a full-day interview, which was four one-hour interviews, each with one engineer and a shadow interviewer. Lunch with another guy in the middle, wrapped up with a 45-minute general Q+A. Each interviewer was very nice and helpful. They tried to present questions to which I already had some prior knowledge based on my completed coursework and experience, so I didn't particularly feel out of depth for any of it.
+
+Implement two functions that assign/release unique id's from a pool. Memory usage should be minimized and the assign/release should be fast, even under high contention.   Answer Question
+
+Nov 7, 2014
+---------------
+Initial reach out from M & A team to founders, had to do a lot of compliance paperwork, but no proper interview. We just all got our offer letters a few weeks before closing. Not bad.
+
+Something about pattern matching with strings.   1 Answer
+
+Nov 5, 2014
+---------------
+I applied online, heard back maybe a month later. I was asked to complete an online coding exercise on hackerrank.com. It was timed, 1 hour long, code a solution to a single problem. Took about a week before they told me I would not be moving forward in the interview process.
+
+No Question
+Nov 14, 2014
+---------------
+I applied at a career fair and had a 30 minute technical interview in person the next day. The question was straightforward asking to find the possible permutations of a string, and I wrote up the code on a laptop due to lack of a whiteboard, but the style was the same as whiteboard coding. A couple days later, I received an email to set up a 1 hour phone interview. I was asked how to find duplicate files in a filesystem, and I wrote up the code on coderpad. Another few days later, I received an email to set up an on-site interview. This consisted of three technical interviews, lunch with an engineer, and an engineering Q&A. The questions were interesting and a bit more challenging than your average interview. Be sure to be able to analyze space complexity in terms of bytes, not just big-O notation. I don't think I can disclose the actual questions asked during the on-site, but they were all fairly straightforward and did not require fancy algorithm or data structure knowledge. While I did solve all the questions and follow-ups, I don't think we were always on the same page, and the interviewer had to nudge me in the direction they were hoping to go in. I received an email less than a week later telling me that I would not be receiving an offer.
+
+List all duplicate files in a filesystem given the root directory.   Answer Question
+
+Nov 21, 2014
+---------------
+I had applied online , and I was very excited when I first received the mail that they found a match in for software engineer intern post. I had passed the first round which was the string matching question, But couldn't make it to the second round of it because the interviewer gave me rather difficult problem since I applied online and it was finding a duplicate folder and specifying the roots.
+
+Finding the duplicate files of the same root folder..   Answer Question
+
+Oct 20, 2014
+---------------
+Coding challenge lasting one hour. They give you a problem to solve and you need to choose your favorite language to start coding. Test cases are given so you can test them while coding the problem.
+
+A problem related to graphs.   Answer Question
+
+Oct 12, 2014
+---------------
+Friend referral. Got contacted by HR after 2 weeks. Questions were good, notthing unexpected. Got 2 phone interviews, not too complicated but I was not able to solve them correctly.
+
+NDA   Answer Question
+
+Oct 9, 2014
+---------------
+On campus process, overall it was very fast and efficient. The interviewer was very friendly, presented himself and the company, and asked about my background. White board questions were fairly easy and required basic programming skills, they didn't care about the language I chose. Didn't move forward due to lack of mutual interest.
+
+describe one of your projects and how it might be relevant   Answer Question
+
+Oct 27, 2014
+---------------
+Applied for internship. First round interview was on-campus. Asked me to code a common simulation game that you may have heard of. Then asked me to scale it for a million inputs. Interviewer was on his phone while I was programming and not very interested in me beyond the code. Got a second phone interview 2 weeks later. Second guy was quite distracted too. Didn't sound very interested in interviewing me. He asked me a question floating around here on Glassdoor. I hadn't seen the question before but managed to solve it pretty easily. Then he changed it slightly and made it a lot harder. I quickly told him the solution to this which he agreed on and I proceeded to code a slightly inefficient solution. I think he was disappointed with my code and decided to ding me at this point. Questions were similar to Google, not impossible like others describe. Quite manageable. Overall, I got a negative impression from engineers at Dropbox. I met 2 other engineers at their office a while back too. Elitist and bro-culture are words I associate with them. That said, they have some very smart people. I actually like Google Drive as a product better, so I'm not sure what they do with all that engineering horse power. Recruiters were great and responded quickly.
+
+Second part of second interview. Required knowledge of some arcane data structure to solve it efficiently.   Answer Question
+
+Oct 20, 2014
+---------------
+Applied on-line. Received an e-mail from a Dropbox recruiter expressing interest and an invite to a coding exam about 2 days later. Did not make it past the coding exam. Recruiting process was efficient.
+
+Question has already been posted - on string pattern matching.   Answer Question
+
+Sep 29, 2014
+---------------
+I applied at the career fair by just dropping off my resume. I was contacted within a few days saying that I was not the right fit for the job.
+
+locate certain types of words in a dictionary   Answer Question
+
+Sep 25, 2014
+---------------
+Submitted resume at campus career fair. Heard back that night. Went through first round interview, which was relatively straightforward. Asked question about locating certain types of words in a dictionary. Interviewer was very happy to answer all my questions about dropbox. Very pleasant experience. Noticed next of day their decision. Excited to continue with the process soon.
+
+Questions about lists and sums of elements of the list -- not too difficult, except I blanked on a few questions about algorithms.   Answer Question
+
+Sep 9, 2014
+---------------
+One-on-one, 30 minute interview. Whiteboard coding, with helpful advice from the interviewer. About 5 minutes at the end to talk about Dropbox and any questions about the company. Overall, very friendly and relaxed interview process, with callbacks within 24 hrs for a longer interview (unfortunately, was not called back -- probably because this was my first technical interview for a company).
+
+No Question
+Sep 15, 2014
+---------------
+I submitted my resume online through the website, they got back to me a couple weeks later and I did 3 phone interviews over a couple weeks, the first one was mostly a conversation about my past projects and then a few related technical questions. My other 2 phone interviews were more technical and required writing some code using coderpad to solve a couple problems. Afterwards I did the onsite interviews starting at 10am and ending around 4-5pm. The first one asked a few questions about motivation, then some coding, another coding interview, then a behavioral based interview, lunch, a couple more technical interviews (one about design/architecture) and at the end I got a chance to ask any questions during the last one. Overall very relevant problems without any puzzles or nonsense questions.
+
+None of the questions were too difficult and they didn't expect you to solve the problems in a certain way.   Answer Question
+
+Jun 19, 2014
+---------------
+There was an initial HR call followed by 2 onsite interviews, one with the team lead and one with the senior engineers on the team. The recruiters had an amazing turnaround time on emails, sometime even replying on a Sunday and were generally very helpful. The on-site interview started off with a tour of the office followed by back-to-back interviews which involved a combination of technology conversations, whiteboard coding and system design questions.
+
+There was nothing very unexpected, it was just mostly a casual conversation intermingled with coding questions.   Answer Question
+
+May 5, 2014
+---------------
+A recruiter reached out to me on LinkedIn. After a few conversations and a technical phone screen, I went onsite for 5 hours of interviews at the SF HQ, followed by dinner at Dropbox. The onsite consisted of 2 whiteboard problems and a 1.5 hour coding problem on a computer.
+
+1. Design a link shortening URL system. Discuss the tradeoffs of different approaches. 2. (Coding) Write a basic file system and implement the commands ls, pwd, mkdir, create, rm, cd, cat, mv. This was done on my own computer, in the interview room, with a 1.5 hour time limit.   Answer Question
+
+Mar 30, 2014
+---------------
+Overall the interview was quite pleasant. The recruiters and each of the interviewers were very knowledgeable in their respective fields. Timing and scheduling worked liked clockwork. However, I was a bit surprised that they did not ask any technical questions. Perhaps they had already disqualified me at this point or perhaps the ball was in my court to demonstrate some level of skill. If I were to go back and do it over again I would try to avoid the trap of only answering the questions that were asked and instead I'd pick a problem that I suspect they encounter and ask how they addressed or solved it. Hopefully this will be the impetus to demonstrate some technical ability.
+
+They simple asked, if you were hired here what would you do?   1 Answer
+
+Feb 15, 2014
+---------------
+two 30 minute interviews, 4 hour onsite interview
+
+Dropbox asks questions that can be applied in real life, instead of just puzzle solving problems.   Answer Question
+
+Feb 9, 2014
+---------------
+Contacted for interview the day after on-campus job fair. Recruiter was very friendly, and prompt in responding. Initial interview was set up for the following day, then a second was scheduled for the day after (presumably I did well in the first round). Next step would have been flying to SF, but was not asked back. Everyone I spoke with was very friendly and polite :) I left the interviews wanting to do more!
+
+Pretty standard questions. First interview involved finding the sum to a target in an array, second involved designing a log-hit counter for a website. I was allowed to write both in java. The questions weren't overly difficult, but they expected top-notch answers!   Answer Question
+
+Dec 31, 2013
+---------------
+It was a phone interview and I went through technical questions
+
+The questions were related to java. The interviewer asked me to write a code to edit a string in a output.   Answer Question
+
+Jan 3, 2014
+---------------
+The whole process was pretty standard. The first step was a phone screen, which involved some coding. When they invited me into the office, there was a whole day of meet-and-greets with various technical people, who each took the opportunity to interview me. Less than a week later, I received the offer. The whole process went pretty smoothly, except for the recruiter, who mis-scheduled the phone screen, and then didn't get back to me for several weeks until I followed up. Recruiters tend to be flaky in general though, so it's always good to be persistent.
+
+ehhh, NDA got my hands tied.   Answer Question
+
+Sep 30, 2013
+---------------
+Applying for Summer Internship. Only one question, 30 minutes for first round. Did not make second round.
+
+"Make a program that can print out the text form of numbers from 1 - 1000 (ex. 20 is "twenty", 105 is "one hundred and five")   1 Answer
+
+Oct 24, 2013
+---------------
+Three interviews total. First was 45 minutes, second was 1 hour. First had basic algorithms / coding problems, then iterated on the problem and added constraints. Second was more complicated coding problem. Recruiters are extremely friendly, response time was less than a week each time, made the entire process very pleasant.
+
+Write a program that logs hits received in the past 15 minutes.   1 Answer
+
+Sep 30, 2013
+---------------
+Had a really strange experience. THEY HAD ME FOR A WRONG POSITION! I applied in career fair. The guy who took my resume did not even look at me then, blandly said take a t-shirt and go. I thought that Dropbox is smart and they hire people first and then find a fitting role. NO. I was invited for an on-campus interview. Apparently, it was not even an engineering position but was something like a sales position, that too not full time. My resume clearly says engineering full time position seeker. God knows why they made me go to the interview only to find out (thanks to a smart lady interviewing me) that I indeed should not have been called for the interview. SO - immediate reject. Did it annoy me, yes! Not for the time/effort but getting the hopes up :(
+
+Interviewer: I think I am not the right interviewer for you. Let me check what's going on. ME: eehh...   Answer Question
+
+Sep 5, 2013
+---------------
+Applied online using jobvite. Phone interview went well and was invited for onsite. But onsite interviews were worse than expected. Interviewers seemed inexperienced and questions they were asking seemed to be not their own. They also were from the teams where I would never work. After 3 boring interviews I decided to leave. They didn't even ask why I was leaving.
+
+Some questions about finding folders and files   Answer Question
+
+Feb 9, 2013
+---------------
+On campus interview - found tech talk on Facebook and then submitted resume online for on campus interview. They had an on campus dinner the night before the interviews - kind of like a behavioral interview scenario. Not that noteworthy but not difficult. The tech interview the next day was more difficult.
+
+Given an array of integers eg [1,2,-3,1] find whether there is a sub-sequence that sums to 0 and return it (eg 1,2,-3 or 2,-3,1) Checking every sub-sequence is O(n^2) which is too inefficient   12 Answers
+
+Mar 17, 2013
+---------------
+There were 3 rounds - 1. Half hour technical plus normal interview. 2. One hour technical interview if you advanced through the first round 3. Final round at HQ.
+
+Question related to hash tables and sorting.   Answer Question
+
+Jan 16, 2013
+---------------
+I spent hours upon hours with their team and got asked some really random stuff that had absolutely not a thing to do with anything related to the job I applied for. That being said with the bounty of great things in the market now I would not consider to work here- too many other great possibilities there and I expect to be treated like a senior developer not some fresh grad.
+
+they asked some really weird stuff   1 Answer
+
+Apr 16, 2012
+---------------
+I applied online and got called up by an HR woman not long after. I had to do a few phone interviews and they all went very well. I'm very experienced in what I do and it was soon made clear by my interviewers that they were very impressed and wanted me to get me on board asap. I had to go to their office in SF for a last live interview. The guy that had to interview me was arrogant, didn't listen to me and clearly didn't want to invest too much time or effort. I got the impression I wasn't 'cool' enough and the interview was over before I knew it. Soon after I got an email that I wouldn't get hired. I am really insulted by their way of hiring people. Never before have I seen such unprofessionalism. I guess some people at Dropbox are just too young to be making decisions and some people are in the wrong place. Tip: know your stuff and THEN be extravagant, get noticed, "develop your cool" before you go. Jeans and blue shirt is too common to get accepted. Or don't bother at all. They're obviously looking for someone special.
+
+Solve a software routine problem   Answer Question
+
+Apr 15, 2015
+---------------
+It was a telephone interview lasting an hour. The questions was mainly on algorithm, and was basically easy to answer. The interviewer was nice, but kind of tired, guess it's because I'm interviewing in early Saturday morning. At last I didn't get the intern, but it was all my fault. My English is kind of poor.
+
+How do you implement a dictionary tree?   Answer Question
+
+May 9, 2015
+---------------
+Applied through their jobs website, and a recruiter reached out to me to sit an online coding test on HackerRank - had 5 days to complete it. After passing that, I had two phone interviews, but didn't make it past the second one. Had very good communication from the recruiters all the way along, and they were very efficient.
+
+Implement a function that searches a file system for files with identical contents.   Answer Question
+
+Oct 1, 2014
+---------------
+A friend (who had interviewed with Dropbox previously, but no offer) introduced me to the recruiter via email. The recruiter responded about two weeks later and sent me a HackerRank coding question. I didn't think it would be very difficult, since I've completed HackerRank coding questions previously for other companies with ease. Oh, how very naive I was. The question was very difficult (for me at least). It was a pattern matching question which seemed like I was supposed to code up a lexical analyzer in an hour... Based on what I've read on Glassdoor, other candidates went straight to either HR screening interviews or technical interviews. I believe I was given an exceptionally hard coding challenge question so that the recruiter could say they gave me a chance but they weren't going to bother with me unless I was extremely smart. It was really just a courtesy coding challenge an they had already decided to reject me. Seeing as how I was recommended by a previously rejected candidate, I suppose I should seen their veiled rejection coming (in the form of a coding challenge). I'm really disappointed at the Dropbox recruiting practice. I've worked at Microsoft before and interviewed at Google, Facebook, Square, Twitter, Airbnb, Pinterest, etc., and I've never had this sort of treatment.
+
+Question was "Given a pattern and a string input - find if the string follows the same pattern and return 0 or 1. Examples: 1) Pattern : "abba", input: "redblueredblue" should return 1. 2) Pattern: "aaaa", input: "asdasdasdasd" should return 1. 3) Pattern: "aabb", input: "xyzabcxzyabc" should return 0. I saw someone else had a similar question, but it was much much easier as the other candidate was given spaces between words to help identify individual words to pattern match.   7 Answers
+
+Mar 16, 2015
+---------------
+I applied online. He came to our school to interview me. The interview is 45 minutes. I wrote my code with pencil on paper. After the coding, he asked me to test my code on paper.
+
+find the square root of an integer   Answer Question
+
+Jan 7, 2014
+---------------
+Great work culture, incredible food too! Company is really working on redefining the future and it shines through in the interview process.
+
+How would you redo a specific UI?   Answer Question
+
+Jan 7, 2013
+---------------
+I applied for a position through their website. I was contacted soon after by a recruiter who scheduled an interview with one of their newer hires. The interview consisted of questions about my resume, and coding questions. It went on for over an hour. I didn't get a second interview.
+
+design a spell-checking algorithm   Answer Question
+
+Nov 22, 2013
+---------------
+I got an initial phone call, and two phone interviews. The engineers are very friendly, they spend 20 minutes discussing with you before asking the question. However when you apply they want things to go very fast (so when they call you, they'd like you to have an interview within a week or maximum 2).
+
+You have a number of meetings (with their start and end times). You need to schedule them using the minimum number of rooms. Return the list of meetings in every room.   1 Answer Design an LRU cache. It's a data struct with a capacity. Beyond this capacity the least recently used item is removed. You should be able to insert an element, access an element given its key, and delete an element, in constant time. Note that when you access an element, even if it's just for a read, it becomes the most recently used.   3 Answers
+
+May 16, 2012
+---------------
+The recruiter called and helped set up a technical interview over the phone. The question is actually easy and a CS student will learn that in their first year in college. However, because it is very easy and very fundamental, any error you made will be fatal, and that is exactly why I failed.
+
+Infix -&gt; postfix expression conversion and evaluation.   Answer Question
+
+Feb 13, 2012
+---------------
+Email inteview for 6 questions: 1&2How do you hear about Dropbox ;Why you want to work with us and you plan 3.State a experience about how you solve a technical problem, be specific about the diagnose and process 4.? 5&6 problem solve
+
+solve a case about a angry costomer complain on cannot solved technical problem   Answer Question
+
+Nov 5, 2011
+---------------
+The interview was an hour long and two employees watched over me. The whole process felt awkward and poorly prepared. First the interviewers were about 20 minutes late to the interview, and I found it difficult to build a rapport with either interviewer. They did not spend anytime with pleasantries or looking over my resume they dove straight into a skills test.
+
+given a number as a string write a algorithm to map to its oral description. I.e. "1" -&gt; "11" //this can be thought of as there is one one. "11" -&gt; "21" // there are two ones "21" -&gt; "1211" // there is one two and one one "1211" -&gt; "111221" ect. //there is one one, one two and two ones   6 Answers given the output from the first question write a algorithm to calculate how many possible inputs could have created that output. for example. "1211" could be interpreted as one two and one one || one hundred and twenty one ones.   6 Answers The final question was now given your algorithms compute the complexity of them.   2 Answers
+
+Oct 29, 2011
+---------------
+They gave me a C++ code and asked me to describe what it does
+
+They gave me a C++ code and asked me to describe what it does   1 Answer
+

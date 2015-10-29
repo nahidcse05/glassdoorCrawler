@@ -1,0 +1,256 @@
+Sep 13, 2014
+---------------
+Given a matrix of friend/enemy relationship between a group of people, your goal is to figure out if two individuals have a particular relationship chain (&#039;friend of a friend&#039;, &#039;enemy of a friend&#039;) For example, consider when you have the following matrix of relationships, where F means &#034;friend of&#034; and E means &#034;enemy of&#034;, and an entry at (x,y) is the relationships between individual x and individual y: -FE F-F EF- In this example, individual 0 and individual 2 have a relationship chain E (eg. 0&lt;--&gt;2), but they also have the relationship chains FF (0&lt;--&gt;1&lt;--&gt;2) and EFFE (0&lt;--&gt;2&lt;--&gt;1&lt;--&gt;0&lt;--&gt;2)l that is cycles of relationships are possible. These relationships have the following properties: 1. Being friends and enemies are symmetric, so if person A is friend with person B that implies that person B is also friends with Person A, similarly with enemies 2. A person cannot have a relationship to themself and so no relationshp chain will include 0&lt;--&gt;0 3. The only valid relationships are F, E, or - (friend, enemy, or neither) Given a matrix of size n x n, the indices for 2 individuals, and a relationshp chain as a string, return 1 this relationshp exists between 2 people and 0 if otherwise. This is the boilerplate function, I had to write the code for: n = number of people frenemy is the relationship type x = index of person A y = index of person B relationship = def is_Frenemy(n, frenemy, x, y, relationship):   Answer Question
+
+Oct 2, 2015
+---------------
+If you have 2 separate lists, construct a method to find the values they intersect at and return the list   Answer Question
+
+Oct 14, 2015
+---------------
+Breadth first search   Answer Question
+
+Aug 26, 2015
+---------------
+Program a web crawler, then make it multithreaded.   Answer Question
+
+Jun 19, 2015
+---------------
+Class registration system. You have to implement 9 functions like create/delete classes, students, enroll/deenroll student to class, remove class (deregister all students). I was writing the same checks over and over again. May be i should have used Python.   Answer Question
+
+Jul 25, 2015
+---------------
+Implement a class to allocate integer IDs and release them so that they are reusable   Answer Question Implement getElementByClassName and getElementByHierarchy in the DOM in JS   Answer Question
+
+Aug 11, 2015
+---------------
+you are building a website and how would you count the number of visitors for the past 5 min. Follow ups included exploring potential concurrency issues and how would you fix it.   3 Answers
+
+Mar 10, 2015
+---------------
+Dropbox questions are covered by an NDA. Some of them already appeared on Glassdoor though.   Answer Question
+
+Mar 18, 2015
+---------------
+how to design a web counter that returns number of visitors in last 5 mins   Answer Question
+
+Apr 10, 2015
+---------------
+online coding test   Answer Question
+
+Feb 25, 2015
+---------------
+Normal behavior questions followed by two questions related to log system. And then talked about the complexity of the algorithm.   Answer Question
+
+Mar 15, 2015
+---------------
+Normal questions requiring knowledge of algorithm and multithreading   Answer Question
+
+Apr 7, 2015
+---------------
+Implement a Class Registration System. The requirements were neatly specified in a very long description. The method declarations were provided. I was asked to implement around 8 to 9 methods according to the requirement.   1 Answer
+
+Mar 29, 2015
+---------------
+Find all duplicate files by content in your filesystem.   5 Answers
+
+Mar 14, 2015
+---------------
+Deduplication from a file system in any programming language of your choice   Answer Question
+
+Jan 27, 2015
+---------------
+Class registration   Answer Question
+
+Jan 8, 2015
+---------------
+Implement an online class registration system.   Answer Question
+
+Jan 20, 2015
+---------------
+Given a list of names (strings) and the width of a line, design an algorithm to display them using the minimum number of lines.   2 Answers
+
+Jan 10, 2015
+---------------
+What is a conditional variable? When would you use thread vs process? How would you find out bottlenecks in your web app (both client and server sides)?   Answer Question
+
+Feb 4, 2015
+---------------
+Coding challenge with basic OOP concepts (encapsulation, testing).   Answer Question (VARIATION OF:) Given a set of possible change, such as {1, 5, 10, 25}, and an amount such as 13, return all possible ways you can give change back to someone.   3 Answers
+
+Feb 5, 2015
+---------------
+I had a question about locking which was probably the trickiest.   Answer Question
+
+Oct 5, 2015
+---------------
+Phone: Quesion about Hash. On site: Combination, Filesystem, Something like B tree   Answer Question
+
+Dec 14, 2014
+---------------
+Nothing really hard.   Answer Question
+
+Dec 12, 2014
+---------------
+There was a live coding session.   Answer Question
+
+Jan 4, 2015
+---------------
+Other reviewers have called out this problem. Should have worked through ahead of time. Also should have set up an empty project in my own environment that I could have pasted the initial problem definition into to (allowed, and would have saved time). The code sharing environment has no auto-completion or debugging (bud did have syntax coloring).   Answer Question
+
+Oct 18, 2014
+---------------
+Question was "Given a pattern and a string input - find if the string follows the same pattern and return 0 or 1. Examples: 1) Pattern : "abba", input: "redblueredblue" should return 1. 2) Pattern: "aaaa", input: "asdasdasdasd" should return 1. 3) Pattern: "aabb", input: "xyzabcxzyabc" should return 0.   30 Answers
+
+Nov 3, 2014
+---------------
+Implement two functions that assign/release unique id's from a pool. Memory usage should be minimized and the assign/release should be fast, even under high contention.   Answer Question
+
+Nov 7, 2014
+---------------
+Something about pattern matching with strings.   1 Answer
+
+Nov 14, 2014
+---------------
+List all duplicate files in a filesystem given the root directory.   Answer Question
+
+Nov 21, 2014
+---------------
+Finding the duplicate files of the same root folder..   Answer Question
+
+Oct 20, 2014
+---------------
+A problem related to graphs.   Answer Question
+
+Oct 12, 2014
+---------------
+NDA   Answer Question
+
+Oct 9, 2014
+---------------
+describe one of your projects and how it might be relevant   Answer Question
+
+Oct 27, 2014
+---------------
+Second part of second interview. Required knowledge of some arcane data structure to solve it efficiently.   Answer Question
+
+Oct 20, 2014
+---------------
+Question has already been posted - on string pattern matching.   Answer Question
+
+Sep 29, 2014
+---------------
+locate certain types of words in a dictionary   Answer Question
+
+Sep 25, 2014
+---------------
+Questions about lists and sums of elements of the list -- not too difficult, except I blanked on a few questions about algorithms.   Answer Question
+
+Sep 15, 2014
+---------------
+None of the questions were too difficult and they didn't expect you to solve the problems in a certain way.   Answer Question
+
+Jun 19, 2014
+---------------
+There was nothing very unexpected, it was just mostly a casual conversation intermingled with coding questions.   Answer Question
+
+May 5, 2014
+---------------
+1. Design a link shortening URL system. Discuss the tradeoffs of different approaches. 2. (Coding) Write a basic file system and implement the commands ls, pwd, mkdir, create, rm, cd, cat, mv. This was done on my own computer, in the interview room, with a 1.5 hour time limit.   Answer Question
+
+Mar 30, 2014
+---------------
+They simple asked, if you were hired here what would you do?   1 Answer
+
+Feb 15, 2014
+---------------
+Dropbox asks questions that can be applied in real life, instead of just puzzle solving problems.   Answer Question
+
+Feb 9, 2014
+---------------
+Pretty standard questions. First interview involved finding the sum to a target in an array, second involved designing a log-hit counter for a website. I was allowed to write both in java. The questions weren't overly difficult, but they expected top-notch answers!   Answer Question
+
+Dec 31, 2013
+---------------
+The questions were related to java. The interviewer asked me to write a code to edit a string in a output.   Answer Question
+
+Jan 3, 2014
+---------------
+ehhh, NDA got my hands tied.   Answer Question
+
+Sep 30, 2013
+---------------
+"Make a program that can print out the text form of numbers from 1 - 1000 (ex. 20 is "twenty", 105 is "one hundred and five")   1 Answer
+
+Oct 24, 2013
+---------------
+Write a program that logs hits received in the past 15 minutes.   1 Answer
+
+Sep 30, 2013
+---------------
+Interviewer: I think I am not the right interviewer for you. Let me check what's going on. ME: eehh...   Answer Question
+
+Sep 5, 2013
+---------------
+Some questions about finding folders and files   Answer Question
+
+Feb 9, 2013
+---------------
+Given an array of integers eg [1,2,-3,1] find whether there is a sub-sequence that sums to 0 and return it (eg 1,2,-3 or 2,-3,1) Checking every sub-sequence is O(n^2) which is too inefficient   12 Answers
+
+Mar 17, 2013
+---------------
+Question related to hash tables and sorting.   Answer Question
+
+Jan 16, 2013
+---------------
+they asked some really weird stuff   1 Answer
+
+Apr 16, 2012
+---------------
+Solve a software routine problem   Answer Question
+
+Apr 15, 2015
+---------------
+How do you implement a dictionary tree?   Answer Question
+
+May 9, 2015
+---------------
+Implement a function that searches a file system for files with identical contents.   Answer Question
+
+Oct 1, 2014
+---------------
+Question was "Given a pattern and a string input - find if the string follows the same pattern and return 0 or 1. Examples: 1) Pattern : "abba", input: "redblueredblue" should return 1. 2) Pattern: "aaaa", input: "asdasdasdasd" should return 1. 3) Pattern: "aabb", input: "xyzabcxzyabc" should return 0. I saw someone else had a similar question, but it was much much easier as the other candidate was given spaces between words to help identify individual words to pattern match.   7 Answers
+
+Mar 16, 2015
+---------------
+find the square root of an integer   Answer Question
+
+Jan 7, 2014
+---------------
+How would you redo a specific UI?   Answer Question
+
+Jan 7, 2013
+---------------
+design a spell-checking algorithm   Answer Question
+
+Nov 22, 2013
+---------------
+You have a number of meetings (with their start and end times). You need to schedule them using the minimum number of rooms. Return the list of meetings in every room.   1 Answer Design an LRU cache. It's a data struct with a capacity. Beyond this capacity the least recently used item is removed. You should be able to insert an element, access an element given its key, and delete an element, in constant time. Note that when you access an element, even if it's just for a read, it becomes the most recently used.   3 Answers
+
+May 16, 2012
+---------------
+Infix -&gt; postfix expression conversion and evaluation.   Answer Question
+
+Feb 13, 2012
+---------------
+solve a case about a angry costomer complain on cannot solved technical problem   Answer Question
+
+Nov 5, 2011
+---------------
+given a number as a string write a algorithm to map to its oral description. I.e. "1" -&gt; "11" //this can be thought of as there is one one. "11" -&gt; "21" // there are two ones "21" -&gt; "1211" // there is one two and one one "1211" -&gt; "111221" ect. //there is one one, one two and two ones   6 Answers given the output from the first question write a algorithm to calculate how many possible inputs could have created that output. for example. "1211" could be interpreted as one two and one one || one hundred and twenty one ones.   6 Answers The final question was now given your algorithms compute the complexity of them.   2 Answers
+
+Oct 29, 2011
+---------------
+They gave me a C++ code and asked me to describe what it does   1 Answer
+
