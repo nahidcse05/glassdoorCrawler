@@ -1,0 +1,817 @@
+Oct 11, 2015
+---------------
+Oracle sends your resume to a bunch of teams. Some of them decide the want to interview you. Every interview is different , and highly specific to the team you have applied for.
+
+Describe your most significant project   1 Answer Describe the most difficult bug you have ever had to find.   1 Answer
+
+Oct 2, 2015
+---------------
+Talked with recruiter and immediately was invited on site. I was recommended by a friend who is an Oracle employee so maybe that got me past the screening process. Met with the team for mostly laid back interviews. There was a coding problem on a computer with an editor and the ability to look up details online while programming. Then they asked you about the time and space complexity of your solution. There was also a white board coding interview and a few behavioral questions ("Tell me about a time when..."). There was a second phase where I would have brought a coding sample to discuss and give a white board technical talk, but I decided not to come in for round 2.
+
+The questions were similar to those in Cracking the Coding Interview or one of the other popular books. Definitely worth studying if you are rusty on your undergraduate level algorithm design.   Answer Question
+
+Apr 1, 2015
+---------------
+applied online directly through their site. was a graduating senior and had spoken ot a few of their recruiters a campus job fairs - they advised me to apply to specific openings
+
+typical interview questions - nothing surprising   Answer Question
+
+Feb 25, 2015
+---------------
+Met with 3 Groups on 2 different days. Oracle people are very nice, from Recruiters to managers. They managed to create a pleasant conversational environment and never put pressure on you. Very few technical questions, the process is quite smooth. They arranged lunch with two alumni, very informative and considerate. But they raise a high bar for selecting candidates for onsite. I think this is why Oracle interview is easy but still can hire talented people.
+
+It depends on groups that are interested in you. Some groups asks algorithm coding questions while others place more emphasis on communication and behavior. Anyway, you can assume nothing in advance, be prepared for data structure, algorithms and basic technical questions. After all, for a software engineer position, the responsibility is to write code every day.   Answer Question
+
+Feb 5, 2015
+---------------
+I applied via a contact with a friend, heard back pretty quick. They questioned me a lot about my previous employers and very little about my abilities, which felt frustrating. I honed this skills that they seemed intent on ignoring. I wish the interview was more about the job at hand.
+
+What's one thing you would change about your previous work environment?   Answer Question
+
+Feb 20, 2015
+---------------
+The recruiter contacted me about 2 weeks after I submitted application online(sent resume to an email address for internship). The recruiter asked for my updated resume and transcripts and then arranged a 5-minute phone chat with me. The phone chat is mainly about the overview of the internship and the interview process. And there is only one round phone interview for internship in Oracle. After a week, I was told to have an interview with a group and followed by another group one more week later. And got rejected an week after the second interview. One interviewer is not patient at all and not nice as what other people said. Another is almost no emotional(I can not feel whether he is happy or not about the answer)
+
+Mostly are general behavior questions about the projects on the resume like: 1. what is your strength? 2. what is your weakness? 3. what's your hobby? 4. what do you think is the most challenge part in XX project? 5. what do you want to get from the internship? tell me about But also some basic technical questions like: 1. tell me about some sorting algorithms you know? 2. how will you find out a bug in the program   Answer Question
+
+Feb 5, 2015
+---------------
+One call to schedule onsite days. And then just fly to SF for two-days onsite interview. I have four group to meet. They are located at HQ, Santa Clara, and Cupertino. The whole process was very smooth. HRs are very nice and the people who interviewed me are also very friendly. They didn't ask any challenging question. We talked about my background and what their group do for most of the process.
+
+Mostly behavior questions and about my resume.   Answer Question
+
+Sep 22, 2015
+---------------
+General algorithm & data structure questions with a few brain teasers just to gauge your raw IQ. No coding required but they wanted you to step through every detail of the implementation so that's equivalent to coding it up. Be prepared to explain anything you said, so the lesson is, never say anything you do not fully understand.
+
+How to efficiently query regions on a 2-D plane   1 Answer
+
+Mar 1, 2015
+---------------
+I sent my resume to the oracle recruiting email address, and got a reply from the HR. Later, she called me asking for some basic information. It was not like a phone interview. Then my resume was reviewed by groups in Oracle. About one month later, I got the onsite interview invitation with the group descriptions. Then I speak with five groups. Some groups are in Massachusetts, then the form would be a video interview. Video interviews were basically more technical. Others asked about the resume and projects I did in school, together with some small technical questions. They were not very hard. The time for each group was 1 hour and a quarter. And I speak with several persons in that group. Between successive interviews, there was a quarter for rest. Interviewers were very friendly, and made the interview more like a talking or discussion. Now I am still waiting for the response.
+
+General questions about resume, and some little coding problems.   Answer Question
+
+Jan 5, 2015
+---------------
+Got contacted by a recruiter after submitting my resume on the career fair and had a short conversation over phone discussing about the process and timeline. Then had an hour long interview with the hiring manager of a group. Digged into every detail of almost all the information mentioned on the resume. No typical technical questions. All people are very helpful, nice, and friendly during the process. I think all they are looking for is someone who has the best matched technique background for their projects.
+
+Your resume, past projects, and conceptual technical questions related to past projects.   Answer Question
+
+Apr 20, 2015
+---------------
+Some of the interviewers were chatting with somebody using their cell phones. They didn't respect people! I decided not to answer any questions when I found that. I don't want to work with these people!
+
+some normal algorithm and design questions   Answer Question
+
+Oct 27, 2014
+---------------
+Interview was easy. Basic expected questions on data structures linked lists pointers stacks queues etc. Convert a string to an integer. What is difference between strcpy and strncpy? How do you reverse a linked list?
+
+Explain how you'd design a large scale cloud system. What things would you take into account, scalabilty, backups, sharding, etc. I told him what I knew from my limited experience of scaling, and he helped me out in certain places.   Answer Question
+
+Dec 29, 2014
+---------------
+Rather non-technical really... to the point that it makes me question their hiring process and the caliber of the people I'd be working with at this corporation. Most companies I know of that hire decent people vet them through a series of interviews. I literally just had one in-person ~somwhat technical interview (design a system, no coding). They were nice enough to fly me out to san jose for the interview so I'd say overall the experience was positive.
+
+Which group do you want to work for?   Answer Question
+
+Oct 26, 2014
+---------------
+contacted by recruiter, had a quick chat over phone with hr about starting time and interests. hr sent me a list of 8 groups to rank, then they scheduled interview with 4 groups, two of which are in boston area. the interviews are mostly non technical, and vary a lot from group to group. groups in boston are more technical. everyone is very friendly. asked many behavioral questions.
+
+System Design   Answer Question
+
+Oct 26, 2014
+---------------
+Got an email from the recruiter (had submitted the resume during the career fair). HR provided a list of groups out of which we can select any number depending on our interest. Interviewed with 4 groups (1 hour 30 min each) back-to-back and got an offer from one of the managers on that day itself. That turned out to be best possible scenario since I wanted to work with that group right from the day I had chosen the group as one of my potential interests. Questions involved identifying bugs in a code, deep OS questions, white-board coding. Rigorous but delightful.
+
+The questions where very low level JAVA language questions. Questions like what is the Super class of all classes in JAVA. How does the class loader work. What are the different drivers in JDBC (he did want to know about JAVA JDBC Connectors so I do not know what he was referring to). The questions where mostly like this. Things that I never heard anyone else ask before on a JAVA interview.   2 Answers
+
+Aug 19, 2014
+---------------
+The interview process was ridiculous. All they asked for was a resume and then I got an email back telling me that I had been selected into their internship program. A few weeks later I heard from them about choosing a group. Definitely not what I expected!
+
+No difficult questions   Answer Question
+
+Jul 18, 2014
+---------------
+Campus Interview and Onsite. Group members will talk with you when you have onsite interview. After a month, decision will be emailed to you. And HR will contact you about it.
+
+No Question
+Jun 26, 2014
+---------------
+Good organization, the interview process was fun and talked with interesting people. The people were responsive on my emails and stayed engaged throughout the process. A little slow on the offer for fresh out of college people.
+
+No Question
+Apr 4, 2014
+---------------
+Got a call from Oracle about a position I applied for in Mineola, NY at their Fatwire division. She set up a phone interview a couple of days later.
+
+No Question
+Mar 21, 2014
+---------------
+Ask some basic Java questions
+
+No Question
+Feb 3, 2014
+---------------
+telephone interview
+
+in-order traverse a binary tree   Answer Question
+
+Jan 22, 2014
+---------------
+All basic questions, OS, computer architecture, C++/C, algorithm, just be confident and smile, managers are nice.
+
+All basic   Answer Question
+
+Jan 1, 2014
+---------------
+I got a call through university recruiting, so I had choices regarding which groups to interview. The process is easy, you have to choose 6 groups for the interview from a list which HR will send you. Once you interview with all the groups, you need to give a list of groups you want to work with in order of preference. The HR will get the input from groups, as soon as there is a match, they will send you an offer.
+
+Questions were easy, basic programming, data structures, searches, threads.   Answer Question
+
+Mar 12, 2015
+---------------
+Campus interview and on-site interview. I talked with the recruiting manager throughout the process, who was very helpful. I visited 3 different sites : SF, Orange county and Natick office.
+
+I don't remember any specific question, but it wasn't brainteasers but more of fundametnal questions.   Answer Question
+
+Jul 15, 2014
+---------------
+College hire process can vary from student to student. I have heard of students having a technical phone screen but my process was 20 minute HR screen --> Group Ranking from groups interested in hiring me --> HQ group interviews. The group interviews can vary from pure behavioral, white board coding, take home coding tests, and or a mixture of everything. Mine was more on the behavioral side so it was easier possibly. That hardest part is actually getting the first round interview. Oracle only hires from some 15 colleges from around the country (with some exceptions) and weigh GPA and work experience (internships / coops) higher than many would expect hence the interview process maybe very easy for many.
+
+A great white board question I remember was "Find the second largest element in a Binary Search Tree"   1 Answer
+
+Sep 7, 2015
+---------------
+I turned in a paper resume at my college career fair and to my great surprise, received an email inviting me to travel for onsite interviews - no phone screen. I "interviewed" with 5 teams, but all of them viewed it as a foregone conclusion that I would be hired, and only asked really soft questions and told me about their teams! No coding tests at all, except one that was very clearly for their background info and not for a hiring decision (i.e., how much to train me). This was the most unexpected experience possible.
+
+Spot checks on resume items   1 Answer Why do you want to work here?   1 Answer
+
+Aug 30, 2015
+---------------
+The overall interview experience was excellent. The recruiter was kind and helpful in the process along the way. Oracle has a complete and well-structured procedure on what you need to expect in each step of the interview.
+
+Describe your past experiences/projects that you find interesting.   1 Answer
+
+Jun 2, 2013
+---------------
+1st yr Software Engineer Applicant Phone Interview: Do you prefer balancing projects, or focusing on one. Open up notepad. If I gave you 0-100 inputs, print X if even, Y if div by 5, the number if anything else Tell me about yourself Tell me about the XXX on your resume. Tell me about XXX on your resume Time when someone wasn't holding their weight, how it was handled Why Oracle? Questions for me? Final superday interview was more difficult. Ended after interviews with a test where we were given 2 problems to choose from and solve. The problems were both database focused although about 1/2 the applicants were not applying for the DBA position. This is Oracle, know your DB skills regardless of if you intend to be a DB or not.
+
+see above   1 Answer
+
+Jul 14, 2013
+---------------
+Called for a 6 hours interview and was interviewed by 4 different engineers, + manager, director, VP and senior VP. The interview by the engineers were fairly technical - question on C, C++ templates, STL, vxworks and an aptitude question. The manager + above leaders asked fairly my work ethics and skills.
+
+What is template specialization and give an example.   Answer Question
+
+Mar 3, 2013
+---------------
+two phone interviews. No coding questions. All ask me about my research projects. Ask one by one into details.
+
+no difficult questions   Answer Question
+
+Jun 25, 2013
+---------------
+Through college recruiting program. HR contact me after I sent my resume via email. No phone interview, just a full day, five-team in a roll on-site interview. Then got the offer
+
+First, the interviewer taught me how to write BASIC. Then I was asked to write a program using BASIC. The program is not a very tricky one.   Answer Question
+
+Sep 12, 2015
+---------------
+Ihad a phone screen interview. After this, I was asked to come onsite for further interviews. I had 4 whiteboard and 1 lunch interview with the e team. After this, I was told that my application is going through the Hiring Committee. Hiring committee asked my HR to find a team for me before giving any decision. I then had two phone interviews with different teams in different departments
+
+Asked not to disclose   Answer Question
+
+May 31, 2013
+---------------
+I had applied through a job portal and my resume got Selected for a recuritment drive. We had been to the Oracle campus at 10 am. This was my first interview drive as an experience professional, Couldnt clear the interview but following are the 2 rounds which i have attended, 1) Written Test on the Java Objective( 1 hr) There were 60 question and we needed to answer it in an hour duration. Had prepared for this from a week and finally happy to get this round cleared with the highest score. most of the others also cleared so i presume the cut off was a bit low. 2) Technical Interview (1 Hr) Although it was called a technical interview , the first question itself made me loose all the hopes of getting a job. I was given 4 questions and out of which there is only 1 programming question which was a simple one on list. Rest all questions where of puzzle kind which really test your IQ and reasoning skills. interviewer gave some paper and asked me to answer in that , 45 min time was given to answer all the questions Well the interview process was bit disappointing as i dint get selected , But all said ,I am happy with my interview experience
+
+1. Given 2 candles of 8 mins and 11 mins life , how can you calculate 15 min, 19 min , 8 mins. 2. a rabbit can hop one step or two steps at a time , given N steps how many combinations are possible. 3. one puzzle on time and distance .. couldnt remember it sorry, 4. implement a single linked list , simple one :)   2 Answers
+
+Nov 25, 2014
+---------------
+phone which takes 1 hour, then called to do an onsite interview, there are 5 or 6, I don't really remember, overall the interview experience is good, questions been asked are all quite easy
+
+no difficult ones   Answer Question
+
+Dec 1, 2012
+---------------
+Part of the college campus hiring program. Recruiter got resume through campus career event, contacted me. No phone screening, so it's all about good resume, in particular good school & GPA. I got a one day onsite interview at HQ, where I talked with 4, 5 teams. Since each teams has seperate hiring decision, if you got pick by recruiters for onsite interviews, very high chance that you will have at least one offer from at least one team out of the 5 teams you talked with. Actually interview really depended on which team. Some team is just casual talks, while some teams actually ask technical questions, but quite easy and more about personality & skill fit. No general algorithm questions. Be friendly & talkative. Prepare to talk about your past project & relevant experience, it's the main bonus points.
+
+Got asked specific SQL knowledge questions for database team. For college hire, not about deep knowledge of db system, just experience on SQL use is good.   1 Answer
+
+Nov 29, 2012
+---------------
+First a phone chat lasts about one hour without technique question. Then a five-hour onsite interviewed with four engineerer. The onsite interviews are all about technique questions.
+
+Reading code about multi-thread. Writing code about linked list adding.   Answer Question
+
+Nov 28, 2012
+---------------
+I was initially contacted by the recruiter and they asked me to fly to the HQ in Redwood Shores. I talked to five different teams. Each interview took about 1.5 hours. The interview style vary from team to team and from person to person. Overall, the experience was great and I enjoyed the day I spent at Oracle HQ in Redwood Shores.
+
+They asked my work related questions, some puzzles, some technical stuff like coding / steps to host a website etc.   Answer Question
+
+Feb 25, 2013
+---------------
+I applied through a referral to a specific team. There were 4-5 rounds of interviews (all over telephone and no on-site which was kind of strange). The process took much longer than expected, but later I found it was because of budget cuts that they didn't hire for that product in that year.
+
+Given a BST, you are given pointer to child node, how will you find the parent node   Answer Question
+
+Oct 18, 2015
+---------------
+Basic data structure and algorithms questions were asked in the interview with database teams. I was given list of teams which were interested in interviewing me, I ranked them and then I was scheduled for interview with 5 teams. 1-2 hr interview with one team.
+
+Identify thread safe regions in a piece of code   Answer Question Write a simple SQL statement to find people with the same last name but not the same autogenerated ID in the same table.   1 Answer
+
+Nov 8, 2011
+---------------
+Was emailed by the recruiter for an onsite invitation without any phone interviews. Was told to pick from a set of short listed groups, mostly revolving around databases. Groups were selected by the recruiter from what they think matches my resume best. Some of the groups selected weren't really what I was interested in. Out of the groups I selected I only met with 1 group, the recruiter added 2 more groups which I did not select to my set of interviews for the onsite. Only did 3 interviews for my onsite, few technical questions. Interviewers were generally friendly and comfortable to talk to.
+
+No Question
+Dec 24, 2014
+---------------
+The interview process on campus was extremely streamlined and well organized. I had to appear for an online screening test which covered questions related to Data Structures and Java. After being shortlisted in the earlier process, I underwent two technical interviews and one HR interview. The technical interviews were mostly focused on Java and OOP terminologies.
+
+Questions related to Strings were difficult   Answer Question
+
+Jul 25, 2011
+---------------
+Contacted by internal recruiter via phone and email. First interview was technical phone screen. Second interview was technical phone interview and online collaboration coding assessment. Third interview was in-person panel interview with team members (developer, designer and hiring manager). Background check and offer process can take up to three weeks after the interview process is complete.
+
+Implement an IEnumerable class (C# coding skill test).   Answer Question
+
+Feb 20, 2011
+---------------
+questions about core java, previous projects, data structure and unix shell script.
+
+How do you think if here everyone works crazily hard? would you accept if you need to work at night?   Answer Question
+
+May 24, 2011
+---------------
+One hour phone interview, asked some questions about the projects that I worked on. And then asked some algorithm questions, the questions is very simply. One week later, get an on-site interview. the interview has 3 rounds: The first round: Questions related to OS, Kernel etc. The second round: Questions about the projects I have worked on, like which one is your favorite and why, describe the technical details. The finial round: Questions about data structures and algorithms. Sort a linked list, improve the performance by multi-thread (suppose on a multi-core system).
+
+Questions about OS and kernel. How an IO request processed by system, from user mode to kernel mode.   Answer Question Sort a linked list, improve the performance by multi-thread on multi-core system.   Answer Question
+
+Jan 5, 2012
+---------------
+As with most companies, an interview in a company can vary widely depending on who just happens to be your interviewer(s). This particular interview was less technical and focused more on the "soft skills" - what was my work style preference, how did I handle conflicts with others, etc etc. The technical part was average difficulty.
+
+What is your greatest weakness?   1 Answer
+
+Jul 1, 2014
+---------------
+meetings with managers and developers, get introduced to the projects, discuss my own experience, talk to multiple groups in the same day, have lunch together, questions about personality, no technical questions, people are all very nice
+
+no difficult question   Answer Question
+
+Aug 18, 2012
+---------------
+phone interview/ on site interview with two mangers. Couple of not too hard MySQL query based questions, but some unexpected questions like the one below. Missed on couple of questions.
+
+How would you determine the time zone under which a database was operating?   Answer Question
+
+Sep 6, 2014
+---------------
+Phone Interview. Then 2 day weekend location interview with 20+ applicants. Flew to Denver. One on one with managers. Technical interview. Group interview. Behavioral, personality, technical.xx xx xx xx xx
+
+Technical questions   Answer Question
+
+Dec 5, 2013
+---------------
+Interviewing and hiring process took a very long time. Although the hiring manager kept in contact during the process and apologized for the delay.
+
+None really, just the basic interview questions.   Answer Question
+
+Nov 27, 2012
+---------------
+Interview with Oracle through college recruiting 4 years ago. If you graduate from their list of target school, it is easy to get an onsite. Before the onsite, the recruiter sent you a list of groups that are interested in interviewing you. You can pick 6-7 to interview with. It a whole day process. Each team you usually talk to their hire manager and one developer. Not much technical questions with the manager. The developer would ask some technical questions.
+
+How to find the shortest path from city A to B.   Answer Question
+
+Mar 31, 2011
+---------------
+Phone interview followed with group interview. Interview with each of the team member, it took the whole day. The interview is OK, but one of the team member is taking too long. The manger has to intervene before he let me go. It seems they also like to ask some brain teaser questions, maybe learn it from google.
+
+Sorting algorithm   Answer Question
+
+Jul 17, 2009
+---------------
+Got a phone interview calls through university career center. This for internship position as a software engineer with oracle orlando office for summer 2009. The oracle Orlando office in my opinion deals with support operations. The initial phone phone was followed by on site interview.
+
+What is outer join?   1 Answer
+
+Feb 21, 2011
+---------------
+The interview went fine. It took a while before the HR finally drafted up an offer. Actually at that point, I though I didn't get an offer and were ready to move on. I asked HR to arrange another interview with another location. Weirdly enough, HR spent sometime to convince me the current location is very good, and said I got the offer a while back. Just didn't process through yet.
+
+Some concepts in Object Oriented programming. And some design patterns.   Answer Question
+
+Jan 20, 2010
+---------------
+Applied online. Was offered an interview onsite with 5 groups, about 1 hour for each group. Each group asked me questions about my background, specifically the projects I worked on. Everyone was quite nice and respectful. They took me out to lunch onsite with people unrelated to the groups I was interviewing so that I could ask more direct questions, if needed.
+
+Why use object-oriented programming?   1 Answer
+
+Mar 19, 2009
+---------------
+2-3 phone screens, then on site interview. 1 panel interview for technical questions. 1:1 interview with manager for interpersonal skills.
+
+multi threading   Answer Question
+
+Oct 13, 2015
+---------------
+The whole process was rushed making the first contact on Monday and interviewing on Wednesday. The interview was pretty standard, with some questions about my resume, some theoretical questions and some coding. Additionally, one of the two interviews was with an engineer that was receiving and sending messages to the point that I have to repeat myself twice. Another negative point is, that they ask you to bring copies of you resume although it is required that you submit it in its online application System.
+
+Write an algorithm to reverse a single linked list.   Answer Question Given a string with space separated words, write and algorithm to reverse the order of the words.   Answer Question
+
+Sep 2, 2015
+---------------
+The whole interview had around 5 rounds 1st was an online round followed by a puzzle solving round and the rest were interviews which had mostly puzzles and basics in C/C++ ,Java, Dbms and about your summer intern bad luck got rejected in hr
+
+mostly puzzles and basics in C/C++ ,Java, Dbms and about your summer intern bad luck got rejected in hr   Answer Question
+
+Aug 23, 2015
+---------------
+Quite challenging.The first round was easy and i had 4 technical rounds before HR interview.I applied to oracle through my campus placements.I had one to one interview where they focussed mainly on networks and operating system.i had many questions based on hands on experience which i managed to answer but i was declined due to the lack of clarity that was in my answers
+
+Few basic practical questions   Answer Question
+
+Sep 7, 2015
+---------------
+There was an initial aptitude + technical test. Students were shortlisted into one of the two profiles on the basis of their scores. There were two technical rounds. There were standard questions on data structures and algorithms,some questions on Java. OOP. Some friends were also asked puzzles. There was an interview with head of technical team followed by H.R interview. Some friends had more rounds as well.
+
+Why do you want to become a software engineer?   Answer Question
+
+Aug 4, 2015
+---------------
+First was written test then 2 technical interviews and then HR. We were asked to report in the morning. Around 100 people came. All interviewers were from south region. First interview was written test. It was having few aptitude questions and few java based question. No J2EE questions. Question were easy but still so many people did not qualify the test.
+
+Inheritance,Polymorphism,String Class,Abstraction. 2puzzles were asked. One was like there are 4 people and one bridge and 2 people can go at one time all 4 takes different time to cross the bridge then min time taken by all 4 people to cross the bridge. second was a matrix pattern which was asked to print. I searched alot on internet but didnt get exact solution for that. it was like 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 This matrix was asked to print like 12 59 634 7 10 13 14 11 8 12 15 16 I did not understand the pattern he rejected me on the basis of this question   Answer Question
+
+Aug 3, 2015
+---------------
+Initially, Online test was conducted ( 4 sections - Aptitude, Computer science, Logical and puzzle ) related questions and difficulty level was above average.Results came 3 days later and out of 700 students 97 got shortlisted from our college and they said that next set of interview process will go through in another college. So, Finally they shortlisted around 250 students (3 colleges including us). Again next there was logical reasoning written test where 4 questions were given and that questions has to be solved in 30 minutes and they mainly checked explanation part in how student have approached the problem and not for the correct solution. After that 100 students were shortlisted from 250 and the next round was paper coding round.They mainly checked logic part and 57 students were totally shortlisted for final set of technical interviews.
+
+How does Bit Torrent works? Protocol? Zigzag traversal of a binary tree SQL queries   Answer Question
+
+Oct 17, 2015
+---------------
+first round is online aptitude test next round was puzzles round they asked common puzzles and next round was coding round and next two technical rounds and after there is a hr interview
+
+mostly on java,dbms   Answer Question
+
+Jun 15, 2015
+---------------
+The process is of 3 tier first written all basic. Second Technical Interview they ask only what in which you are comfortable. So be sure what you say you are comfortable in you should be very good at that. Third is again technical interview they ask what you do, what process do you follow and project you are involve in.
+
+second smallest number of array with O(n)   1 Answer Abstract classes Vs Interface in many different scenario   1 Answer Inner classes and inner static class what are they   Answer Question
+
+Jun 10, 2015
+---------------
+5 Rounds of Interview, managerial, technical and vp rounds were conducted, in order to confirm the final conclusion.The interview had lots of technical questions, coding, analytical part and many more.
+
+Typically on Java and Multithreading,puzzles and managerial questions   1 Answer
+
+Sep 18, 2015
+---------------
+1st round aptitude 50 questions and cut off was 45 questions ,questions were easy but it was difficult to cross 45 questions in the time limit provided. 2nd round technical round 3rd round technical face to face round 4th managerial round 5th round with the H.R
+
+cutoff 45 questions   1 Answer
+
+May 29, 2015
+---------------
+1. Resume Screening. 2. Technical Overview : Telephonic interview. 3. Domain Specific : Telephonic interview. 4. Managerial : Telephonic interview. 5. Domain Specific Technical : Face to Face. 6. Managerial : Face to Face. 7. Director Level : Face to Face. 8. Senior Director : Face to Face. 9. Salary Negotiation : Telephonic.
+
+Domain specific technical questions.   Answer Question
+
+Mar 12, 2015
+---------------
+We had a written test followed by 4 rounds of technical and 1 HR round. After discussion with HR asked to leave . No response from then. The technical rounds comprised of details questions from java and j2ee in detail. Asked to design and write a couple of algorithms like reversing a string, finding a prime number from a given set of numbers also asked to design a whole website and other things rainging from database design or workspace management
+
+About java concepts   1 Answer
+
+Feb 3, 2015
+---------------
+I had behavioural and technical questions. Technical questions ranged from coding on a whiteboard( which wasn't bad ) But they also asked me a lot theoretical of questions about Operating System.
+
+Difference between heap and stack   Answer Question
+
+Jan 29, 2015
+---------------
+I got a call from a recruiter because they got my contact info from the Computer Science Department of my university. There were 3 interviewers on site from different teams of work and each one of them made me code 2 questions each, the questions were pretty standard and "easy" but I didn't went prepared so I failed the 3rd interviewer questions (although it was easy).
+
+1) Identify a loop in a linked list 2) Level-by-level traversal of tree 3) Design an object oriented class 4) Sorting questions 5) C++ language questions (and compiler related)   Answer Question
+
+Sep 21, 2014
+---------------
+Interview process is medium difficulty. The first round is purely technical .. 2nd would be face to face technical followed by manager's round and then director's round.. HR Round is the last followed by several processes related to offer release.. Getting an offer can take almost a month, from the date if 1st interview..
+
+Why do you want to join Oracle?   2 Answers
+
+Sep 19, 2014
+---------------
+Initial Aptitude and Technical test of basic level consisting of aptitude math and C,C++,Java and DBMS . Technical Round 1 which had easy to medium question on our domain and a little bit of C programming. Puzzles were asked too Technical Round 2 -( A little more serious level questions about the branch you studied in etc HR round- Good talking and convincing skills needed
+
+Why jump to IT when you are good in EE   Answer Question
+
+Sep 13, 2014
+---------------
+I was interviewed at Oracle Financial Software Services at collage placement. Aptitude round was hard, but then lots of students were selected for tech round. Tech round was easy, questions were based on resume, java oops and few HR type questions.Later HR was also good but they decided to eliminate from HR round too.
+
+On basic compilation and execution of java, JDK, JRE and JVM.   Answer Question
+
+Aug 31, 2014
+---------------
+1st round-Online test.( aptitude+technical+verbal+analtyical) 2nd round-Technical interview(Projects+Puzzles) Many aptitude questions were asked. All questions were based on the resume. Questions were based on DBMS, Java, C, C++ 3rd round-HR(about the company and a few HR questions)
+
+All questions very simple and based on computer basics   Answer Question
+
+Jun 7, 2014
+---------------
+Telephone interview first, then if successful another two in person interviews. Tell me what experience you have in shell programming, which operating systems are you familiar with, programming languages you know, do you know what is the recent biggest threat discovered on the Internet (wanted to hear about Heartbleed), recent projects you have done, interested in security and encryption, what are you most interested in developing(apps, OS, games)
+
+What is SSL.   Answer Question
+
+Mar 16, 2014
+---------------
+4 technical rounds. Focus of data structures and Algorithms. Was asked AVL trees. I was also asked to design a database for a shopping mall. Basic concepts in Object Oriented paradigms and Java. Working OS knowledge Linux. Finally an HR round which just to know if you speak well.
+
+Nothing difficult or unexpected if you prepare.   Answer Question
+
+Feb 26, 2014
+---------------
+There were three rounds of interviews. Expected to know the technical details in depth. But I also found that the interviewer did not know much technically. In such cases they assume based on the confidence of the candidate. But the interview results were announced quickly and the progress of the process was good.
+
+Puzzles were not expected   1 Answer
+
+Feb 18, 2014
+---------------
+One Telephonic, 3 rounds of Technical Interviews followed by HR and Managerial round
+
+why do u want to join oracle   Answer Question
+
+Feb 6, 2014
+---------------
+every round was easy. Oracle fusion team senior manager is so arrogant and thinks he knows everything. I rejected the offer because because of this, when working under such Managers you will never get promotion or good hike.
+
+Prepare yourself for java design patterns, string pool   Answer Question
+
+Jan 28, 2014
+---------------
+aptitude at the start and short list then two technical rounds and one hr aptitude questions were regading c/c++ and general apti first interview was technical skills and the second one was problem solvin
+
+No Question
+Jan 19, 2014
+---------------
+I applied online for java developer. Interviewed at Oracle in November 2013. I was interviewed by the project lead. It was technical. I got through the technical round. After that 2 HR rounds. I could not clear it because of my experience.
+
+No Question
+Jan 30, 2014
+---------------
+oracle App dev (oracle fusion) came to our campus. They took an online test which tested basic knowledge of ds,os,programming,dbms,grammar,apti and logical ability. the test was easy. They shortlisted around half of the candidates which had appeared for the test. The result of the test was declared after a week and a half and all the students shortlisted were to be a part of a pool campus drive to be taken place at iiit delhi. The interview process was unstructured and the recruiters behaved very unprofessionally. The ppt started 30 min late. The schedule was not announced beforehand, as a result of which most of the candidates had to wait for more than 6 hours even for the first round of interview. There was no uniformity in the difficulty level of the ques asked and the interviewers were asking random ques like write a code for solving so-do-ku or write code for solving a n*n tic tac toe. There was no uniform standard as some people were asked very easy ques like reverse a word. The interviewers seemed irritated and werent exactly polite. I was asked four questions in the first round. 1.there is a sorted array which has nos from 1 to 100.there is a missing no. Find that no without traversing the full array. 2.There is an array which consists of 1s and 0s. Shift all the 1s to right and 0s to left. 3.There is an array which consists of 1s and 0s and 2s. Shift all the 1s to right and 0s to left and 2s to the middle. 4. Reverse only the sequence of words in the string. The interviewer interviewed two candidates simultaneously. Which made the process very confusing. The interviewer seemed sleep deprived and sat with his head down during the time i coded the ques. He just wanted to get over with the process. He was unenthusiastic and demotivating. He told me to wait outside which was their code word for you have been selected for the next round. Twenty mins after the 1st round i was called for the second round. The interviewer dint even acknowledge me. He asked what ques i was asked in my previous interview and asked me to tell him about myself. He then told me to code towers of Hanoi. When i him to explain the problem he looked as if someone had struck him with a rod. He quickly explained the problem without divulging the fact that the blocks had to be picked up on by one. As a result i coded the problem wrong. He gave me this problem to solve and went out. He returned after 40 min and dint even apologize. He was in fact worse than the first interviewer. He saw the solution and then told me the detail which he had forgot to mention. i asked him to give me a few more min to code. He went outside again. this time he came after 10 min and i explained him the logic. He seemed satisfied with the logic but refused to give me more time to code. After that he told me "you are done for the day" which implied that i was eliminated. They dint even have the courtesy to say the exact words that you are eliminated from the process that and created a lot of confusion and embarrassment. Some people who were supposedly eliminated ended up staying a few hours extra thinking they were selected for the next round just because the interviewer used such ambiguous words and did not say clearly whether they were in for the next round or not. The whole interview experience was very bad.
+
+1.there is a sorted array which has nos from 1 to 100.there is a missing no. Find that no without traversing the full array. 2.There is an array which consists of 1s and 0s. Shift all the 1s to right and 0s to left. 3.There is an array which consists of 1s and 0s and 2s. Shift all the 1s to right and 0s to left and 2s to the middle. 4. Reverse only the sequence of words in the string.   Answer Question
+
+Jan 6, 2014
+---------------
+Initially a programming round was there. After that 2 technical rounds and 1 manager round was there.
+
+some questions from DS were asked which i dint prepare well.   Answer Question
+
+May 18, 2014
+---------------
+There were three rounds of interview and they were mainly focusing on data structures and also on your code writing skills. They were not interested that if you know SQL or not. And the better pointers you have the better is your chance to get selected because we were sorted according to our pointers an were not considered at the last.
+
+You have to reverse a string word by word.   Answer Question
+
+Aug 28, 2014
+---------------
+Interview happened at campus . short interview mostly luck based . asked about sql and cv . interested in finance knowledge as it is OFFS. communication must be good.Written is of good level . You need to be fast and good in verbal , quant and baic programming knowledge
+
+Why you not from IT/CS want to join OFFS   Answer Question
+
+Oct 12, 2013
+---------------
+First round was online technical and aptitude test. Tech. was tough. Aptitude was easy. Shortlisted students went through first interview round. Mostly OS and DSA related questions. It was around 40 min. After first interview we had final Tech. interview. I was shortlisted for second round. This was quite a long. Mine went for 1:30. They ( 2 interviewers) asked me almost everything related OS, DSA, C programming and Shell. You can only crack this interview if you are strong in all domains. I did not clear this round. After that they had HR round which was not that much important if you have done well in Tech. rounds. I guess it was just formality type thing.
+
+Shell related questions were most difficult   Answer Question
+
+Sep 12, 2013
+---------------
+The placement process of Oracle comprises of two main sections. First is the written test and the second one is an interview. Apart from these, they conduct group discussion as well. The written test contains questions from topics such as Computer Science Knowledge, Data Structures, OS Concepts, Verbal Ability, Reasoning and General English. There will be 30 questions from Computer Science which needs to be finished in 30 minutes. Twenty five questions will be asked from General English. Maximum time allotted for this section is 25 minutes. Reasoning section will contain 35 questions which have to be completed in 35 minutes. The duration of the test is 90 minutes. Candidates can expect questions from technical section such as C, C++, Java, SQL, Data structure, PL SQL, etc. The English section contains jumbled sentences, fit in appropriate words, tense correction and sentence correction. Candidates who have cleared the written test will be shortlisted for group discussion as well as personal interview. Candidate’s communication skill and awareness in general knowledge will be measured in group discussion. In technical interview, candidates can expect questions from the his area of specialization. Candidates should have a thorough knowledge in their core subject to clear the technical round successfully. Apart from this, candidates will be asked questions to measure their ability to handle tough situations, projects done, etc.
+
+SQL queries   Answer Question
+
+Oct 3, 2013
+---------------
+Online Test followed by 2-3 interviews..Online test was basic english aptitude and coding mcq's...For interviews prepare basic java and dbms
+
+Interviews were very easy.Be good at sql queries.   Answer Question
+
+Oct 7, 2013
+---------------
+Four interviews-2 technical,1 managerial,1 hr
+
+Operating system and C concepts   Answer Question
+
+Sep 24, 2013
+---------------
+I applied through college or university. 1st online written than interview for almost all the candidates.
+
+prepare for OOAD.   Answer Question
+
+Mar 7, 2013
+---------------
+it was through an offcampus drive asked about data structures databases and operating system basics consisted two big questions had to answer one of them
+
+No Question
+Mar 3, 2013
+---------------
+not very tough.. asked to write code. lots of discussion what I have done in last job. some questions from DB.
+
+When can you join?   1 Answer
+
+May 1, 2013
+---------------
+Cleared all interviews but the offer letter came after 3 months. :-/
+
+write code to find if two linked lists have a common node.   Answer Question
+
+Apr 27, 2013
+---------------
+Aptitude Test followed by phone interview.
+
+What's Exalogic?   Answer Question
+
+Nov 6, 2012
+---------------
+Directly invited by HR via email and scheduled an on-site three weeks later. The whole interview process works fine and as a potential employee, you would have more than enough opportunities to receive an offer from the company. I think they maintain a relatively strict invitation bar to limit school from which the candidate would graduate.
+
+If there are 8 coins out of which 7 are of the same weight and the remaining one with slightly different weight then how to determine the odd coin in three ‘weightings’ using spring balance. All the coins are of the same dimension There are 100 steps and an ice cube. There is a particular step and all the steps above it from where if the ice cube is thrown then the ice cube would break. What is the minimum number of tries required to determine that step.   Answer Question
+
+Oct 8, 2012
+---------------
+The first round in the recruitment process of Oracle was the written test. It was an online written test. The test consisted of 6 sections: logical reasoning, aptitude, programming, English and a 5 minute quick test. I cannot recall the 6th section. In 5 minute quick test section the questions were like finding the incorrect number in the given sequence of numbers or finding the next number in the given sequence of numbers and so on. In programming section the questions were from data structure and database management. However, not a lot of weightage was given to this section, even a candidate who had performed well in the other sections but not so well in the programming section qualified for the next round. Oracle shortlisted 40 students for the interview round. Interview: Round 1: Personal Interview In the interview I was asked some programming questions and some puzzles. Some of the programming questions were: What is binary search? Write down the code for the binary search for finding a number given a series of numbers. Finding the power of a number. For example 2^3
+
+Most questions asked form cracktheinterview.com   Answer Question
+
+Oct 12, 2012
+---------------
+It was too easy on the campus. Just questions on the resume.
+
+it's fine, all are basic question   Answer Question
+
+Sep 19, 2012
+---------------
+Got 30 mins phone screen from hiring manager, and asked me some question regarding to background. later on asked me couple of technical question, like algorithm, design pattern. the hiring manager invited me for onsite interview at that moment. but 2 days later. got reject mail from recruiter, really confused.
+
+Pragma exceptions in PL/SQL.   Answer Question
+
+Sep 16, 2012
+---------------
+Was called for interview 13 yrs back . Was asked silly PL/SQ questions. Made a few mistakes about features no one uses. Was asked about why Oracle . Said 'coz its the company whose products I've used the most.
+
+Some basic algorithms,DBMS and about training and projects   Answer Question
+
+Sep 14, 2012
+---------------
+It came to our campus for recruitment.First of all,there was a written test of 2 hours which included aptitude questions and technical(C,Data Structure,DBMS). Then,there were two rounds of Interview 1 TECH 1 HR
+
+most difficult question was from DS. it was based on AVL Trees.   Answer Question
+
+Sep 5, 2012
+---------------
+first online test, based on basic aptitude, quant, English and basic concepts of computer science DBMS, DSA, OOPS, OS Second round was of technical interview. basic c/cpp/dbms questions were asked. emphasis was on project work done. third HR round.
+
+No Question
+Aug 26, 2012
+---------------
+Three rounds of technical interview followed by HR
+
+Find a string in a file and replace with a given string   Answer Question
+
+Aug 25, 2012
+---------------
+there were 3 interviews , 2 technical and 1 HR , all the interviewers were very friendly .
+
+mostly the tough questions were from DS. it started from basics then it became more complex..   Answer Question
+
+Sep 2, 2012
+---------------
+first online test, basically aptitude, quant, data interpretation, English and basic concepts of computer science DBMS, DS, OOPS, OS, second round tech. interviews 1:1, mostly questions from area of interest and projects done, third HR interview.
+
+Given a huge string,find out all the possible substrings that are palindromes . Also find the length of the largest palindrome. Also print the largest palindrome   Answer Question Basics of OOPS and MYSQL   Answer Question
+
+Oct 15, 2012
+---------------
+Shortlist on the basis of cgpa,Online test, three round of interview. Each round is an elimination round.
+
+mostly difficult questions are from the projects you have done.   Answer Question
+
+Aug 4, 2013
+---------------
+written test for one and half hour, including questions from quant, apti, flowchart, technical echnical: 20 question(trees-binary trees, AVL trees, red-black trees, complexity,c++, java basics, DBMS) apti: 35 questions(mathematical reasoning-10, aptitude-10, data retention questions-10, flowchart based questions-5) IT apti: os, oops concepts, dbms basics) english: 20 questions(grammar, sentence completion, passage) interview process includes questions from data structure and project done in college
+
+all the questions were basics that a software engineer fresher should know..   Answer Question
+
+Feb 22, 2013
+---------------
+Campus interview, the first round was an online test which had sections on aptitude, verbal, programming, computer basics. The second round was a technical interview where basics from most of the computer science subjects were asked. The third was a HR round which was mostly conversational, situation-based questions were asked. Selection was based on points i guess, the results were announced later in the day.
+
+actully in aptitude we dint expect java to be asked. so that was unexpected.   Answer Question
+
+Aug 11, 2012
+---------------
+The company came to our campus for campus selections. There were three rounds. first round was aptitude test. It comprised of many sections, like math aptitude, verbal aptitude, and dbms based que were asked. and there was another section where concepts on trees were asked. those que were in java. syntax in java was not checked. its just understndng the code. and que were moooosssstlyyy from previous que papers. you can get them from net very easily.. and some concepts in java were checked.. al d best guys.. plss go through all previous que papers.. it will b a lot of help.. in our college, aptitude test was taken on one day and after a week they came with shortlist of students and there was a technicl interview and HR interview.. again previous que will be helpfull.. mostly dbms and dsa will be focussed. and on ur resume. thry are very much intrested in java and dbms in interviews.. they were three rounds of technical interviews..
+
+avl trees based questions   Answer Question
+
+Aug 12, 2012
+---------------
+it compised of 3 or 4 sections included almost everything from dbms os to trees ds and programming, apptitude
+
+time management   Answer Question
+
+Jul 25, 2012
+---------------
+first an online aptitude test then they will shortlist the candidates for interview. aptitude is of 45 questions both quatitative,technical and english. interview process is 2 step technical and hr.. all steps are elimination steps
+
+implement cache manager   Answer Question
+
+Apr 29, 2013
+---------------
+A company which allows to grow you in every way be it professional, personnel. better working conditions and environment. You will get to know all the things in oracle. A company which is worth to join and it believes in long term association with the employee. Cons – - Not a good pay master Advice to Senior Management – - Management should think about the salary they are offering to their employee is not the industry std, that too in the city like Bangalore
+
+No Question
+Oct 12, 2015
+---------------
+three levels of interview.. technical and management.. three different levels.. need to have a through understanding of what you know and what technologies you have no matter u know advanced frameworks. so be clear what you are clear with then you can crack the interview.
+
+core java, and project details you worked with and puzzles   Answer Question
+
+Feb 13, 2012
+---------------
+The overall opinion about interview is like "they want to prove that you don't know anything and they are the master of masters". Very poor approach and communication skills. The interview process organized very poor. They are looking for coder-robot people. Overall experience - negative.
+
+what IDE you have been using.   1 Answer tell us about your background   Answer Question what is the difference between Vector and ArrayList   1 Answer Java generics - tell us from which version it was in the JDK and why to use them   1 Answer the final keyword in java final method/class etc   1 Answer
+
+Nov 4, 2012
+---------------
+Really bad. I have been waiting for over 8 months but zero progress
+
+Biggest challenge you faced.   Answer Question
+
+May 30, 2012
+---------------
+It was a general interview with questions like: 1. What do you want to do 5 years down the line? 2. What was the most challenging thing you faced in your earlier job? 3. What did you do outside project work that was used by the project later?
+
+BTree structure , recursive functions with fork, and Fibonacci algorithms.   1 Answer
+
+Nov 18, 2011
+---------------
+Previous work experiences, a technical quiz
+
+Can you start right away?   1 Answer Can you program in this language?   1 Answer
+
+Oct 24, 2011
+---------------
+I was warned off by current employees/friends that working at Oracle was not a good thing at all
+
+RDBMS questions were also asked.   1 Answer
+
+Jan 4, 2014
+---------------
+It was very easy. Simple ds , os algorithm and java questions were asked.
+
+Design a game of tic tac toe   Answer Question
+
+May 8, 2012
+---------------
+Recruiter Called. Called onsite. Met with various teams. Offer
+
+How would you use a union in C?   1 Answer
+
+Nov 17, 2011
+---------------
+Each department has their own style of interview. Most departments spent most of the time explaining what the department does and the organization. There were very few personal questions. The former Sun departments were much different. In those, I was asked technical questions, as well as questions about my background. For example, the Solaris team asked many questions about C, operating systems, and relevant mathematics.
+
+Design Java IO library using inheritance and composition   Answer Question
+
+May 17, 2015
+---------------
+Interview process was done at campus, 3 technical round + 1 HR 1) Core Java in-depth question, like virtual method, dynamic invoke, classloader, Inheritance versus composition when to use inheritance or composition, Why overloading is static binding and overriding is dynamic binding, etc 2) Programming Puzzle 3) Design use-case on inheritance and same using composition.
+
+No Question
+Jun 27, 2014
+---------------
+The hiring process is always slow. Often there is a huge gap between rounds of interviews as the process does not end in one day. background verification is very strict and will take a long time. And If you are selected, you will have to wait for very long before you can get your offer letter. Make sure you stay connected with the HR or the manager who has hired you to follow up on the offer letter once selected. The interviews are mostly easy with questions on c and java basic concepts
+
+none, Questions are basic and theoritical   Answer Question
+
+Jan 15, 2014
+---------------
+HR interview of about 30min, followed by 2 1hr sessions with two engineers at a time, followed by a session with VP R&D. Hiring decision was within a day.
+
+Explain a project you've done, with 30min of going into small details and making me improve it.   Answer Question
+
+May 18, 2012
+---------------
+overall good and not so intense experience, got an referral and finished up meeting the whole team in one day and got the offer.
+
+why Oracle   Answer Question
+
+Feb 24, 2011
+---------------
+Written round : Consisting of Aptitude + Basics of C/DBMS/JAVA 3 Rounds of technical interview. Pl/SQL programming logic and DBMS logic. Each round of technical interview went on for 1+ hour Face to face and one on one session. Interviewer were very polite and friendly, Will make you comfortable, will provide you enough time to answer. I was out in last round, The experience was great
+
+Cursors and procedures   1 Answer
+
+Dec 17, 2011
+---------------
+1 Telephone Round , 3 1:1 Interviews , 1 Coding Round , 1 Practice Test
+
+Describe Your Best project done ?   Answer Question Describe a situation when you had to take a tough decision ?   Answer Question
+
+Feb 3, 2012
+---------------
+Interview was based on testing my abilities in JAVA. Rather than judging my JAVA skills, they started judging my attitude and how I talk to people.
+
+There is no question which I found as difficult.   Answer Question
+
+May 4, 2010
+---------------
+It was basically a very good experience. There were 4 rounds of interview. 2 Technical and 2 Managerial level which were also sort of technical + HR. In the first two rounds they asked about java, j2ee. Also they asked some puzzles. So prepare well for java. They are checking your basics.
+
+Java Basics. Threading, Access Specifiers, Inheritance, Excpetions   Answer Question
+
+Nov 28, 2009
+---------------
+The interviews are more about the company providing information about their teams rather than judging the candidate. There were multiple interviews, each lasting about an hour and a quarter. The interviews were generally conducted by a manager or director, and sometimes had some technical component by an engineer. Overall, they provided a good experience, with a lot of information about specific teams.
+
+Why did you select this particular team to interview with?   Answer Question
+
+Jul 30, 2010
+---------------
+The interview was scheduled on a very short notice. It was ok. The technical panel was very sound and were getting hold to each of the mistakes in the explanation.
+
+What were the previous projects that you worked on?   Answer Question why was the particular technology chosen?   Answer Question
+
+Mar 21, 2011
+---------------
+Basic Java and PL/SQL question. Code writing skills, programming skils. On soft skills asked to explain current project design.
+
+singleton pattern   1 Answer pl/sql procedures, cursors   Answer Question
+
+May 10, 2009
+---------------
+It was quick and gone
+
+Are you looking for a job to change or are you laidoff   Answer Question Why shall we hire you   Answer Question
+
+Jul 13, 2009
+---------------
+Oracle came to my collage campus for hiring. The selection process consisted of 3 rounds of personal interview in technical domain and 1 personal interview in HR domain. First interview mainly consisted of puzzles and C basics. Second interview consisted of Data Structures and Algorithms (BST, Stacks, Queues, Linked Lists etc.). Third interview round was based on coding skills (how well you can code in C). They were checking syntax and coding style. Fourth and last HR interview was easy. Interviewer asked about my background after looking my resume and that's it.
+
+Given a linked list. Write a C program to reverse it.   3 Answers
+
+Aug 1, 2012
+---------------
+You will be contacted by a recruiter and there will be several rounds of interviews - telephonic, video-conferencing and personal. Number of rounds of interviews, followed by a HR round. All Oracle offers are approved in the US, so period between interview and offer will take a few weeks. You need to be patient.
+
+Am not a technical person   1 Answer
+
+Feb 17, 2010
+---------------
+The interview started with behavioral questions. After that the interviewer asked me questions about my resume, what all I had done in the university i.e. academic projects. For the technical part the questions were mostly related to unix and PL/SQL. Also I was asked basic Java questions such as garbage collection, access speccifier etc. Only the unix part was difficult rest of the interview was average.
+
+How is garbage collection achieved in Java.   Answer Question
+
+Oct 15, 2010
+---------------
+prepare! well before the interview.. nexpect nothing in return. put a spotlight on urself to see how bad u are at things.
+
+temme abt ur project   1 Answer
+
+May 21, 2009
+---------------
+-> Nice phone interview -> Not so tough but not so easy technical interview -> Mostly just checked if the basics are right -> Had a decent interview experience
+
+How do you avoid a deadlock in your program?   1 Answer
+
+Jun 25, 2012
+---------------
+The 1:1 interviews were fun, and got a lot of team/org cultures, got better insight on the team and product.
+
+mostly behavior questions.   Answer Question
+
+Mar 30, 2009
+---------------
+The employer was very friendly and comforting during the interview. There were 4-5 1:1 interviews during the day, and each was about 30 minutes to an hour. It wasn't too technical as other software companies might be; it was more personal and casual. The culture was quite individual in that each one does their job without supervision on most days.
+
+Why did you choose Oracle (vs. MS or Google)?   Answer Question
+

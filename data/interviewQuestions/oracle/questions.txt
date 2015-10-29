@@ -1,0 +1,508 @@
+Oct 11, 2015
+---------------
+Describe your most significant project   1 Answer Describe the most difficult bug you have ever had to find.   1 Answer
+
+Oct 2, 2015
+---------------
+The questions were similar to those in Cracking the Coding Interview or one of the other popular books. Definitely worth studying if you are rusty on your undergraduate level algorithm design.   Answer Question
+
+Apr 1, 2015
+---------------
+typical interview questions - nothing surprising   Answer Question
+
+Feb 25, 2015
+---------------
+It depends on groups that are interested in you. Some groups asks algorithm coding questions while others place more emphasis on communication and behavior. Anyway, you can assume nothing in advance, be prepared for data structure, algorithms and basic technical questions. After all, for a software engineer position, the responsibility is to write code every day.   Answer Question
+
+Feb 5, 2015
+---------------
+What's one thing you would change about your previous work environment?   Answer Question
+
+Feb 20, 2015
+---------------
+Mostly are general behavior questions about the projects on the resume like: 1. what is your strength? 2. what is your weakness? 3. what's your hobby? 4. what do you think is the most challenge part in XX project? 5. what do you want to get from the internship? tell me about But also some basic technical questions like: 1. tell me about some sorting algorithms you know? 2. how will you find out a bug in the program   Answer Question
+
+Feb 5, 2015
+---------------
+Mostly behavior questions and about my resume.   Answer Question
+
+Sep 22, 2015
+---------------
+How to efficiently query regions on a 2-D plane   1 Answer
+
+Mar 1, 2015
+---------------
+General questions about resume, and some little coding problems.   Answer Question
+
+Jan 5, 2015
+---------------
+Your resume, past projects, and conceptual technical questions related to past projects.   Answer Question
+
+Apr 20, 2015
+---------------
+some normal algorithm and design questions   Answer Question
+
+Oct 27, 2014
+---------------
+Explain how you'd design a large scale cloud system. What things would you take into account, scalabilty, backups, sharding, etc. I told him what I knew from my limited experience of scaling, and he helped me out in certain places.   Answer Question
+
+Dec 29, 2014
+---------------
+Which group do you want to work for?   Answer Question
+
+Oct 26, 2014
+---------------
+System Design   Answer Question
+
+Oct 26, 2014
+---------------
+The questions where very low level JAVA language questions. Questions like what is the Super class of all classes in JAVA. How does the class loader work. What are the different drivers in JDBC (he did want to know about JAVA JDBC Connectors so I do not know what he was referring to). The questions where mostly like this. Things that I never heard anyone else ask before on a JAVA interview.   2 Answers
+
+Aug 19, 2014
+---------------
+No difficult questions   Answer Question
+
+Feb 3, 2014
+---------------
+in-order traverse a binary tree   Answer Question
+
+Jan 22, 2014
+---------------
+All basic   Answer Question
+
+Jan 1, 2014
+---------------
+Questions were easy, basic programming, data structures, searches, threads.   Answer Question
+
+Mar 12, 2015
+---------------
+I don't remember any specific question, but it wasn't brainteasers but more of fundametnal questions.   Answer Question
+
+Jul 15, 2014
+---------------
+A great white board question I remember was "Find the second largest element in a Binary Search Tree"   1 Answer
+
+Sep 7, 2015
+---------------
+Spot checks on resume items   1 Answer Why do you want to work here?   1 Answer
+
+Aug 30, 2015
+---------------
+Describe your past experiences/projects that you find interesting.   1 Answer
+
+Jun 2, 2013
+---------------
+see above   1 Answer
+
+Jul 14, 2013
+---------------
+What is template specialization and give an example.   Answer Question
+
+Mar 3, 2013
+---------------
+no difficult questions   Answer Question
+
+Jun 25, 2013
+---------------
+First, the interviewer taught me how to write BASIC. Then I was asked to write a program using BASIC. The program is not a very tricky one.   Answer Question
+
+Sep 12, 2015
+---------------
+Asked not to disclose   Answer Question
+
+May 31, 2013
+---------------
+1. Given 2 candles of 8 mins and 11 mins life , how can you calculate 15 min, 19 min , 8 mins. 2. a rabbit can hop one step or two steps at a time , given N steps how many combinations are possible. 3. one puzzle on time and distance .. couldnt remember it sorry, 4. implement a single linked list , simple one :)   2 Answers
+
+Nov 25, 2014
+---------------
+no difficult ones   Answer Question
+
+Dec 1, 2012
+---------------
+Got asked specific SQL knowledge questions for database team. For college hire, not about deep knowledge of db system, just experience on SQL use is good.   1 Answer
+
+Nov 29, 2012
+---------------
+Reading code about multi-thread. Writing code about linked list adding.   Answer Question
+
+Nov 28, 2012
+---------------
+They asked my work related questions, some puzzles, some technical stuff like coding / steps to host a website etc.   Answer Question
+
+Feb 25, 2013
+---------------
+Given a BST, you are given pointer to child node, how will you find the parent node   Answer Question
+
+Oct 18, 2015
+---------------
+Identify thread safe regions in a piece of code   Answer Question Write a simple SQL statement to find people with the same last name but not the same autogenerated ID in the same table.   1 Answer
+
+Dec 24, 2014
+---------------
+Questions related to Strings were difficult   Answer Question
+
+Jul 25, 2011
+---------------
+Implement an IEnumerable class (C# coding skill test).   Answer Question
+
+Feb 20, 2011
+---------------
+How do you think if here everyone works crazily hard? would you accept if you need to work at night?   Answer Question
+
+May 24, 2011
+---------------
+Questions about OS and kernel. How an IO request processed by system, from user mode to kernel mode.   Answer Question Sort a linked list, improve the performance by multi-thread on multi-core system.   Answer Question
+
+Jan 5, 2012
+---------------
+What is your greatest weakness?   1 Answer
+
+Jul 1, 2014
+---------------
+no difficult question   Answer Question
+
+Aug 18, 2012
+---------------
+How would you determine the time zone under which a database was operating?   Answer Question
+
+Sep 6, 2014
+---------------
+Technical questions   Answer Question
+
+Dec 5, 2013
+---------------
+None really, just the basic interview questions.   Answer Question
+
+Nov 27, 2012
+---------------
+How to find the shortest path from city A to B.   Answer Question
+
+Mar 31, 2011
+---------------
+Sorting algorithm   Answer Question
+
+Jul 17, 2009
+---------------
+What is outer join?   1 Answer
+
+Feb 21, 2011
+---------------
+Some concepts in Object Oriented programming. And some design patterns.   Answer Question
+
+Jan 20, 2010
+---------------
+Why use object-oriented programming?   1 Answer
+
+Mar 19, 2009
+---------------
+multi threading   Answer Question
+
+Oct 13, 2015
+---------------
+Write an algorithm to reverse a single linked list.   Answer Question Given a string with space separated words, write and algorithm to reverse the order of the words.   Answer Question
+
+Sep 2, 2015
+---------------
+mostly puzzles and basics in C/C++ ,Java, Dbms and about your summer intern bad luck got rejected in hr   Answer Question
+
+Aug 23, 2015
+---------------
+Few basic practical questions   Answer Question
+
+Sep 7, 2015
+---------------
+Why do you want to become a software engineer?   Answer Question
+
+Aug 4, 2015
+---------------
+Inheritance,Polymorphism,String Class,Abstraction. 2puzzles were asked. One was like there are 4 people and one bridge and 2 people can go at one time all 4 takes different time to cross the bridge then min time taken by all 4 people to cross the bridge. second was a matrix pattern which was asked to print. I searched alot on internet but didnt get exact solution for that. it was like 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 This matrix was asked to print like 12 59 634 7 10 13 14 11 8 12 15 16 I did not understand the pattern he rejected me on the basis of this question   Answer Question
+
+Aug 3, 2015
+---------------
+How does Bit Torrent works? Protocol? Zigzag traversal of a binary tree SQL queries   Answer Question
+
+Oct 17, 2015
+---------------
+mostly on java,dbms   Answer Question
+
+Jun 15, 2015
+---------------
+second smallest number of array with O(n)   1 Answer Abstract classes Vs Interface in many different scenario   1 Answer Inner classes and inner static class what are they   Answer Question
+
+Jun 10, 2015
+---------------
+Typically on Java and Multithreading,puzzles and managerial questions   1 Answer
+
+Sep 18, 2015
+---------------
+cutoff 45 questions   1 Answer
+
+May 29, 2015
+---------------
+Domain specific technical questions.   Answer Question
+
+Mar 12, 2015
+---------------
+About java concepts   1 Answer
+
+Feb 3, 2015
+---------------
+Difference between heap and stack   Answer Question
+
+Jan 29, 2015
+---------------
+1) Identify a loop in a linked list 2) Level-by-level traversal of tree 3) Design an object oriented class 4) Sorting questions 5) C++ language questions (and compiler related)   Answer Question
+
+Sep 21, 2014
+---------------
+Why do you want to join Oracle?   2 Answers
+
+Sep 19, 2014
+---------------
+Why jump to IT when you are good in EE   Answer Question
+
+Sep 13, 2014
+---------------
+On basic compilation and execution of java, JDK, JRE and JVM.   Answer Question
+
+Aug 31, 2014
+---------------
+All questions very simple and based on computer basics   Answer Question
+
+Jun 7, 2014
+---------------
+What is SSL.   Answer Question
+
+Mar 16, 2014
+---------------
+Nothing difficult or unexpected if you prepare.   Answer Question
+
+Feb 26, 2014
+---------------
+Puzzles were not expected   1 Answer
+
+Feb 18, 2014
+---------------
+why do u want to join oracle   Answer Question
+
+Feb 6, 2014
+---------------
+Prepare yourself for java design patterns, string pool   Answer Question
+
+Jan 30, 2014
+---------------
+1.there is a sorted array which has nos from 1 to 100.there is a missing no. Find that no without traversing the full array. 2.There is an array which consists of 1s and 0s. Shift all the 1s to right and 0s to left. 3.There is an array which consists of 1s and 0s and 2s. Shift all the 1s to right and 0s to left and 2s to the middle. 4. Reverse only the sequence of words in the string.   Answer Question
+
+Jan 6, 2014
+---------------
+some questions from DS were asked which i dint prepare well.   Answer Question
+
+May 18, 2014
+---------------
+You have to reverse a string word by word.   Answer Question
+
+Aug 28, 2014
+---------------
+Why you not from IT/CS want to join OFFS   Answer Question
+
+Oct 12, 2013
+---------------
+Shell related questions were most difficult   Answer Question
+
+Sep 12, 2013
+---------------
+SQL queries   Answer Question
+
+Oct 3, 2013
+---------------
+Interviews were very easy.Be good at sql queries.   Answer Question
+
+Oct 7, 2013
+---------------
+Operating system and C concepts   Answer Question
+
+Sep 24, 2013
+---------------
+prepare for OOAD.   Answer Question
+
+Mar 3, 2013
+---------------
+When can you join?   1 Answer
+
+May 1, 2013
+---------------
+write code to find if two linked lists have a common node.   Answer Question
+
+Apr 27, 2013
+---------------
+What's Exalogic?   Answer Question
+
+Nov 6, 2012
+---------------
+If there are 8 coins out of which 7 are of the same weight and the remaining one with slightly different weight then how to determine the odd coin in three ‘weightings’ using spring balance. All the coins are of the same dimension There are 100 steps and an ice cube. There is a particular step and all the steps above it from where if the ice cube is thrown then the ice cube would break. What is the minimum number of tries required to determine that step.   Answer Question
+
+Oct 8, 2012
+---------------
+Most questions asked form cracktheinterview.com   Answer Question
+
+Oct 12, 2012
+---------------
+it's fine, all are basic question   Answer Question
+
+Sep 19, 2012
+---------------
+Pragma exceptions in PL/SQL.   Answer Question
+
+Sep 16, 2012
+---------------
+Some basic algorithms,DBMS and about training and projects   Answer Question
+
+Sep 14, 2012
+---------------
+most difficult question was from DS. it was based on AVL Trees.   Answer Question
+
+Aug 26, 2012
+---------------
+Find a string in a file and replace with a given string   Answer Question
+
+Aug 25, 2012
+---------------
+mostly the tough questions were from DS. it started from basics then it became more complex..   Answer Question
+
+Sep 2, 2012
+---------------
+Given a huge string,find out all the possible substrings that are palindromes . Also find the length of the largest palindrome. Also print the largest palindrome   Answer Question Basics of OOPS and MYSQL   Answer Question
+
+Oct 15, 2012
+---------------
+mostly difficult questions are from the projects you have done.   Answer Question
+
+Aug 4, 2013
+---------------
+all the questions were basics that a software engineer fresher should know..   Answer Question
+
+Feb 22, 2013
+---------------
+actully in aptitude we dint expect java to be asked. so that was unexpected.   Answer Question
+
+Aug 11, 2012
+---------------
+avl trees based questions   Answer Question
+
+Aug 12, 2012
+---------------
+time management   Answer Question
+
+Jul 25, 2012
+---------------
+implement cache manager   Answer Question
+
+Oct 12, 2015
+---------------
+core java, and project details you worked with and puzzles   Answer Question
+
+Feb 13, 2012
+---------------
+what IDE you have been using.   1 Answer tell us about your background   Answer Question what is the difference between Vector and ArrayList   1 Answer Java generics - tell us from which version it was in the JDK and why to use them   1 Answer the final keyword in java final method/class etc   1 Answer
+
+Nov 4, 2012
+---------------
+Biggest challenge you faced.   Answer Question
+
+May 30, 2012
+---------------
+BTree structure , recursive functions with fork, and Fibonacci algorithms.   1 Answer
+
+Nov 18, 2011
+---------------
+Can you start right away?   1 Answer Can you program in this language?   1 Answer
+
+Oct 24, 2011
+---------------
+RDBMS questions were also asked.   1 Answer
+
+Jan 4, 2014
+---------------
+Design a game of tic tac toe   Answer Question
+
+May 8, 2012
+---------------
+How would you use a union in C?   1 Answer
+
+Nov 17, 2011
+---------------
+Design Java IO library using inheritance and composition   Answer Question
+
+Jun 27, 2014
+---------------
+none, Questions are basic and theoritical   Answer Question
+
+Jan 15, 2014
+---------------
+Explain a project you've done, with 30min of going into small details and making me improve it.   Answer Question
+
+May 18, 2012
+---------------
+why Oracle   Answer Question
+
+Feb 24, 2011
+---------------
+Cursors and procedures   1 Answer
+
+Dec 17, 2011
+---------------
+Describe Your Best project done ?   Answer Question Describe a situation when you had to take a tough decision ?   Answer Question
+
+Feb 3, 2012
+---------------
+There is no question which I found as difficult.   Answer Question
+
+May 4, 2010
+---------------
+Java Basics. Threading, Access Specifiers, Inheritance, Excpetions   Answer Question
+
+Nov 28, 2009
+---------------
+Why did you select this particular team to interview with?   Answer Question
+
+Jul 30, 2010
+---------------
+What were the previous projects that you worked on?   Answer Question why was the particular technology chosen?   Answer Question
+
+Mar 21, 2011
+---------------
+singleton pattern   1 Answer pl/sql procedures, cursors   Answer Question
+
+May 10, 2009
+---------------
+Are you looking for a job to change or are you laidoff   Answer Question Why shall we hire you   Answer Question
+
+Jul 13, 2009
+---------------
+Given a linked list. Write a C program to reverse it.   3 Answers
+
+Aug 1, 2012
+---------------
+Am not a technical person   1 Answer
+
+Feb 17, 2010
+---------------
+How is garbage collection achieved in Java.   Answer Question
+
+Oct 15, 2010
+---------------
+temme abt ur project   1 Answer
+
+May 21, 2009
+---------------
+How do you avoid a deadlock in your program?   1 Answer
+
+Jun 25, 2012
+---------------
+mostly behavior questions.   Answer Question
+
+Mar 30, 2009
+---------------
+Why did you choose Oracle (vs. MS or Google)?   Answer Question
+
