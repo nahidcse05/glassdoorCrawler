@@ -247,7 +247,7 @@ public class Wrapper4eHealth extends WrapperBase {
 
     public static void main(String[] args) {
         
-    	String company = "cisco";
+    	String company = "ciscointern";
     	
     	Wrapper4eHealth wrapper = new Wrapper4eHealth(company);
         
@@ -260,14 +260,16 @@ public class Wrapper4eHealth extends WrapperBase {
     		range = 14;
     	else if(company.equalsIgnoreCase("cisco"))
     		range = 30;
+    	else if(company.equalsIgnoreCase("ciscointern"))
+    		range = 6;
     	
     	
     	
         for(int i=1;i<=range;i=i+1)
         {
         	
-        	
-        	String fileURL = "http://www.glassdoor.com/Interview/Cisco-Systems-Software-Engineer-Interview-Questions-EI_IE1425.0,13_KO14,31_IP"+i+".htm";
+        	String fileURL = "http://www.glassdoor.com/Interview/Cisco-Systems-Intern-Interview-Questions-EI_IE1425.0,13_KO14,20_IP"+i+".htm";
+        	//String fileURL = "http://www.glassdoor.com/Interview/Cisco-Systems-Software-Engineer-Interview-Questions-EI_IE1425.0,13_KO14,31_IP"+i+".htm";
         	//String fileURL = "http://www.glassdoor.com/Interview/Oracle-Software-Engineer-Interview-Questions-EI_IE1737.0,6_KO7,24_IP"+i+".htm";
         	//String fileURL = "http://www.glassdoor.com/Interview/Amazon-com-Software-Development-Engineer-Interview-Questions-EI_IE6036.0,10_KO11,40_IP"+i+".htm";
         	//String fileURL = "http://www.glassdoor.com/Interview/Microsoft-Software-Development-Engineer-Interview-Questions-EI_IE1651.0,9_KO10,39_IP"+i+".htm";

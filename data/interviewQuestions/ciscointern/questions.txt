@@ -1,0 +1,228 @@
+Oct 12, 2015
+---------------
+written had C and logical questions. Technical interview: Basic networking OSI model, Cisco Packet Tracer   Answer Question
+
+Aug 20, 2015
+---------------
+Tell us why you want to be at Cisco/   2 Answers
+
+Oct 5, 2015
+---------------
+where do you see the company within five   Answer Question is the company goals for their employees   Answer Question and what do you expect from your new employees just started with the company   Answer Question do you consider yourself a team player's   Answer Question is this a career or job for you   Answer Question
+
+Sep 1, 2015
+---------------
+Are you a night or morning person, and why?   Answer Question
+
+Jul 5, 2015
+---------------
+How would you feel if you got the position, knowing that it is because you are female?   1 Answer
+
+Mar 29, 2015
+---------------
+What is your experience in presenting technical information in a non-technical way?   Answer Question
+
+Apr 17, 2015
+---------------
+What is your opinion on the One-China policy?   Answer Question
+
+Feb 17, 2015
+---------------
+Why do you want to work for Cisco? What is a time when you had to work in a team?   Answer Question
+
+Feb 6, 2015
+---------------
+If Cisco created a new product, how would you know how many to manufacture?   Answer Question
+
+Feb 18, 2015
+---------------
+Team-work question. Programming Questions.   Answer Question
+
+Nov 11, 2014
+---------------
+8 balls the same size; one is heavier than others; how many times do you need to use a balance scale to find the ball? How many times if you don't know whether the ball is heavier or lighter? Light bulb in a room; three switches outside the room; can only go into the room once; how do you find which switch goes to the light?   3 Answers
+
+Nov 7, 2014
+---------------
+describe OSPF, also asked to tell them network, broadcast, and usable addresses for certain IP addresses in different subnets. No calculator obviously.   1 Answer
+
+Apr 23, 2014
+---------------
+All of the questions were very straight forward, no curveballs.   Answer Question
+
+Sep 22, 2015
+---------------
+Give me a time when you had to step up as a project leader?   Answer Question
+
+Nov 25, 2013
+---------------
+Questions on TCP   Answer Question
+
+Dec 11, 2013
+---------------
+The entire interview process was pretty easy and straightforward with mainly behavioral questions. Just remember to have a good explanation and demonstration of extracurriculars and projects.   Answer Question
+
+May 9, 2015
+---------------
+Company stock price?   1 Answer
+
+Nov 27, 2013
+---------------
+Where do you see yourself in 20 years as a programmer?   Answer Question
+
+Sep 29, 2013
+---------------
+Explain your favorite algorithm   Answer Question
+
+May 5, 2013
+---------------
+I did not expect so many questions regarding problem mitigation with my team of engineers.   Answer Question
+
+Feb 28, 2013
+---------------
+Nothing complicated, the very basics of the above areas   Answer Question
+
+Feb 13, 2013
+---------------
+Just asked about my experiences, extra-curricular, etc.   Answer Question
+
+Feb 19, 2013
+---------------
+How would you reverse a linked list (Iterative)?   Answer Question Given a linked list with nodes 1, 2, 3, 4 and 5 - how would you generate the linked list 1, 5, 2, 4 then 3?   1 Answer Given a memory location (or a reference), how would you determine whether it was located in the stack or the heap? Write a program to determine this.   Answer Question
+
+Oct 17, 2012
+---------------
+Nothing difficult.   Answer Question
+
+May 30, 2012
+---------------
+What is the difference between a queue and a stack? Then, describe which one should be implemented with a singly linked list and which one should be implemented with doubly linked list.   1 Answer What is polymorphism?   1 Answer In Java, what is the difference between an abstract class and an interface?   Answer Question
+
+Apr 5, 2013
+---------------
+Describe past internships and what you learned from them?   Answer Question How would you go over an array in C++ to check for different cases? (more or less, cant remember what else was entailed in this question).   Answer Question
+
+Dec 2, 2011
+---------------
+What do you know about MTU? Please explain what it does and/or how it is used to the best of your knowledge.   Answer Question
+
+Dec 18, 2012
+---------------
+Please write code to compute x^x without using multiple   5 Answers
+
+Aug 8, 2015
+---------------
+Why are you interested in Cisco?   Answer Question
+
+Feb 10, 2012
+---------------
+tell me a time when you faced a problem and you solved it   Answer Question
+
+Nov 1, 2010
+---------------
+Explain hash tables   Answer Question
+
+Mar 26, 2010
+---------------
+Some technical details about Linux (how to set the IP address.   Answer Question
+
+Aug 5, 2010
+---------------
+How would you handle a situation where one of your sub-ordinates is not performing his job, but used to work well when he was under someone else   Answer Question
+
+May 12, 2009
+---------------
+Programming Questions   Answer Question
+
+Mar 19, 2009
+---------------
+Like I said, most of the time he was answering my questions -- so there weren't that many questions. I think the fact that he didn't ask any technical question was what I was surprised about.   Answer Question
+
+Jul 10, 2015
+---------------
+What was your understanding of the project description? How do you plan to solve problems? How much time do you think you will need for each task?   Answer Question
+
+Oct 23, 2015
+---------------
+TO explain transfer of data using HTTP   Answer Question
+
+Mar 20, 2015
+---------------
+I was not even considered for the job, even when I deserved it   Answer Question
+
+Jan 28, 2015
+---------------
+How do you see the Internet of Everything evolve in the next 20 years?   Answer Question
+
+Aug 14, 2014
+---------------
+How would you work on a team project with people located in other offices? / How do you tend to organize your day?   Answer Question
+
+Aug 13, 2014
+---------------
+too much technical aspects   1 Answer
+
+Jan 16, 2014
+---------------
+explaining the nitty-grittys of a Big Data platform   Answer Question
+
+Jul 25, 2015
+---------------
+For me there was only one round interview were there. 1) program to count the occurrence of all letters in a string. 2) reverse a link list.. 3) Database questions. Normalization. 4) OS questions like deadlock conditions. 5) Questions on college projects. 5) Some HR questions   Answer Question
+
+Jul 25, 2013
+---------------
+i was given points linking all points in a single figure such that other points are interconnected in a way that we dont have to lift pen once touched down   Answer Question
+
+Sep 22, 2013
+---------------
+Operating System questions were tough   Answer Question
+
+Dec 6, 2012
+---------------
+Linked list implementation. How you reverse a single linked list.   Answer Question
+
+Nov 6, 2012
+---------------
+i was asked basic questions on the languages i mentioned in the resume.   Answer Question
+
+Dec 2, 2012
+---------------
+You have a scale and 10 coins. All coins look and feel exactly the same, but one weighs a little bit less or more than the others. What is the least number of weighings on the scale do you have to do to figure out which coin it is?   1 Answer
+
+Jul 25, 2012
+---------------
+Design RAM   Answer Question
+
+Jun 28, 2012
+---------------
+What are some of your greatest strengths/weaknesses?   Answer Question Tell me about some projects you've worked on.   Answer Question
+
+Jul 5, 2012
+---------------
+How are the function calls implemented ? Where does the memory being allocated for the function calls ?   Answer Question
+
+Apr 26, 2012
+---------------
+Did you have a problem with your team mate anytime and how did you handle it?   Answer Question
+
+Nov 25, 2011
+---------------
+Why should we hire you?   Answer Question
+
+Dec 19, 2011
+---------------
+Ironically, I didn't feel that there were any unexpected questions during this interview. It was much more of a conversation about my skills, expectations of my internship experience and the standard questions like "walk me through your resume" or "how will Cisco benefit from your skills" or "what is unique to you"...   Answer Question
+
+Aug 10, 2012
+---------------
+There were no difficult questions as such. They just test your basics in the interview and if you are well prepared you will get through.   Answer Question
+
+Jul 20, 2010
+---------------
+Given your past experience, have ever had to work with a very difficult person? For example, what would you do if someone got angry at you?   Answer Question How would you define the difference between managing and leading? How have you been able to show both in your past experience/roles?   Answer Question
+
+Dec 20, 2011
+---------------
+what is the difference between a router and a switch   Answer Question
+
