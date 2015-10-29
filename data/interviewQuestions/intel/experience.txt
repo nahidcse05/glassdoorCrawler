@@ -1,0 +1,1018 @@
+Oct 26, 2015
+---------------
+5 rounds of on-site interview. Two in the morning, one lunch interview and two in the afternoon. They were very friendly and did not ask many technical questions. They only asked me to introduce myself and go over the resume and talk about my skills. The whole experience was very pleasant. They reimbursed for the flight and hotel.
+
+Explain the difference between const int * and int const *.   Answer Question
+
+Sep 3, 2015
+---------------
+Phone screens with multiple groups of engineers. Asking casual and technical questions. Straight and to the point about the position. Usually a coding question or two at the end.
+
+Write some code to reverse a string.   1 Answer
+
+Oct 1, 2015
+---------------
+Submitted Resume on Intel Jobs site Received prescreening phone call from Engineering Manager Phone interviews, one hour each with the Project Manager and the Software Director One hour in person interview with the Project Manager In person interview with Software Director over lunch In person personality interview with the Engineering Manager
+
+Why would you want to leave your current position?   Answer Question
+
+Aug 27, 2015
+---------------
+It was a phone interview, they sent me an email two days earlier to inform me about the interview and then the interview took just 30 minutes. The interview was very easy and the interviewers were very nice.
+
+They just went through my resume and asked me questions about my previous work and some of the networking protocols that I know and what programming languages I use the most.   Answer Question
+
+Jun 24, 2015
+---------------
+I initially applied online and it took about two months to actually get called back. Once I got called back though, the process went very quickly! First, I was contacted for a phone screening that was pretty straightforward with a few behavioral questions and technical questions that felt like they were read off of a paper. After passing the phone screening I was contacted two days later with a second more technical phone screening. It also had a few behavioral questions and a few questions that actually asked me how I would design a program. A couple days after that, I was contacted for a flight out to the Intel campus for an in person interview. The flight scheduling was really nice, Intel covered everything (flight, hotel, car rental, food). The on campus interview was rather intense, not because it was hard but because it was draining. It started at 8:00 AM and I had interviews with 9 people (mostly 1 hour, but two were half hour) ending at 5:00 PM. The on campus interviews tended to always start with a behavioral question or two, then they would lead off into technical questions. I was asked to write code on a whiteboard, locate bugs in some printed code, write code on paper, and how I would design certain solutions (sometimes with code and sometimes with just a high level overview). The Intel campus was great! It was HUGE compared to what I'm used to. The campus had three food courts (which had some good food from the lunch that was provided for me), a spa and salon, massage therapist, gym (with karate and yoga classes at the moment, but I was told more are offered), play area (ping pong tables, pool tables, air hockey tables, and what's even better is people were actually playing!), US Bank branch (not just an ATM, but actually a desk with a teller), and health center with a doctor and nurses (you know, for all the injuries programmers get from typing. Actually, you can go there for all your regular checkups).
+
+Write a recursive Java function to reverse a String object   1 Answer Why should we hire you?   Answer Question Why do you want to work at Intel?   Answer Question How would you design a web service to limit a user to 1000 transactions per hour?   Answer Question If you have 8 coins and one weighs more than the others, give three algorithms with their best and worst case comparisons. Which of the three algorithms would you use? Alright, code the algorithm.   Answer Question Give an example of how you dealt with a stressful situation.   Answer Question Give an example of how you dealt with an angry coworker   Answer Question
+
+Oct 27, 2015
+---------------
+The requirements were shell scripting,Perl and TCl. It was Technical phone interview. They asked basic commands, what does the commands do like Pipeline,cat,>,<,>> in unix. They also asked few data structure questions and some sql queries.
+
+Basic unix commands and Perl commands   Answer Question
+
+Jun 9, 2015
+---------------
+Applied online after noticing posts on LinkedIn. Had two rounds of telephonic interviews. Both were 30 to 40 minutes long. They were very supportive and brought out the answers from me by providing hints and encouragement. I had a very pleasant experience interviewing with both the engineers.
+
+Questions mainly focused on the language C. The questions were directed towards gauging your understanding your understanding of how C works as a language and how compilers work in general. Questions included difference between C and Python, advantages of C, disadvantages of C.   1 Answer
+
+May 4, 2015
+---------------
+Met me in lobby and took me into a small room. Individually interviewed with several different high-up engineers separately. Process was about 2.5-3 hours total. They all asked me some conceptual questions, experience and behavioral.
+
+Describe parsing sets of data using excel and storing the parsed data into a proper data structure.   Answer Question Pros and cons of C/C++   Answer Question Dealing with a bad group member & resolution   Answer Question Resume questions, experience, how it will be helpful for their group   Answer Question Things I've built, what languages, why, what I learned   Answer Question
+
+Apr 9, 2015
+---------------
+I feel like my opinion of this is marred by the fact that the interviewer doing my phone screen had a thick accent and I couldn't understand him. Even though the questions asked weren't hard, the interview was difficult and I kept having to ask him to repeat himself, which probably did not make me look good.
+
+Create a binary tree and print its nodes in postorder.   Answer Question
+
+Jul 9, 2015
+---------------
+I had a phone interview with the hiring manager who asked me to talk about my previous work experience and the relevant coursework. I was also asked some basic technical questions related to C++. After this i was called for an onsite interview which had two rounds. One was technical where i was asked questions related to Embedded Systems and Operating Systems.After this it was similar to a HR round where I was supposed to answer how I reacted to various situations at my previous work place.
+
+Differences between Mutex and Semaphore...What is a Spin lock ? ....When would you use each of these? ..Difference between Structure and Union...   Answer Question
+
+Oct 15, 2015
+---------------
+2.5 hours of phone interview was scheduled after getting call from Intel - Hillsboro, Oregon campus as I was shortlisted during career fair at my university. 2 interviewers took the interview which was supposed to be for 2 hours but extended to two and a half hours. Was a very good experience to try solving questions and the interviewers were also very friendly.
+
+-Questions based on Resume -More knowledge based questions based on technologies stated in Resume -problem solving questions (Data Structs, Algos) -Puzzle -Design based question (Online Restaurant Management System) -Coding   Answer Question
+
+Sep 4, 2015
+---------------
+Interview process was a series of interviews. first was phone screening. then in person. then another in person. Just a series of in persons until you talk to the HR for comp package.
+
+where do you see yourself in 5 years.   Answer Question
+
+Apr 2, 2015
+---------------
+Interview was done via Microsoft Lync (like skype) and a collaborative coding tool where you can view code in real time. Interview consisted of both several technical questions and several questions about background and experience. Technical questions were C oriented, and the time given to answer them was rather limited. Interviewer was impatient and the interview itself was full of tension.
+
+Questions about inheritance, polymorphism, and pointers in C.   1 Answer
+
+Apr 19, 2015
+---------------
+the overall experience was not so great. They took whole 4 weeks to send a confirm process letter. I was very disappointed. I felt very sad too. Such a good company.Hope fully looking forward to the interview again. when and where the details are to be known soon. Not known too.
+
+basic computer software questions   Answer Question
+
+Jul 25, 2015
+---------------
+it is a nice experience. first round was phone interview, and invited to be onsite. Talked to 5 people in 4 hours. They are patience and provided clear explaination for questions. It was white boarding coding. computer basic questions, algorithms and data structure
+
+Describe how you'd create a clock within 10 minutes   Answer Question
+
+Apr 16, 2015
+---------------
+Difficult.. Had a lot of unexpected questions, there's not much else to say. They do try to filter out people that don't know what they're doing. Great office and great atmosphere. They recruit quite aggressively.
+
+What exactly happens in a computer system when there's a keyboard input interrupt, and how does the CPU process that instruction.   Answer Question
+
+Dec 30, 2014
+---------------
+I was contacted by two different teams on the phone for a "get to know you" call. I received a technical follow-up call from one of the teams that did not go very well. It was my mistake that I wasn't very prepared. So study up on things you think you already know! Then I came in for long day of interviews with people from the other team. It was I think six different interviews ranging from technical puzzle to coding to questions on how I work with others. The environment was very relaxed, casual, and pretty comfortable. Because of my first screw-up on the phone I had put a week's worth of hard studying/reviewing so I was well prepared for these interviews, and they went really well.
+
+Questions regrading C were difficult as they wanted for operating system debugging. So you need to know all about C and it's good if you read any C book to get idea about some detail orientated questions.   Answer Question
+
+Dec 11, 2014
+---------------
+Applied from career fair. Took 1 week to get interview. They contacted via email and set date and time for one hour of interview. Questions were from three areas only. 1) C (2) Operating system (3) Computer architecture. Operating system and computer architecture questions were easy, but not C.
+
+What is the difference between pentium 4 pipeline and RISC pipeline. What is the first instruction that the CPU executes. Write the PIN diagram of 8086 processor.   Answer Question
+
+Nov 10, 2014
+---------------
+The overall process was smooth and streamless, occurring within the span of a week or so. The interviewers were professional and friendly, and were attentive throughout the duration of the interviews. I was asked multiple questions regarding my personal goals and what I would like to accomplish at Intel. Additionally, I was told that I would have a good amount of flexibility within the team as well as ample resources to bring up my questions or suggestions to higher-ups.
+
+No Question
+Nov 5, 2014
+---------------
+I got referred by an acquaintance to the Windows OS team at Folsom. The overall interview process was around 3-4 weeks. I had an initial round of phone interview which concentrated on general operating system concepts. I was invited for an onsite interview at Folsom, CA. It was the worst experience that I have had in an interview. I think that the decision regarding hiring was made well before actually even interviewing me. There were 7 rounds of technical interviews. First round was good with generic discussion about my projects, operating system concepts etc. Second round was by an engineer with no proper communication skills, he was rude, unwilling to hear to my approach to problems. This was supossed to be a x86 coding round when I had no where listed that on my resume. Most of the rounds were primarily concentrated on computer architecture when I had very limited knowledge on the same. The interviewers seems very inconsiderate of the fact that I was a computer science student and not a CE student. The lunch interview was a pain, right from the moment we left the meeting room, till we came back the interviewer was constantly asking questions, with very limited time given to even have my food. I was expected to code on paper even the lunch interview round which seemed pretty insane to me. The worst part was the same team at Hillborough had no CE questions at all that were asked while interviewing the candiates.
+
+No Question
+Nov 5, 2014
+---------------
+Have two rounds of behavioral interviews instead of the typical one. First round was more of getting a sense of which department best suits you and then they send you off to another interviewer in that field to ask more behavioral and then more position specific questions.
+
+Tell me of a time where you used new technology to succeed   Answer Question
+
+Jan 20, 2015
+---------------
+Fairly straight forward process. HR interviews, Google hangout technician interviews, the works. Position and team were interesting but salary could not compete with other offers. HR is responsive and on time. The overall process is quick and painless.
+
+Truly a broad assortment of knowledge. Nothing too difficult though, honestly one of the easiest and smoothest processes.   Answer Question
+
+Oct 20, 2014
+---------------
+Best I ever had. Professional and focused. Friendly interviewers and very respectful and committed to the hiring process and to the candidate. HR was somewhat a bit slower than the technical stuff during the process
+
+Please explain what is the garbage collector and how it operates.   Answer Question
+
+Oct 18, 2014
+---------------
+Had initial phone interview in which they asked puzzles followed by Day long Interview- They went through entire resume; Technical questions regarding skills in resume; Some behavioral questions like How would you handle situations in a team setup; Some puzzles;
+
+What would you do if your teammate is not doing what he is supposed to do   2 Answers
+
+Nov 21, 2014
+---------------
+I was very impressed that the process moved so fast. No delays. The whole process took a fraction of the time it would take at other big companies. Had two rounds of phone interviews then was called onsite. At the onsite interview I had 7 rounds of interviews, one hour each. The first was with senior manager and focused on behavioral, goals questions and then basic questions from what I had written on my resume. The next 5 were technical. I was tested on C, Java because that was what I said I was most comfortable with. Questions ranged from knowledge of the language e.g questions about how the garbage collector in java works, to coding questions on trees, pointers, recursion, string manipulation, arrays etc. Some interviewers also asked computer architecture questions e.g. caches, superscalar processor design etc... The last meeting was with project manager. Asked few questions concerning whether I liked group members and projects being worked on. All in all the interviewers were very focused, professional, bright and helpful. It felt more like an interesting intellectual conversation than an interview.
+
+was related to stacks. can't say exact question   Answer Question
+
+Sep 26, 2014
+---------------
+They were very nice! Only two technical questions. They had a bunch of behavior questions. They wanted to see that I was well rounded and easy going. The interview was a positive experience for me.
+
+Describe a new technology and how it affected you.   Answer Question
+
+Sep 19, 2014
+---------------
+Applied online - got an email for setting up phone interview call. First interview call - directly with the hiring manager. Asked about past exp and resume then simple OS related questions and then some moderate level questions Second Interview call - with the team lead. Average OS related questions
+
+Nothing much difficicult   Answer Question
+
+Sep 2, 2014
+---------------
+The process takes one day and goes smoothly. Different interviewers focus on different domains, such as programming language, document reading and understanding, team cooperation and others. It is not easy to answer all questions. You need to think fast and give good answers. These interviews are quite smart. The technical questions are well prepared.
+
+When the task is impossible to finish within the given deadline, what should you do?   Answer Question
+
+Aug 13, 2014
+---------------
+Was an intern in the same team. Worked hard for 3 monthsand manager converted to full time with out interview. There was just a phone interview for internship. He was impressed with my skill sets and gave me internship oppurtunity.
+
+No questions asked that were difficult.   Answer Question
+
+Sep 13, 2014
+---------------
+I was working as an Intern and applied through internal website. There was an initial talk with the hiring team about my current project. Then two weeks later, a full day interview was scheduled. Multiple areas of computer Science curriculum were tested. One round was on virtualization and communication stack in VMs, one round on networking, one round was on Graph theory.
+
+A question related to Graph isomorphism was asked   Answer Question
+
+Jun 19, 2014
+---------------
+Applied online October 2013 and called for a phone interview in May 2014 (So don't lose hope). 20 min phone screen. Called for on-site which was 4 rounds 1v1 each 45 min- 2 tech and 2 behavioral. Interviewers were very cool and very helpful too. It was a fun and pleasant experience on my side.
+
+Varied behavioral questions. Technical focused on oops concepts(explain 4 pillars of OOP with examples). Was asked to write code to print the largest number in an unsorted integer array of infinite size. Although the position was for C#, they were cool about me coding in java.   1 Answer
+
+Jun 13, 2014
+---------------
+Applied online for several positions at a smaller Intel facility (~100 people). Took about 6 weeks for them to contact me by email saying they were interested. I then had a 30 minute phone screening which was primarily discussing my background. I was not asked to solve any technical problems. I heard back within a couple days that they wanted me for an onsite interview. Onsite interview was 4 hours long and consisted of meeting 6 people, two managers, two team leads, and two engineers. Mostly discussed my background and quizzed me on it. Engineers had some design questions for me. Notably not asked any algorithms questions. Finally I took a written test where I had to analyze and write some different code fragments. Was not difficult.
+
+I always have difficulty answering the more personal questions - "What makes you frustrated at work" The technical part of the interview was not challenging for me because I had a strong background in the material.   2 Answers
+
+Mar 13, 2014
+---------------
+Initial Phone Call interview- Basic questions about your projects and then covered concepts of operating systems, computer architecture and driver development. Selected for onsite interview.Total of 6 rounds of interview.Each interviewer making sure covering different topics -os,computer architecture, Intel Architecture, Synchronization techniques, data structures- programming. Took out for lunch and had a series of HR questions and generic technical questions related to resume and background. Reimbursed airfare,hotel.
+
+Gave a Modeling problem.Interrupt scenario and its consequences.   Answer Question
+
+Mar 20, 2014
+---------------
+Had a phone interview with many small questions related to computer architecture, operating systems and programming. Then offered onsite interview. Onsite interview was with 5 different people. Each kind of tried to cover different topics. Again questions came from computer architecture (i/o, memory hierarchy etc.), operating systems (cache consistency, virtual memory etc.), programming (c,c++,assembly). Last interviewer asked more general questions what would you do if you were in this case, what do you think about future of computers etc.
+
+Not about being difficult but they kind of tried to focus on and ask about things that I haven't mentioned in my resume or told them on phone interview such as virtualization, assembly programming etc. If you were looking for someone who already have experience with all of those you shouldn't have invited me for onsite. Or at least do not take them into account and look whether I can learn them or not.   Answer Question
+
+Feb 18, 2014
+---------------
+Apply through employee referral. Overall if was good
+
+Behavioral questions   Answer Question
+
+Mar 8, 2014
+---------------
+Applied for full time position at a university career fair. They were very interested in my PhD background. They gave me a phone interview after few days. The interview was one hour. I was asked about CS topics like: OS, Computer Architecture, Algorithms. After that I was offered an onsite interview.
+
+OS: Preemptive scheduling Critical section Deadlocks, semaphores, testandSet Assembly (function return) Interrupts table Computer Architecture: atomic instruction Virtual memory TLB Numa, MSI Caching Algorithms: Trees Linked list   Answer Question
+
+Feb 11, 2014
+---------------
+Just kind of called out of the blue. They didnt really interview me on much just asked basic c questions. Kind of easy to tell you the truth. If you have taken any sort of class in c your golden.
+
+Most of question about OS synchronization, mutex, semaphore, interrupt service routine, I/O handler, MSI cache coherence protocol.   Answer Question
+
+Jan 29, 2014
+---------------
+Submitted resume in on campus career fair. one week later, phone screen. No further information yet.
+
+Lot of low-level questions on how virtual memory works, security and the different levels of encryption. Mostly about windows, even though I'm a mac guy.   Answer Question
+
+Nov 20, 2013
+---------------
+Met with a manager on campus and scheduled an on-campus interview. I had 4 back to back, each being an hour conducted by different people. It was very easy, almost conversational rather than an interview.
+
+Detailed experience in testing building new OS for a new OS.   Answer Question
+
+Nov 21, 2013
+---------------
+It is an interview over phone call. Firstly, the interviewer introduced their teams and respect works. It is a team working on super computers. As a software team, they are doing testing in this new super computer. It works on a different OS other than Linux and Windows. Then after introduction, they ask me about my related experience in these fields.
+
+No Question
+Aug 30, 2013
+---------------
+I applied for a contract position here and I was interviewed by a manger who has 16 years experience at Intel, Portland. I have a experience of 5 years in the software industry and I was applying for jobs after a 2 years break in my career due to family reasons. I had worked on a startup idea and built and published an app and that was my recent experience. The manager just started off by belittling my skills and experience. His exact words were "Why did it take you so long to complete and publish this application? Wasn't there any one behind you with a stick (to beat you) while you were working on this app? ". I was horrified by the language used by the interviewer and I never followed up with them with the next steps after this experience. I was not asked many technical questions or anything about my previous experience. I don't know what was wrong with this interviewer or if any other interviewer was shadowing him, but I also found him giggling and talking while I was answering his questions. If they did not find my skills aligned to the position during the interview or if they already found another candidate for this position, there was a dignified and decent way of letting me know about it. I found an amazing opportunity with a company larger than Intel and I am very happy at my current position.
+
+how old are you   Answer Question
+
+Aug 19, 2013
+---------------
+lots of questions about searching routine
+
+Their manager from Oregon asked me to justify my GPA which was 3.5..asked why 0.5 was missing..   1 Answer
+
+Jul 14, 2013
+---------------
+First 2 phone calls, then I was invited for on-site interview. Next week the offer was extended.
+
+Everything was expected   Answer Question
+
+Jun 17, 2014
+---------------
+Systems software knowledge will be tested thoroughly. be familiar with x86 architecture. Be confident and truthful. Most people are friendly, very smart and warming. One of the best places to interview and to work for!
+
+How to find a missing element in an array   1 Answer
+
+Jun 13, 2013
+---------------
+Had applied through job fair.Got a call from manager. Had an HR round. Then was called onsite for interview to Arizona. Four rounds. One HR and 3 technical. Asked a lot about C# and ASP.net. A little database concepts too like normalization...etc Also had kind of a lunch interview at The Cheesecake factory..
+
+Coming from a C++ world, what does the static keyword do in a normal C program.   1 Answer
+
+Sep 17, 2014
+---------------
+I was interviewed last summer. One phone and then onsite, which consisted of 5 interviews, all 1:1. I was interviewed in Chandler, AZ and the questions were pretty decent. It involves some thinking and knowledge.
+
+* Write a spin lock * Bit manipulation questions   Answer Question
+
+Jul 31, 2014
+---------------
+First I had a written test about linux and basic programming questions. Then I was invited for onsite interviews. Two engineers asked me programming questions like sorting arrays, finding elements on it, time complexity, etc. I had to write in a whiteboard and explain my answer.
+
+I was asked some simple puzzle questions too. Like river crossing one and also how to measure 4 quarts with 3 and 5 quart mugs in hand. Some mathematical type puzzle questions simple ones. I stumbled upon a very simple array sort and merge as on concentrating on tough questions I couldn't solve a very simple question.   Answer Question
+
+Dec 12, 2013
+---------------
+Called up by hiring manager and enaged in an hour-long phone interview that seemed to center around all of the classes I was taking at that point. Flown out to Oregon and engaged in four separate interviews. Two of them were more software oriented. One discussed career desires, and one was mostly held because the person was asked to and had no interested in it. Technical interviews revolved around C questions, code analysis, and language theory.
+
+No Question
+May 27, 2013
+---------------
+An engineer contacted me and asked some questions regarding my resume and work experience and then asked to come for an on-site interview. No formal phone interview. The on-site interview was for about 5 hours with 5 engineers. No HR interview.
+
+No Question
+Mar 18, 2013
+---------------
+I was contacted on Jan 2013 telling my resume was present in their system and they would like to consider me for a Software Engineering position in the Manufacturing Department in Hillboro, OR. I took phone interviews in 2 weeks and was invited Onsite in a month after my phone interview. The interview over the phone was mainly a discussion in my resume , technical questions on the skills listen on my resume, simple array program. I was asked to coordinate with their travel agency in booking tickets and hotel. The Hotel shuttle took me to the main RA1 campus. I checked in, got my guest badge and was escorted to the interview room by a representative. I had 4 rounds of interviews with 3 to 2 people every time. Met 9 different people over all and also continued over a lunch discussion. I was asked behavioural questions most of the time and some technical questions like writing a piece of code on Paper. Mostly objective questions were asked based on the concepts I listed on my resume. I got a reply the immidiate evening telling I have a good feedback and will be let known next week about the next step in the process. Next week I was told offer has been initiated and was asked to provide my Visa, Employment History details. And by the end of that week I was told I have got an offer and would be contacted soon
+
+No Question
+Mar 8, 2013
+---------------
+Applied through Intel's website...... After a few weeks was contacted by the Hiring Manager...The Manager of the group where I applied.... Asked me questions regarding my CV.... asked about few projects that I had on my CV... then some behavioral questions...but no technical questions... Then informed me that I will have 1 or 2 technical interviews..... The only problem I had with the procedure was that one of the interviewer send me an email without explicitly telling me that it is the same position I already had my pre-technical interview and asked me for sometime on the same day.... I took it as a pre-technical interview of another position... (as I applied for multiple Intern positions so I wasnt sure).... My mistake was to accept the interview request.... I wasnt ready for it at that time.. and I was not properly informed.
+
+Questions on String Comparisons and checking different attributes   Answer Question
+
+Feb 28, 2013
+---------------
+Interview is scheduled very quickly, and I did answer all the questions, and they said the background matches, but after that no response. I think they do not like my age. Overall I feel I wasted too much time on Intel. I will just accept the other offer and forget about Intel. I also noticed the company moral is a bit low, probably due to layoffs, and manager keep saying needs VP to approve for hiring makes me believe that they are trying to control if not cut costing.
+
+No unexpected questions, all normal embedded questions which are pretty common   Answer Question
+
+Feb 24, 2013
+---------------
+4 tecnical rounds and 1 HR
+
+implement producer consumer problem   Answer Question
+
+Feb 23, 2013
+---------------
+send my resume to the hiring manager and got an one hour phone interview one month later.
+
+1. how is virtual address translated to physical address? 2. how to avoid conflict when two thread are trying to access one resource? 3. how to debug memory leak?   Answer Question
+
+Feb 24, 2013
+---------------
+Submit CV after 4 months long wait. Finally got HR's email says I am best fit and HM is very interesting on me. HM is gonna talk to me in following days. But both HR and HM are quiet another month and ask immediate talk.
+
+HR phone screen is nice, HM politely reviewed my skill and ask some experiences, he said couple times I am best fit in several candidate screen. 3rd interview set by foreign born technical guy with accent. Nothing difficult, but he focused on many trivial questions, rude and frequently cut-off my answers. Most are chipset spec questions. This interview was very odd, he seemed mostly interested in demonstrating his own expertise in how familiar with chipset registers offset and bits function. I know these chipset features, but I didn't memorize it prior this interview. Those register bits are not notable and no need to recite everyday. Just open spec to get it in seconds. He questioned me many times, why I cannot memorize these registers address, it is very important blah blah blah.   Answer Question
+
+Jan 29, 2013
+---------------
+Entered resume in jobs online. Called by manager and phone screened. General questions about work experience. Brought onsite to speak with one lead architect, three senior engineers, one junior engineer, and the manager. Most talked about previous work experience. One very technical interview.
+
+When I click on the screen what happens?   Answer Question
+
+Jan 22, 2013
+---------------
+1 hour talk + 8 individual 1 hour interviews
+
+how to find a list is circular   1 Answer
+
+Nov 7, 2012
+---------------
+oncampus HR and technical interview was called onsite after a week. in Arizona. 6 technical interviews with various members from junior to hiring manager
+
+Algorithms questions , binary trees   Answer Question
+
+Nov 28, 2012
+---------------
+Met recruiter, who happened to be the US Intern Program Manager in the US for Intel, at a resume workshop here on MIT campus. We spoke for a bit about my resume and he told me I should apply to intern at Intel so I did. I corresponded with him over email here and there and gave him updated versions of my resume (in response to critique he gave during the resume workshop). After a month or two he said he was ready to start the interview process and the way it worked is that he tried to match me to a group so I was supposed to interview with individual groups. The guy from the interview really liked me I guess and I only got to interview for his group, Intel Architecture Group. Questions were very easy/standard: What is a class. Difference between Abstract class and Interface. What is polymorphism and why is it useful. Shallow Copy vs Deep Copy. VTables. A very simple (algorithm?) question:
+
+Given a list of numbers from 1 to 100 with 1 number missing, find the missing number?   3 Answers
+
+Apr 27, 2014
+---------------
+Interview process include an initial interview and one day on-site. For the on-site you will have 4~5 technical interviews, and having lunch with the prospect manager.
+
+I am asked to print out all the possible letter combinations on telephone pad when you punch in a 7-digit number.   1 Answer
+
+Oct 11, 2015
+---------------
+No interview, just a phone call. I was a freshman in college. I knew someone at the company and the work they had planned wasn't product work, so I got an easy in. It wasn't that hard, just had to answer a couple of questions about my experience and what I did so far.
+
+What languages do you know? What projects have you done?   Answer Question
+
+Jul 22, 2012
+---------------
+Telephonic Interview
+
+Basic C Questions virtual function,OS concept page fault, segmentation,Digital concepts difference between Flip flop/Latch, Code to create a node in Linklist list etc   Answer Question
+
+Jul 31, 2012
+---------------
+There were couple of Phone screening interviews. This was followed by 6 rounds onsite.
+
+Some code questions   Answer Question
+
+Jun 22, 2015
+---------------
+Process was Easy to moderate. Overall experience with HR and Hiring team was great. After the first telephonic interview, I was called onsite and the onsite interview had 9 rounds.
+
+Algorithms, Dynamic Programming, Bit Magic, Puzzles, Advanced Data Structures   Answer Question
+
+Apr 4, 2014
+---------------
+Was selected in RUSH hiring event which is for recent college graduates. Since I had graphics courses in my resume, I was called by 3 different teams for interviewing on the same day for graphics software engineer positions. One of the teams finally selected me :)
+
+No such question comes to my mind. Since I was applying for graphics developer positions, most of the questions were focused around graphics pipeline.   Answer Question
+
+May 31, 2012
+---------------
+Met the HR in Campus. Applied, had a 1-1 interview on campus, then one more over phone. Finally was called on site to Arizona Chandler. had 4 interviews there from the team. 2 coding and CS interview quests. 1 was a talk with the hiring manager and last was a design oriented interview. Looked well, thought I would get through, but no. got the standard reply mail - thank you for applying!
+
+Tell me what you know about hashing   Answer Question
+
+Mar 15, 2013
+---------------
+Recruiter called me for a phone interview
+
+Difference between L1 and L2 cache...   1 Answer
+
+Dec 31, 2013
+---------------
+Phone call and then two rounds of on-site
+
+Synchronization (Semaphores and Monitors):   1 Answer
+
+Sep 28, 2014
+---------------
+Entered the company through a competitive co-op program. Interview was conducted with a representative from many other companies who would receive a lottery pick at the end of a day. Picks were chosen based on a companies preferences and who was available at the position in draft. Interviews only took 10 minutes and were a mix of behavioral and some technical questions, specifically preferences.
+
+How can you reverse a string in C?   Answer Question
+
+Jun 4, 2012
+---------------
+Someone called me out of the blue because they got my resume out of a conference job fair pile. I had 1 non-technical phone screen, 1 technical phone screen (about an hour), and 1 all-day interview on-site. I didn't think the process was that hard in retrospect, though it was stressful at the time.
+
+Here's a linked list. Insert, delete, and move a node.   Answer Question Here's a piece of code. Find the bugs.   1 Answer
+
+Mar 27, 2012
+---------------
+I applied initially to Intel job site for this position. I got a call from team member who did initial screen interview for 30 mins. He verified my experience and asked few basic technical questions. After that I got a call from recruiter saying I need to be in San Jose for technical interview with team in 1 week. They made all arrangements for travel and stay. On the interview date I met with the team and had one to one interview with each team members. We quickly realized that my skills were different from what they were looking for. All in all, very good experience. Would defiantly consider Intel for future opportunities. One more advice, if you are going for software position in device and platform team, make sure you know basics of operating systems very well.
+
+Difference between mutex and semaphore. how they are implemented.   1 Answer How Linux system call works in details. How does user space and kernel space communicate ?   1 Answer
+
+Feb 25, 2012
+---------------
+I received an email from my department asking me to send my resume to a Software Engineer position at Intel. I sent my resume and after about a month, I was contacted directly by a Team lead from the Power Management group at Intel. They asked me my preferred date and time for the phone interview and I scheduled it a week later.
+
+Strategies for Power Management in multicores   Answer Question How do sequential Circuits work   Answer Question Explain about pipelining   Answer Question
+
+Feb 8, 2012
+---------------
+I had an interview with the STTD team at Intel. It was a four round interview for the software+hardware engineer position. The team sort of involves the employee in lab work and software development jobs. they asked me questions on comp architecture, OS, software development and simple circuit analysis, C++. Circuit analysis - With a simple resistor, ammeter and diode - was asked to check if the diode is forward biased Comp architecture - Virtual memory, difference between RAM and ROM, advantages and disadvantages, caches, levels of caches, what is the whole point of so many levels of cache, cache coherency OS - how do process communicate, multithreading and multiprocessing differences C++ - pointers, references, object-oriented concepts
+
+What is cache coherency? How is it maintained?   Answer Question How do processes on a processor communicate?   Answer Question
+
+Jul 26, 2011
+---------------
+I got an email requesting an interview. The interview went good, it was all technical. However, I didn't receive an offer.
+
+Tell me about a project you designed   Answer Question
+
+Aug 25, 2011
+---------------
+Contacted by a recruiter, talked for 5 minutes about general stuff... my interests, what the position is about, the group at Intel. A week later I was notified that they would like me for an on-site interview in a week. At the on-site interview I met with 7 people during one morning... 8am-12pm. This being a Software Engineering position I expected at least some technical questions, but I received none! The only technical question was one casual "can you code?". To which I replied yes of course. Every interviewer asked me what I did for my PhD and we generally talked about my work. It seems that the most important thing for them was to determine whether I'll be a good fit with my vision, interests and prior experience. I would say personality is definitely another thing they look for even though you may not notice it. People in this group seemed pretty young and open minded... especially the group leader (boss). The position in itself wasn't really the "code in the trenches" kind and it has quite a bit of flexibility and requires creativity and novel approaches. Perhaps that's why they were more interested in the vision and interests than coding.
+
+Why would you be a good fit to this group?   Answer Question Questions about my PhD work where I had to justify my decisions. They were difficult because the questions were coming from a different perspective than I would typically meet in academia.   Answer Question
+
+Aug 12, 2015
+---------------
+Technical Phone Interview which asked me questions about the technologies used in my resume. Day long behavior and technical interviews on-site where I was grilled and had to write code on a whiteboard.
+
+How can you describe an opportunity to show technical leadership you&amp;#039;ve had in the past?   Answer Question
+
+Oct 15, 2015
+---------------
+The process was several technical and behavior questions. For example, Do you have any experience with Model View Controller architecture? Do you have any experience with 3-tier architecture? What is agile software development? Are you familiar with Scrum? What is Scrum?
+
+The process was several software development technical and behavior questions   Answer Question
+
+May 18, 2015
+---------------
+The interview comprises of a telephonic round and an on-site interview. Both had questioned related programming. Intel heavily relies on Microsoft technologies, so knowing them is a plus. Phone interview comprised of few verbal technical questions and then i was asked to code a small program. The time allotted was 15 min. The code was judged on thought process, clarity of concepts and how easy it was to understand for a fellow developer. Onsite interview comprised of 7-8 rounds with a lunch break. It went from 8 am to 5 pm. There was one behavioral round, two problem solving rounds and all others were technical coding rounds. Though the interview process defer from team to team, there is no set pattern. i have seen people get jobs based on 1 hour onsite interview.
+
+what would you do if you were managing a team and the team was unable to solve a problem technically and the deadline was approaching, will you sit down and code it yourself, be furious at the team,blame them for failure and complain to upper management etc. The follow up was , what will your do if you had two months before your next project started. Sit and relax, ramp up team skills, etc etc.   Answer Question
+
+Jul 19, 2015
+---------------
+phone interview followed up by full day interview session. Met with many people in 1 hour back to back interviews - exhausting. Each person covered a different area with some overlap. OK to not know the answer to come questions - not ok on other types of questions. New hires need to be ok asking questions.
+
+Behavioral, logical(including *Moti Carlo algorithms) and electrical questions.   Answer Question
+
+May 21, 2011
+---------------
+Was initially contacted by a recruiter on LinkedIn and set in my resume. Several weeks later was contacted by Intel for a phone interview. The interview was scheduled for the following Monday. It consisted of some very basic questions about programming and software engineering as well as some behavioral questions. The interviewer's manager called me later that day for a follow up interview and the day after that (Tuesday) they scheduled me for a full day on-site interview for that Thursday. The on-site interview consisted of eight one hour interviews, one of them over lunch. They asked a lot of technical questions about a variety of topics, many behavioral questions, and I covered the whiteboard in the conference room with code several times. I have been selected, but the HR manager has been out for the week and will be contacting me on Monday to present an offer.
+
+Implement a class structure for a deck of cards.   Answer Question
+
+May 11, 2011
+---------------
+Started with a phone interview with hiring manager (the manager I will work for). Then, phone interview with one of the team members. They then flew me out and I had one full day of interviews. Unlike interviews I had at other tech companies, this interview focused more on your background and the specific skills required for this job. Algorithmic and oddball questions were rare. Most of the questions were on knowledge of c# and c languages and some data structure questions. This may not be the same for other interviews though. I was also a college recruit.
+
+How does ssl work?   1 Answer
+
+Apr 14, 2011
+---------------
+Phone interview followed by an on site meeting a week later
+
+Computer Architecture   Answer Question Embedded systems   Answer Question
+
+Mar 22, 2011
+---------------
+I applied online and about 3 weeks later received an email requesting a phone interview. The phone interview was basically the manager talking about the position and asking some questions about my background and a few technical questions; this phone interview lasted about 30 minutes. I was immediately invited to do two technical phone interviews with team members, which I did the next day. The first technical phone interview was only about 25 minutes, and I was asked mostly general (although fairly difficult) C++ questions. The second technical phone interview was about 1 hour and was almost entirely architecture questions, several of which went quite in depth. About 2 hours later I was invited for an on-site interview. About 2 weeks later I went to Santa Clara for the on-site interview. They flew me down on a Sunday, the interview was on Monday, and I left on Tuesday. The interview was about 5 hours. My first 1:1 interview was an hour long with a team member, and he mostly asked about various C++ and OOP topics. The second 1:1 interview was also an hour and mostly involved me writing code (C and assembly) on paper to solve a few problems. Next I had a half hour interview with the manager, who asked a few technical questions, but mostly told me about the benefits. Then was a 1:30 hour lunch with the team. After that I had a one hour discussion with a team member, which was fairly casual conversation about the position and team and area (no hard or technical questions). Finally I had another half hour interview with the manager and he mostly told me about what they were looking for and I tried to sell myself. I was told t hey would let me know within one week. A week later I got a phone interview from HR offering me the position.
+
+How can you exchange the value of two variables without using a third variable?   3 Answers When would you want to use a linked list over an array? When wouldn't you want to use a linked list?   1 Answer In C++, what does the virtual keyword actually mean?   1 Answer
+
+Feb 11, 2012
+---------------
+Manager of a group found my resume in their website. Contacted me to schedule a phone interview.
+
+What are the three pillars of OOP?   1 Answer What is interrupt in OS. Name types of interrupts   1 Answer
+
+Nov 18, 2011
+---------------
+they are interested in my background. And I was asked a lot on what I was doing. Some coding questions. Some are personal relationship questions. The intervew process took almost a full day.
+
+what is your most excited experience in your formal job?   Answer Question
+
+Mar 28, 2011
+---------------
+one phone screen and an onsite interview. Had 6 rounds of 1-1 interviews and a lunch.
+
+Volatile keyword   1 Answer Static keyword   2 Answers
+
+Feb 24, 2011
+---------------
+Applied online, got a phone interview , then was informed I dint fit their requirement. He asked me questions related to software, hardware, operating system, and some puzzles. I thought I did very well but looks like he wasnt impressed enough.
+
+What is DMA? Why DMA?   2 Answers
+
+Oct 24, 2012
+---------------
+The hiring process was straight forward with a phone interview with questions pertaining directly to the job profile. It was technical but not too difficult with an onus on getting the right person for the job. Then was called for on-site interview where the members from the team directly interviewed me. Some of the interviews were tougher and some were just management related. Later learned that the tougher interviewers did not expect me to answer everything correctly. They just wanted to know how we approach the problem and use their hints to arrive at the solution
+
+Something related to instruction pointer and how to get to it through stack trace and stack pointers   Answer Question
+
+Feb 19, 2014
+---------------
+I was called after leaving my resume with them at a job fair. Never thought of Intel as a software company, but they sought me out and after a frank phone call with my future boss, was given a plane ticket to visit in person. Loved the area and they focused on my general knowledge and personality on a series of 1:1 interviews, very low key and comfortable. Was given an offer a few days after.
+
+Most difficult problem you have encountered and how you worked to overcome it? Also, when have you done this in a group setting?   2 Answers
+
+Jun 26, 2015
+---------------
+I only had on-site interview with Intel. Most of the questions revolved around my previous work as postdoctoral researcher and my research in school. The interview lasted from 10am - 5pm including lunch interview. I met with with 7-8 interviewers, but most of them were from single team. Lunch was with the manager and the program manager. It was a pleasant experience overall. Towards the end of the day the program manager encouraged me to stay over the weekend in Oregon to look around and enjoy the place.
+
+OS fundamentals, memory consistency models, multithreading, caching.   Answer Question
+
+Oct 27, 2015
+---------------
+It was a very positive experience. The interviewers were familiar with my resume. They asked me to talk about some of my prior projects. There were some simple clarifying questions about my role. They told me about their work and asked in some cases how would I do certain things at a high level. Their was one unpleasant interviewer from a different group who was basically accusing me of lying on my resume. I politely stood my ground and I assumed correctly that probably people don not take his opinion seriously.
+
+Describe my prior projects mostly and probing some details.   Answer Question
+
+Dec 18, 2010
+---------------
+We set up a time that was convenient to me, he started off with the technical interview which took about 45 minutes. Then he explained about the position in more detail. Allowed for some time for me to ask questions about the job. Overall he was very nice and gave me the time to think over the questions. The only thing that bothered me was that there long silent pauses on his side after I answered a question, I guess it's there to make you doubt your answers.
+
+What is 23 in Hex?   3 Answers What is 4 and (bit wise) 5?   1 Answer Name all the video connections from a computer to a display device   2 Answers What is Little Endian and Big Endian?   10 Answers What is a Hash Table?   1 Answer
+
+Jan 6, 2011
+---------------
+Flew out to site and spent a day interviewing. Had four 1 hour interviews. The people were very nice. The Interviews were difficult simply because there was so much time spent on interviews and was exhausting. Additionally there was lunch with the interviewees which I treated like a 5th interview.
+
+All questions are addressed to technical, they also ask you something which they want to know   Answer Question
+
+Oct 22, 2014
+---------------
+phone interview, then onsite interview, Onsite interview, I was introduced to a conference room, and people from different site ( local, and other locations) will call in to interview.
+
+what did you learn from college?   Answer Question
+
+Nov 17, 2010
+---------------
+go in the office and talk to the hiring manager and one of the engineer at the begining. afterthat, they took me out for a lunch. i rest for one hr. and then have interview for extra 3 ppl.
+
+No unexpected or difficult questions   Answer Question
+
+Dec 11, 2014
+---------------
+1 Phone screen,6hrs onsite interview. Most of the questions were operating systems based, resume based.This is was for a system software engineer position. The interviewers were not very well prepared for the interview,given their work schedule.
+
+I wasn't asked one.   2 Answers
+
+Dec 26, 2010
+---------------
+basic OS,compiler ,computer architecture,C,pointers,memory management,SYnchronisation,resume ,c++ oop concepts.Onsite was for nearly 5 hours.But most of the interviewers were friendly. The manager called up the very next day & told me about the offer. Manager seems to be friendly.Most of my team mates are from top schools and with good profile.
+
+There wasn't any difficult questions.   Answer Question
+
+Jul 10, 2014
+---------------
+The interview process is somewhat of a joke. Compared to Google/Microsoft/etc. it is incredibly easy. I had zero programming questions though talking with coworkers this is not the norm. Some of my coworkers got questions such as implement Fibonacci. Most interested in asking questions about drivers/OS primitives (semaphores, threading, etc.)
+
+Describe the different phases of a software project and what activities take place within them.   Answer Question
+
+Nov 8, 2010
+---------------
+Two phone interviews followed by being flown in for a day's worth of interviews on campus. People were dressed extremely casually and seemed pretty laid back. Most questions were relevant to the materials on my resume, but some were very odd and slightly confusing. The first phone interview was very basic stuff. They wanted to know what types of projects I've worked on for the most part. The second one was more technical and had a lot of process based questions as well as generic software engineering methodology questions. The on site interviews took up an entire day. They were hitting all the major points on my resume.
+
+As an inexperienced worker, how could you lead other software developers.   Answer Question
+
+Aug 11, 2010
+---------------
+A phone interview with the manager. Site interview with the team members. They asked me to give a presentation about my PhD work.
+
+No Question
+Jun 13, 2010
+---------------
+Contacted by manager, which reviews selected applications given from HR (new grad). Not sure if this is "typical" but here was the process. 1st Interview (TeamManager/Director) - Behavioral questions, background, team work, qualifications (non-technical), & personality. 2nd Interview (Team Lead) - Extensive background picking (projects, people, & situations). 3rd Interview (Engineer) - Skills assessment (basic to intermediate language specific questions), be sure to know the languages you claim (at the LEAST, know the basics, i.e. strengths, etc). 4th Interview (Senior Team Lead) - Literally went through everything on the resume, asking questions. Also asked technical questions in relation to areas you claim you know. Gave background of the team, problems they face. 5th Interview (TeamManager/Director) - Determine goals, and interest in continuing position. No on-site interview occurred (I'm out of state), but the phone interview process was very exhaustive. Personally, I loved the interview process and if you find yourself struggling, you shouldn't be applying (yet) in that area. HR didn't get "in the way". Friendly, and did a decent job of listening to concerns and following the schedule.
+
+If you claim to know C++, they'll ask "How well do you know C++?". From there, they'll ask questions regarding that skill level (what's a vtable, etc)?   1 Answer
+
+Sep 22, 2010
+---------------
+Posted resume on Intel website through employee referral and got an e-mail requesting phone interview. The phone interview was not too technical. A week later they had me fly down to Intel site for Face to Face interview. It consisted of an hour long face to face interview with 6 people each. They ranged from junior engineers to senior engineers to engineering managers. Overall the interview was mostly technical, related to programming, OS, etc. and also about my master's thesis. If you are ever interviewed at Intel, AZ, make sure you thoroughly prepare for technical interview as that's what counts in the end. Prepare for questions related to personality and analytical quiz. Overall, environment was reasonably disciplined and stress-free.
+
+Explain how to counter priority inversion.   1 Answer
+
+Jan 11, 2010
+---------------
+Initially I got a call from an HR@Intel and she asked me to apply for a position online and I did. I was then contacted from an Intel Hiring Manager and he told me that his team would be conducting phone interviews that very same day. I got interviewed from Interviewer1 (1hour) and then the very next hour by interviewer2. The hiring manager called me the next day and told me that two other team members would like to interview me. So again I had 2 interviews (1hour each) on that day. Later this day the manager called me and told me that he wants me to come onsite for an interview and I went there and Intel paid for all costs. I had 4 hour of interviews in 1 hour slots. I did also have lunch with the manager. It was all good. But after the onsite round, Intel haven't got back to me. I did call my manager and he said that he will inform me when the process is done. Thankfully the manager has been accommodating.
+
+How will you debug a memory leak?   Answer Question
+
+Mar 20, 2013
+---------------
+Contacted for phone interview, had to answer specific questions about previous experience
+
+I had an unexcepected C question regarding stack sorting   Answer Question
+
+Dec 19, 2013
+---------------
+Applied online; Phone call from hiring manager (behavioral interview); Phone call from 5 developers (technical interviews); Easier than software company interviews, questions involving knowledge of OOD/OOP, and specifics about C# .NET and Java; Knew more about programming than the interviewers themselves; Taught them all a thing or three
+
+What is a delegate? Very tough. What is abstract class? Again, very tough. How to encapsulate variables? Please.   Answer Question
+
+Aug 27, 2013
+---------------
+It really depends on the team you interview with. Generally we hire folks as contractors and then if they work out we try to bring them on as full time. A phone interview to screen and then an in person interview if things go well.
+
+Logic puzzles are common.   Answer Question
+
+May 11, 2010
+---------------
+After initial pre-screen and phone interview, flew me to campus for on site interview. Meet with 4 people in total and have lunch with one of the interviewers. Met with a manager and was asked some behavioral and basic concept questions. The 2 technical people who asked bitwise arithmetic and c/c++ oriented questions. The final 1:1 interview focused on architecture design.
+
+Determine if there is a cycle in a linked list   1 Answer Implement multiplication using only bitwise operators   Answer Question
+
+Aug 10, 2010
+---------------
+It was difficult. Many smart people at Intel. It was geared through Computer architecture, C/C++, algorithm and data structure. Manger asked some puzzle question too.
+
+Asked about the projects in school. Linked list and tree questions.   Answer Question
+
+Jul 13, 2010
+---------------
+Each intervewer brings in his test of the day (IQ test + programming stuff). This was OK. I missed one question regarding Mutex stuff. I aced all IQ type questions and system architectural stuff. I have never been turnd down on a job posisiton, but worst thing is Intel did'nt even bother to contact you about the results. I would never work for company that lacks such basic etiquett.
+
+given #define A 2 + 3 #define B 2 printf("%d", A * B) what does this print?   3 Answers
+
+Dec 11, 2010
+---------------
+Hr scheduled interview. Phone interview technical. after two called for personal interview. One personal Interview , one behavioural interview. Result was known after 2 weeks .. Hr called offered . negotiated no use, accepted the offer
+
+design patterns   Answer Question coding xpath queires   Answer Question
+
+Apr 27, 2009
+---------------
+Interview process consisted of 2 phone interviews (about 1 month apart). Then about 5 1:1 interviews on-site, in a single day. Mostly technical interviews. The phone interviews were a little harder than the 1:1s. Overall I felt over-qualified for the job. Also the job description was never very clear.
+
+What does AWT stands for?   1 Answer
+
+Mar 25, 2009
+---------------
+easy breezy lemon squeezey if you know your domain like the back of your hand. Interviewers at Intel mostly look for strong background in the area of your degree, ability to communicate and work with people.
+
+Describe your strengths   1 Answer
+
+Sep 11, 2015
+---------------
+1. You set a date with HR by phone 2. Several guys drilling with technical questions for about 1-2 hours - all as usual 3. Non-technical 1:1 with department boss. 4. Offer negotiation with HR.
+
+Basic computer architecture   1 Answer Reverse string in ANSI C (on paper)   Answer Question
+
+Jul 5, 2015
+---------------
+I applied through university. They shortlisted the candidates for a telephonic interview based on the resume. I got call from Hiring Manager for interview , there were total of 3 interviews all telephonic by different people from different location.
+
+Interview questions were about the basics of operating systems, computer organization.   Answer Question
+
+Jul 30, 2015
+---------------
+i had to describe in details one of my recent projects. also i had to answer 2 technical questions. at the beginning of the interview i was explained about the company and the position. overall thay were really nice.
+
+1. Copy a single linked list, where each node has a pointer to the next node and another pointer to an arbitrary node from that list. 2. Describe the advantages and disadvantages of a new way to represent bits of an integer.   1 Answer
+
+Jun 17, 2015
+---------------
+There were two interviewers, who introduced the department, told me about what they do in the department and what my role would be. It was the first interview out of two, if I passed the first. Then I was asked to tell about myself, about projects I did in university and asked some technical questions about things I mentioned. Then I was given a few programming assignments.
+
+What is virtualization? Why is it needed?   Answer Question Given an array of N bytes, how would you implement an malloc/free? How would you make it more efficient?   Answer Question What difficulty did you encounter while working on a project? How did you overcome it?   Answer Question How did you manage to work in a team on a project? (a team of 4 students)   Answer Question What is virtual memory?   Answer Question
+
+May 6, 2015
+---------------
+1st round with phone interview. it took over one week to get response. They asked me some technical question which beyond my expectations. little difficult for me. And also the interviewers have heavy accent, and I begged for repeating several times.......
+
+I dont't quite remember. they asked about the coding method   Answer Question
+
+May 30, 2015
+---------------
+1. Introduction of Intel & SSG department and each team in the department 2. speak about myself & projects I did. 3. technical questions. 4. asked if i have any preferable team in the department
+
+implement the function: const char * strpbrk ( const char * str1, const char * str2 ); and describe space & speed complexity   Answer Question
+
+Feb 25, 2015
+---------------
+It was really stressful. I was facing two engineers who asked questions about personal life decisions such as why I hadn't left the country for good and so on. One of them even insisted on me answering the question on why I'd applied, and the answer "for job experience" couldn't satisfy him, although it was completely true for me. He even proceeded to calling me a "typist" for wanting to be a programmer. They referred to me with kind of a derogatory term mildly translated as "young lady" and were unhelpful at best. After all the struggle they gave me a number of technical questions. The whole process took more than four hours.
+
+reverse the linked list   Answer Question
+
+Feb 2, 2015
+---------------
+Reverse link list Write code to remove alternate duplicate characters (case insensitive) from a string in place. For eg. "Today is the day" -> "Today ishe ". Also give test cases.
+
+Identifying the number of occurrences of each palindrome in a file   1 Answer
+
+Apr 18, 2015
+---------------
+I apply for software engineer. They ask for C++, IA32 and Linux Bash. The questions weren't very difficult but the general attitude of staff is like in big corporations. They are very cold.
+
+About Inheritance, difference between 32 architecture an 64 architecture   Answer Question
+
+Feb 24, 2015
+---------------
+Individual interview without any other applicants. Fluent conversation about background, motivation and "what u can say about it?". And exam questions, obviously. Almost every aspect depending to programming was figured out by interviewer. There are no conclusion in the end of interview process, only next step- homework. it seems to me that it was usual interview,
+
+Motivaton and foundamental algorithm and data structure knowlage questions. Also question to understand and optimaze shit-structured code.   Answer Question
+
+Aug 10, 2015
+---------------
+The interview include a test and two interviewers. They ask all technical questions, javascript, python, c, c++, and algorithm. The whole interview was fine, but I have not prepare it at all. Know nothing about the company, just applyed through the software.
+
+what is binary tree?   Answer Question
+
+Dec 5, 2014
+---------------
+I applied trough the web, had first interview and they never notified me if I passed or not. In the beginning they ask me to introduce myself. There were two workers interviewing me and they asked me questions about My last project. They asked how could I improve it. Finally they described me the job.
+
+Asked me about my last project and wanted to hear the exact analyzing of it.   Answer Question
+
+Dec 2, 2014
+---------------
+I got a contact at a University fair asking if they were looking for graduated applicants, they did. They asked me to apply online to all the vacants I found interesting, and also to send my resume to this contact via e-mail. After two weeks with no response, I resent the e-mail and they called me that day. I interviewed with 3 people, ~30min each. Several theory questions about computer architecture and OOP. A week or two later, they invited me for an on-site interview which lasted ~3h. They sent a list of topics to get prepared for the interview. Questions' topics were the same, and then short behavioral interview about teamwork experience.
+
+Do you know how virtual machines work?   Answer Question
+
+Nov 10, 2014
+---------------
+I take part in the onsite interview. There are four rounds. Interviewers include: two software engineers, manager and director. Most technical questions are fair, covering work experience and algorithm. Algorithm questions are in average difficulty. Besides, they also ask some behavioral questions, for example, teamwork, cooperation, leadership, etc. They're also interested in why you choose this company and how you will demonstrate you will be competent for the position.
+
+One algorithm I still remember is a shortest path question for horse to jumps from one point to another point in chess panel.   1 Answer
+
+May 18, 2015
+---------------
+applying online in the company website. afterwards you get an email with a video about the job. you need to answer if it interests you. aventually you get to an interview with 2 team leaders, about 2 hours.
+
+write a function in C that gets an expression containing all kinds of brackets ('(','[','{','}',']',')') and it decides if the expression is legal or not (for every kind, there are 2 and in the right order)   1 Answer
+
+Oct 22, 2015
+---------------
+At the very beginning we had a phone screen and I was asked about what I'd done in the past, then some question about JavaScript and Java. After that I got the chance for onsite interview, during which he asked me something about Apache Spark and Apache Storm, then some compiler questions and sort algorithms.
+
+How does compiler work?   1 Answer
+
+Oct 6, 2014
+---------------
+Only one technical interview mixed up with hr. I applied for software engineer and had one algorithm question (how to sort an array, algorithm of my choice), one more mathematical to see how you solve problems. There were two guys, I think both of them engineers. They were very polite although one of them got annoyed when I said I don't know how to find angle in triangle and started to kick ball around the room which made me feel very uncomfortable and more nervous.
+
+You have billiard pool, you know position of black, white ball and a hole. Make a program to calculate where on the edge white ball must hit so black ball get in a hole.   1 Answer
+
+Sep 30, 2014
+---------------
+Registered via web site, filled CV form followed by step-by-step instructions. After 2 or 3 weeks, I was invited for an on-site interview. The interview took 3-4 hours including Algorithms, Data Structures and Computer Architecture quiz. Interviewers kindly give some tips when I was stuck.
+
+Assume that there's a device which continuously receives data stream from serial port. Make this device to keep median value from the (infinite) data stream.   1 Answer
+
+Feb 27, 2014
+---------------
+I have gone through Intel India interview process during placements in our college. There was CPI based shortlisting then 4 rounds of interviews were to be done. The first round of interview was based on C++/C/Java basics and other coding questions with some questions on project I have done. The next round was again a technical round in which they asked me solve puzzle, do some coding problems and some detailed discussion on research projects. The third round was more of a behavioral round in which we were given situations and we need to respond with what we would do in that situation. All others went through one more round, but I was taken 3 rounds and sent back. I was thinking that, they rejected me, finally when results were declared, I was selected :)
+
+Coding some puzzles and behavioral round was unexpected   Answer Question
+
+Jan 17, 2014
+---------------
+4-5 rounds of interviews..
+
+Pretty tricky interview questions.   Answer Question
+
+Jun 3, 2013
+---------------
+Campus interview.
+
+Basic concepts in digital communications   Answer Question
+
+Mar 31, 2015
+---------------
+two interviews , at ssg , it includes half of hour speaking about project I did in the university , after that technical questions which includes data structures , and operating systems questions : the questions was , 1) given an array with positive and negative numbers, give the maximum range sum of it .2) Romanic numbers to convert them to our numbers. 3) to implement LRU ( using hash table with pointers to a list).
+
+1) given an array with positive and negative numbers, give the maximum range sum of it .2) Romanic numbers to convert them to our numbers. 3) to implement LRU ( using hash table with pointers to a list).   Answer Question
+
+Apr 21, 2013
+---------------
+got an onsite interview, was asked to implement a hash table that has a buffer of size 1000 with FIFO behavior (kind of like cyclic buffer).
+
+implement a hash table that has a buffer of size 1000 with FIFO behavior (kind of like cyclic buffer).   Answer Question
+
+Jan 7, 2014
+---------------
+2 rounds of phone screens, followed by onsite.
+
+Lots of compiler related questions, including optimization of unrolling, x86 addressing modes.   1 Answer
+
+Mar 7, 2013
+---------------
+2 technical interviews. The first with developers, the second with 1st or 2nd level managers. The first interview is really more technical and less SW-engineer-ish. The 2nd one usually focuses more on your engineering skills.
+
+Given a connected list of elements (one directional), reverse it.   2 Answers
+
+Jan 19, 2013
+---------------
+Hiring process started with an employee referral. I was then shortlisted with a telephonic interview. After that i was called for technical interviews. There were 3-4 rounds of technical interviews, where i was asked general programming questions. I was then sent for personal skills interviews, where i was asked about general team dynamics questions.
+
+How would you react when you have a conflict with a senior member in the team and you know that you are right?   1 Answer
+
+Jan 10, 2013
+---------------
+phone call from the manager, then all technical rounds in a single day ( back to back ). Management rounds thereafter.
+
+Three were no difficult and unexpected question. the only problem was to describe one hugesystem from my previous work, including table representtaion   Answer Question
+
+Sep 16, 2013
+---------------
+The interview was with my future group: team leader, pm and programmer I've been asked to describe my previous project and some easy "student" question
+
+No Question
+Dec 13, 2012
+---------------
+On line application and two interview to become a software engineer student. Then two more interviews after 2 years to become a software engineer.
+
+nothing very difficult was asked.   Answer Question
+
+Jan 12, 2013
+---------------
+The longest interview I have attended till date. Most of the questions were from my resume about past projects and a couple of basic question about linked lists (insert, delete). Hypothetical questions like what technology would you use if you have to count the occurrence of all the words from wikipedia within a day. A question on what kind of interaction would you have if you want to recommend products to a user The interview was unusual in the manner it was conducted. The entire time about 3-4 hours was about the resume content.
+
+A question on what kind of interaction would you have with a user if you want to recommend products.   1 Answer
+
+Nov 28, 2012
+---------------
+Freshers are hired through selected campuses only. There is a written round, where people are shortlisted. Then, the interview is conducted. Usually the business groups conduct interviews as per their needs. If they are looking for a technology for their project and you have some experience on it, its a great bonus for you.
+
+Some questions on Linked lists etc   1 Answer
+
+Nov 26, 2012
+---------------
+Very strict, too many personalities conflict between management
+
+How to invent something they wanted   1 Answer
+
+Sep 30, 2012
+---------------
+only One round of Telephonic Happened. Answered all questions other than a puzzle. Interviewer was also quite generous. But later no call came from them. Still dont have any clue about what happened in the process. Only one point i suspect is being in completely linux domain, the interviewer rejected me on the basis that he wanted guys for windows platform. But at least i was expecting some kind of rejection mail.
+
+All were on driver, OS concepts,puzzles. c concepts. Telephonic round itself was like face to face round. still got rejected.   1 Answer
+
+Nov 16, 2013
+---------------
+Two on site interviews for about 2 hours each which contains technical and behavior questions
+
+Some questions with Linked List and graph algorithems   Answer Question
+
+Oct 14, 2015
+---------------
+Intel came to our college for on-campus recruitment. I got selected for interview on the basis of my resume. I had 2 rounds of technical interviews followed by one round of puzzle round and one HR interview. Interview process was very professional.
+
+How to delete duplicates from a linked-list? How to add two numbers represented in binary form as strings?   Answer Question
+
+Jun 19, 2012
+---------------
+I had a good experience, the company conducted 3 rounds, IQ test, skills test and personal interview
+
+technical questions   Answer Question technical questions   Answer Question
+
+May 26, 2014
+---------------
+It was only one interview on-site, which I'd scheduled with manager (on phone) the week before. During the interview, there were three people asking question, most of them were really easy and required only basic C++ and coding skills (types of casts, heap vs stack, constructors, virtual functions, etc.). Atmosphere was quite friendly. Be prepared to express your salary expectations (I would recommend to aim high as the salary is up to manager most of the time).
+
+Not really difficult, but "What are disadvantages of using templates in C++" was a bit surprising.   Answer Question
+
+Sep 11, 2011
+---------------
+My application process began with a few managers coming to my university to give a presentation about the company. I left my resume with them and a week later i got an email that they would like to conduct a phone interview with me. The entire process consisted of a phone interview, progamming assignment, and finally an in person interview. Phone Interview: My reviewer called me up and gave me a variety of questions ranging from standard software topics like data structures; hardware topics, like how an interrupt works; and standard cs math like converting to hex etc.. Programming assignment After i completed the interview, I got a call back from another manager, with a relatively simple programming assignment that i was to complete by the next day. The assignment should only take a couple hours at most. In person: finally, a couple weeks later I was flown out to the company where i had 4 1 hour interviews, with a lunch break half way through. The interviews each had a specific theme, software, hardware, testing and design, and behavioral. None of the tests were particularly challenging, but as always, they are much harder on the spot. Most of the tester's made an effort to not react to any of the answers given during the interview, so it's hard to tell how successful you were until its over. The facilities were very nice, aside from workstations being small cubicles. During lunch while talking with the managers, i got the sense that there was a genuinely good work culture at the company, and that Intel was a very family friendly company, despite some of the criticism I had heard about on other websites.
+
+what process does a computer go through to register a keyboard key being pressed   Answer Question
+
+Aug 8, 2011
+---------------
+It consisted of 3 phone interviews and about 30 e-mail exchanges. There was a puzzle like vague question, other than they were basic questions.
+
+What is polymorphism? and some Perl specific questions   Answer Question
+
+Apr 3, 2011
+---------------
+Got a phone interview notice but I have not take it yet. I will update interview information after I took this interview.
+
+tell me about your project   Answer Question
+
+Sep 16, 2014
+---------------
+Initial phone call followed by f2f interview. Formal questions on programming and about the gsm domain knowledge also oops concept.after a week got a call and got the offer. Accepted offer.
+
+Gsm basics.   1 Answer
+
+Jul 15, 2012
+---------------
+2 interviews by
+
+design a system of communication on a single medium between remote nodes, so as to guarantee that if any of the nodes needs to transmit an SOS message it will control the medium in the shortest possible time.   1 Answer
+
+Mar 18, 2013
+---------------
+Initial communication by email, had to fill a lot of forms. Then I was call by a representative to schedule an interview with three technical leaders. The interview were face to face in spanish. After 15 days I got an offer.
+
+There was not a difficult technical question or bussiness related question.   Answer Question
+
+Jan 12, 2011
+---------------
+Phone Interview by the team member about computer architecture and basic c questions Got result in a week from the hiring manager, went for an Onsite interview. Onsite Interview was mainly C++ (polymorphism, inheritance, abstract) and Comp architecture(cache, address translations) questions, and few puzzles. 2 rounds of non-technical interview, 4 round of technical interview.
+
+what is the most difficult project that you have completed till now?   Answer Question Did you have any conflict at work?   Answer Question
+
+Oct 31, 2014
+---------------
+Was a personal referral. I had a 1:1 with hiring manager in a coffee shop to see if there's a match. later was invited to 2 hours of technical interview with 4 senior engineers and managers. usually interviews are as follows: 1-2 hour technical interview with 2 software engineers 1-2 hours technical interview with hiring manager and senior engineers
+
+not trying to surprise, deep diving into the interviewed problem domains   1 Answer
+
+Mar 21, 2013
+---------------
+Has been asked for software language competency, just basically one round interview to get the job. Permanent jobs only available to fresh, Graduate Trainee depends on the availability of headcount. Try to impress the interviewer with projects done, methodologies and ideas.
+
+How would you handle conflict?   1 Answer
+
+Aug 4, 2014
+---------------
+The HR from the company contacted me over email and fixed the date for the telephonic interview. Later once I got selected, there was a site interview too Once you get confirmed, HR will come and give you the grade level and salary details
+
+Should expect all difficult technical questions In my field SQL, there was a question regarding SCD - Slowly changing dimension   Answer Question
+
+Jul 14, 2010
+---------------
+I did very well in the phone interview, I was provided an onsite interview. However in the end, I found out that Intel doesn't sponsor H1 visa, and because I didn't have work permit in the US, I can't work for Intel. The phone interview was cordial and pleasant. Most were behavior questions, it's an entry level position, therefore not much technical experience was needed.
+
+Tell me about yourself.   Answer Question What do you know about the job?   Answer Question
+
+Dec 20, 2011
+---------------
+Very professional, good questions
+
+Why are you leaving your position   Answer Question Can you tell me your experience with this system   Answer Question
+
+Aug 24, 2012
+---------------
+First interview: interviewed by two engineers. Handed me a piece of paper with some C code and asked me to find the bugs in the code. Found stack overflow and heap overflow. Asked several programming questions and also questions on operating systems( interrupts handling in the OS).
+
+Describe what happens in the OS when a device triggers an interrupt.   Answer Question
+
+Jul 9, 2010
+---------------
+Applied for student position (firmware). Set up an interview on site , first interview consisted of 2 parts: part 1: tell me about yourself , describe a project , etc. part 2: programming questions after a day received a phone call , wanted to set a second interview. the second interview is the same as the first. In both interviews there are 2 guys , and you need to code on paper.
+
+fibonacci sequence: recursive and iterative   2 Answers reverse a byte   1 Answer reverse a string   1 Answer OS stuff and networking: threads , create a dead lock, (for example with 2 processes and 2 resources) ,how to avoid a dead lock , describe the OSI model and explain how it resembles the post office.(i.e. sending a letter and explaining how the layers resemble this process)   Answer Question
+
+Dec 25, 2012
+---------------
+No proper communication. Offered very late
+
+Technical   Answer Question
+
+Mar 28, 2013
+---------------
+Excellent interview, the interviewers had good knowledge of the subject areas. They were polite and to the point, encouraging and even light hearted which helped reduce the tension in the interview
+
+It was a puzzle asked for analytical reasoning test   Answer Question
+
+Sep 14, 2010
+---------------
+Got a phone call then arrived to the campus and being interviewed by two engineers
+
+Implement bubble sort   1 Answer Find the largest subsequance in an array   Answer Question
+
+May 16, 2013
+---------------
+Two frontal technical interviews + Job ofer
+
+Convert Roman number to decimal   Answer Question
+
+Apr 10, 2010
+---------------
+In the first interview I was sitting in front of two people, after the usual background question about my CV, both asked me two technical question about the C language (to solve by pencil and paper). Then I had another interview by other two people, they didn't ask me any technical question, rather they asked me "personality" related questions.
+
+What would you do if your manager told you to do something you don't agree with?   1 Answer
+
+Sep 26, 2010
+---------------
+there are 6 rounds of 1:1 interview. the interviewers were engineers the several teams. each 1:1 interview lasts 30 - 60 minutes. basically focus on technical questions.
+
+design the game Russian Square   Answer Question code to exchange two integer   1 Answer
+
+Jul 29, 2009
+---------------
+1 on 1 interview process. Was quite okay. Look out for all round skills. General DBMS qns, OOPS qns, .NET technologies etc were quizzed on. DBMS qns, OOPS qns, .NET technologies etc were quizzed on. Some SQL queries also.Then an HR round. Be truthful wid answers. Why do u wanna work in Intel? etc...
+
+Some simple puzzles. What are the total number of lines written by you in C/C++? What is the most complicated/valuable program written in C/C++?   1 Answer
+
+Mar 12, 2010
+---------------
+The interview process is very effectively. The skill test covered the CS and EE knowledge. The CS part is relatively easy and not covered the newest CS skills. The atomosphere is esay and kind. The interviewers are all kind. The skill test lasts for about 2 hour. And they also will discuss the problems in the test.
+
+The questions about EE knowledge.   Answer Question
+

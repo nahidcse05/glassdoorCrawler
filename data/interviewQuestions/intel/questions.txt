@@ -1,0 +1,652 @@
+Oct 26, 2015
+---------------
+Explain the difference between const int * and int const *.   Answer Question
+
+Sep 3, 2015
+---------------
+Write some code to reverse a string.   1 Answer
+
+Oct 1, 2015
+---------------
+Why would you want to leave your current position?   Answer Question
+
+Aug 27, 2015
+---------------
+They just went through my resume and asked me questions about my previous work and some of the networking protocols that I know and what programming languages I use the most.   Answer Question
+
+Jun 24, 2015
+---------------
+Write a recursive Java function to reverse a String object   1 Answer Why should we hire you?   Answer Question Why do you want to work at Intel?   Answer Question How would you design a web service to limit a user to 1000 transactions per hour?   Answer Question If you have 8 coins and one weighs more than the others, give three algorithms with their best and worst case comparisons. Which of the three algorithms would you use? Alright, code the algorithm.   Answer Question Give an example of how you dealt with a stressful situation.   Answer Question Give an example of how you dealt with an angry coworker   Answer Question
+
+Oct 27, 2015
+---------------
+Basic unix commands and Perl commands   Answer Question
+
+Jun 9, 2015
+---------------
+Questions mainly focused on the language C. The questions were directed towards gauging your understanding your understanding of how C works as a language and how compilers work in general. Questions included difference between C and Python, advantages of C, disadvantages of C.   1 Answer
+
+May 4, 2015
+---------------
+Describe parsing sets of data using excel and storing the parsed data into a proper data structure.   Answer Question Pros and cons of C/C++   Answer Question Dealing with a bad group member & resolution   Answer Question Resume questions, experience, how it will be helpful for their group   Answer Question Things I've built, what languages, why, what I learned   Answer Question
+
+Apr 9, 2015
+---------------
+Create a binary tree and print its nodes in postorder.   Answer Question
+
+Jul 9, 2015
+---------------
+Differences between Mutex and Semaphore...What is a Spin lock ? ....When would you use each of these? ..Difference between Structure and Union...   Answer Question
+
+Oct 15, 2015
+---------------
+-Questions based on Resume -More knowledge based questions based on technologies stated in Resume -problem solving questions (Data Structs, Algos) -Puzzle -Design based question (Online Restaurant Management System) -Coding   Answer Question
+
+Sep 4, 2015
+---------------
+where do you see yourself in 5 years.   Answer Question
+
+Apr 2, 2015
+---------------
+Questions about inheritance, polymorphism, and pointers in C.   1 Answer
+
+Apr 19, 2015
+---------------
+basic computer software questions   Answer Question
+
+Jul 25, 2015
+---------------
+Describe how you'd create a clock within 10 minutes   Answer Question
+
+Apr 16, 2015
+---------------
+What exactly happens in a computer system when there's a keyboard input interrupt, and how does the CPU process that instruction.   Answer Question
+
+Dec 30, 2014
+---------------
+Questions regrading C were difficult as they wanted for operating system debugging. So you need to know all about C and it's good if you read any C book to get idea about some detail orientated questions.   Answer Question
+
+Dec 11, 2014
+---------------
+What is the difference between pentium 4 pipeline and RISC pipeline. What is the first instruction that the CPU executes. Write the PIN diagram of 8086 processor.   Answer Question
+
+Nov 5, 2014
+---------------
+Tell me of a time where you used new technology to succeed   Answer Question
+
+Jan 20, 2015
+---------------
+Truly a broad assortment of knowledge. Nothing too difficult though, honestly one of the easiest and smoothest processes.   Answer Question
+
+Oct 20, 2014
+---------------
+Please explain what is the garbage collector and how it operates.   Answer Question
+
+Oct 18, 2014
+---------------
+What would you do if your teammate is not doing what he is supposed to do   2 Answers
+
+Nov 21, 2014
+---------------
+was related to stacks. can't say exact question   Answer Question
+
+Sep 26, 2014
+---------------
+Describe a new technology and how it affected you.   Answer Question
+
+Sep 19, 2014
+---------------
+Nothing much difficicult   Answer Question
+
+Sep 2, 2014
+---------------
+When the task is impossible to finish within the given deadline, what should you do?   Answer Question
+
+Aug 13, 2014
+---------------
+No questions asked that were difficult.   Answer Question
+
+Sep 13, 2014
+---------------
+A question related to Graph isomorphism was asked   Answer Question
+
+Jun 19, 2014
+---------------
+Varied behavioral questions. Technical focused on oops concepts(explain 4 pillars of OOP with examples). Was asked to write code to print the largest number in an unsorted integer array of infinite size. Although the position was for C#, they were cool about me coding in java.   1 Answer
+
+Jun 13, 2014
+---------------
+I always have difficulty answering the more personal questions - "What makes you frustrated at work" The technical part of the interview was not challenging for me because I had a strong background in the material.   2 Answers
+
+Mar 13, 2014
+---------------
+Gave a Modeling problem.Interrupt scenario and its consequences.   Answer Question
+
+Mar 20, 2014
+---------------
+Not about being difficult but they kind of tried to focus on and ask about things that I haven't mentioned in my resume or told them on phone interview such as virtualization, assembly programming etc. If you were looking for someone who already have experience with all of those you shouldn't have invited me for onsite. Or at least do not take them into account and look whether I can learn them or not.   Answer Question
+
+Feb 18, 2014
+---------------
+Behavioral questions   Answer Question
+
+Mar 8, 2014
+---------------
+OS: Preemptive scheduling Critical section Deadlocks, semaphores, testandSet Assembly (function return) Interrupts table Computer Architecture: atomic instruction Virtual memory TLB Numa, MSI Caching Algorithms: Trees Linked list   Answer Question
+
+Feb 11, 2014
+---------------
+Most of question about OS synchronization, mutex, semaphore, interrupt service routine, I/O handler, MSI cache coherence protocol.   Answer Question
+
+Jan 29, 2014
+---------------
+Lot of low-level questions on how virtual memory works, security and the different levels of encryption. Mostly about windows, even though I'm a mac guy.   Answer Question
+
+Nov 20, 2013
+---------------
+Detailed experience in testing building new OS for a new OS.   Answer Question
+
+Aug 30, 2013
+---------------
+how old are you   Answer Question
+
+Aug 19, 2013
+---------------
+Their manager from Oregon asked me to justify my GPA which was 3.5..asked why 0.5 was missing..   1 Answer
+
+Jul 14, 2013
+---------------
+Everything was expected   Answer Question
+
+Jun 17, 2014
+---------------
+How to find a missing element in an array   1 Answer
+
+Jun 13, 2013
+---------------
+Coming from a C++ world, what does the static keyword do in a normal C program.   1 Answer
+
+Sep 17, 2014
+---------------
+* Write a spin lock * Bit manipulation questions   Answer Question
+
+Jul 31, 2014
+---------------
+I was asked some simple puzzle questions too. Like river crossing one and also how to measure 4 quarts with 3 and 5 quart mugs in hand. Some mathematical type puzzle questions simple ones. I stumbled upon a very simple array sort and merge as on concentrating on tough questions I couldn't solve a very simple question.   Answer Question
+
+Mar 8, 2013
+---------------
+Questions on String Comparisons and checking different attributes   Answer Question
+
+Feb 28, 2013
+---------------
+No unexpected questions, all normal embedded questions which are pretty common   Answer Question
+
+Feb 24, 2013
+---------------
+implement producer consumer problem   Answer Question
+
+Feb 23, 2013
+---------------
+1. how is virtual address translated to physical address? 2. how to avoid conflict when two thread are trying to access one resource? 3. how to debug memory leak?   Answer Question
+
+Feb 24, 2013
+---------------
+HR phone screen is nice, HM politely reviewed my skill and ask some experiences, he said couple times I am best fit in several candidate screen. 3rd interview set by foreign born technical guy with accent. Nothing difficult, but he focused on many trivial questions, rude and frequently cut-off my answers. Most are chipset spec questions. This interview was very odd, he seemed mostly interested in demonstrating his own expertise in how familiar with chipset registers offset and bits function. I know these chipset features, but I didn't memorize it prior this interview. Those register bits are not notable and no need to recite everyday. Just open spec to get it in seconds. He questioned me many times, why I cannot memorize these registers address, it is very important blah blah blah.   Answer Question
+
+Jan 29, 2013
+---------------
+When I click on the screen what happens?   Answer Question
+
+Jan 22, 2013
+---------------
+how to find a list is circular   1 Answer
+
+Nov 7, 2012
+---------------
+Algorithms questions , binary trees   Answer Question
+
+Nov 28, 2012
+---------------
+Given a list of numbers from 1 to 100 with 1 number missing, find the missing number?   3 Answers
+
+Apr 27, 2014
+---------------
+I am asked to print out all the possible letter combinations on telephone pad when you punch in a 7-digit number.   1 Answer
+
+Oct 11, 2015
+---------------
+What languages do you know? What projects have you done?   Answer Question
+
+Jul 22, 2012
+---------------
+Basic C Questions virtual function,OS concept page fault, segmentation,Digital concepts difference between Flip flop/Latch, Code to create a node in Linklist list etc   Answer Question
+
+Jul 31, 2012
+---------------
+Some code questions   Answer Question
+
+Jun 22, 2015
+---------------
+Algorithms, Dynamic Programming, Bit Magic, Puzzles, Advanced Data Structures   Answer Question
+
+Apr 4, 2014
+---------------
+No such question comes to my mind. Since I was applying for graphics developer positions, most of the questions were focused around graphics pipeline.   Answer Question
+
+May 31, 2012
+---------------
+Tell me what you know about hashing   Answer Question
+
+Mar 15, 2013
+---------------
+Difference between L1 and L2 cache...   1 Answer
+
+Dec 31, 2013
+---------------
+Synchronization (Semaphores and Monitors):   1 Answer
+
+Sep 28, 2014
+---------------
+How can you reverse a string in C?   Answer Question
+
+Jun 4, 2012
+---------------
+Here's a linked list. Insert, delete, and move a node.   Answer Question Here's a piece of code. Find the bugs.   1 Answer
+
+Mar 27, 2012
+---------------
+Difference between mutex and semaphore. how they are implemented.   1 Answer How Linux system call works in details. How does user space and kernel space communicate ?   1 Answer
+
+Feb 25, 2012
+---------------
+Strategies for Power Management in multicores   Answer Question How do sequential Circuits work   Answer Question Explain about pipelining   Answer Question
+
+Feb 8, 2012
+---------------
+What is cache coherency? How is it maintained?   Answer Question How do processes on a processor communicate?   Answer Question
+
+Jul 26, 2011
+---------------
+Tell me about a project you designed   Answer Question
+
+Aug 25, 2011
+---------------
+Why would you be a good fit to this group?   Answer Question Questions about my PhD work where I had to justify my decisions. They were difficult because the questions were coming from a different perspective than I would typically meet in academia.   Answer Question
+
+Aug 12, 2015
+---------------
+How can you describe an opportunity to show technical leadership you&amp;#039;ve had in the past?   Answer Question
+
+Oct 15, 2015
+---------------
+The process was several software development technical and behavior questions   Answer Question
+
+May 18, 2015
+---------------
+what would you do if you were managing a team and the team was unable to solve a problem technically and the deadline was approaching, will you sit down and code it yourself, be furious at the team,blame them for failure and complain to upper management etc. The follow up was , what will your do if you had two months before your next project started. Sit and relax, ramp up team skills, etc etc.   Answer Question
+
+Jul 19, 2015
+---------------
+Behavioral, logical(including *Moti Carlo algorithms) and electrical questions.   Answer Question
+
+May 21, 2011
+---------------
+Implement a class structure for a deck of cards.   Answer Question
+
+May 11, 2011
+---------------
+How does ssl work?   1 Answer
+
+Apr 14, 2011
+---------------
+Computer Architecture   Answer Question Embedded systems   Answer Question
+
+Mar 22, 2011
+---------------
+How can you exchange the value of two variables without using a third variable?   3 Answers When would you want to use a linked list over an array? When wouldn't you want to use a linked list?   1 Answer In C++, what does the virtual keyword actually mean?   1 Answer
+
+Feb 11, 2012
+---------------
+What are the three pillars of OOP?   1 Answer What is interrupt in OS. Name types of interrupts   1 Answer
+
+Nov 18, 2011
+---------------
+what is your most excited experience in your formal job?   Answer Question
+
+Mar 28, 2011
+---------------
+Volatile keyword   1 Answer Static keyword   2 Answers
+
+Feb 24, 2011
+---------------
+What is DMA? Why DMA?   2 Answers
+
+Oct 24, 2012
+---------------
+Something related to instruction pointer and how to get to it through stack trace and stack pointers   Answer Question
+
+Feb 19, 2014
+---------------
+Most difficult problem you have encountered and how you worked to overcome it? Also, when have you done this in a group setting?   2 Answers
+
+Jun 26, 2015
+---------------
+OS fundamentals, memory consistency models, multithreading, caching.   Answer Question
+
+Oct 27, 2015
+---------------
+Describe my prior projects mostly and probing some details.   Answer Question
+
+Dec 18, 2010
+---------------
+What is 23 in Hex?   3 Answers What is 4 and (bit wise) 5?   1 Answer Name all the video connections from a computer to a display device   2 Answers What is Little Endian and Big Endian?   10 Answers What is a Hash Table?   1 Answer
+
+Jan 6, 2011
+---------------
+All questions are addressed to technical, they also ask you something which they want to know   Answer Question
+
+Oct 22, 2014
+---------------
+what did you learn from college?   Answer Question
+
+Nov 17, 2010
+---------------
+No unexpected or difficult questions   Answer Question
+
+Dec 11, 2014
+---------------
+I wasn't asked one.   2 Answers
+
+Dec 26, 2010
+---------------
+There wasn't any difficult questions.   Answer Question
+
+Jul 10, 2014
+---------------
+Describe the different phases of a software project and what activities take place within them.   Answer Question
+
+Nov 8, 2010
+---------------
+As an inexperienced worker, how could you lead other software developers.   Answer Question
+
+Jun 13, 2010
+---------------
+If you claim to know C++, they'll ask "How well do you know C++?". From there, they'll ask questions regarding that skill level (what's a vtable, etc)?   1 Answer
+
+Sep 22, 2010
+---------------
+Explain how to counter priority inversion.   1 Answer
+
+Jan 11, 2010
+---------------
+How will you debug a memory leak?   Answer Question
+
+Mar 20, 2013
+---------------
+I had an unexcepected C question regarding stack sorting   Answer Question
+
+Dec 19, 2013
+---------------
+What is a delegate? Very tough. What is abstract class? Again, very tough. How to encapsulate variables? Please.   Answer Question
+
+Aug 27, 2013
+---------------
+Logic puzzles are common.   Answer Question
+
+May 11, 2010
+---------------
+Determine if there is a cycle in a linked list   1 Answer Implement multiplication using only bitwise operators   Answer Question
+
+Aug 10, 2010
+---------------
+Asked about the projects in school. Linked list and tree questions.   Answer Question
+
+Jul 13, 2010
+---------------
+given #define A 2 + 3 #define B 2 printf("%d", A * B) what does this print?   3 Answers
+
+Dec 11, 2010
+---------------
+design patterns   Answer Question coding xpath queires   Answer Question
+
+Apr 27, 2009
+---------------
+What does AWT stands for?   1 Answer
+
+Mar 25, 2009
+---------------
+Describe your strengths   1 Answer
+
+Sep 11, 2015
+---------------
+Basic computer architecture   1 Answer Reverse string in ANSI C (on paper)   Answer Question
+
+Jul 5, 2015
+---------------
+Interview questions were about the basics of operating systems, computer organization.   Answer Question
+
+Jul 30, 2015
+---------------
+1. Copy a single linked list, where each node has a pointer to the next node and another pointer to an arbitrary node from that list. 2. Describe the advantages and disadvantages of a new way to represent bits of an integer.   1 Answer
+
+Jun 17, 2015
+---------------
+What is virtualization? Why is it needed?   Answer Question Given an array of N bytes, how would you implement an malloc/free? How would you make it more efficient?   Answer Question What difficulty did you encounter while working on a project? How did you overcome it?   Answer Question How did you manage to work in a team on a project? (a team of 4 students)   Answer Question What is virtual memory?   Answer Question
+
+May 6, 2015
+---------------
+I dont't quite remember. they asked about the coding method   Answer Question
+
+May 30, 2015
+---------------
+implement the function: const char * strpbrk ( const char * str1, const char * str2 ); and describe space & speed complexity   Answer Question
+
+Feb 25, 2015
+---------------
+reverse the linked list   Answer Question
+
+Feb 2, 2015
+---------------
+Identifying the number of occurrences of each palindrome in a file   1 Answer
+
+Apr 18, 2015
+---------------
+About Inheritance, difference between 32 architecture an 64 architecture   Answer Question
+
+Feb 24, 2015
+---------------
+Motivaton and foundamental algorithm and data structure knowlage questions. Also question to understand and optimaze shit-structured code.   Answer Question
+
+Aug 10, 2015
+---------------
+what is binary tree?   Answer Question
+
+Dec 5, 2014
+---------------
+Asked me about my last project and wanted to hear the exact analyzing of it.   Answer Question
+
+Dec 2, 2014
+---------------
+Do you know how virtual machines work?   Answer Question
+
+Nov 10, 2014
+---------------
+One algorithm I still remember is a shortest path question for horse to jumps from one point to another point in chess panel.   1 Answer
+
+May 18, 2015
+---------------
+write a function in C that gets an expression containing all kinds of brackets ('(','[','{','}',']',')') and it decides if the expression is legal or not (for every kind, there are 2 and in the right order)   1 Answer
+
+Oct 22, 2015
+---------------
+How does compiler work?   1 Answer
+
+Oct 6, 2014
+---------------
+You have billiard pool, you know position of black, white ball and a hole. Make a program to calculate where on the edge white ball must hit so black ball get in a hole.   1 Answer
+
+Sep 30, 2014
+---------------
+Assume that there's a device which continuously receives data stream from serial port. Make this device to keep median value from the (infinite) data stream.   1 Answer
+
+Feb 27, 2014
+---------------
+Coding some puzzles and behavioral round was unexpected   Answer Question
+
+Jan 17, 2014
+---------------
+Pretty tricky interview questions.   Answer Question
+
+Jun 3, 2013
+---------------
+Basic concepts in digital communications   Answer Question
+
+Mar 31, 2015
+---------------
+1) given an array with positive and negative numbers, give the maximum range sum of it .2) Romanic numbers to convert them to our numbers. 3) to implement LRU ( using hash table with pointers to a list).   Answer Question
+
+Apr 21, 2013
+---------------
+implement a hash table that has a buffer of size 1000 with FIFO behavior (kind of like cyclic buffer).   Answer Question
+
+Jan 7, 2014
+---------------
+Lots of compiler related questions, including optimization of unrolling, x86 addressing modes.   1 Answer
+
+Mar 7, 2013
+---------------
+Given a connected list of elements (one directional), reverse it.   2 Answers
+
+Jan 19, 2013
+---------------
+How would you react when you have a conflict with a senior member in the team and you know that you are right?   1 Answer
+
+Jan 10, 2013
+---------------
+Three were no difficult and unexpected question. the only problem was to describe one hugesystem from my previous work, including table representtaion   Answer Question
+
+Dec 13, 2012
+---------------
+nothing very difficult was asked.   Answer Question
+
+Jan 12, 2013
+---------------
+A question on what kind of interaction would you have with a user if you want to recommend products.   1 Answer
+
+Nov 28, 2012
+---------------
+Some questions on Linked lists etc   1 Answer
+
+Nov 26, 2012
+---------------
+How to invent something they wanted   1 Answer
+
+Sep 30, 2012
+---------------
+All were on driver, OS concepts,puzzles. c concepts. Telephonic round itself was like face to face round. still got rejected.   1 Answer
+
+Nov 16, 2013
+---------------
+Some questions with Linked List and graph algorithems   Answer Question
+
+Oct 14, 2015
+---------------
+How to delete duplicates from a linked-list? How to add two numbers represented in binary form as strings?   Answer Question
+
+Jun 19, 2012
+---------------
+technical questions   Answer Question technical questions   Answer Question
+
+May 26, 2014
+---------------
+Not really difficult, but "What are disadvantages of using templates in C++" was a bit surprising.   Answer Question
+
+Sep 11, 2011
+---------------
+what process does a computer go through to register a keyboard key being pressed   Answer Question
+
+Aug 8, 2011
+---------------
+What is polymorphism? and some Perl specific questions   Answer Question
+
+Apr 3, 2011
+---------------
+tell me about your project   Answer Question
+
+Sep 16, 2014
+---------------
+Gsm basics.   1 Answer
+
+Jul 15, 2012
+---------------
+design a system of communication on a single medium between remote nodes, so as to guarantee that if any of the nodes needs to transmit an SOS message it will control the medium in the shortest possible time.   1 Answer
+
+Mar 18, 2013
+---------------
+There was not a difficult technical question or bussiness related question.   Answer Question
+
+Jan 12, 2011
+---------------
+what is the most difficult project that you have completed till now?   Answer Question Did you have any conflict at work?   Answer Question
+
+Oct 31, 2014
+---------------
+not trying to surprise, deep diving into the interviewed problem domains   1 Answer
+
+Mar 21, 2013
+---------------
+How would you handle conflict?   1 Answer
+
+Aug 4, 2014
+---------------
+Should expect all difficult technical questions In my field SQL, there was a question regarding SCD - Slowly changing dimension   Answer Question
+
+Jul 14, 2010
+---------------
+Tell me about yourself.   Answer Question What do you know about the job?   Answer Question
+
+Dec 20, 2011
+---------------
+Why are you leaving your position   Answer Question Can you tell me your experience with this system   Answer Question
+
+Aug 24, 2012
+---------------
+Describe what happens in the OS when a device triggers an interrupt.   Answer Question
+
+Jul 9, 2010
+---------------
+fibonacci sequence: recursive and iterative   2 Answers reverse a byte   1 Answer reverse a string   1 Answer OS stuff and networking: threads , create a dead lock, (for example with 2 processes and 2 resources) ,how to avoid a dead lock , describe the OSI model and explain how it resembles the post office.(i.e. sending a letter and explaining how the layers resemble this process)   Answer Question
+
+Dec 25, 2012
+---------------
+Technical   Answer Question
+
+Mar 28, 2013
+---------------
+It was a puzzle asked for analytical reasoning test   Answer Question
+
+Sep 14, 2010
+---------------
+Implement bubble sort   1 Answer Find the largest subsequance in an array   Answer Question
+
+May 16, 2013
+---------------
+Convert Roman number to decimal   Answer Question
+
+Apr 10, 2010
+---------------
+What would you do if your manager told you to do something you don't agree with?   1 Answer
+
+Sep 26, 2010
+---------------
+design the game Russian Square   Answer Question code to exchange two integer   1 Answer
+
+Jul 29, 2009
+---------------
+Some simple puzzles. What are the total number of lines written by you in C/C++? What is the most complicated/valuable program written in C/C++?   1 Answer
+
+Mar 12, 2010
+---------------
+The questions about EE knowledge.   Answer Question
+
