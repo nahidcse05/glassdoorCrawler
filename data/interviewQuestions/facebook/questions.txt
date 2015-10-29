@@ -1,0 +1,2200 @@
+Sep 18, 2014
+---------------
+Write a function to find how many valid letters are in a string of digits give the mapping: a -> 1 b -> 2 ... z - > 26 ex) '123' =>1, 12, 23 => 'a', 'l', 'w'   Answer Question
+
+Oct 27, 2015
+---------------
+Add two integers provided as two arrays.   Answer Question
+
+Oct 27, 2015
+---------------
+what's hackerthons have you been to   Answer Question
+
+Oct 22, 2015
+---------------
+1 system design question, 1 manager interview ("Tell me about a time..."), 2 algorithms questions.   1 Answer
+
+Oct 16, 2015
+---------------
+Q. Balance a String of unbalanced Parenthesis ? Q. Iterator class for binary tree.   1 Answer
+
+Oct 5, 2015
+---------------
+Leetcode is more than enough for the coding. Take more time on database design.   Answer Question
+
+Oct 7, 2015
+---------------
+Tell me about yourself, why facebook etc etc... Then he asked my 'read' system call implementation, he provided me with a base file system interface which would always fetch 4k bytes from the current position. I had to make sure I read only as much bytes as specified in my system call   Answer Question
+
+Oct 27, 2015
+---------------
+Find all subsets of a set.   Answer Question
+
+Oct 21, 2015
+---------------
+binary trees, linked list   1 Answer
+
+Apr 4, 2015
+---------------
+1. Binary Tree level order traversal 2. Given a string and a pattern '.' Matches any single character. '*' Matches zero or more of the preceding element.), find the first substring matching this pattern.   4 Answers
+
+Oct 4, 2015
+---------------
+Given a string 12345 and a alphabet to number mapping like a =1, b =2.., y=25, z=26 write a code to find number of possible alphabet strings from the given string. E.x. string 12345 has possible alphabet strings as {lcde,awde, abcde}.   6 Answers
+
+Oct 6, 2015
+---------------
+Given a buffer-like interface from which you can only read data in chunks of a fixed size, implement a reader which can read as many bytes as it wants from this interface.   Answer Question
+
+Oct 14, 2015
+---------------
+For an array of non-negative integer numbers, and a target number, determine whether there's a subarray whose sum equals to target number   Answer Question
+
+Sep 1, 2015
+---------------
+NDA, but basic CS1 style questions, similar to other companies. Know your structures, specifically trees, and be able to apply them to a problem in working code on the fly.   Answer Question
+
+Oct 16, 2015
+---------------
+Implement method that generates n's fibonacci number.   Answer Question
+
+Jul 23, 2015
+---------------
+My current project and how I scale our applications. Given n nodes and an X node, find k nearest nodes to X.   Answer Question
+
+Sep 14, 2015
+---------------
+Data-structures, sorting, Big-O notation, large system design.   Answer Question
+
+Sep 6, 2015
+---------------
+Removing Duplicates, Sorting, Tree based questions   Answer Question
+
+Jul 3, 2015
+---------------
+Why Facebook?   Answer Question
+
+Oct 4, 2015
+---------------
+Design a real-time type-ahead search-phrase predictor which presents the top-10 ranked search strings that begin with a given prefix.   1 Answer
+
+Jun 8, 2015
+---------------
+My technical background.   Answer Question Given an array of positive integers and a target integer, find if there is a consecutive subarray that sums to the target. E.g, given {5,6,4,12}, findsum(10)=true, findsum(11)=false.   18 Answers
+
+Jul 8, 2015
+---------------
+I can't discuss specifics due to NDA, but interview questions were neither overly difficult nor tricky. Check careercup and brush up on algorithms (string processing, binary trees, graphs, etc.). Practice coding fast (which potentially means forgetting good software engineering practices such as class design, refactoring as it will only slow you down). Establish rapport with your interviewer, remember to ask clarifying questions, talk through your thinking process and solutions and you'll do well. Hopefully better than me:) Best of luck!   Answer Question
+
+Apr 12, 2015
+---------------
+1. Given 1 billion numbers, find 100 largest numbers 2. Prefix notation +*123 = 5   5 Answers
+
+Jul 17, 2015
+---------------
+Read number, e.g. 100 -&gt; one hundred, 113 -&gt; one hundred thirteen Stock Search in rotated sorted array Sort Color   2 Answers
+
+Sep 16, 2015
+---------------
+Signed an NDA but just check the resources given to you by the recruiter   Answer Question
+
+May 5, 2015
+---------------
+Given a sequence of numbers (34128) and an input map such as a dial pad on a phone (2-&gt;[a,b,c], 3-&gt;[d,e,f], 4-&gt;[g,h,i]) write an algorithm to return all possible words from the sequence. E.g. Input: 232 Output: [ada, adb, adc, aea, aeb, aec, afa, afb, afc, bda, bdb, bdc, bea, beb, bec, bfa, bfb, bfc, cda, cdb, cdc, cea, ceb, cec, cfa, cfb, cfc]   10 Answers
+
+Jul 8, 2015
+---------------
+Can't disclose due to NDA. But as mentioned above, the coding questions are really straightforward and of merely average difficulty. It's the system design ("Pirate") questions that can be really, really challenging. Definitely spend a good portion of your time preparing for the latter!   Answer Question
+
+Jul 18, 2015
+---------------
+Given an array a contains all digits 0-9 a = [1, 4, 2, 1] # which represents 1421 Add one to the number and return the array return a = [1, 4, 2, 2] # which represents 1422   5 Answers
+
+Jun 15, 2015
+---------------
+Just have your basic algorithm and data structure skills well versed   2 Answers
+
+May 15, 2015
+---------------
+same fringe problem for non binary trees.   1 Answer
+
+Jun 9, 2015
+---------------
+find a needle in a haystack given two strings   Answer Question given an array of ints, find three that sum to zero   Answer Question
+
+Sep 28, 2015
+---------------
+serialize and serialize a BST   1 Answer
+
+Jul 27, 2015
+---------------
+NDA   Answer Question
+
+Jul 1, 2015
+---------------
+Remove all repeat characters in a string.   Answer Question
+
+Jul 26, 2015
+---------------
+Q: Write a function that can tell if a string is a palindrome regardless of punctuation or capitalization?   4 Answers
+
+Sep 2, 2015
+---------------
+4 or 5+ questions increasing in difficulty. Only say that since I solved 4 questions in the 30 minute slot and he may have had more. Early question: Make a method that calculates a square root given a double.   1 Answer
+
+May 15, 2015
+---------------
+Write a function to out put n numbers in a fibonacci sequence   Answer Question
+
+May 18, 2015
+---------------
+Q1&gt; reverse a inked list and print the reversed list . Ex: 1-&gt;2-&gt;3 , result:3-&gt;2-&gt;1 Q2&gt; divider a number by another number and print result and remainder if any. you are not supposed to use "/" and "%" operation   5 Answers
+
+Jun 17, 2015
+---------------
+Technical round , I was asked to code in Java ( select the best language you have expertise) Question --&gt; Take an array ( length to be declared at command prompt) if length ==2 , print (1,2), 1,3 1,4 .... if length is 3 print 1,2,3 (1,2,4) and so on   2 Answers
+
+Jul 3, 2015
+---------------
+Longest common subsequence   Answer Question
+
+Oct 24, 2015
+---------------
+Tell me a situation where you had a difference of opinion about a project and how did you resolve it?   Answer Question
+
+May 22, 2015
+---------------
+Given a string with parenthesis like "()()(()(()()", check to see if there are matching pairs. If there are matching pairs, return true, else return false. For example, ()()() returns true, ()()()) returns false.   5 Answers
+
+May 26, 2015
+---------------
+given a string ( char* ) Write a program to Rotate its words i.e: void RotateWords(char* str);   Answer Question
+
+May 28, 2015
+---------------
+Convert a binary tree to a circularly doubly linked list. head-&gt;prev = tail node. tail-&gt;next = head node. Do not use any other data structures. Must be done on the tree itself.   Answer Question
+
+Jun 2, 2015
+---------------
+Basic string modification question.   1 Answer
+
+Apr 18, 2015
+---------------
+given an array of integers, find 3 integers that sum to zero   3 Answers given sorted circularly linked list how would you insert an element in it?   3 Answers
+
+Dec 13, 2014
+---------------
+Just prepare for some common behavioral questions.   Answer Question
+
+Mar 28, 2015
+---------------
+Multiply two big ints.   3 Answers
+
+Apr 14, 2015
+---------------
+Problem related to binary search tree.   Answer Question
+
+Apr 22, 2015
+---------------
+For a binary tree, write an iterator class, which can in-order traverse the binary tree, implement two operations, next() and hasnext(). E.g., if in-order traversing a binary tree will return 2 3 4 5 6, then first call next(), it will return 2, call next() again, it will return 3, etc.   2 Answers
+
+Mar 21, 2015
+---------------
+Q1A: In a maze with empty spaces and walls, given a starting point and ending point, find a path (not necessarily shortest). (Just BFS, DFS...) Q1B: If the maze is stored on multiple nodes on a cluster, what do we have to do? (No coding, just give ideas) Q2: Given an array and a target number, tell whether there are three numbers in the array which add up to the target number. (Time complexity should be O(n^2)) Q3: Topological sort.   Answer Question
+
+Apr 10, 2015
+---------------
+Convert a tree to a doubly linked list.   3 Answers
+
+Apr 23, 2015
+---------------
+Given an array of integers, find three integers a, b and c such that a+b+c=0. Modification: If the array is given in sorted order, can you do it without O(n) space?   2 Answers Given a large input string, write a function to check if it is a palindrome, according to the following restrictions: -lowercase and uppercase characters are considered equal -special characters are ignored   3 Answers
+
+Apr 20, 2015
+---------------
+Given a binary tree, print all root-to-leaf paths   2 Answers
+
+May 17, 2015
+---------------
+Given an array of integers, push all non-zero elements to the front.   1 Answer
+
+Jun 15, 2015
+---------------
+Big number multiplication   Answer Question
+
+Oct 13, 2015
+---------------
+If A = 1, B = 2, etc., Z = 26, output all the possible combinations of a string of numbers (ie. 123 could be "abc" or "ic" or "ap"   1 Answer
+
+Apr 1, 2015
+---------------
+write a algorithm to calculate the running time for a sequence of tasks.   Answer Question
+
+Apr 1, 2015
+---------------
+build a large number structure with add function   2 Answers
+
+Mar 29, 2015
+---------------
+Why Facebook Describe previous projects what would be a perfect internship   Answer Question
+
+Mar 15, 2015
+---------------
+How would you design a url-shortening service?   1 Answer
+
+Mar 7, 2015
+---------------
+Find out if substring of given length exists in another string. Length and substring can vary.   6 Answers
+
+Mar 29, 2015
+---------------
+1. Tree breadth first search. 2. Palindrome, ignore numbers and whitespace.   1 Answer
+
+Apr 8, 2015
+---------------
+Phone round question Given 2 strings, write a function to check if the two words are one edit away from each other. i.e one word can be formed from another by inserting/ deleting / replacing one character Valid Examples : car , cas car, card Invalid Examples : car, caert   5 Answers
+
+Feb 26, 2015
+---------------
+Design round.   Answer Question
+
+Feb 12, 2015
+---------------
+The first one is, given a tree, each node contains a digit. Calculate the sum of all numbers formed by paths from root to leaf. The second one is given a string, remove all 'b's and duplicate all 'a's.   7 Answers
+
+Mar 6, 2015
+---------------
+4 rounds of interview . design , coding round .design a scalable architecture of a system.Need to cover different aspects of scalability . Coding round was difficult.   Answer Question
+
+Mar 28, 2015
+---------------
+Inorder traversal of binary tree to double linked list   Answer Question
+
+Mar 9, 2015
+---------------
+Background and projects   Answer Question
+
+Apr 27, 2015
+---------------
+Palindrome detection with non-alphanumeric characters   Answer Question
+
+Apr 9, 2015
+---------------
+NDA signed. But the question involved matrix calculations and required backtracking. Best solution was n!   Answer Question
+
+Apr 4, 2015
+---------------
+Data structure and algorithms   Answer Question
+
+Mar 31, 2015
+---------------
+Architect a cloud-based queuing service   Answer Question
+
+Apr 14, 2015
+---------------
+You&#039;re given an array of numbers, and you want to find 3 numbers that sum to 0 and output those 3 numbers. You can use each number multiple times. So if you&#039;re given the array [-1, 1, 2], you would output [-1, -1, 2] because -1 -1 +2=0   4 Answers
+
+Aug 5, 2015
+---------------
+I was told not to disclose the details of my interview.   Answer Question
+
+Oct 16, 2015
+---------------
+Around the medium level algorithm questions. The only one I remember is to print all paths from root to leaf of a tree, using both recursive and iterative methods. 2 question for 1st round and 3 questions for 2nd round.   Answer Question
+
+Oct 5, 2015
+---------------
+You have a string that consists of all types of characters, alphanumeric, special, uppercase and lowercase. The string should still tell me that it is a palindrome or not. For example: 12@#.Race@#car. The example is a palindrome. (Omit the special characters, and do not consider the string to be case sensitive). I wrote the code in O(n), but I was using an extra string to store only the letters. The interviewer asked me to do it in place (use only that string and check for palindrome)   Answer Question
+
+Jun 19, 2015
+---------------
+An interesting exhaustive phone number pad permutations question. Eg, if you touch one number on a keypad and then drag it around the keypad (horizontal and vertical movements only, no repeats), enumerate all the possible words you could create. These sorts of questions are common.   Answer Question Implement an LRU cache. Make it thread safe.   Answer Question
+
+May 30, 2015
+---------------
+Implement regular expression parser   1 Answer Clone a linked list with arbitrary pointers to other nodes   1 Answer
+
+Feb 26, 2015
+---------------
+Print binary search tree   2 Answers
+
+Feb 28, 2015
+---------------
+Print a linked list in reverse recursively and non-destructively.   7 Answers Standard dynamic problems.   Answer Question Given a set of strings, return the smallest subset that contains prefixes for every string. If the list is ['foo', 'foog', 'food', 'asdf'] return ['foo', 'asdf']   2 Answers
+
+Feb 25, 2015
+---------------
+Print the nodes of a binary tree columnwise . For example Input : a / \ b c / \ d e / \ f g Then output is b f a d c g e   2 Answers
+
+Feb 24, 2015
+---------------
+1. Given a string, write a function to decide whether it is a palindrome. 2. Anagram. Given a list of string, group those that are anagrams.   Answer Question
+
+Feb 3, 2015
+---------------
+Algorithm. Implementation. Nothing unexpected.   Answer Question
+
+Jan 25, 2015
+---------------
+Design backend system to run app like facebook where query is to get two levels of friends of friend. Open ended question..   Answer Question
+
+Feb 9, 2015
+---------------
+Reverse a string in place?   2 Answers Given an SMS text (array of digits) what are the possible words that could be created?   Answer Question
+
+Feb 26, 2015
+---------------
+The coding questions are not that hard for both two rounds. In the first round, the two questions are (1) return the sum of the k-largest digits ([0-9]) in the array (2) implement a LRU cache (least recently used) In the second round, the two questions are (1) return the index of the largest element, if more than one element reaches max, pick one unifromly at random; (2) clone a graph. the graph is directed, unweighted and not necessarily fully connected.   Answer Question
+
+Mar 13, 2015
+---------------
+Give a dictionary with a huge set of words and a string with wildcard. You are required to find whether there is a match in the dictionary for this given string.   4 Answers
+
+Mar 20, 2015
+---------------
+How would you architect various things around a Twitter like company. A coding problem about finding the shortest path on an augmented chess board.   1 Answer
+
+Feb 26, 2015
+---------------
+Leetcode: Count and say 3Sum   Answer Question
+
+Mar 5, 2015
+---------------
+1) Given an array with 0s and other integers. Find the fastest (that use least organizing) way to transfer all the 0s to the right end of that array. 2) Given an array of integer, find 2 numbers that their sum is closest to a specific number.   3 Answers
+
+Jan 14, 2015
+---------------
+Basically an array manipulation problem   Answer Question
+
+Apr 10, 2015
+---------------
+Reverse a Singly Linked List   1 Answer
+
+Feb 20, 2015
+---------------
+Given a list of numbers, find the consecutive sequence of numbers whose sums equal to a target number.   5 Answers
+
+Mar 19, 2015
+---------------
+Given a sorted array, find the emergence of given number.   1 Answer
+
+Mar 19, 2015
+---------------
+Given a sorted array, find the emergence of given number.   1 Answer
+
+Feb 13, 2015
+---------------
+Before I get to the question I just want to say that the interviewer had a very thick accent (I'm an international candidate, BTW), and that made it really difficult for me to understand what he wanted me to do. This isn't me being bitter. I'm saying this so that I present a very honest opinion about my interview. That being said, the question wasn't something that can be found online or in most books, I was given 2 functions String recv() and String ReadLine() [ both these DO NOT take arguments]. recv() generates some string (Example:"123\n45\n6789"). ReadLine() should read the string being returned by recv() and print all characters until the first \n. After that it should read the recv() string again and print the next characters until the 2nd \n. Example: recv(): "123\n45\n6789" ReadLine(): "123" //first call of ReadLine ReadLine(): "45" // second call of ReadLine However, the next sequence now doesn't have a \n. So, once the end of the string is hit, the ReadLine() function must call recv() again, and append all characters until it reads a \n. Continuing the above example: ReadLine():6789abcde //Third call of ReadLine recv():"abc"// still no \n...so you must call recv() again recv():"de\n" The commented sections are my explanations (the interviewer didn't give any such things). I've explained the problem as clearly as I can. Unfortunately, the interviewer kept overwriting his examples, and (I have to emphasize this) his accent made it really hard to understand just what he wanted out of this program.   1 Answer
+
+Jan 22, 2015
+---------------
+how will you design the social graph   Answer Question
+
+Jan 30, 2015
+---------------
+If you would change something in facebook, what would it be?   1 Answer
+
+Jan 11, 2015
+---------------
+Questions - Print all paths in a binary tree - Function to find the square root of a number - Pretty print JSON object - How would you design home feed? - Simple regex matcher   3 Answers
+
+Jan 29, 2015
+---------------
+Why facebook   Answer Question
+
+Jan 25, 2015
+---------------
+It was not especially difficult.   Answer Question
+
+Jan 19, 2015
+---------------
+I didn't have enough time to research on the question but if you search around on this site and google, you should be able to cover most of the basic questions that were asked.   Answer Question
+
+Jan 18, 2015
+---------------
+There was no technical questions   Answer Question
+
+Jan 21, 2015
+---------------
+The difficulty is to be calm down and devote yourself to think about the questions. Don't try to recall some problems that you've resolved, it may waste your time.   Answer Question
+
+Jan 12, 2015
+---------------
+system design problem   Answer Question
+
+Mar 18, 2015
+---------------
+You have two words and would like to find the "minimum edit distance" between them. Edit distance is defined as the number of operations with: adding a letter, subtracting a letter, and replacing a letter. Make a function that finds the minimum edit distance.   1 Answer
+
+Jan 7, 2015
+---------------
+preorder traversal   Answer Question
+
+Jan 12, 2015
+---------------
+Some trivial question on breadth-first graph traversal.   Answer Question
+
+Jan 8, 2015
+---------------
+Had no chance for such question. Only useless questions about complexity of algorithms (every developer understands when data structure A is faster than B for insert / or delete / or search).   Answer Question
+
+Jun 13, 2015
+---------------
+I received two questions. The first was print out all possible strings that a phone number can produce. For instance: 2 -&gt; A,B,C and 3 -&gt; D,E,F. So if the input is 23, then the output should be "AD, AE, AF, BD, etc.." The second question was if you had multiple points (x,y), find the n closest points to the origin (0,0).   5 Answers
+
+Jan 15, 2015
+---------------
+String manipulation: Giving a string input, containing comments, implement a method to output the given string excluding the comments.   2 Answers
+
+Jan 19, 2015
+---------------
+Trie data structure   Answer Question
+
+Jan 29, 2015
+---------------
+No NDA signed, so here's the question: Write an iterator to traverse through a binary search tree in order.   Answer Question
+
+Feb 5, 2015
+---------------
+reverse of a linked list   2 Answers
+
+Feb 13, 2015
+---------------
+Why are you Interested in Facebook?   Answer Question What is your favorite feature of Facebook? Then as follow ups, what would you change about this feature, and what could be a drawback of this change?   Answer Question Given "data", "from", and "to" fields, replaces all occurrences of the characters in the "from" field in the "data" field, with their counterparts in the "to" field. Example: Input: Data: "Hello World" From: "lod" To: "xpf" Output: "Hexxp Wprxf"   1 Answer Create an iterator class for a tree. The iterator should traverse the tree using in order traversal. Implement the constructor and next functions.   1 Answer
+
+Feb 26, 2015
+---------------
+Please tell me about a previous project of yours and what you would have to change in order to make it scale to millions of users.   Answer Question
+
+Feb 25, 2015
+---------------
+top k, permutation, system design   Answer Question
+
+Dec 5, 2014
+---------------
+First interview question: dutch flag problem. Given three color objects arranged randomly in an array, arrange them such that each object is together and their collective color groups are in the correct order.   1 Answer
+
+Nov 23, 2014
+---------------
+How would you speed up the file copying program you wrote?   1 Answer
+
+Mar 28, 2015
+---------------
+Matching two strings, one is text, the other one is chars and dots and asterisks, each of which represents something. Similar to ones on CareerCup.   Answer Question
+
+Dec 20, 2014
+---------------
+Print out the sum of each row in a binary tree.   Answer Question
+
+Feb 15, 2015
+---------------
+Given a social network where users can subscribe to one another, you are told that there is exactly one celebrity to whom everyone subscribes. If the graph is represented as a 2D array, how would you find the celebrity?   Answer Question
+
+Nov 25, 2014
+---------------
+4 rounds onsite interviews. Not very difficult, need bug free. 45 mins each round, 5 mins break between them. People there are smart and nice. some resume questions, 1 to 2 coding problems each round   Answer Question
+
+Dec 5, 2014
+---------------
+Signed NDA. Distributed system design problems were out of my expectation as I do not claim any experience in that area nor was I interviewing with any positions related to that area.   Answer Question
+
+Sep 15, 2015
+---------------
+Solve the 2sum problem without using extra space   Answer Question
+
+Sep 15, 2015
+---------------
+Q: Design a self driving car with artificial intelligence Q: basic tree, binary, data structure quesitons   Answer Question
+
+Dec 16, 2014
+---------------
+Trees   1 Answer
+
+Dec 19, 2014
+---------------
+Dynamic programming questions that were pretty standard yet tricky.   Answer Question
+
+Nov 25, 2014
+---------------
+Implementing a square root function   2 Answers
+
+Nov 19, 2014
+---------------
+the interviewer ask me how to optimize the strstr() brute force method, and I said we can use KMP algorithm to do it, then he move on, and don't ask me to implement it.   2 Answers
+
+Nov 11, 2014
+---------------
+I signed an NDA so won't disclose the exact questions - but I'd practice up on tree traversals before interviewing   Answer Question
+
+Nov 16, 2014
+---------------
+I found system design question more difficult than others as I had no experience in designing large scalable systems.   2 Answers
+
+Oct 28, 2014
+---------------
+1--a 2--b ... 26--z given a digit , return the count of the possible output eg. '1313' --- 4 acac mac mm acm '101' --1 ja cannot discard any digit .   8 Answers
+
+Feb 3, 2015
+---------------
+The most difficult thing is system design. they asked problem which can be solved by disjoint set problem.   Answer Question
+
+Nov 11, 2014
+---------------
+The second ninja (coding) test was about event processing system using pulling model, which literally no one in the industry is using.   5 Answers
+
+Nov 20, 2014
+---------------
+How to deal with the conflict with colleagues   Answer Question
+
+Dec 17, 2014
+---------------
+Was asked to write a function that would return all the possible words generated when using a phone numpad to type.   1 Answer
+
+Nov 30, 2014
+---------------
+The pattern matching question in my 1st interview was reasonably tricky, but the interview did a fantastic job of giving me the right clues to help me solve it on my own.   Answer Question
+
+Nov 20, 2014
+---------------
+Given a mapping of the english alphabet to numbers (i.e. a = 1, b = 2, k = 11) and a string of numbers (i.e. "110124"), determine the number of representations that the string may have in letters.   4 Answers
+
+Dec 31, 2014
+---------------
+Sort an array of characters into three groups, in O(n) time and using little extra memory.   1 Answer
+
+Dec 3, 2014
+---------------
+Given an array, move all the zeros to the end and return the number of nonzero elements in the array   6 Answers
+
+Dec 3, 2014
+---------------
+I would say that the questions are not difficulty but it's also not easy to do them correctly if you see them first time.   Answer Question
+
+Nov 15, 2014
+---------------
+Find Minimum in Rotated Sorted Array Find the minimum element. Assume there is no duplicate exists in the array.   1 Answer
+
+Nov 17, 2014
+---------------
+If you could change something about Faceboook what would it be?   Answer Question
+
+Aug 27, 2014
+---------------
+Print a binary tree by vertical level order like 1 2 4 3 5 print : 3 2 1 5 4   7 Answers
+
+Oct 25, 2014
+---------------
+How do you reverse a linked list?   2 Answers
+
+Oct 16, 2014
+---------------
+you have a longggg list of words, return a list of distinct words along with the count of how many occurred using only 16gb of memory   2 Answers
+
+Oct 4, 2014
+---------------
+Why do you choose facebook   Answer Question
+
+Nov 8, 2014
+---------------
+From a list of words create a list of buckets with anagrams in the same bucket   1 Answer
+
+Sep 25, 2014
+---------------
+Write running code to print out the level order traversal of a binary tree   4 Answers
+
+Nov 21, 2014
+---------------
+Bread-First Search on a Dictionary.   Answer Question
+
+Nov 3, 2014
+---------------
+Regex matching   Answer Question
+
+Nov 10, 2014
+---------------
+Try to improve the intersection question by binary search, but I did not finish the coding.   3 Answers
+
+Oct 25, 2014
+---------------
+Given a matrix, calculate the sum of a sub matrix given the start and end indices of the submatrix   1 Answer
+
+Nov 2, 2014
+---------------
+The interview questions are very typical coding questions. Nothing unexpected   Answer Question
+
+Sep 14, 2015
+---------------
+chess board traversal   1 Answer
+
+Apr 15, 2015
+---------------
+There were two questions based on string manipulation.   Answer Question
+
+May 8, 2015
+---------------
+It was simple and basic stuff from computer science. Just try to solve leetcode problems and geeksforgeeks are sufficient.   Answer Question
+
+Nov 5, 2014
+---------------
+Given a binary tree, print every node on each level on a new line (i.e. print all the nodes on level 0 on one line, print all the nodes on level 1 on another line, etc.)   1 Answer
+
+Oct 18, 2014
+---------------
+The question I got was not a difficult question, but whiteboarding the code was where I messed up. It was: how do you find the lowest common ancestor of two nodes in a binary tree.   5 Answers
+
+Sep 30, 2014
+---------------
+1. implement sqrt() with integer. 2. sort 3 color in array.   5 Answers
+
+Sep 18, 2014
+---------------
+Nothing unexpected. Straight out of cracking the coding interview. Reverse a doubly linked list   Answer Question
+
+Sep 23, 2014
+---------------
+Not really anything. The question was pretty easy, I think I just answered it badly.   Answer Question
+
+Oct 15, 2014
+---------------
+The puzzle was actually the most difficult. Since they expected an optimum solution and there were no guidelines at all.   Answer Question
+
+Oct 27, 2014
+---------------
+Find if one string is "oneEditAway" from another string   3 Answers
+
+Oct 23, 2014
+---------------
+The coding challenge   Answer Question
+
+Nov 3, 2014
+---------------
+Find lowest common ancestors of a tree given nodes.   1 Answer
+
+Sep 21, 2014
+---------------
+tricky but fair questions   Answer Question
+
+Aug 28, 2014
+---------------
+Was not expecting a simple heap search algorithm implementation.   1 Answer
+
+Aug 19, 2014
+---------------
+What is something other people misunderstand about you?   1 Answer
+
+Aug 25, 2014
+---------------
+Display the sorted output of a merge of any number of sorted arrays. Then do it again, more efficiently.   3 Answers
+
+Aug 28, 2014
+---------------
+How would u find out the number of cars passing through a busy bridge   1 Answer
+
+Oct 2, 2014
+---------------
+Techical Question: Check to see if one array is a subset of another.   2 Answers
+
+Jul 26, 2014
+---------------
+I was asked a relatively standard question about BSTs.   Answer Question
+
+Jul 21, 2014
+---------------
+Nothing terribly surprising - be prepared to talk through CS fundamentals, large scale design, and code code code.   Answer Question
+
+May 12, 2015
+---------------
+Find a cube root of a number   1 Answer
+
+Dec 6, 2013
+---------------
+How would you implement division without +, - or multiplication   9 Answers
+
+Aug 7, 2014
+---------------
+Nothing difficult for someone who would be clear on data structures I guess.   Answer Question
+
+Aug 10, 2014
+---------------
+Add two binary numbers (Input as a string)   9 Answers
+
+Jun 22, 2015
+---------------
+The interview questions were not extremely difficult, but I can tell they want people who understand the most basic concepts really well and can code clean and bug-free at once or after a little bit hints. The design questions were challenging though. Be prepared for that. The interview questions include two sum, reverse integer, edit distance, clone graph, etc.   Answer Question
+
+Jun 24, 2014
+---------------
+Sink Zero in Binary Tree.   4 Answers
+
+Jul 24, 2015
+---------------
+I forgot some of the coding problems, but here are what I can remember. 1. move all 0s to the front of an integer array. 2. given a target and a sorted array, find the highest value smaller than the target. 3. given a 0-1 matrix, find the largest graph that is 1-connected. 4. design a system that can quickly return public accounts' activity data. For example, how many persons like/comment Taylor Swift's status. 5. In culture fit round, was asked many questions about how and why did you make this decision, what would you do in this case. For example, why did you apply for grad school? why not go to industry after undergrad? Why did you choose your current company three years ago? Why did you move to this state? If at that time you also got an offer from FB, what would you do? Why FB?   Answer Question
+
+Apr 29, 2014
+---------------
+2SUM problem and how to optimize it.   3 Answers
+
+Jul 8, 2014
+---------------
+Tell me about the N-1 problem with ORMs.   1 Answer
+
+Apr 14, 2014
+---------------
+How do you find the kth smallest number in a binary search tree.   5 Answers
+
+Aug 29, 2014
+---------------
+Standard rotated binary search question. You have a sorted array that has been shifted/cycled, perform a search on it   2 Answers
+
+Jun 2, 2014
+---------------
+The interview was pretty straightforward. The technical question had something to do with rearranging letters in a word, can't remember the details anymore.   Answer Question
+
+Aug 21, 2015
+---------------
+3-sum problem, link lists   1 Answer
+
+Mar 21, 2014
+---------------
+You might be asked on how much you expect for compensation (by the recruiter). The coding question was alright. It was to compare two general trees and making sure they have the same elements.   Answer Question
+
+May 5, 2014
+---------------
+Regular expression and strStr. I was not able to give KMP algorithm to strStr   6 Answers
+
+Mar 4, 2014
+---------------
+The questions were pretty simple.   1 Answer
+
+Mar 12, 2014
+---------------
+A recursive problem involving how many combinations you can make out of a set of numbers. Know your data structures, the problem used both hash tables and lists.   1 Answer
+
+Apr 22, 2014
+---------------
+How would you multiply two strings: "123 * "45", without any casting.   9 Answers
+
+Feb 28, 2014
+---------------
+I was asked the 3-sum problem. Basically, given an array of integers, find three that sum to a given value. Alternately, find all triplets that sum to the given value.   2 Answers
+
+Dec 3, 2014
+---------------
+What projects did you work on?   Answer Question
+
+Oct 6, 2014
+---------------
+Question is verbose, uses search engine, string matching etc., but at the end boils down to this: There is two dimensional array where each sub array (row) is sorted, i.e. [[1 1000 2000] [20 10001 5000] [55 10002 222222]] Find a minimum range contain a number from each row. For above array it should be (1000-1002) range.   8 Answers
+
+Feb 21, 2014
+---------------
+Regex matching function   Answer Question
+
+Mar 7, 2014
+---------------
+As for the interview itself, I was asked several general questions about my projects (nothing too special, really). The coding question is a standard regular expression matching one which you can find on LeetCode. Since I'm still doing my Master program, I haven't yet reached that far on LeetCode. I did solve the question in the end after the interviewer gave me some hint...But I don't think I did a very good job.   Answer Question
+
+Mar 1, 2015
+---------------
+One of the questions I got was around bit manipulation and built on itself by layers (i.e. how would you do x? ok, say you have a function for x, how would you do this new thing y?). The other question was a modification of a sorting question (i.e. the question itself was sort the array, but there were some parameters on the data type that made things extra fun/not standard sorting algorithm)   Answer Question
+
+Nov 11, 2014
+---------------
+system design   Answer Question
+
+Feb 26, 2014
+---------------
+Give a set of objects and a function. Pass two objects to that function and it can tell you whether one object points to another one. Find one object that is pointed by all other objects.   4 Answers
+
+Jul 18, 2014
+---------------
+something related to my resume. like how this project works   Answer Question
+
+Mar 4, 2014
+---------------
+Overall Facebook's interview questions are interesting and not hard. All the interviewers are knowledgable and nice to talk to.   Answer Question
+
+Mar 3, 2014
+---------------
+On site interview, they ask me regular expression match (check leetcode) and search for range (like, 1,2 3, 7,7,7, 9, 9, return how many 7's in the array) and also knowledge about the garbage collection, linked list, reverse linked list.   1 Answer
+
+Jan 8, 2014
+---------------
+Binary tree traversal, basic stringology, basic graph algorithms.   Answer Question
+
+Apr 6, 2014
+---------------
+Nothing unexpected, I solved all the problems but I think I was too slow on the first one, which goes like: Given an array of numbers, they are arranged so that the a[0] is in the 1st bucket, a[1]a[2] are in the 2nd bucket, a[3]a[4]a[5] is in the 3rd bucket and so on. The question is then: given a number, you need to return if it is in any bucket or not.   7 Answers
+
+Dec 17, 2013
+---------------
+NDA got my hands tied.   1 Answer
+
+Jan 23, 2014
+---------------
+System Design (can't give details due to NDA)   1 Answer Algorithmic questions   1 Answer Cultural fit   1 Answer
+
+Aug 17, 2014
+---------------
+K nearest points to the origin on a 2D plane; one-pass reverse linked list with constant space.   5 Answers
+
+Oct 7, 2014
+---------------
+Questions about recursion, css positioning, what would you like to do at Facebook, and closures.   Answer Question
+
+Jan 28, 2014
+---------------
+Nothing really particularly difficult.   Answer Question
+
+Dec 6, 2013
+---------------
+No question stood out as most difficult or unexpected. Just know your algorithms and data structures, as well as your specific domain knowledge.   Answer Question
+
+Nov 17, 2013
+---------------
+Nothing stood out as particularly difficult or unexpected.   Answer Question
+
+Nov 29, 2013
+---------------
+1. merge two sorted arrays together 2. given a m * n grids, and one is allowed to move up or right, find the number of paths between two grids.   3 Answers
+
+Nov 11, 2013
+---------------
+Given an encoded message containing digits, determine the total number of ways to decode it.   Answer Question
+
+Nov 1, 2013
+---------------
+questions are standard with minor tricks hidden. i'm not a CS major so my coding was not the most efficient, and clean coding is a crucial criteria they're looking for.   Answer Question
+
+Nov 22, 2013
+---------------
+Why do you want to come to Facebook?   1 Answer
+
+Jun 5, 2014
+---------------
+Asked to do a presentation on a specific topic for the entire team.   Answer Question
+
+Oct 23, 2013
+---------------
+Given a scrabble board with scores and a series of random letters drawn, find a way to maximize the point value for a valid word and play it on the board if there is space and fits with the other words   2 Answers
+
+Oct 22, 2013
+---------------
+No unexpected questions   Answer Question
+
+Nov 15, 2013
+---------------
+Not too much   Answer Question
+
+Nov 1, 2013
+---------------
+Nothing unexpected. Keep Reading, studying, solving problems, and coding on your daily job and you should be able to get it.   Answer Question
+
+Oct 25, 2013
+---------------
+Design a web site sharing application, from the base at the phone level to the status of everything in the cloud.   1 Answer
+
+Mar 24, 2015
+---------------
+Given an array of integers, modify it in-place such that all non-zero values are on the higher end, and all zeros are on the lower end. Order of non-zero values can be ignored for the final result. Report and explain space and time complexities.   1 Answer
+
+Oct 7, 2013
+---------------
+There was a questions regarding string manipulation and checking it was challenging because it was a difficult question to understand at first.   Answer Question
+
+Oct 29, 2013
+---------------
+I had never heard of any questions that I was asked (in all the 4 rounds of interviews). So pretty much all the problem required me to think on the fly.   1 Answer
+
+Nov 11, 2013
+---------------
+signed NDA so cannot discuss. But do prepare for sorting, pattern matching algorithms, design problems such as how to go about implementing certain features in Facebook, and review previous work experience for some stuff to talk about in depth during behavioral interview.   Answer Question
+
+Nov 18, 2013
+---------------
+I think the most difficult part were not the coding question itself but that they were the kind of questions where you have to be recall a lot from basic computer science classes. Things you tend to forget if you have already been working for a couple of years. But then again, that was not necessarily unexpected.   1 Answer
+
+Dec 16, 2013
+---------------
+A bunch of pointer arithmetic and bit flipping questions, in the same interview as some dynamic programming problems   Answer Question
+
+Jan 5, 2014
+---------------
+1. Modified permutation 2. Design news feed 3. Modified Binary search. 4. Sort graph points   Answer Question
+
+Sep 24, 2013
+---------------
+Gray code, it was lack of time on a cultural interview. I think something like 15 minutes or so it was quite challenging.   Answer Question
+
+Oct 10, 2013
+---------------
+Palindromes possible from a string without extra space   1 Answer
+
+Oct 22, 2013
+---------------
+all the questions are normal questions but I have some bugs and then got rejected.   Answer Question
+
+Dec 5, 2013
+---------------
+Dynamic programming, greedy algorithms. They really mean it when they say efficient algorithms!   Answer Question
+
+Sep 14, 2013
+---------------
+Questions about data structures, graphs, and tree traversal.   Answer Question
+
+Oct 20, 2014
+---------------
+A seemingly analytical coding question which couldn't be solved at all if you didn't know a certain class.   Answer Question
+
+Oct 18, 2013
+---------------
+I was only asked two questions, one was to implement strstr() and the other was to write a function to check if a binary tree was valid   Answer Question
+
+Feb 22, 2014
+---------------
+Most difficult questions were around systems design since the question was extremely broad, in which I was supposed to write/draw on a white board for 30-45 minutes explaining what the concept was about. Another unexpected question involved the trie data structure, it wasn't too hard, but I've never heard of it.   Answer Question
+
+Aug 17, 2013
+---------------
+Getting maximum and minimun number was not difficult but getting less than n comparison was tricky.   8 Answers
+
+Aug 14, 2013
+---------------
+Expect typical software engineering coding questions on the more difficult side of the spectrum. Nothing easy like "reverse this array", but don't be afraid to ask questions during the interview and thinking out loud is encouraged.   Answer Question
+
+Nov 19, 2013
+---------------
+All standard algorithm/data structure questions. Nothing about brain twists or programming language or computer/network related knowledges.   Answer Question
+
+Sep 16, 2015
+---------------
+Various programming questions   1 Answer
+
+Aug 3, 2013
+---------------
+no surprising questions   Answer Question
+
+Jul 29, 2013
+---------------
+The question was simple one related to BFS   Answer Question
+
+Aug 24, 2013
+---------------
+If you go through the career cup questions, all 3 of my questions were on there. One of them I only had 15 mins to answer (the most difficult one) due to over running.   Answer Question
+
+May 30, 2013
+---------------
+Levenshtein Distance, Sum of 1's in a submatrix, Print all paths of a binary tree, Palindrome   Answer Question
+
+Jun 18, 2013
+---------------
+The sqrt() was a bit unusual for an interview question.   1 Answer
+
+Jun 16, 2013
+---------------
+Many of the questions exploited data structures for fast running time. Also I'd practice designing features.   Answer Question
+
+Aug 11, 2015
+---------------
+Fibonacci Sequence   Answer Question
+
+May 17, 2013
+---------------
+Database design. Don't have background in CS and know little about that.   Answer Question
+
+May 7, 2013
+---------------
+Have you done any web development?   1 Answer
+
+May 5, 2013
+---------------
+A map-reduce question.   Answer Question
+
+May 19, 2013
+---------------
+A lot of people asked about my experience in writing iPhone apps and what was challenging about it.   Answer Question
+
+Mar 25, 2013
+---------------
+Given a set of n jobs with [start time, end time, cost] find a subset so that no 2 jobs overlap and the cost is maximum ?   10 Answers
+
+Apr 23, 2013
+---------------
+Some questions required remembering command line switches nearly instantly. Have man available diring the interview.   Answer Question
+
+Apr 23, 2013
+---------------
+Asked to design a system for facebook chat messaging. Difficult since I hadn't had any backend/distributed systems experience.   Answer Question
+
+Apr 16, 2013
+---------------
+(a) first, write a function to calculate the hamming distance between two binary numbers (b) write a function that takes a list of binary numbers and returns the sum of the hamming distances for each pair (c) find a solution for (b) that works in O(n) time.   10 Answers
+
+Apr 10, 2013
+---------------
+You are given a string with each english character translated to its alphabetical position (e.g., the string "ABC" --> "123"). Provide a function that, when provided the string as an argument, will return the maximum number of strings the encoded string could represent (for example, "123" could represent "ABC", "LC", or "AW").   2 Answers
+
+Apr 10, 2013
+---------------
+Can't answer due to NDA, although it's nothing unexpected. Algorithmic problems and whiteboard coding. Try to keep whiteboard coding as eat and organized as possible, and speak out load when you're writing.   Answer Question
+
+May 13, 2013
+---------------
+I expected a tirade of technical questions. The unexpected part was that the interview was both ways: they interviewed me, I interviewed them. Most parts were more like brainstorming session than exams. The most difficult question was when a guy showed me a gdb stack trace of the threads within a process which hung. It was an facebook internal application, so I had no previous knowledge of that application. The question was what went wrong. Luckily, it was a clear situation where all threads were waiting for a blocked thread.   Answer Question
+
+Apr 15, 2013
+---------------
+What are the most challenging issues in your work?   Answer Question
+
+May 3, 2013
+---------------
+The questions are easy and common, but I was very disappointed with the second phone interviewer. The first interviewer was very nice and supportive. The first question was to return the value of a roman number given in a string. The question for the second phone interview was to print out the paths to all leaves of a binary tree.   3 Answers
+
+May 29, 2013
+---------------
+system design, why they assume you know their system well and be able to come up with solutions about their system   Answer Question
+
+Mar 28, 2013
+---------------
+Print all permutation of a given string.   1 Answer bool regular_expression_match(char* pattern, char* string) and pattern can contain kleene star.   2 Answers
+
+Jun 21, 2014
+---------------
+They interview on your data structures and problem solving skills, nothing too hard.   Answer Question
+
+Mar 28, 2013
+---------------
+Due to NDA, no details. But I think the most difficult one is one about dealing with streaming files. Not like normal algorithm questions, but many corner cases.   Answer Question
+
+Jun 2, 2013
+---------------
+one technical question   Answer Question
+
+Mar 30, 2013
+---------------
+I supposed it would be a problem of dynamic programming or recursive, but happened to be a totally different one. Got stuck but maybe not that difficult as I thought of.   Answer Question
+
+Mar 24, 2013
+---------------
+the interviewer seems quite familiar with my background and ask me some details about my current project.   Answer Question
+
+Mar 17, 2013
+---------------
+NDA   Answer Question
+
+Mar 18, 2013
+---------------
+Implement a square root function using only +,-,*,/   1 Answer
+
+Mar 12, 2013
+---------------
+Given a binary search tree, write an algorithm to find the kth smallest element   3 Answers
+
+Mar 12, 2013
+---------------
+Given a vector of Nodes, each of which contain the start and end time of a meeting, find the maximum number of rooms one would have to book for the day.   Answer Question
+
+Mar 13, 2013
+---------------
+A very common coding problem that can be searched online   Answer Question
+
+Mar 6, 2013
+---------------
+What's the applications of your research?   Answer Question
+
+Mar 8, 2013
+---------------
+NDA   Answer Question
+
+May 14, 2013
+---------------
+Signed NDA, so maybe it's not OK to disclose the questions... It was standard coding questions, not those hard ones at leetcode, but you need to make sure not to make silly mistakes. Missing a few semicolons is file, though.   Answer Question
+
+Mar 17, 2013
+---------------
+I didn't pass 1st interview even the task was simple one. I wasn't sleeping well the night before.   Answer Question
+
+Mar 29, 2013
+---------------
+None were really difficult or unexpected.   Answer Question
+
+Mar 1, 2013
+---------------
+Identify if the words in a given sentence are in a built in dictionary.   Answer Question
+
+Feb 16, 2013
+---------------
+How would you build our photo gallery?   Answer Question
+
+Feb 6, 2013
+---------------
+Given an array of distinct integers, and a target integer t, compute all of the subsets of the array that sum to t, where order matters. (I was given ~20 minutes to solve this)   2 Answers
+
+Feb 2, 2013
+---------------
+Check if two strings are Palindrome   3 Answers
+
+Feb 23, 2013
+---------------
+Except of technical-related questions you can expect such ones like - how do you use Facebook app and what are the problems with it? How would you fix it?   Answer Question
+
+Feb 26, 2013
+---------------
+1.1. given a list of words, group anagrams. 1.2. find all 3 items that sum to 0 in an array. 2.1. Write a function that calculates input strings with operators +,-,*,/ eg. "5+5*6" should output 35   4 Answers
+
+Mar 21, 2013
+---------------
+the design questions are hard.   Answer Question
+
+Apr 28, 2013
+---------------
+My interview with a manager, he asked me a real internal problem they have and asked me to propose a solution. The question is really interesting, but I feel it's a bit hard for an outsider to give an answer that's effective and not overly complicated   Answer Question
+
+Mar 31, 2013
+---------------
+print a tree level by level   1 Answer
+
+Jan 30, 2013
+---------------
+Easy questions. It is not up to standard of other companies like google microsoft, amazon, vmware, foursquare, tumblr. Don't know how they decide with those easy questions. Anyone can write flawless code with those questions. The design round interview was more like a stress interview where the chinese interviewer was shouting.   1 Answer
+
+Apr 17, 2014
+---------------
+I don't recall, was a while ago.   Answer Question
+
+Jan 18, 2013
+---------------
+1- Try to solve interview question as much as you can. 2- You may not be able to answer the question 100% correct. Don't worry, try to explain you thinking process. 3- Talk with your interviewer like you potential team-mate in future. It would help you to communicate efficiently.   Answer Question
+
+Nov 11, 2013
+---------------
+I was applying for backend service engineer, but got a client side design question during interview.   Answer Question
+
+Feb 16, 2013
+---------------
+The design interview process was a little difficult. I kept saying my thoughts. However, the interviewer was silent most of the time. I didn't get much hint on which directions to go.   Answer Question
+
+Feb 3, 2013
+---------------
+Design a Facebook travel app.   Answer Question
+
+Mar 6, 2013
+---------------
+How would you query for all the Places near a given coordinate? The focus is on how to scale this to a large number of places while keeping response time to within acceptable user expectacions.   Answer Question
+
+Sep 8, 2013
+---------------
+General algorithm questions on the more difficult side.   Answer Question
+
+Mar 19, 2013
+---------------
+Calculate the square root.   Answer Question
+
+Dec 5, 2012
+---------------
+"Reverse" of the problem if finding k-th smallest element in a tree: I had to find k-th largest.   4 Answers
+
+Apr 3, 2013
+---------------
+Providing an algorithm for combinations(n, k), not because of it's complexity, just because it took my the majority of the interview to understand that this was the problem I was solving - it was not made very clear at all.   3 Answers
+
+Nov 16, 2012
+---------------
+Add two binary numbers represents in strings, those could be large values.   3 Answers
+
+Nov 26, 2012
+---------------
+I'm not allowed to reveal question due to an NDA.   Answer Question
+
+Feb 15, 2013
+---------------
+I cannot disclose it due to the confidential policy.   Answer Question
+
+Nov 26, 2012
+---------------
+I was asked to mathematically prove the big-O bounds of an algorithm. I was a little rusty with my math, but my interviewer helped me and I got it.   Answer Question
+
+Oct 9, 2012
+---------------
+None of the questions were difficult, or unexpected. Most of them appear on this site.   1 Answer
+
+Oct 23, 2012
+---------------
+I am not allowed to share questions here (signed NDA)   Answer Question
+
+Jan 15, 2013
+---------------
+No unexpected questions.   Answer Question
+
+Feb 9, 2013
+---------------
+Algorithmic puzzles, dynamic programming   Answer Question
+
+Feb 22, 2013
+---------------
+Smallest missing natural number in a linked list in linear time without a hash table.   1 Answer
+
+Oct 22, 2012
+---------------
+All the coding question can be found in programming interviews exposed books and websites, they are language agnostic, which is nice. ! of the interviewers not only wanted a correct answer, but *his* answer which was actually largely inefficient, but at least he knew the answer on that one...   Answer Question
+
+Sep 19, 2013
+---------------
+String manipulation, Trees, Lists, sort, basic linear algebra...   2 Answers
+
+Jun 22, 2012
+---------------
+I had 4 consecutive interviews: first one was a general talk about my experience, second was to write a json beautifer, third was to design their newsfeed, and last was to write a program that prints all subsets of size k of a given set with n integers.   1 Answer
+
+Sep 2, 2012
+---------------
+Write a function that finds the square root of a decimal number.   4 Answers
+
+Sep 27, 2013
+---------------
+What would be the most interesting job description ? Design end 2 end, Facebook's messaging infrastructure .   Answer Question
+
+Jul 23, 2012
+---------------
+None of the Qs were unexpected.   1 Answer
+
+Feb 6, 2014
+---------------
+Not that difficult but was asked to compute the number of ways to make change for 100 dollars when an arbitrary coin from the set (5c, 10c, 25c) has to be the smallest amount of change given.   Answer Question
+
+Aug 12, 2012
+---------------
+The initial question (writing a function to calculate a square root) ended up being the most difficult because it threw me off. I knew there was a good iterative method for doing so, but could not recall Newton's method in the moment, and I sadly let this nagging thought get in the way of my ability to work through the problem. My failure to perform well on that question set a negative tone for the rest of the interview, since each interviewer after the first can see notes from the previous interviewers.   9 Answers
+
+Aug 27, 2012
+---------------
+Coding tests were the hardest part for me since I have been out of school for a long time now :) Prepare for questions related to trees, graphs, strings, dynamic programming and practice writing code on paper.   Answer Question
+
+Nov 14, 2012
+---------------
+Write a palindrome-checking function   3 Answers
+
+Nov 29, 2012
+---------------
+Most challenging question was an exercise in designing a system to do spam detection work and describing it in a huge flowchart, as might be done in an early but detailed product planning session. Be prepared to think on large scales.   Answer Question
+
+May 9, 2012
+---------------
+You are given an integer N and an integer M. You are supposed to write a method void findBestCoinsThatMinimizeAverage(int N, int M) that prints the best collection of N coins that minimize the average number of minimum coins needed to generate values from 1 to M. So, if M = 100, and N = 4, then if we use the set {1, 5, 10, 25} to generate each value from 1 to 100, so that for each value the number of coins are minimized, i.e. 1 = 1 (1 coin), 2 = 1 + 1 (2 coins),..., 6 = 1 + 5 (2 coins), ..., 24 = 5 + 5 + 5 + 5 + 1 + 1 + 1 + 1 (8 coins), and we take the average of these coins, we would see that the average comes out to ~5.7. But if we instead use {1, 5, 18, 25}, the average would come out to be 3.7. We are to find that set of N coins, and print them, that produce the minimum average.   8 Answers
+
+Jun 25, 2012
+---------------
+Add up two big integers represented in arrays.   Answer Question Design a system to support Facebook status update.   Answer Question Design the recommendation system for search keywords   Answer Question
+
+Apr 24, 2012
+---------------
+Write a function to check if polygon is simple based on given list of points.   1 Answer
+
+Apr 5, 2014
+---------------
+Why do you want to work at facebook? (I didn't really... :))   Answer Question
+
+Mar 18, 2012
+---------------
+String parsing   1 Answer
+
+Mar 30, 2012
+---------------
+calculate x^1/2   5 Answers
+
+Dec 5, 2012
+---------------
+Worked through a few coding questions using a shared document, getting progressively more complicated and then went through a sort of thought exercise regarding the limits of the proposed solution in terms of constraints like bandwidth, CPU speed, memory and how performance could be improved without re-writing the basic algorithm.   Answer Question
+
+Mar 26, 2012
+---------------
+Implement the "see and tell" algorithm with a given seed number x and a number of iterations y. Output the result on iteration y   10 Answers
+
+May 10, 2012
+---------------
+Question selected from the ones already provided. Revise your data structures and their implementation in your language of choice.   Answer Question
+
+Jun 27, 2012
+---------------
+Traverse a binary tree one level at a time.   1 Answer
+
+Oct 20, 2015
+---------------
+Game update write a program to update game for black and white coins game in your comfortable language   1 Answer
+
+Feb 15, 2012
+---------------
+Given a matrix with 1's and 0's, find the number of groups of 1's. A group is defined by horiz/vertically adjacent 1's.   6 Answers
+
+Oct 14, 2012
+---------------
+Many of the interviews focus on coding exercises. It can be very hard to write code on a whiteboard with someone watching you. People are right about it being a good idea to practice writing on a whiteboard on your own first.   Answer Question
+
+Jun 16, 2012
+---------------
+Reverse a linked list (warm up question).   3 Answers
+
+Nov 14, 2012
+---------------
+Implement a simple regex parser.   Answer Question
+
+May 23, 2012
+---------------
+implement dir *   Answer Question
+
+Dec 30, 2011
+---------------
+How to implement multiple inheritance in Java   1 Answer Given set of coins and each coin has its unique probability to be head up, say double[] probs stores the probability values for all coins, print out all different cases and accordingly probability.   8 Answers How to implement Sqrt(double k) efficiently?   5 Answers
+
+May 13, 2012
+---------------
+Coding Test was Javascript without the use of libraries.   Answer Question
+
+Sep 9, 2011
+---------------
+what can FB do to beat its competitors in my country, where it is not the most popular social network.   Answer Question
+
+Sep 20, 2011
+---------------
+print out all prime numbers in a given string. abc2134kd31 -&gt; 2, 13, 3, 3   10 Answers
+
+Aug 8, 2011
+---------------
+Implement a function char* readLine(); which returns single lines from a buffer. To read the buffer, you can makes use of a function int read(char* buf, int len) which fills buf with upto len chars and returns the actual number of chars filled in. Function readLine can be called as many times as desired. If there is no valid data or newline terminated string available, it must block. In order to block, it can use read function which in turn will block when it doesn't have anything to fill the buf.   2 Answers Implement a function rotateArray(vector&lt;int&gt; arr, int r) which rotates the array by r places. Eg 1 2 3 4 5 on being rotated by 2 gives 4 5 1 2 3.   15 Answers Implement a function string balanceParanthesis(string s); which given a string s consisting of some parenthesis returns a string s1 in which parenthesis are balanced and differences between s and s1 are minimum. Eg - "(ab(xy)u)2)" -&gt; "(ab(xy)u)2" ")))(((" -&gt; ""   13 Answers How will you design TinyUrl?   Answer Question How will you design facebook newsfeed. Focus was on a design which could handle the huge number of status updates and display them on each of the user's friend's wall.   Answer Question
+
+Apr 9, 2013
+---------------
+Pre-IPO, they asked me to write a paper on the valuation of Facebook. They also asked me what I thought the greatest technological advancement was in the past 20 years.   Answer Question
+
+Sep 26, 2011
+---------------
+Write the actual code to reverse a linked list   4 Answers Write the actual code to parse a regular expression including "*", which stands for 0 or more characters, "+", which stands for 1 or more characters, and ".", which stands for 1 exact character.   5 Answers
+
+Jun 22, 2011
+---------------
+Implement needle-in-a-haystack (string search). Make it more robust.   Answer Question Implement a queue data structure given only stacks. What is the time complexity of enqueuing and dequeuing operations?   2 Answers
+
+Oct 24, 2011
+---------------
+Given an array of integers, now we want to erase all 0's (can be other value), and we want the result array condensed, meaning no empty cell in the array.   15 Answers
+
+May 31, 2011
+---------------
+Given a set of non-overlapping integer ranges (1,3) (5,8), etc., and an input integer, what is the best way to organize the data and allow for quick search based on the input, etc.   5 Answers
+
+Aug 27, 2012
+---------------
+Find an algorithm to find the largest sum subarray in an array of integers. (Better than O(n^2) ).   11 Answers
+
+Apr 10, 2011
+---------------
+Print a singly-linked list backwards, in constant space and linear time.   10 Answers Convert a binary search tree to a sorted, circular, doubly-linked list, in place (using the tree nodes as the new list nodes).   8 Answers Given a set of words, group them into sets of anagrams.   2 Answers Given a string, remove all the duplicate characters (not necessarily consecutive)   9 Answers
+
+Apr 24, 2011
+---------------
+find 3 elements in an array that sum to 0.   6 Answers
+
+Nov 13, 2012
+---------------
+Write a function to tell if two line segments intersect or not.   9 Answers
+
+Apr 1, 2011
+---------------
+Write a function to prettify Json objects   Answer Question Given a list of n objects, write a function that outputs the minimum set of numbers that sum to at least K. FOLLOW UP: can you beat O(n ln n)?   15 Answers Write a function that computes log2() using sqrt().   7 Answers
+
+Mar 13, 2015
+---------------
+Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.   1 Answer
+
+Jul 17, 2011
+---------------
+Find Kth smallest element in a BST.   8 Answers
+
+Nov 13, 2012
+---------------
+A lot of array questions! Also dynamic programming!   Answer Question
+
+Apr 25, 2011
+---------------
+Given a telephone number, find all the permutations of the letters assuming 1=abc, 2=def, etc.   3 Answers
+
+Dec 9, 2010
+---------------
+Find the minimum depth of binary search tree   10 Answers
+
+Dec 10, 2010
+---------------
+Write a function to take a BST and a value k as input and have it print the kth smallest element in the BST.   5 Answers Write a function that takes a binary tree as input, and have it perform In order traversal - recursive and then iterative   Answer Question Write a function to take two arbitrarily long numbers in the form of Strings and multiply them, returning another String with the product.   1 Answer Write a function to calculate square root of a number   2 Answers Given a binary tree, write a function to find the length of the longest path in the tree.   8 Answers
+
+Nov 16, 2010
+---------------
+Implement the div operator without using / or %   6 Answers
+
+Dec 5, 2010
+---------------
+General questions about projects, experience, what was one of the challenges u faced in your current project, how did you over come that   1 Answer Print a binary search tree. Each level on a new line.   4 Answers
+
+Oct 19, 2010
+---------------
+Write binary search?   1 Answer You are trying to rob houses on a street. Each house has some +ve amount of cash. Your goal is to rob houses such that you maximize the total robbed amount. The constraint is once you rob a house you cannot rob a house adjascent to that house.   13 Answers
+
+Oct 25, 2010
+---------------
+basic string operations, trees, sorting   Answer Question
+
+Oct 1, 2010
+---------------
+Given a matrix print it clockwise from the first element to the very inner element.   6 Answers
+
+Aug 17, 2010
+---------------
+Given a set of integers, print out all its subsets. Write C/C++ code to solve it.   3 Answers
+
+Aug 7, 2010
+---------------
+Are there any bugs in your code?   1 Answer
+
+Oct 5, 2010
+---------------
+Tell me about your experience?   Answer Question
+
+Jan 19, 2011
+---------------
+Code a program to check if a given string is matching a given regular expression   6 Answers
+
+Jun 7, 2010
+---------------
+Some questions on graph theory and then I was asked to write a function to check if a graph was bipartite.   4 Answers Given two binary trees, return true if they have same elements (irrespective of tree structure)   5 Answers Given a string, remove all chars from the string that are present in say another string called filter.   6 Answers
+
+Apr 25, 2010
+---------------
+reverse linked list   1 Answer
+
+Feb 22, 2011
+---------------
+There weren't too hard questions   Answer Question
+
+Dec 23, 2012
+---------------
+Why do you think you're best for the job?   Answer Question
+
+Jan 19, 2010
+---------------
+What are the pros and cons of a linked list vs. an array?   1 Answer
+
+Nov 18, 2009
+---------------
+What have you been working on recently?   1 Answer
+
+Apr 10, 2010
+---------------
+Given two events, each with a start and end time, implement a boolean check to see if they overlap.   4 Answers Reverse a string in-place using C.   2 Answers
+
+Aug 27, 2009
+---------------
+Given a set of inputs &lt;number, userid&gt; in a log file: log: &lt;number, userid&gt; example: 1,2 1,1 2,1 3,1 1,2 out: &lt;number, count&gt; 1,2 2,1 3,1 The output should be all the unique numbers and the count associated with them.   3 Answers
+
+Jun 8, 2009
+---------------
+How do you find sequences of consequtive integers in a list that add to a particular number.   7 Answers Given a score S, and individual points p1,p2,...,pn. give all combinations of p that add up to s.   1 Answer Reverse a linked list.   2 Answers
+
+Jun 16, 2009
+---------------
+Given an array, print the largest subarray that has elements in an increasing order   7 Answers
+
+Oct 11, 2011
+---------------
+... be prepared to write real code on a while board on on-line editor.   Answer Question
+
+Jul 1, 2009
+---------------
+What do you want to work on?   1 Answer
+
+Jul 7, 2010
+---------------
+Binary trees, hash tables (and locking), cache   Answer Question
+
+May 8, 2009
+---------------
+Given a list of strings, for each string, find if it has an anagram in the list.   4 Answers
+
+Mar 18, 2009
+---------------
+You have two lightbulbs and a 100-storey building. You want to find the floor at which the bulbs will break when dropped. Find the floor using the least number of drops.   29 Answers
+
+Mar 11, 2009
+---------------
+How can you possibly do technical management if you're a very strong senior engineer?   1 Answer
+
+Mar 12, 2009
+---------------
+Explain the difference between a LEFT and RIGHT SQL JOIN   Answer Question In sudo-code write a program that takes an integer called N and prints out the Fibonacci sequence to the Nth digit.   3 Answers
+
+Oct 7, 2015
+---------------
+Delete repeated characters on a string   1 Answer
+
+Oct 28, 2015
+---------------
+Question about BST.   Answer Question
+
+Sep 22, 2015
+---------------
+Write a function to determine if a string is a palindrome   1 Answer
+
+Oct 21, 2015
+---------------
+Questions I've been asked: Do you think what you just coded is correct? Show me (reason) how your code will behave on <this-particular-input> What is the time/space complexity of what your solution? Can we do better than that? Are you sure we can't?   1 Answer
+
+Aug 21, 2015
+---------------
+Convert a binary tree to double linked list.   Answer Question
+
+Aug 2, 2015
+---------------
+Algo Question: Take two binary numbers and add them   3 Answers
+
+Jul 3, 2015
+---------------
+Tell me about an interesting project that you have worked on.   Answer Question
+
+May 28, 2015
+---------------
+Series of multiple choice questions   Answer Question
+
+May 20, 2015
+---------------
+To implement regular expressions matching.   Answer Question
+
+Apr 17, 2015
+---------------
+Why do you want to work at Facebook?   Answer Question
+
+Jun 3, 2015
+---------------
+Lots of SQL and python program need to write in every round.   1 Answer
+
+Jun 9, 2015
+---------------
+HR: hash function search time, what is O(n) Programming: write a function that get an int array, each int has category which can receive by a given function. category is one of (0,1,2). eg Array[1]=20, get_category(20)=1 sort the int array by the int category. following question, sort without addition array\space   Answer Question
+
+May 21, 2015
+---------------
+Given an array of integers return true if two of the numbers add to X.   4 Answers
+
+Jun 10, 2015
+---------------
+Wildcard problem   Answer Question
+
+Mar 11, 2015
+---------------
+Given a string of digits, where every digit represents a letter (1-&gt;a, 2-&gt;b, 26-&gt;z). Find the number of words that we can generate from that string. For example: 123 -&gt; abc, lc, aw. The answer: 3 456 -&gt; def. The answer: 1   7 Answers
+
+Feb 18, 2015
+---------------
+Make sure you can tell them what YOU actually did in your previous projects, not what the project was. Know how to traverse data structures. Know what the time/space complexity is. Seriously, it really isn't that hard but you do need to know it so well that you can literally write it flawlessly. They want to see that you arrive at the decision to use a tree/hashtable/graph whatever, but then they expect you to bang out that solution.   Answer Question
+
+Feb 26, 2015
+---------------
+how to reverse print a single linked list and questions on different data structures and running time   1 Answer
+
+Feb 26, 2015
+---------------
+One session of higher-level design, the rest are all standard algorithm sessions. All of this is explained in advance, so no surprises. One on-site session is a more traditional interview.   Answer Question
+
+Mar 2, 2015
+---------------
+What is one project you've worked on outside from school that you feel passionate about?   Answer Question
+
+May 26, 2015
+---------------
+In a list of integers, find out whether there are three numbers that sum up to zero.   2 Answers
+
+Jul 9, 2015
+---------------
+Given a string of numbers, ie, 11, count the number of permutations of this string if we were to the digits as array indexes of the alphabet. Assume the A = 1. perms('1') = 1 ('a') perms('11') = 2 ('aa', 'j')   1 Answer
+
+Feb 23, 2015
+---------------
+1. Tell me about yourself 2. Given each abc letter has a value (a=1, b=2, ... , z=26), compute the number of ways one can decode a given integer. e.g. 23 --&gt; 2 [ 2, 3 ; 23 ], 456 --&gt; 1 [ 4, 5, 6 ], 123 --&gt; 3 [ 1, 2, 3 ; 1, 23 ; 12, 3 ]   4 Answers
+
+Feb 2, 2015
+---------------
+Move all zeroes to end of array with minimum assignment operations   4 Answers
+
+Feb 9, 2015
+---------------
+Given a string of an arithmetic expression, composed of numbers, '+' and '*', calculate the result - e.g. "2+4*5*7"   13 Answers
+
+Apr 3, 2015
+---------------
+given a string with parenthesis, eliminate the illegal parenthesis and return a legal string. for example: "(()" -&gt; "()" ")))(" -&gt; "" "()(()" -&gt; "()()"   6 Answers
+
+Feb 16, 2015
+---------------
+algorithmic questions about array, linked list, trees   Answer Question
+
+Apr 11, 2015
+---------------
+How to add two really large integers?   Answer Question
+
+Sep 12, 2015
+---------------
+Basic coding problems, white board architecturing   Answer Question
+
+Jan 23, 2015
+---------------
+scheduling problem   Answer Question
+
+Jan 31, 2015
+---------------
+Let A be an nxm Boolean 2D array. Find the largest subarray containing only 1s.   2 Answers
+
+Dec 18, 2014
+---------------
+You given an array of scores that team can score in one game and the final team score. Write the code that returns a list of all possible intermediate scores.   1 Answer
+
+Dec 18, 2014
+---------------
+Implement wildcard matchind (similar to leetcode problem).   Answer Question
+
+Dec 14, 2014
+---------------
+Convert a binary tree to a doubly circular linked list.   3 Answers
+
+Dec 5, 2014
+---------------
+Questions regarding dictionaries.   Answer Question
+
+Dec 2, 2014
+---------------
+There was a tree and I was supposed to make a double linked list from the tree using a pre order traversal.   3 Answers
+
+Dec 31, 2014
+---------------
+I said suffix tree is the best way to go, so he asked me how will a node of that tree will look like?   5 Answers
+
+Nov 29, 2014
+---------------
+Shortest route between airports.   1 Answer
+
+Nov 18, 2014
+---------------
+quite easy, find the substring of the string the difficult part is that your code should be bug free   1 Answer
+
+Nov 12, 2014
+---------------
+In general it was not hard to take first interview   Answer Question
+
+Nov 1, 2014
+---------------
+Print a binary tree level per level. 1 2 3 4 5 6 7 Would print 1 23 4567   2 Answers
+
+Nov 27, 2014
+---------------
+Clean code, test cases, scalable design, high level design...   Answer Question
+
+Oct 18, 2015
+---------------
+Given an array of integers and a target number, find the two elements whose sum is closest to the target number.   1 Answer
+
+Oct 16, 2014
+---------------
+design question   Answer Question
+
+Nov 29, 2014
+---------------
+None for the first interview.   Answer Question
+
+Aug 15, 2014
+---------------
+Retrieve words from a dictionary that are made up of a subsequence of characters in an input string. i.e. given an input "ABAT", matching words may include "BAT", "TAB", non-matching words may be "BART" or "BAR".   1 Answer
+
+Aug 8, 2014
+---------------
+What is a memory-efficient way to store a vector of integers? Follow-up question: using your proposed data structure, find an algorithm with constant memory usage to calculate the dot product of two vectors.   4 Answers
+
+Aug 4, 2014
+---------------
+A dynamic programming question about differences in words.   Answer Question
+
+Jul 15, 2014
+---------------
+The first problem was the classical "reverse a linked list" problem. It's easy, but may make you feel nervous as getting the pointer manipulation right may be tricky.   1 Answer
+
+Jul 22, 2014
+---------------
+I wasn't asked anything particularly difficult on this interview, the question that I remember was 'write a function to calculate the Square Root of a number without using square root function'   Answer Question
+
+Jul 23, 2014
+---------------
+compare the leaves of a tree with early exit   Answer Question
+
+May 17, 2014
+---------------
+Create an iterator to traverse a binary tree. When the next function is called on the binary tree return the value at the next node as if you are doing an inorder traversal of the tree. Restrictions: Nodes do not have pointers to their parent node and you can't use recursion.   2 Answers
+
+Jun 18, 2014
+---------------
+Given a binary tree, write code to print the tree out line by line   1 Answer
+
+May 13, 2014
+---------------
+Simple regex matching.   5 Answers
+
+Dec 8, 2014
+---------------
+Nothing difficult. Reverse String Pair words that are Anagrams of each other.   2 Answers
+
+Mar 26, 2014
+---------------
+Given a list of k sublists containing n sorted integers, generate output as one sorted list. Comment on complexities.   7 Answers
+
+Feb 20, 2014
+---------------
+When you are a team leader, and there are some members they usually delayed their tasks, how would you do?   Answer Question
+
+Mar 5, 2014
+---------------
+Design how to use 1000 bots to crawl wikipedia with some restrictions   Answer Question
+
+Mar 2, 2014
+---------------
+Questions are normal, you can find them all from leetcode.   Answer Question
+
+Feb 12, 2014
+---------------
+Palindrome algorithm, sort algorithm, tree algorithm, trie algorithm, chat architecture and design.   Answer Question
+
+Jul 30, 2015
+---------------
+Given a normal binary tree, write a function to serialize the tree into a string representation (returning the string), and also a function to deserialize a serialized string into the original binary tree.   1 Answer
+
+Feb 25, 2014
+---------------
+the puzzle   Answer Question
+
+Mar 22, 2014
+---------------
+Nothing in special   Answer Question
+
+Dec 5, 2013
+---------------
+method to return sqrt.   1 Answer
+
+May 22, 2014
+---------------
+normal careercup question   Answer Question
+
+Nov 11, 2013
+---------------
+well, you know, NDA   Answer Question
+
+Oct 18, 2013
+---------------
+Implement LRU cache.   Answer Question
+
+Oct 4, 2013
+---------------
+Find lowest common ancestor (LCA).   4 Answers Given two unsorted arrays, one with event start times and one with end times, find out if any two events overlap.   5 Answers
+
+Nov 3, 2014
+---------------
+I was told not to share the questions they asked during the interview process.   Answer Question
+
+Sep 27, 2013
+---------------
+The hardest for sure it`s the technical interview, not because it`s difficult to answer but you became so nervous, and you don`t know what they expected from you, for me was the hardest.   Answer Question
+
+Sep 17, 2013
+---------------
+How do you print all elements of a linked list.   5 Answers
+
+Sep 3, 2013
+---------------
+Write a function to process regular expression with letter, ".", "*".   1 Answer
+
+Sep 4, 2013
+---------------
+The only difficulty u will facebook to get in facebook is 1st round itself because u r supposed to code 3 question in 90 minutes.   1 Answer
+
+Aug 15, 2013
+---------------
+I only did few interviews so I was very nervous. That was the only reason for doing bad.   Answer Question
+
+Aug 21, 2013
+---------------
+Solve the skyline problem   3 Answers
+
+Jul 9, 2013
+---------------
+Implement pattern matching for regular expressions.   1 Answer
+
+Jul 13, 2013
+---------------
+Write a function that calculates the root of a given number.   4 Answers
+
+May 11, 2013
+---------------
+The questions weren't tough as such, I fumbled a bit with the code for the matrix question which i guess could have been handled better.   Answer Question
+
+Jun 7, 2013
+---------------
+You have two lists with meetings scheduling (start time, end time) Meetings in single list don't intersect. Find all intersecting meetings across the two lists.   2 Answers
+
+Feb 4, 2013
+---------------
+Second one.   Answer Question
+
+Jan 29, 2013
+---------------
+Write a function which finds all components of a bitmap.   1 Answer
+
+Jan 29, 2013
+---------------
+Print a tree in a level order, printing a newline after each level.   1 Answer
+
+Jan 4, 2013
+---------------
+regular expression matching problem.   Answer Question
+
+Feb 25, 2013
+---------------
+None.   1 Answer
+
+Feb 21, 2013
+---------------
+During the second interview, I was asked to implement LCA in a binary tree (not BST) on collabedit.com. I was close, but not close enough...   3 Answers
+
+Oct 1, 2013
+---------------
+The coding exercise is tough if you are not prepared. They frequently give questions on data structure, coding algorithm. You need to practise to get the best answer.   Answer Question
+
+Dec 15, 2012
+---------------
+solving and debugging a code   Answer Question
+
+Nov 27, 2012
+---------------
+compress a string   Answer Question
+
+Nov 27, 2012
+---------------
+write some code, analyze the worst case complexity   Answer Question
+
+Nov 20, 2012
+---------------
+Given an integer, return all sequences of numbers that sum to it. (Example: 3 -&gt; (1, 2), (2, 1), (1, 1, 1))   3 Answers
+
+Nov 16, 2012
+---------------
+Implement the code to display the nodes of a binary tree in order [i.e. level by level].   2 Answers
+
+Nov 14, 2012
+---------------
+It was a silly question - how to represent a recursive list of objects in Java, from a developer familiar with only type less languages. Had a hard time convincing him that the instanceof operator was necessary.   Answer Question
+
+Nov 13, 2012
+---------------
+-   Answer Question
+
+Nov 5, 2012
+---------------
+Implement a read/write lock.   Answer Question
+
+Nov 3, 2012
+---------------
+An operation "swap" means removing an element from the array and appending it at the back of the same array. Find the minimum number of "swaps" needed to sort that array. Eg :- 3124 Output: 2 (3124-&gt;1243-&gt;1234) How to do it less than O(n^2) ?   4 Answers
+
+Dec 17, 2012
+---------------
+Algorithm question invovles matrix and finding paths. Requires Dynamic Programming   Answer Question
+
+Dec 20, 2012
+---------------
+Max sum of non-adjacent value combination in an array.   2 Answers
+
+Oct 12, 2012
+---------------
+Print all subsets of a set   Answer Question
+
+Oct 20, 2012
+---------------
+You are given an array of integers. Find all the combinations of the numbers of the array, that sum to another number(might be different for different combination) from the array. One property of the array: The maximum number of the array will not be much greater than the others.   Answer Question
+
+Oct 6, 2012
+---------------
+Design a simple regex parser. They give you a simple language grammar, something like matching patterns agains + or *. But nothing too complicated.   Answer Question
+
+Nov 13, 2012
+---------------
+What is the most exciting thing about the current project Im working on   Answer Question
+
+Feb 10, 2013
+---------------
+Questions asked - 1. Longest common substring between two strings A and B. 2. Find the successor/predecessor of a binary search tree.   Answer Question
+
+Aug 17, 2012
+---------------
+given a set of integers, return a set of all such integers that sum upto a given value x   Answer Question
+
+Jul 22, 2012
+---------------
+About my college education.   3 Answers
+
+Jun 11, 2012
+---------------
+Reverse linked list   Answer Question
+
+Jul 7, 2012
+---------------
+No unexpected question   Answer Question
+
+Jun 18, 2012
+---------------
+You have a file consists of billions of records. It cannot fit into memory, so you need to reverse every word in that file and save to another file.   2 Answers
+
+Jul 2, 2012
+---------------
+estimate the back-end capacity for mobile check in feature   Answer Question
+
+Jun 3, 2012
+---------------
+Data structure for numbers that supports 2 operations: insert and get_median.   3 Answers
+
+May 11, 2012
+---------------
+Given the root of a binary search tree along with a node inside it, find the successor node for the given one.   2 Answers
+
+Jun 15, 2012
+---------------
+Mix two binary strings with special constraints.   1 Answer
+
+Jun 16, 2012
+---------------
+question on multi thread   Answer Question
+
+Jun 11, 2012
+---------------
+Find all sub sets of size k from given set   1 Answer
+
+Apr 28, 2012
+---------------
+Say you use SVN for source control..you have several revisions of a file...R1, r2, r3..etc..Someone checked in a bug and the revision became bad..need t find the first bad revision..gave a function findBadRevision(int goodRevision, int badRevision) so for e.g the revisions were GGBB and function passes in 0,4 so the first bad revision is 2. There exists a function boolean hasBug(int revision) which will tell us if a certain revision has a bug. can assume good revision &lt; bad revision   6 Answers
+
+May 2, 2012
+---------------
+rotated sorted array search   Answer Question
+
+Jun 15, 2012
+---------------
+write an iterator function that returns next node in inorder traversal sequence in binary trees. You can write an init() function to initialize what you need   Answer Question
+
+Mar 1, 2012
+---------------
+giving lots of intervals [ai, bi], find a point intersect with the most number of intervals.   5 Answers
+
+Apr 19, 2012
+---------------
+Given a m*n grid starting from (1, 1). At any point (x, y), you has two choices for the next move: 1) move to (x+y, y); 2) move to (x, y+x); From point (1, 1), how to move to (m, n) in least moves? (or there's no such a path)   8 Answers
+
+Apr 20, 2012
+---------------
+reserve linked list   1 Answer
+
+Apr 23, 2012
+---------------
+Given an array of integers, check whether there are 3 numbers that sum up to 0.   1 Answer
+
+Nov 3, 2012
+---------------
+implement sqrt without using math libray   9 Answers
+
+Jun 25, 2012
+---------------
+binary search tree   Answer Question are you eligible to work in the us   2 Answers
+
+Mar 11, 2012
+---------------
+Implement a read/write lock, given a mutex that has lock() and trylock() interface   Answer Question
+
+Jun 4, 2012
+---------------
+Data sources for text mining?   Answer Question
+
+Apr 26, 2012
+---------------
+Ribosome test   Answer Question
+
+Apr 18, 2012
+---------------
+Given an unsorted array of integers, find a 3-element subset that sums to zero   8 Answers
+
+Feb 20, 2012
+---------------
+Implement a function to compute cubic root what is the time complexity?   7 Answers
+
+Feb 22, 2012
+---------------
+Implement a LRU(Least Recently Used) cache   2 Answers
+
+Feb 25, 2012
+---------------
+Intersection of n sets without using a hash table.   9 Answers
+
+Jun 13, 2012
+---------------
+Given array find 3 elements that sum up to 0.   5 Answers Given array of elements of 3 types. Sort it.   5 Answers
+
+Mar 12, 2012
+---------------
+A period of time where users login and logout, given a sets of login and logout time pairs, write a function that can show the number of users online at any given time.   8 Answers
+
+Jan 9, 2012
+---------------
+Multiply two big integers which don't fit into an built-in integer type. How would you represent big numbers as a data structure? Write the function to multiply two big integers.   1 Answer Implement atof function. eg., +3.5e-2, .03e1, 1e1, 0.0   Answer Question
+
+Nov 7, 2011
+---------------
+Given a tree, print the values contained at each level on the same line. So if you had the tree with root A, and children B and C, you would print: A B C   5 Answers Find the min and max in an array. Now do it in less than 2n comparisons. (they were looking for the solution that finds both max and min in about 3/2 n comparisons).   11 Answers Compute the square root of a number down to a certain precision. ie sqrt(num, precision) returns a number that is in-between sqrt(num) - precision and sqrt(num) + precision.   1 Answer What do you see as fb's biggest challenge in the next 5 years?   1 Answer
+
+Sep 5, 2012
+---------------
+Revert the given string and return the resulting string. Ex: input: "face" , result: "ecaf"   2 Answers
+
+Jan 24, 2012
+---------------
+Given a matrix of numbers in which some may be zero. If a cell contains a zero, set all the cells in the corresponding column and row to zero.   2 Answers You are given a set of numbers 0 - n. Given a k, print all subsets of size k. Give the time complexity of the algorithm.   7 Answers
+
+Nov 10, 2011
+---------------
+FInd the maximum sum of a sub-sequence from an positive integer array where any two numbers of sub-sequence are not adjacent to each other in the original sequence. E.g 1 2 3 4 5 6 --&gt; 2 4 6   16 Answers
+
+Oct 17, 2011
+---------------
+given a list of words with a same size and a big string that contains one of the permutation of all the words combined(say p), find the startindex of the string p in the big string   6 Answers
+
+May 20, 2012
+---------------
+Regx implementation   Answer Question
+
+Sep 29, 2011
+---------------
+Can't point my finger on any one of them.   1 Answer
+
+Feb 9, 2012
+---------------
+search needle in haystack problem   1 Answer
+
+Dec 13, 2012
+---------------
+Given sorted arrays of length n and 2n with n elements each, merge first array into second array.   6 Answers
+
+Sep 12, 2011
+---------------
+Design a system to detect typos and provide suggestions to users.   Answer Question
+
+Mar 22, 2011
+---------------
+The most difficult question was programming question where I had to design the best way to search for words starting with a particular word in a dictionary   1 Answer
+
+Mar 2, 2011
+---------------
+You are given intervals of contiguous integers, like [1, 10), [15, 25), [40, 50), which are non-overlapping and of a fixed size. Design a data structure to store these intervals and have the operations of insert, delete, and find functions   3 Answers
+
+Feb 16, 2011
+---------------
+Design and implement an algorithm that would correct typos: for example, if an extra letter is added, what would you do?   1 Answer
+
+Dec 13, 2010
+---------------
+Design the Facebook Credit system which is a application where users can buy/trade virtual currency and can use the virtual currency to purchase Facebook services, like paid apps.   1 Answer What's the advantage of the design?   1 Answer How would the total credit points of a user be calculated based on my design?   1 Answer Write a code to convert an ASCII representation of a positive integer to it's numeric value.   6 Answers
+
+Jun 20, 2011
+---------------
+Given a Binary Search Tree, iterate over the elements without using recursion.   6 Answers
+
+Oct 17, 2010
+---------------
+Given an array of integers and size find 3 integers that sum to zero. Explain a brute force algorithm   3 Answers Optimize the algorithm suggested above   4 Answers
+
+Sep 4, 2010
+---------------
+You are going to take some numbers as an input from a file. You need to witer a program to find longest increasing sequence. You should process it as soon as you are taking an input. After finishing the last input immediately you should be able to tell the sequence. Input: 1 5 3 4 6 4 Output: 3 4 6   5 Answers A file contains 10 billions of Strings and need to find duplicate Strings. You have N number of systems available. How will you find duplicates?   2 Answers
+
+Sep 2, 2010
+---------------
+Describe the most exciting project.   Answer Question Write a function to multiply two arbitrarily large integers.   5 Answers
+
+Aug 30, 2010
+---------------
+which group I would be the best fit for and why?   Answer Question
+
+Nov 22, 2010
+---------------
+Write a piece of code to calculate a square root of a number.   4 Answers
+
+Apr 27, 2011
+---------------
+discussing what can I do to improve my puzzle.   Answer Question
+
+Sep 1, 2010
+---------------
+I don't know because I couldn't hear the guy because his accent and his phone were so terrible. It was something about processing an array of strings in some special way.   Answer Question
+
+May 13, 2010
+---------------
+Please write a program to merge 2 sorted arrays   1 Answer Each key on the telephone represents a list of letters. Given a telephone number, please write a program to output all the possible strings the telephone number represents.   1 Answer
+
+May 15, 2010
+---------------
+Reverse a singly linked list   1 Answer Given a binary tree, print the nodes level by level   3 Answers
+
+Apr 6, 2010
+---------------
+The question about what kind of position I would interest, frontend or backend? Since I never work before, I don't know what aspect is more suitable for me.   Answer Question
+
+Mar 31, 2010
+---------------
+Implement stack using a queue   3 Answers Print out all combinations of k numbers out of 1...N e.g. when k = 2, n = 4 Print out 12, 13, 14, 23, 24, 34   2 Answers
+
+Apr 2, 2010
+---------------
+Write a method to generate the Fibonacci series   5 Answers
+
+Sep 13, 2011
+---------------
+How to reverse a linked-list?   1 Answer
+
+Jan 19, 2010
+---------------
+Given the numbers 1 to 1000, what is the minimum numbers guesses needed to find a specific number if you are given the hint "higher" or "lower" for each guess you make.   34 Answers
+
+Feb 4, 2010
+---------------
+What's the complexity of Binary Search?   1 Answer
+
+Apr 12, 2010
+---------------
+What is the running time of quicksoft?   3 Answers
+
+Jan 28, 2010
+---------------
+What's the complexity of binary search?   1 Answer
+
+May 9, 2009
+---------------
+Given a large string (haystack), find a substring (needle) on it.   1 Answer
+
+May 5, 2009
+---------------
+How to implement a DST?   3 Answers
+
+May 12, 2009
+---------------
+Do you have private projects?   Answer Question Do you like the new Facebook homepage?   1 Answer
+
+Jun 22, 2012
+---------------
+Preferred position   Answer Question When can you start   Answer Question
+
